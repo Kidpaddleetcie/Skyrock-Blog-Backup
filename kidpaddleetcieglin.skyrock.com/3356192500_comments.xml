@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ANA JDG] Tintin au Tibet - Megadrive - Commentaires</title>
+  <description>
+ 
+ 
+Texte de l&#039;analyse 
+ 
+Bienvenue sur la chaîne LE GRENIER DES JOUEURS et...
+C&#039;est repartit pour une analyse des défauts sur un jeu présenté par l&#039;équipe Joueur du Grenier !
+Aujourd&#039;hui, on va parler de Tintin au Tibet sur Megadrive.
+ 
+== Contexte ==
+Le jeu est sortit sur la 16-bit de SEGA en avril 1996. Il est développé par Infogrames et rentre donc dans la lignée des jeux-vidéos de plateforme adaptés de bande-dessinés franco-belge comme les Schtroumpfs ou Spirou.
+ 
+Ici, c&#039;est la bande-dessiné Tintin au Tibet, le vingtième album de la série du dessinateur et scénariste belge Hergé sortit en 1959, qui sera adapté en 14 niveaux exploitants des scènes de l&#039;album de 62 pages ou les 40 minutes de l&#039;adaptation en dessin-animé de 1991.
+Le petit point qui me choc beaucoup est que le jeu est sortit l&#039;année de ma naissance et c&#039;est pas ouf parce que c&#039;est également l&#039;année de
+Tomb Raider,
+Quake,
+Crash Bandicoot,
+Pokémon Rouge et Bleu,
+Super Mario 64 et
+The Elder Scrolls 2 : Daggerfall et pleins d&#039;autres jeux-vidéos qui allait marquer une petite révolution cette année sur GameBoy,Playstation et Nintendo 64 ...
+et Infogrames sort Tintin au Tibet sur Megadrive.
+ 
+Je suis presque sûr que le projet de créer le jeu a débuté en 1992 pour profiter de la popularité du dessin-animé diffusé à l&#039;époque mais que la société Moulinsart S.A., aujourd&#039;hui Tintinimaginatio, a fait pression sur les équipes pour que le jeu soit aussi beau que possible quitte à prendre 1 an supplémentaire entre la version Super-Nintendo et la version MegaDrive.
+ 
+Il est également intéressant de dire que la version MegaDrive est sortit la même année que la version GameGear, GameBoy et PC. Si on enlève les versions GameBoy et GameGear développés par Bit Managers à partir de la version de la Super-Nintendo, on peut constaté qu&#039;Infogrames avec sa vingtaine de membre a dû développé et sortir à la hâte toutes ces versions.
+ 
+Il faudra attendre la version Game Boy Color de 2001 pour avoir un jeu beaucoup moins difficile que la version Super-Nintendo de 1995 et la version Méga-Drive de 1996.
+Bon... maintenant que nous sommes au courant des éléments contextuels, passons à une autre rubrique avant nos défauts !
+
+== POURQUOI LA VERSION MÉGA DRIVE ?! ==
+Si la version de la Super-Nintendo n&#039;a pas été prise par JDG, c&#039;est qu&#039;il y a des raisons. Regardons les différences entre la toute première version et la SEGA.
+ 
+Pour les graphismes, la version Méga Drive a des couleurs plus saturées que la version SNES ainsi que quelques détails en plus dont des changements de sprites comme les vies qui ne sont plus des pommes d&#039;or mais des 1-Up.
+Cela est probablement dû à un soucis de nombre de couleurs affichable par la MegaDrive et ça retire une mécanique graphique.
+ 
+En effet, sur Super-Nintendo, ce qui a des couleurs pétantes sont des éléments interactifs comme les items, les personnages ou les dangers. Dans la version Méga Drive, on n&#039;a pas ce contraste.
+ 
+Pour les musiques, on entend bien que la MegaDrive manque de lissage, le chipset ne peut émuler des instruments doux comme les instruments à vent contrairement à la Super-Nintendo.
+ 
+Maintenant, au niveau de la structure des niveaux, j&#039;ai l&#039;impression que ce n&#039;est toujours pareil. En regardant des vidéos comparatives entre les deux premières versions du jeu, on se rend compte que la position de la caméra, les obstacles et les collisions.
+ 
+Maintenant qu&#039;on a une idée de pourquoi avoir choisis la version Méga Drive plutôt que la version originale, allons donc analyser chaque défaut présenter par Fred&#039; !
+
+== 1. La plateforme pas évidente ==
+Je ne suis pas un expert en level design mais vu que le tronc a la plateforme dans son axe et qu&#039;elle a une bordure plate, il est assez logique que ça soit une plateforme.
+ 
+Maintenant, je peux comprendre que les traits épais de cette scène qu&#039;on retrouve pour les obstacles et les plateformes ne se retrouvent pas dans ce cas ce qui peut être une erreur de design.
+ 
+== 2. Les serveurs et leurs collisions ==
+Est-ce que, en regardant cette séquence, vous ressentez, comme moi, de la mauvaise fois ?
+ 
+Ce sont les plateaux qui font des dégâts, pas les serveur en eux-mêmes.
+
+== 3. Le Capitaine possède la lettre ==
+En réalité, le déroulement du niveau peut se faire d&#039;une manière logique en rencontrant Tournesol avant d&#039;aller demander la lettre à l&#039;accueil. Haddock aurait eût le temps d&#039;aller chercher la lettre.
+ 
+Les développeurs auraient voulu qu&#039;on soit méthodique et qu&#039;on commence par se rendre en bas à gauche avant d&#039;aller en bas à droite pour terminer le niveau en haut à droite. Si vous avez rien compris, c&#039;est que vous n&#039;êtes pas les développeurs.
+ 
+== 4. Tintin et son grand sourire ==
+5 pixels en ligne droite horizontale pour la bouche et un sourcil levé pointant vers le ciel au niveau du nez, c&#039;est pas vraiment un grand sourire.
+ó_o
+ 
+== 5. Tintin meurt frappé par une clochette ==
+Ah ! Là, je veux bien admettre que c&#039;est un élément qui ne devrait pas être mis en place.
+La clochette est trop petite, se démarque peu du reste en ne brillant pas ou en étant dessiné avec des gros traits. C&#039;est donc un obstacle gratuit prenant un bout de parchemin pour rien.
+ 
+== 6. Suivre le chinois ==
+Le chinois laisse sa balle et il faut se rendre en extrême droite pour demander à Milou de nous aider à le retrouver.
+ 
+C&#039;est vrai que c&#039;est pas logique que le chinois aille à gauche.
+ 
+== 7. La difficulté du jeu en général ==
+Le jeu est vraiment dur, c&#039;est vrai, car il combine 2 mécaniques de plateformeurs : L&#039;exploration et un chrono.
+ 
+Le soucis est que le jeu est très graphique donc certaines plateformes sont abstraites au niveau technique vidéoludique mais aussi que le jeu propose des idées de gameplay pour certains niveaux sans que ces niveaux qui se démarquent aillent un mot de passe attribué.
+ 
+Il est fortement possible que, au vu de l&#039;année de production de la version Super-Nintendo qui est l&#039;original, en 1995, qu&#039;Infogrammes n&#039;a pas pris trop de temps sur des tests par des tiers et sortit le jeu au plus vite après que les développeurs ont assurés qu&#039;ils savaient eux-mêmes terminer les niveaux qu&#039;ils avaient eux-mêmes créer.
+ 
+Le jeu nécessite de la patience ou de l&#039;accessibilité pour appréhender certaines phases mais il y a un chrono et peu de mot de passe comme pour un jeu d&#039;arcade.
+ 
+== 8. Ces crétins qui t&#039;abandonnent ==
+C&#039;est pas vraiment un défaut mais comme on les retrouve plus tard dans le niveau pour continuer l&#039;histoire, disons qu&#039;ils prennent de l&#039;avance.
+
+Dans la BD et le dessin-animé, c&#039;est Tintin qui est le personnage d&#039;action et les autres personnages ne sont juste là pour offrir du soutient ou des contraintes.
+ 
+== 9. Un gouffre dans un avion ==
+C&#039;est un trou, Fred&#039;. Un trou dans un avion qui s&#039;est craché sur une montagne.
+ 
+== 10. La hitbox des plateformes ==
+On revient à cette fameuse plateforme du premier niveau.
+Revoyons cette séquence avec des rectangles colorés pour déterminé le comportement des hitboxes. On peut voir que Tintin n&#039;était pas assez haut une fois arrivé dans la zone de la plateforme.
+ 
+Mais il est vrai que le système des hitboxes a un soucis d&#039;activation. Il semblerait que Tintin puisse traverser les plateformes s&#039;il est déjà à la frame de chute lors du contacte. Encore une fois, le jeu est tellement détaillé que les mouvements de Tintin n&#039;ont pas tous eût de hitboxes actives pour la réception.
+ 
+== 11. Le piolet ==
+Le piolet est activable, d&#039;après la notice du jeu, automatiquement.
+Mais voyons la séquence pour quelqu&#039;un qui a réussit ce passage.
+Mouai... encore une fois, quand Tintin est dans une frame où il tombe, c&#039;est perdu d&#039;avance ! S&#039;il lève les bras en l&#039;air, c&#039;est que la vie est perdue.
+
+== Conclusion ==
+Tintin au Tibet sur Megadrive est un jeu de plateforme qui a surtout un défaut dans sa difficulté. La notion de temps qui passe et le fait que le jeu est magnifique joue en sa défaveur et le rend très vache mais finissable avec persévérance, courage et savestates pour Fred&#039;.
+ 
+Cette analyse sur Tintin au Tibet est terminée, si vous aviez des informations que Joueur du Grenier et moi avons survolés sur le jeu, n&#039;hésitez pas à étaler votre savoir dans un commentaire que nous lirons, le Discord &quot;Club JDG&quot; et moi !
+Rejoignez le Discord &quot;Club JDG&quot; et participer à la création de vidéo sur la chaîne : GRENIER DES JOUEURS
+ 
+
+
+ 
+Sources de l&#039;analyse
+ 
+&#128073; Le livret : https://www.gamesdatabase.org/Media/SYSTEM/Nintendo_SNES//Manual/formated/Tintin_in_Tibet_-_1995_-_Infogrames.pdf
+ 
+&#128073; &quot;JDG - Soirée anecdotes - Best-of #1 (Tintin au Tibet)&quot; : https://youtu.be/R0iR1qIr38E
+ 
+&#128073; &quot;JDG la revanche - Tintin au tibet&quot; : https://youtu.be/6lXc_glhExQ
+ 
+&#128073; UniversalSoluce : https://www.universalsoluce.com/guide-tat-page-solution-base.html
+ 
+&#128073; &quot;MON JEU D&#039;ENFANCE - Tintin au Tibet&quot; de Retro Jeunesse : https://youtu.be/3eXF4tQ54dA
+ 
+&#128073; &quot; Tintin au Tibet (MegaDrive)&quot; de Sega-Mag : https://youtu.be/5xSpa3DCl8I
+ 
+&#128073; &quot;Infogrames et Infonie, 1996&quot; de Musée Bolo : https://youtu.be/f5Hx92ltjo4
+ 
+&#128073; &quot;Tintin in Tibet(Super Nintendo VS Sega Genesis)side by side comparison&quot; de VS Games AaZ : https://youtu.be/uTnfS4vmAZA
+ 
+&#128073; &quot;Game Gear Longplay  Tintin in Tibet (EU)&quot; de World of Longplays : https://youtu.be/qMtWPAgU91g
+ 
+&#128073; &quot;Console Wars - Super Nintendo vs Sega Genesis - Tintin in Tibet&quot; de Gaming Palooza Empire : https://youtu.be/7PZhaWODGXI
+ 
+&#128073; &quot;SNES Longplay  Tintin in Tibet&quot; de World of Longplays : https://youtu.be/0Vf95iu5RVQ
+ 
+&#128073; Wikipédia de Tintin : https://fr.wikipedia.org/wiki/Tintin
+ 
+&#128073; Tintin.com : https://www.tintin.com/fr/tintinimaginatio#
+ 
+&#128073; &quot;Moulinsart ferme le blog de Nick Rodwell&quot; : https://www.actuabd.com/Moulinsart-ferme-le-blog-de-Nick-Rodwell
+ 
+&#128073; &quot;Débat : Tintin, la suite ? avec Nick Rodwell&quot; de Festival International de la Bande Dessinée : https://www.youtube.com/live/P0Hct1ZvGvM?feature=share
+ 
+&#128073; &quot;Tintin, le procès de trop ?&quot; de Vous Avez Le Droit : https://youtu.be/4De3Eu9ungw
+ 
+&#128073; &quot;Tintin au Tibet - LET&#039;S PLAY FR&quot; de Hooper : https://www.youtube.com/live/DA0hM8RsPiw?feature=share
+ 
+&#128073; &quot;Musée Hergé de Louvain-la-Neuve, Nick Rodwell s&#039;exprime&quot; : https://auvio.rtbf.be/media/musee-herge-de-louvain-la-neuve-nick-rodwell-sexprime-1864096
+ 
+
+ 
+https://discord.gg/2pbTe7uSWg
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

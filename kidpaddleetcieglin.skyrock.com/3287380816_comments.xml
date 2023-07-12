@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Esthétique]La rétrospective sur le futurisme! - Commentaires</title>
+  <description>Les origines :
+C&#039;est en 1909 qu&#039;un écrivain italien nommé Filippo Tommaso Marinetti publie un manifeste sur le futurisme dans Le Figaro...vous savez,ce célèbre quotidien français !
+Le parti prit de Marinetti est d&#039;être &quot;révolutionnaire&quot; en cette époque d&#039;avant-guerre en portant des propos pouvant choquer la bourgeoisie.
+ 
+Les manifestations des futuristes :
+Ils font surtout des manifestes autour de leur mouvement et des pièces de théâtres.
+
+Les thèmes principaux des futuristes sont la vitesse,la ville, la révolte, la mécanique, la guerre, la vie sociale et l&#039;architecture.
+Pour illustrer le thème de l&#039;architecture, nous prenons &quot;La Citta Nuova&quot; de Sant&#039;Elia (1888-1916) en 1914.
+
+lien du tableau : https://fr.wikipedia.org/wiki/Architecture_futuriste#/media/File:Santelia03.jpg
+ 
+On peut remarquer que ce tableau montre aussi une image de la ville de plus en plus grande et donc le thème de &quot;ville&quot; s&#039;y prête aussi !
+Pour illustrer la mécanique et la vitesse par le tableau de Luigi Russolo (1885-1947) qui se nomme &quot;Automobile in corsa&quot;(1913).
+
+lien du tableau : https://blog.e-artplastic.net/images/artistes/russolo_dynamisme.jpg
+
+On peut remarquer que Luigi a montrer l&#039;espace qui se déforme comme si il était sujet à la pression de la masse bleue qui peut être la dîtes voiture mentionnée dans la titre du tableau.
+ 
+ 
+Pour illustrer la révolte,la guerre et la vie sociale, on peut admirer le tableau La Rivolta (1911) de Luigi Russolo.
+
+Le lien du tableau : http://ekladata.com/xKUVkIZDN8Akrwf6PAOJ4rQRHBU.jpg
+
+On peut remarquer que des silhouettes humaines sont distinguables dans le tableau, ces silhouettes lèvent les bras comme en signe de révolte et ils se dirigent vers la gauche du tableau.C&#039;est un tableau pour illustrer la révolte du fascisme.
+ 
+Présentation des auteurs utilisés
+Il faut savoir que Luigi Russolo peint comme il joue de la musique car, venant d&#039;une famille de musicien, il met donc un point évident sur la vitesse,le dynamisme.
+ 
+Antonio Sant&#039;Elia,quant à lui, est un architecte qui n&#039;a pas pût se balader dans ses projets car aucuns des bâtiments qu&#039;il a peint a été réalisé.
+
+La différence entre les peintres futuristes et les peintres cubistes se trouve dans la focalisation, de la perception.
+Un cubiste représente l&#039;espace tandis qu&#039;un futuriste représente le temps.
+Un cubiste ne représente pas le mouvement,le dynamisme d&#039;une scène.
+ 
+ 
+Sources :
+http://www.histoiredelart.net/courants/le-futurisme-13.html
+https://fr.wikipedia.org/wiki/Futurisme
+https://fr.wikipedia.org/wiki/Manifeste_du_futurisme
+http://ekladata.com/3KjXJG-kd6hT31sEE9TSX5GsTKU/Futurisme.pdf
+http://aasavina.free.fr/spip.php?article83&amp;id_document=801</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

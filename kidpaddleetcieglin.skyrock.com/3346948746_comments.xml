@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Gestion ] Le compte de résultat - Commentaires</title>
+  <description>Le Compte de Résultat est obligatoire. Il permet de voir ce que l&#039;entreprise génère ( l&#039;Actif =&gt; Les charges ) et ce qu&#039;elle possède ( le Passif =&gt; Les Produits ).
+ 
+Au bout d&#039;un an ( 12 mois ), on fait le Compte de Résultat.
+ 
+Le Total des Charges reprends:
+- Les Charges d&#039;exploitation : Les achats de marchandise, salaires, stocks,...
+- Les Charges financières : Intérêts d&#039;emprunts
+- Les Charges exceptionnelles : Les Dons, amendes et pénalités.
+ 
+Le Total des Produits reprends :
+- Produits d&#039;exploitation : Ventes, prestations, ...
+- Produits financiers : Intérêts perçus,...
+- Produits exceptionnels : Divers
+ 
+La Solde = Les Produits - Les Charges
+   
+ 
+Si la Solde est supérieur à 0 , alors l&#039;entreprise fait des bénéfices.
+ 
+Si la Solde est inférieur à 0, alors l&#039;entreprise fait des pertes
+ 
+Sources et informations supplémentaires 
+ https://www.lafinancepourtous.com/decryptages/entreprise/gestion-et-comptabilite/comptes-de-l-entreprise/comprendre-le-bilan-le-compte-de-resultat-et-l-annexe/le-compte-de-resultat/ 
+ https://www.compta-facile.com/bilan-compte-de-resultat-notions-fondamentales/ 
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

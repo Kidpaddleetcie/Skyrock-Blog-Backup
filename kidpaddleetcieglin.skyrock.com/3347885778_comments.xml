@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Dactylographie ] La position des doigts et le matériel conseillé - Commentaires</title>
+  <description>
+
+
+ 
+La dactylographie étant l&#039;art de taper à 10 doigts ( donc, à deux mains ), il est important de connaître son clavier et la position à adopter.
+ 
+De base, les doigts doivent former ( de l&#039;auriculaire gauche à l&#039;auriculaire droit ) : AZER espace espace UIOP
+ 
+Bien sur, ici, nous ne voyons que le clavier Belge qui est en AZERTY et pas en QWERTY.
+ 
+
+ 
+Image provenant de 
+https://dactylo.bruxelles.dev/apprendre/
+
+
+
+
+ Nous pouvons remarquer sur ce schéma plusieurs choses :
+1. Les auriculaires ont le plus de touches
+2. Les indexes ont toutes les touches du milieux
+3. Les pouces taperont toujours sur la barre d&#039;espacement ( et les Alt/Alt Gr )
+ 
+ 
+Pour la position des poignets, qui permet à la frappe d&#039;être confortable, c&#039;est à chacun de voir :
+- On peut laisser reposer les poignets sur la table
+- On peut soulever les poignets ( permet une plus grande vitesse mais une endurance moindre )
+- On peut installer un mousse de clavier ( permet une plus grande vitesse de frappe sans perdre en énergie )
+ 
+Pour le mousse de clavier, sachez que certains fabriquant le mette par défaut.
+
+ 
+
+
+
+ Image provenant de 
+https://www.razer.com/eu-en/gaming-keyboards/Razer-BlackWidow-V3/RZ03-03540100-R3M1
+ 
+ 
+Bien sur, c&#039;est votre confort qui prime en dactylographie. S&#039;il est inutile pour vous de vous payer des clavier à plus de 100€, gardez en tête que l&#039;investissement en vaut la peine sur le long terme.
+ 
+D&#039;ailleurs, éviter , si vous le pouvez , de taper sur les clavier des PC portables ! Ils ne sont pas assez large pour de la frappe rapide et vous êtes tout comprimé.
+ 
+Privilégier les clavier USB vous donnant autant les touches de fonction ( F1 à F12 ) que la partie numérique ( avec Num Lock ). 
+ 
+Pour caricaturer, plus la largeur du clavier correspond à votre largeur, plus vous serez à l&#039;aise.
+ 
+ 
+Puisque vous allez taper du texte qui est souvent sous format papier, munissez-vous d&#039;un page-up ( c&#039;est pour maintenir la feuille à la vertical à hauteur de votre moniteur/écran ).
+ 
+
+ image provenant de https://www.mypageup.com/fr/
+
+
+Évidemment, n&#039;oubliez pas d&#039;avoir un ordinateur avec
+Microsoft Word (le plus courant)
+ou LibreOfficeWriter ( commence à gagner du terrain vu qu&#039;il est gratuit et assez proche de Microsoft Word ).
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

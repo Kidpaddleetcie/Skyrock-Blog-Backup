@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Néerlandais]Enkele nuttige zinnen en uitdrukkingen en klass (Quelques phrases utiles et expressions en classe) - Commentaires</title>
+  <description>Voici quelques phrases utiles en classe :)
+ 
+ 
+ 
+Excuseer,meneer/mevrouw/...
+ Excusez,monsieur/madame/...
+ 
+ 
+ 
+Goedemorgen,goedermiddag,goeiedag !
+ Bonjour,bonne après-midi,bonne nuit !
+ 
+ 
+ 
+Fijne dag verder,tot volgende keer/les/week/... 
+ À  la prochaine fois /cours/semaine/...
+ 
+ 
+ 
+Kan u dat herhalen aub? Ik heb het niet begrepen/gehoord!
+ Pouvez-vous répéter ça?  Je n&#039;ai pas bien entendu!
+ 
+ 
+ 
+Mevrouw,meneer,mag ik naar de toilet/iets vragen/...
+ Madame,monsieur,puis-je allé aux toilettes/demander quelque chose/...
+ 
+ 
+ 
+Kan iemand een woorenboek/de woordenboeken/krijt/...halen aub?
+ Quelqu&#039;un peut-il aujourd&#039;hui livre / dictionnaires / craie / ... s&#039;il vous plaît? Prenez
+ (en gros,ça veut dire &quot;allez chercher un livre/dictionnaire/craie S.V.P&quot;)!
+ 
+ 
+ 
+Jullie aandacht aub/even opletten nu!
+ Votre attention S.V.P/pendant un moment!
+ 
+ 
+ 
+Heeft iedereen het begrepen of zijn er nog vragen/is er iets onduidelijk?
+ Quelqu&#039;un comprend si vous avez des questions / il y a quelque chose pas clair?
+ (en gros,ça veut dire &quot;est-ce que vous avez des questions&quot;)!
+ 
+ 
+ 
+Neem jullie agenda en schrijf in...
+ Prenez votre agenda et écrivez-y...
+ 
+ 
+ 
+Deze huistaak is tegen morgen/volgende week/...
+ Ce devoir est pour demain/semaine prochaine/...
+ 
+ 
+ 
+Een huistaak afgeven/ophalen/uitdelen.
+ Un devoir rendre/ramasser/distribuer.
+ 
+ 
+ 
+Een les leren,een woordenlijst leren,een grammaticaregel studeren ,oefeningen maken.
+ Apprendre une leçon, une liste de vocabulaire, une règle de grammaire à étudier ,faire des exercices.
+ 
+ 
+Het spijt me,...
+Je suis désolé,...
+ 
+ 
+
+Kan u dat op het bord schrijven? Het bord (af)vegen.
+Pouvez-vous écrire cela sur le tableau? Nettoyer le tableau.
+ 
+ 
+
+Kauwgom in de vuilnisbak ajb!
+Le chewing-gum dans la poubelle S.V.P!
+ 
+ 
+
+Kan iemand/mag ik het licht aansteken/aandoen/uitdoen?
+Quelqu&#039;un peut-il/Puis-je allumer/éteindre l&#039;éclairage/la lumière?
+ 
+ 
+
+Mag de deur /het venster toe/dicht/open?
+Pouvez la porte/la fenêtre/fermer/ouvrir?
+ 
+ 
+
+What wil dat woord zeggen?
+Qu&#039;est-ce que ce mot signifie?
+ 
+
+Ik weet her niet! Ik ben het vergeten!
+Je ne sais pas! Je l&#039;ai oublier!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

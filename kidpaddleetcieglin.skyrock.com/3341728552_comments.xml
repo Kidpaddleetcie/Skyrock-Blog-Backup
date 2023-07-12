@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ PUB ] Night Rose - Commentaires</title>
+  <description>Bon... vu que j&#039;ai pu obtenir une pub de Night Rose, je pense qu&#039;il est temps de lui rendre l&#039;appareil.
+ 
+
+
+ 
+Night Rose  est une jeune vidéaste française qui s&#039;est fait connaître avec des vidéos sur les films Dragons ( la majorité de ses vidéos populaires traitent des 2 derniers films ).
+ 
+
+ 
+Mais aujourd&#039;hui, elle s&#039;oriente plus sur des sketchs en face-cam où elle incarne plusieurs personnages à la manière d&#039;un &quot; Salut les Geeks &quot;. Ces personnages se font appeler des &quot;consciences&quot;.
+ 
+J&#039;ai découvert Night Rose grâce à sa YTP sur Professeur Layton : &quot; 
+[YTP FR] PROFESSEUR LAYTON: QUI A PRIS LA CLEF ???!!! &quot;
+
+
+
+ 
+Cette YTP a beau être faîtes sur VIVAVIDEO  et être ponctué de bip sonore à chaque changement de séquence , elle reste meilleure que la plupart des YTPs sur Layton en français sorties ces 10 dernières années.
+ 
+ 
+Sachez que Night Rose a un Discord
+( que je me permet de ne pas partager pour ne pas compromettre son message d&#039;accueil qui est : &quot;Heyah !
+Si vous atterrissez ici, c&#039;est que soit quelqu&#039;un vous a donné le lien, soit vous avez cliqué sur le lien sur ma chaîne YouTube !
+Dans tous les cas, vous êtes les bienvenu(es) ! &quot; )
+et qu&#039;elle a une adorable communauté fan de Dragon, de Pokémon et d&#039;autres créatures mignonnes du genre... je suis sur son Discord depuis début Avril 2021 et je ne me suis encore fâché avec personne donc c&#039;est qu&#039;on s&#039;y amuse et que c&#039;est bien modéré !
+ 
+ 
+Pour ce qui est du reste,  je trouve que Night Rose est quelqu&#039;un d&#039;assez ouverte de part son accord pour que je lui fasse une YTP et aussi pour que je lui propose des projets communs... faut dire qu&#039;on est tout les deux fans de Professeur Layton.
+ 
+
+ 
+Le contenu de la chaîne peut rebuter certains pour plusieurs raisons:
+- Montage sur smartphone
+- Format 9/16 
+- Le contenu est très hétérogène
+ 
+Mais tout ces soucis font partis du charme et me rappelle les premières chaînes YouTube où on s&#039;amusait à tester des trucs qu&#039;une grosse chaîne d&#039;aujourd&#039;hui ne pourrait se permettre pour des raisons de rentabilité ! 
+ 
+Night Rose ne fait pas tout ça pour l&#039;argent mais pour s&#039;amuser et nous amuser ! C&#039;est mignon et bon enfant sans pour autant être malsain !
+ 
+Souscrivez à cette chaîne YouTube avec un contenu qui ferait péter des câbles à Antoine Daniel : https://www.youtube.com/c/NightRose/videos
+ 
+KidpaddleetcieGlin  
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

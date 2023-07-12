@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique2Glin]Ballerina - Commentaires</title>
+  <description>C&#039;est partit pour &quot;Ballerina&quot;, un film que j&#039;ai vu ce 28 décembre 2016 avec FanYoshiBleu!
+
+ 
+Je ne spoilerais pas mais sachez que j&#039;en garde déjà de très bon souvenir pour ce film. Les modèles 3D sont bien géré (aucun personnage qui bug en vue xD) et les jeux de lumière sont magnifique.
+ 
+Le personnage principale est Felicis (le choix du nom est tout trouvé car ça veut dire &quot;chance&quot; en latin...comme le &quot;Felix Felicis&quot; dans Harry Potter) et son rêve est de devenir danseuse professionnelle. Elle est orpheline, elle fait partie de la France oubliée (OUI, CE FILM MONTRE QUE TOUT N&#039;EST PAS ROSE !) et elle a un petit copain d&#039;enfance maladroit et inventeur !
+ 
+Tout se passe à l&#039;époque où la Tour Effeil n&#039;est qu&#039;au début de sa construction...donc en 1887 à Paris !
+ 
+Alors, ce film je l&#039;ai choisi entre le nouveau Star Wars, Assassin&#039;s Creed,Vaiana et 
+Les Animaux Fantastiques. Je ne regrette pas de ne pas avoir vu un Spin-Off d&#039;Harry Potter, un Spin-Off d&#039;un jeu-vidéo et un des deux nouveaux Disney. Ballerina vaut bien son détour !
+ 
+Je n&#8217;ai pas regarder Assassin&#039;s Creed mais j&#039;ai regardé une jeune fille SANS NICHONS (elle doit donc être très jeune) danser sur les toits de Paris et de son orphelinat en mode YOLO avec pour seul excuse &quot;J&#039;adore la dance, putain c&#039;est trop mon kiff depuis que je suis née&quot;.
+En plus, on a une scène de pression (stress) sur la Statue de la Liberté et une scène de dispute tout près de la Tour Effeil...ON VOIT LA FRANCE DANS PLEIN D&#039;ANGLE DIFFÉRENTS !!!! Ce film joue avec les contrastes!
+ 
+J&#039;ai bien aimé les petites piques envoyés à &quot;Barbie&quot; aussi...Même si la fille que je nomme &quot;Barbie&quot; finie par se ranger du côté clair de la force à la fin, je tiens quand même à dire que c&#039;est une pute de bourgeoise ET QUE CE FILM EST DE GAUCHE...MÉLENCHON,IL FAUT PROMOUVOIR CE FILM!!!
+ 
+En plus, juste pour le jeu de mot &quot;Statue de la Puberté&quot; au lieu de &quot;Statue de la Liberté&quot;, j&#039;ai rigolé comme un con car que ça soit la liberté ou la puberté, l&#039;Amérique n&#039;a rien eût de tout ça en installant la statue de Gustave Effeil xD
+ 
+Pour finir, je tiens à dire que ce film n&#039;est pas fantastique au sens où IL EST RÉALISTE, il n&#039;y a pas de Deus Ex Machina ou un personnage qu&#039;on a jamais vu qui s&#039;occupe du plot twist final. La demoiselle va s&#039;en prendre plein la gueule (LES PARISIENS DE 1887 SONT VRAIMENT DES SALOPS...aujourd&#039;hui aussi d&#039;ailleurs) et elle va devoir évoluer tel un Pokémon pour rivaliser avec la vie professionnel et passer du stade Magicarpe au stade Arceus en s&#039;entraînant à fond et se ramasser toutes les critiques, les conneries de la race parisienne et un arien russe... c&#039;est un grand blond aux yeux bleus russe... il est « swag » mais il est efféminé donc il ne peut pas pécho la fille qui porte le nom de &quot;chance&quot; en latin!
+ 
+Merci d&#039;avoir lu ma &quot;critique&quot;, ce film offre de très beaux souvenirs et peu importe que vous aimez ou pas la danse classique...CE FILM C&#039;EST YOLO ET DANS VOTRE CUL LES BOURGEOIS PARISIEN SANS PASSION ET MÉPRISANT LES PAUVRES.LE &quot;GRAND JETÉ&quot; VOUS REMETTRA À VOTRE PLACE...RICHES SANS ÂMES!  
+
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

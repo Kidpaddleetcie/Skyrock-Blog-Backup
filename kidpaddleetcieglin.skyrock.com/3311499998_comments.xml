@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Poster des screenshots de 3DS/WiiU après Miiverse! - Commentaires</title>
+  <description>
+Sachez que cet article est rédiger sur ma Nintendo New3DS avec la version mobile d&#039;édition d&#039;article de Skyrock donc n&#039;espérer pas trop de liens ou de plus d&#039;image CAR IL N&#039;Y EN AURA PAS!
+
+Après la fin de Miiverse, les moyens pour poster nos screenshots (captures d&#039;écrans) ont bien changer car désormais tout n&#039;est plus aussi facile!
+
+Soit on emploi un site de gallerie qui possède une version épurée mobile avec un bouton en balise &#8249;submit&#8250;,
+Soit on passe par un ordinateur pour récupérer le contenu de la carte SD/MicroSD!
+
+Je me permet de vous signaler que Twitter n&#039;a pas installer de bouton &#8249;submit&#8250; dans version mobile et que Facebook n&#039;est pas publique ET DONC C&#039;EST DE LA MERDE CAR LE WEB EST CENSÉ ÊTRE PUBLIQUE COMME UN ENSEMBLE DE BARS,MAGASINS,CINEMAS,RESTAURANTS,... comme une place de village quoi!
+
+Bon...je me calme et vous recommande de faire votre propre site...
+
+Voici quand même une recherche de sites où on peut poster nos ss (screenshots):
+https://www.google.be/search?q=hebergeur+image+sans+inscription&amp;client=ds&amp;dcr=0&amp;oq=hebergeur+image+sans&amp;gs_l=heirloom-hp.1.0.0j0i22i30l3.3276.4576.0.5502.4.4.0.0.0.0.159.440.2j2.4.0....0...1ac.1j4.34.heirloom-hp..0.4.438.NH-M1PEsupc
+(OUI,c&#039;est un lien et ça doit faire 1h que je cherche comment faire de la mise en page sur ma New3DS mais on a autant de fonctionnalité de mise en page que sur Twitter ou Windows Bloc-Note en mode mobile sur Skyrock...c&#039;est triste et j&#039;en suis malade!)
+
+
+J&#039;ai appris que HostingPics.Net ferme, allez récupérer vos images dans vos galleries, il ne reste que quelques semaines!
+
+KidpaddleetcieGlin;Le gars qui a tenté de faire un beau article de blog sur une New3DS!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

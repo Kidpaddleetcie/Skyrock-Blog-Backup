@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ PUB ] Miss Emmy - Commentaires</title>
+  <description> 
+ 
+
+Miss Emmy, c&#039;est une fan de Professeur Layton ( et surtout d&#039;Emmy Altava, l&#039;assistante du professeur durant la prélogie Layton ).
+ 
+Elle fait des vidéos de type &quot;doublage&quot; ( elle donne sa voix à un personnage ) et elle a souvent des vidéos créées par moi, Glin Kidpaddleetcie !
+ 
+Elle a créé un serveur Discord pour les fans de Professeur Layton orienté &quot;Emmy Altava&quot; : https://discord.gg/vCf7n5xcrM
+ 
+ 
+Mes vidéos préférées d&#039;elle et moi :
+ 
+ 
+&quot;Miss Emmy vous raconte l&#039;anecdote de la chambre d&#039;hôtel&quot;  est le premier épisode des &quot; Anecdotes d&#039;Emmy &quot; ! Elle a été créé en 2 jours après que j&#039;ai écris le texte, demandé à Miss Emmy de se doubler et fait le montage.
+
+
+C&#039;est donc une vidéo qui manque un peu de rythme mais qui est historique pour moi car c&#039;est du sérieux avec quelqu&#039;un d&#039;extérieur à ma chaîne ou la communauté des poopeurs !
+
+ 
+Dans &quot;&#127874; L&#039;anniversaire de Miss Emmy : 19 ans ! &#129395;&quot;, j&#039;ai presque tout fait ( Miss Emmy a fait quelques voix ) mais j&#039;ai mené le projet d&#039;Août à Septembre donc je suis assez content du résultat pour 3 semaines de boulot.
+
+
+J&#039;ai d&#039;ailleurs put employer Flipnote Studio, Photoshop et Sketchfab pour un rendu. C&#039;était spécial et j&#039;aime bien les animations que ça donne.
+
+
+J&#039;avais écris le scénario en décrivant chaque plan, fait de la 3D, de l&#039;animation 2D et du dessin sur un format A5. Ce fût une sacrée aventure !
+ 
+
+ 
+ 
+Dans &quot; &#127955; Emmy fait du Ping-Pong avec Layton ( AVEC MUSIQUE &#128266; ) &#127955; &quot; , j&#039;ai tenté de faire quelque chose de rythmé et qui joue beaucoup sur les impactes !
+
+
+Étant donné que je m&#039;essaye au sound&#039;design et à la colorimétrie, j&#039;ai fais en sorte de donner du pep&#039;s au montage avec les techniques propre à ces domaines.
+
+
+
+ 
+ 
+Bien sur, même si mes vidéos préférées sont celles que j&#039;ai faîtes, Miss Emmy apprend de plus en plus à gérer sa voix et à habiller un personnage avec.
+ 
+Notre collaboration a commencé en Mars 2021 après la vision de la vidéo &quot; Luke passe le bac (en vain) &quot;. Je trouvais sa voix agréable mais le montage trop éloigné de nos standards. 
+
+
+J&#039;ai donc mis la main à la pâte vu qu&#039;on est fan du même univers !
+ 
+
+ 
+J&#039;espère qu&#039;elle va un jour avoir des opportunités de doublage avec d&#039;autres personnes que moi. Il faut qu&#039;elle pratique et qu&#039;elle gagne en visibilité !
+ 
+Je compte sur vous pour en faire une vidéaste incontournable... elle est une des dernières représentante de la communauté Layton en France.
+ 
+ 
+KidpaddleetcieGlin
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

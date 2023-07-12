@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Anatomie]La cuisse, la jambe et le pied! - Commentaires</title>
+  <description>Donc on va voir la cuisse, la cheville et talon d&#039;Achille ainsi que les os du tarse!
+ 
+Quand on fait de l&#039;anatomie visuel dans les membres inférieur, on doit retenir où se trouve ces muscles et os:
+ 
+Muscles de la cuisse:
+Le grand fessier (Le Tenseur du Fascia Lata),
+Les adducteurs,
+Les quadriceps,
+Le biceps femoral,
+Le couturier.
+ 
+Muscles de la jambe:
+Le jambier antérieur,
+Le long péroné latéral,
+Le jambier postérieur,
+Le triceps sural (Mollet),
+L&#039;extenseur commun des orteils.
+ 
+
+(remarqué qu&#039;il y a plein de muscles qu&#039;on a pas besoin de connaître pour savoir dessiné sur ces images, n&#039;oublier pas que les &quot;aide anatomie&quot; sont là pour aider dans le dessin anatomique et pas à but purement anatomique)!
+ 
+ 
+En ce qui est des os:
+Le tibia,
+Le femur,
+La rotule,
+Le grand oblique.
+ 
+Voici en image ce qu&#039;on doit retenir en gros...non mais parce que ça sert à rien de connaître des noms si on ne sait pas de quoi il s&#039;agit! En plus, j&#039;ai oublié de précisé que la boule plantaire de votre pied se nomme le &quot;Calcanéum&quot; !
+
+
+ 
+ 
+Voila, comme ça, vous avez absolument tout sur les os qui agissent sur le VISUEL anatomique en-dessous de la ceinture!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

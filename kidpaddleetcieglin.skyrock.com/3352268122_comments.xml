@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ PUB ] Créateurs de Flipnote Hatena que je suis encore aujourd&#039;hui - Commentaires</title>
+  <description>Alink
+```
+Flipnote Maker surtout orienté &quot;Création d&#039;histoire&quot; autour des 4 Links de &quot;The Legend of Zelda : Four Sword&quot;.
+Il avait une série où les 4 Links avaient une personnalité différentes et son propre avatar, Link bleu, était le chef de groupe.
+Au niveau communautaire, il était assez sympa mais il est tombé amoureux, a montré son amour publiquement à une autre Flipnote Maker de Flipnote Hatena et quand ils se sont séparés pour redevenir des amis, les gens n&#039;ont pas cessé d&#039;harceler la fille ce qui a énervé Alink et il s&#039;est barré laissant sa série en abandon.
+```
+
+
+ 
+Michael J.
+```
+Flipnote Maker surtout orienté &quot;Création de sketch&quot; autour de Mario et Luigi.
+Son Mario étant assez proche de celui de SMG4 dans l&#039;humour ( absurde, vulgaire , hyperactif, égocentrique ), la plupart des gags sont centrés sur le concept de &quot;arroseur-arrosé&quot;. Son Mario s&#039;en prend plein le pif ou Luigi.
+Fait intéressant, il avait eût l&#039;idée du &quot;Marionald&quot; où Mario et Luigi gèrent un fast-food.
+Au niveau communautaire, il râlait sur les gens qui faisaient beaucoup trop de spin-off ( comme moi... encore aujourd&#039;hui ) et sur les plagiaires ( pas comme moi... surtout aujourd&#039;hui ). Il aura arrété pour des raisons mystérieuses et j&#039;arrive pas à le contacter pour lui poser la question.
+```
+
+
+ 
+ 
+Kéké
+```
+Flipnote Maker surtout orienté &quot;Animation pure&quot; autour de son propre personnage de renard mais aussi de personnage provenant de série de Nintendo.
+Il fût le dernier &quot;numéro un&quot; du classement mondiale de Flipnote Hatena. Il a été à l&#039;origine de beaucoup d&#039;animation qui ont fait connaître Flipnote Studio et Flipnote Hatena et jouit, encore aujourd&#039;hui, de tout ce qu&#039;apporte le logiciel.
+Il a été récompensé réellement avec un trophée et a pût travaillé avec des grandes pointures du web comme &quot;The Living Tombstone&quot; en 2017.
+```
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

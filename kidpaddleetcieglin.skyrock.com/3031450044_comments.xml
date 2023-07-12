@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> L&#039;antre du Mea : Les jeux sur la Famille Addams - Commentaires</title>
+  <description>
+ 
+
+ 
+La Famille Addams (The Addams Family) est une série télévisée américaine en 64 épisodes de 26 minutes, créée par David Levyd&#039;après les personnages imaginés par Charles Addams, diffusée du 18 septembre 1964 au 8 avril 1966 sur le réseau ABC. Un téléfilm-réunion en 1977 : La Famille Addams : C&#039;est la fête (Halloween with the New Addams Family). En France, la série n&#039;a été diffusée que tardivement, à partir du 19 septembre 1987 sur M6.
+Une seconde série télévisée, intitulée La Nouvelle Famille Addams (The New Addams Family), en 65 épisodes de 26 minutes a été diffusée entre le 19 octobre 1998 et le 28 août 1999 sur le réseau ABC. La série (qui n&#039;a plus grand chose à voir avec la série originale) ne rencontrera pas le succès escompté et les saisons suivantes seront finalement annulées faute d&#039;audience. En France, la série a été diffusée sur TF1 et TF6 puis arrêtée faute d&#039;audience également.
+Il existe également deux séries animées, toujours intitulées La Famille Addams (The Addams Family). La première, en 16 épisodes de 25 minutes, diffusée du 8 septembre au 22 décembre 1973 sur le réseau NBC, est inédite en France. La seconde, en 21 épisodes de 25 minutes, a été diffusée du 12 septembre 1992 au 6 novembre 1993 sur le réseau ABC Family et en France, à partir de 1993 sur Canal+ puis sur France 2 et Cartoon Network.
+Deux films sortis en 1991 et 93 (La Famille Addams et Les Valeurs de la famille Addams) complètent la série Addams et seront de vrais succès. Ils ont pour réalisateur l&#039;Américain Barry Sonnenfeld.
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

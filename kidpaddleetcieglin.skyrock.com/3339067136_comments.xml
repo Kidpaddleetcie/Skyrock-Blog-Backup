@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Présentation ] Capitaine Sadako - Commentaires</title>
+  <description>Capitaine Sadako est un poopeur contemporain à EnflureDeRenard ayant débuté sa chaîne en 2015 ( il est donc un poopeur de 3ème génération , l&#039;After Effect ) et il se démarque vraiment par son montage rapide et de plus en plus dynamique et inspiré.
+ 
+Il a récemment fait une Foire Aux Questions ( ou une &quot; Frequently Asked Questions &quot; dans la langue de Joe Biden ) donc je vous retransmets les informations données en texte mais la lecture de la vidéo est tout aussi intéressante.
+ 
+
+
+ 
+1. Logiciels de Montage : Fantasia Painter Free + After Effect ( Pour les effets spéciaux ) et Sony Vegas Pro ( Pour le montage simple )
+
+
+2. La toute première YTP vue : &quot; cocopops [YTP FR] &quot; de MopTheMoss en fin 2007
+ 
+
+
+ 
+3. La YTP de la fierté : &quot; Fr - Le Cas Nounours &quot;
+ 
+
+
+
+ 
+4. Perte de motivation à cause du manque de poopeur concurrents ces derniers-temps &amp; Création d&#039;une chaîne secondaire de type &quot;fourre-tout&quot; nommée &quot; Sadakouille &quot;
+
+5. Plantaaj et Suuspension
+
+6. Écoute du Disco Funk des années 80 , du rock des années 80 , des trucs des années 80... mais femme jusqu&#039;au bout des seins... et aime bien les musiques du groupe folk &quot; Percival &quot; ( Musiques de The Witcher )
+ 
+
+
+ 
+7. BIG UP à &quot; Poopeur Buveur &quot; et &quot; Caca Magique &quot; : Actifs, Motivés, inspirés et tout ce que Capitaine Sadako aime
+
+8. Pas de face-cam
+
+9. L&#039;origine du pseudonyme &quot; Capitaine Sadako &quot; : Il fallait un truc qui fait peur ( Sadako ) et qui donne un grade ( Capitaine )
+
+10. La passion est à l&#039;origine des connaissances en montage
+
+11. La YTP qui a le plus influencé Capitaine Sadako : &quot; fr » Magic Haïroule &quot; de EnfluredeRenard en mi-2015
+ 
+
+
+12. L&#039;idée de faire des YTPs provient d&#039;une histoire glauque et très peu catholique
+
+13. NESTOR
+
+14. Fait des histoires glauques et très peu catholiques à la daronne de Kolaptek Albanoze ( déshonneur sur lui )
+
+15. Conseil pour les petits et grands poopeurs : Soyez courts mais inspirés, ne recherchez à faire absolument des YTPs si l&#039;inspi&#039; ne vient pas. Faîtes des YTPs pour vous avant tout.
+
+
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

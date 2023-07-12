@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Géographie]Les critères de Copenhague pour faire partie de l&#039;Union Européenne. - Commentaires</title>
+  <description>Les critères de Copenhague,créé en 1993 par les chefs d&#039;État de l&#039;Europe de l&#039;époque,a pour but de créer des des critères d&#039;adhésion à l&#039;Union Européenne pour les États demandant leurs entrées.
+ 
+Un état doit au moins remplir ces trois trois critères:
+ 
+-Le critère politique: La présence d&#039;institution stable garantissant la démocratie,l&#039;État de droit,les droits de l&#039;Homme,le respect des minorités et leur protection;
+ 
+-Le critère économique: L&#039;existence d&#039;une économie de marché viable et la capacité à faire face aux forces du marché et à la pression concurrentielle à l&#039;intérieur de l&#039;Union;
+ 
+-Le critère de l&#039;acquis communautaire:Avoir la capacité d&#039;assumer les obligations de l&#039;adhésions et intégrer dans ses propres lois les décisions prises par l&#039;Union.
+ 
+ 
+À titre d&#039;information (et aussi pour prouver que ce n&#039;est jamais si simple une synthèse),la Grèce a tricher au niveau économique en changeant ses chiffres pour rentrer dans l&#039;Union Européenne (et ce,même si certaine personne de haut le savait).Cette tricherie est à la base même de la crise grecque...comme quoi,la tricherie d&#039;hier pour des avantages apporte des désavantages aujourd&#039;hui.
+ 
+Les tricheurs sont toujours punis.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

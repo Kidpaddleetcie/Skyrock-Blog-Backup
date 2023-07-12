@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Enlever un fond vert avec Magix Video Deluxe 17 Prenium et ultérieur! - Commentaires</title>
+  <description>
+ 
+Tout d&#039;abord,il faut charger une image ou une vidéo avec un fond vert (ou autre fond monochrome se détachant par contraste de couleur avec le sujet à isolé) et se rendre dans l&#039;effet de chrominance!
+ 
+Pour se faire, on va aller dans Effets-&gt;Effets vidéo-&gt;Chrominance
+
+
+
+ 
+Il faudra appuyer sur le gros bouton vert... (oui,je vous prends pour des idiots...désolé) et réglé les variables seuil et plage de fondu.
+ 
+
+
+ 
+Le système est simple:
+Le seuil permet de retirer des nuances de vert (en mettant le curseur tout à gauche,on enlève même le blanc)
+La plage de fondu permet de créer un lissage du contour...et bizarrement de retirer toute imperfection dans le fond vert qui aurait eût des plis ou des crasses!
+
+ 
+Voila,plus qu&#039;à vous préciser que le fond vert devient un fond transparent auquel,si vous mettez le média sous l&#039;effet de la chrominance sur une piste en-dessous une piste vide, vous pourrez mettre un autre fond et même faire des superbes effets de zoom compensé ou juste faire une composition afin d&#039;améliorer une présentation!
+ 
+KidpaddleetcieGlin
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

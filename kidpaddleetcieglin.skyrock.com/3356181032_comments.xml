@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique2Glin]Mon chat et moi, la grande aventure de Rroû - Commentaires</title>
+  <description>C&#039;est partit pour &quot;Mon chat et moi, la grande aventure de Rroû&quot; que j&#039;ai vu ce 12 Mai 2023 en compagnie de mes 2 enfants, ma femme et ma maman à l&#039;occasion de l&#039;anniversaire de cette dernière.
+
+ 
+ 
+Comme les autres fois, je ne gâcherais RIEN dans cette article. Le film m&#039;a plu et je le recommande.
+ 
+Commençons par l&#039;appréhension 
+ 
+Au secours, un film français de France
+Comme à chaque fois que Canal+, M6 et d&#039;autres compagnies du pays de Vincent Bolloré financent un truc, il faut que ça soit sans dosage. Je me souviens des Astérix, des Ch&#039;tits, de Rien à Déclarer, du Marsupilami,... le star système est tellement puissant que des gags sont écris en fonction des acteurs et pas en fonction du scénario... du moins, dans les Astérix, Marsupilami, Aladdin,Ala&#039;2,...
+
+
+Et quand il n&#039;y a pas de star, les films français de France parlent de la dépression, du harcèlement, des arabes, du fait qu&#039;être mère est pas facile tout les jours,... bref, les mêmes sujets que les séries françaises comme Demain Nous Appartient que regarde ma grand-mère.
+ 
+Bref, j&#039;avais peur de tomber sur un film chiant comme un miroir de la vie... mais ma maman a choisit le film parce qu&#039;il y a un chat. Et c&#039;était bien vu !
+ 
+Le caméraman, c&#039;est un Minimoys !
+Contrairement à un film Marvel ou Illumination, nous sommes sur un film où les ambiances s&#039;installent et où la caméra est proche et à la hauteur de ses 2 protagonistes principaux : Clémentine (Clem&#039;) et Rroû (le chat)
+ 
+Les scènes d&#039;action sont biens filmés (c&#039;est pas que des plans fixes et des zooms) et il n&#039;y a rien de magique, juste des discussions réalistes sans exagération (attendez vous à des gros mots) et des scènes où le chat est en danger.
+ 
+Le chaton est bien dressé (ou alors, on a fait une avancée de ouf en modèle 3D en France) parce qu&#039;il est très bon acteur et est docile pour les plans en accéléré où il n&#039;est pas censé se barrer.
+ 
+Il n&#039;y a pas de bagarre de chat à l&#039;écran, par contre. Juste des scènes de poursuite et de gros plans sur des chats qui s&#039;insultent avec des &quot;hssss&quot; et des &quot;arwmmrg&quot;.
+ 
+Les défauts du film
+Il a 3 phases mais la deuxième est trop courte. On a un focus sur le chat et les personnages secondaires comme les parents ne sont nommés que pendant le générique (avec un nom et un prénom de personnage... pourtant, il ne me semble pas qu&#039;une personne les aille appeler).
+
+
+On a nommé les autres chats aussi dans le générique... on aurait pût avoir une scène post-générique pour voir comment les frères et sœurs de Rroû ont vécut avec l&#039;autre fille (qu&#039;on ne revoit plus dans le film après que Clem&#039; a trouvé Rroû).
+ 
+Pour moi, le film aurait dû être + long et un peu mieux gérer la transition entre la deuxième et la dernière phase... c&#039;est trop rapide, c&#039;est comme si la mère de Clem&#039; s&#039;était donné la mort juste après l&#039;avoir refilé à une ermite.
+( J&#039;avais dis que je ne spoilerais pas mais je ne vous gâche rien en écrivant ce plot)
+ 
+ 
+ Allez le voir avec votre fan de chat, les compositions sont belles et l&#039;humour est subtile !
+ 
+KidpaddleetcieGlin
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Actu2Glin]Début Novembre 2019 - Commentaires</title>
+  <description>Bonjour à toutes et à tous ( ou &quot;Bonjour, bienvenue sur Kidpaddleetcie&quot; comme je disais du temps où la chaîne YouTube &quot;Kidpaddleetcie&quot; était encore de ce monde... manquerait plus que je porte plainte pour incitation à la haine mais bon, je suis quelqu&#039;un de sympa !) !
+ 
+Comme vous le savez, probablement, je suis un jeune et fringuant poopeur sur la chaîne Poopulaire... et comme je suis un gentil garçon, je vous offre ce lien en guise d&#039;aide à ceux qui ne connaisse pas cette merveilleuse chaîne YouTube où se trouve mes compagnons d&#039;infortune: https://www.youtube.com/channel/UCbK5TxzVZrgbcDUT_XsYgVg/videos
+ 
+Ce que je tiens à mettre en avant, c&#039;est qu&#039;en ce début du mois de Novembre 2019, je me suis maté TOUT EXCEL SAGA D&#039;UNE TRAITE (dont l&#039;épisode 26...  j&#039;ai raté le NoNutsNovember avec panache ! ) dans ma quête de trouver des répliques pour Descole, un des personnages récurrents de mes YouTube Poop !
+ 
+Je me suis accroché à cette série qui nous avait été recommandé par Joueur Du Grenier et je suis plutôt fier de cette trouvaille ! MERCI JOUEUR DU GRENIER !!!
+ 
+Malgré le fait que j&#039;écris cette article avec la voix d&#039;Excel (quand je vais me relire, je vais probablement me dire que je suis un idiot mais c&#039;est ce qui fait mon charme), je tiens à vous faire part de
+plusieurs nouvelles autour de ma production:
+ 
+1. Descole a ÉNORMÉMENT DE RÉPLIQUE EN PLUS !!!! Il est très émotif et ça fait plaisir à entendre pour mes YouTube Poop sur la source Layton !
+ 
+2. Je pensais arrêter les YouTube Poop sur Professeur Layton après la partie 2 de &quot;Professeur Layton combat le nazisme&quot;
+(la partie 1 est disponible à ce lien: https://www.youtube.com/watch?v=_A7gy_yDdJQ )
+mais je vais continuer à cause de la sur-abondance de contenu que l&#039;anime de Katrielle m&#039;offre ainsi qu&#039;Excel Saga !
+ 
+3. Je suis à la fin de mon stage en WordPress ce qui fait que je vais devoir me trouver un travail... j&#039;ai un bon CV et j&#039;ai la motivation donc ça devrait aller !
+ 
+4. Kass, mon assistant pour la production de YouTube Poop ayant une bonne logique, ne peut plus vraiment être à mes cotés aussi souvent que je le désire... je me dois de faire cavalier seul face à mes scénarios et c&#039;est méga-stressant !
+ 
+5. La partie 2 de &quot;Professeur Layton combat le nazisme&quot; va bien sortir, le scénario n&#039;est pas vraiment prêt en ce 7 Novembre 2019 mais les idées sont là, les ressources aussi ainsi que la motivation ! ON VA S&#039;EN BOUFFER LA SAUCISSE !!! 
+ 
+6. Peu importe le temps que ça me prend mais je tiens à faire un projet concret et professionnel pour mes professeurs afin de simplifier l&#039;étude de Lexique par le jeu... un système pouvant être compatible avec WordPress mais qui n&#039;a pas vraiment de rapport avec les YTPs... j&#039;ai probablement pas encore les capacités et c&#039;est en marche !
+ 
+7. Le blog va et a déjà eût pleins d&#039;articles mis à jour. Cela prend aussi du temps car certains articles ne sont pas mauvais et d&#039;autres le sont au premier regard... et le plus dur est de trouver ceux qui peuvent être améliorer pour optimiser la compréhension
+( D&#039;où l&#039;ajout de couleur pour mettre en évidence les mots-clés !) ! 
+ 
+ 
+Voila ! C&#039;est tout ce que je désirais mettre en évidence pour l&#039;instant et je vous remercie pour votre attention et la visibilité que vous me procurer... ça fait chaud au cœur de savoir qu&#039;on est utile à des gens !
+ 
+KidpaddleetcieGlin  
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

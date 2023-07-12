@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Ma petite genèse] De ma naissance à YouTube! - Commentaires</title>
+  <description>Kidpaddleetcie Glin était âgé de 11 ans lorsque notre histoire  commença!
+ 
+Un jour pluvieux d&#039;avril 2007 où les vacances de Pâques offraient du temps libre à tout enfant qui l&#039;avait bien mérité.
+ 
+Dans un tout petit village,à Namur,en région Wallonne,en Belgique,en Europe,sur Terre et nul par ailleurs,un miracle sans précédent s&#039;accomplit...Glin créa un blog sur Skyrock.com!
+ 
+Glin,au début,découvrira mais délaissa après quelque jours cette bible encore vierge et sans valeur lorsque sa maman donna l&#039;idée qui fait déborder l&#039;inspiration...
+&quot;Pourquoi tu ne parlerais pas de tes BDs?&quot;.
+ 
+Les BDs sont imprégnés de la culture de Glin,il en est friand et malgré le fait qu&#039;il aurait dû y penser après avoir créé le nom de blog &quot;Kidpaddleetcie&quot;,Kid Paddle fût sa bd préféré à l&#039;époque,il trouva l&#039;idée tentante! 
+ 
+Le blog servit de répertoire pour ses titres de BDs,sa collection et ses liens avec les collectionneurs de son école en fût augmenter.
+ 
+Glin apprit,encore une fois(décidément),par sa maman qu&#039;on savait mettre des vidéos dans les articles du blog,un tournant fût engagé.
+ 
+Direction YouTube,bienvenue dans ce paradis audio-visuelle où chacun et chacune chante,danse,rit et fait des parodie avec la culture populaire.
+Nous sommes en 2008,YouTube était riche en couleur,les vidéos soit en 240p soit en 360p et la plupart des vidéos étaient des reprises de chansons,des parodies de scène d&#039;Harry Potter et des podcasts.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

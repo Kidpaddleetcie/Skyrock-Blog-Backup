@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Idées2Glin]De nouvelles fonctionnalités sur YouTube - Commentaires</title>
+  <description>Soyons sérieux, depuis les débuts de YouTube, les fonctionnalités pour regarder les vidéos ont toujours amené à amélioré les capacités/les types de vidéos postées sur une chaîne.
+Par exemple,avec les annotations (auquel on va dire au revoir le 2 mai 2017), on peut faire des vidéos interactives où on peut faire des zones cliquables qui nous emmène vers d&#039;autres vidéos (et on peut faire plusieurs zones cliquables ayant des liens différents sur la même frame...dingue qu&#039;on aille envie de supprimer ça!).
+Grâce à cette fonctionnalité,on a pût créer des &quot;Easter Eggs&quot; (élément caché) qui permettait souvent de visionner une suite de vidéo où on a le choix du scénario ou alors c&#039;était des vidéos de type &quot;télécommande&quot; où l&#039;utilisateur pouvait choisir une chaîne YouTube en fonction d&#039;une sélection créée par un vidéaste. On pouvait aussi faire des dons, aller sur un autre site (agréé par la chaîne) ou encore faire discuter des personnages avec les bulles d&#039;annotation (il n&#039;y a donc pas de lien dans les bulles).
+ 
+C&#039;est dans l&#039;idée d&#039;apporter encore d&#039;autres nouveauté dans les fonctionnalités de YouTube et de faire en sorte que les possibilités d&#039;utilisation soient accrues que je fais ces listes de fonctionnalité dont j&#039;ai eût l&#039;idée:
+ 
+Pour la vidéo en elle même (et aussi son lecteur):
+
+-Le signet par chapitre: Dans les vidéos de plus de 20 minutes, on pourrait créé un système de signet qui permettrait de convertir une liste de timecode en petites barres colorées qui prennent place sur la barre de progression du lecteur.
+ 
+-Régler la musique de fond: L&#039;utilisateur sera invité à poster deux fichiers:
+Un fichier vidéo avec lui qui parle
+Un fichier son avec les musiques de fond.
+L&#039;idée est de permettre à chacun de comprendre ce que dit le vidéaste et aussi de faciliter pour le travail des transcripteurs (les sous-titres seront beaucoup plus facile à créé).
+ 
+-Capture d&#039;image: Quand on met sur pause la vidéo, on peut faire un clic droit sur le lecteur et copier l&#039;image (frame) dans sa résolution et non les dimensions dans lesquelles la vidéo a été mise en pause.
+ 
+-L&#039;intro et l&#039;outro peuvent être renseigné et passé:
+Les séquences générique,discours du pouce bleu/abonnez-vous/commentez,... peuvent être renseignés dans les lecteurs par des zones de couleurs dans la barre grise.
+ 
+-Le floue automatique sur les plaques d&#039;immatriculation:
+Comme sur Google Streetview, TOUTES les plaques d&#039;immatriculations doivent être flouter, ça évitera que des jeunes s&#039;amusent à retrouver les conducteurs des voitures filmées.
+ 
+-Le flou pour les visages d&#039;enfant:
+YouTube n&#039;est pas pas SlaveChild, un enfant a le droit de rester anonyme et sans visage 
+avant ses 16 ans. La protection des mineurs avant tout!
+ 
+Pour ce qu&#039;il y a autour de la vidéo:
+-Image dans les commentaires pour le propriétaire de la vidéo:
+Seul le propriétaire de la vidéo peut mettre des images dans ses commentaires.
+ 
+-Flux Twitter sur la chaîne YouTube:
+Les twitts du Twitter de la chaîne YouTube sont affichables aussi sur la chaîne YouTube.
+ 
+-Boutique apparence de chaîne YouTube:
+Un onglet &quot;Boutique&quot; où on peut changer la couleur des différents modules de la chaîne YouTube selon des thèmes pré-établis par la communauté de YouTube.
+Certains seront gratuits (juste des nuanciers simples)
+et d&#039;autres seront payant (avec image de fond et script en plus).
+ 
+-Outil d&#039;intégration de la vidéo en HTML5:
+Oublions les &lt;iframes&gt;
+
+utilisons plutôt la balise &lt;video&gt; .
+
+ 
+-Demande de preuves lors d&#039;un signalement:
+Lors d&#039;un signalement, on peut isoler la séquence incriminée et cliquer sur l&#039;élément perturbateur toujours dans le lecteur.Ce qui améliore l&#039;analyse par YouTube de la vidéo incriminé et en même temps permet de prouver par exposition de fait qu&#039;il y a un tort.
+ 
+-&quot;Visualiseur musicale&quot; lorsqu&#039;on poste un fichier audio:
+Un visualiseur est proposé quand on poste un fichier audio tel qu&#039;un ogg,un mp3 ou encore un wav. Cet analyser peut être paramétré pour obtenir
+une couleur (dégradés radiale et linéaire compris)
+une forme facultative (cercle,carré,triangle avec l&#039;image de profil au milieu) 
+ou encore une image de fond (importer de l&#039;ordinateur ou de l&#039;album Google+).
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

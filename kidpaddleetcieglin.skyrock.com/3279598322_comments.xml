@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [PUB]Le Wikia YouTube Francophone - Commentaires</title>
+  <description>
+Salut tout le monde, aujourd&#039;hui je vous présente le Wikia YouTube Francophone qui est un genre de Wikipédia mais pas une encyclopédie en générale en faîtes vu que le but est de référencer un maximum de YouTubers et de les présenté le plus précisément possible.
+ 
+J&#039;ai rejoint le projet ce 11 Juillet 2016, d&#039;ailleurs voici ma page pour vous rendre compte de mes apports à ce projet qui est, comme d&#039;habitude avec moi, très dense...comme le blog, ma chaîne YouTube, mon Dailymotion,...
+ 
+Si je peux mettre un sacré bon point à ce Wikia c&#039;est qu&#039;il utilise le système de badge qui rapporte des points (un peu comme sur la Xbox avec les trophées) et permettent de faire un classement des membres du Wikia les plus actifs. Moi, par exemple, en ce 18 Juillet,je suis 19ème grâce à mes 290 points... et je suis arriver à rentrer dans le Top20 en même pas une semaine d&#039;activité alors que certains sont là depuis début 2014.
+ 
+Le Wikia existe depuis le 8 mars 2014 d&#039;après sa page d&#039;accueil .
+ 
+Le membre que j&#039;aime le plus, après moi parce que je suis toujours un Dieu égocentrique, c&#039;est LostSword parce qu&#039;il m&#039;a permis d&#039;affirmer un peu plus les poopers dans le Wikia grâce à la création des badges relatifs aux pages des poopers...en plus,LostSword est vraiment un jeune ambitieux et il est doué pour la reformulation de phrase et la restructuration de page!Il est super-sympa avec moi en plus :D
+ 
+Voila, j&#039;espère que vous penserez à nous rejoindre parce qu&#039;on est pas beaucoup en ce moment (on est que 81) et la majorité n&#039;ont pas amené autant que moi sur ce projet...en même temps,je m&#039;y connais en YouTuber et en YouTube Poop alors c&#039;est facile quand on fait partie d&#039;une confrérie :p
+ 
+Merci d&#039;avoir lu cet article!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

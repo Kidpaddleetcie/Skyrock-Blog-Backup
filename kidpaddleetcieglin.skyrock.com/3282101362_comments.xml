@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Idée de Glin]Une entreprisation des pays! - Commentaires</title>
+  <description>Bonjour,bienvenue sur Kidpaddleetcie pour l&#039;exposition d&#039;une idée qui me trotte dans la tête depuis quelque temps: Créer des entreprises propres à chaque pays!
+ 
+Le concept assez simple: Créer des entreprises qui sont gérer par l&#039;état et qui vendent des produits locaux tout en recueillant des informations sur la consommation tel que les produits les plus demandés et les prix les plus juste. En gros, c&#039;est un système pour remplir autant les caisses de l&#039;état mais aussi permettre à nos pays de mettre en avant leurs patrimoines agricoles/forestiers/floral/...  En plus,on peut créer un logo &quot;Je soutiens mon pays&quot; aux emballages en papier recyclé des produits :3
+ 
+En plus, des artistes peuvent offrir leurs droits d&#039;auteurs à leur pays pour que leurs œuvres soit répertorier dans des disques, playlists en communs qui se vendront aux frais des revenus générés chaque année par le pays!
+ 
+Pour extrapoler et donner un exemple, c&#039;est comme si le droit d&#039;auteur de PSY avec Gangnam Style  avait rapporté à la Corée du Sud plus de 10 000 000$ rien que par ses visionnages sur YouTube!
+ 
+Oui,ça forcerait les gens à devenir patriotique tout d&#039;un coup mais avouez que ça le vaut bien ^_^ Le peuple bosse pour le peuple, pas sans le peuple!
+ 
+En plus, on va carrément créer avec ça des cycles de consommations à cause de la diversités des produits...comme Nintendo pour le coup!
+ 
+Bien sur,les produits Made In China existeront toujours mais au moins on pourra limité les revenus des patrons d&#039;enfants chinois!
+ 
+Donc ce serait une avancée économique, universelle, durable, sociable et environnementale! 
+ 
+Voila, j&#039;espère que cette idée sera encore plus creusée à l&#039;avenir mais la base est bonne à mes yeux!
+ 
+Merci d&#039;avoir lu mon idée!
+Kidpaddleetcie Glin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

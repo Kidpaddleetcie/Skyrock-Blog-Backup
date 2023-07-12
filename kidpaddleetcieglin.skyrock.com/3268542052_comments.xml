@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Histoire &amp; Géographie]Analyse de conflit:Catégories d&#039;infos - Commentaires</title>
+  <description>
+1)Savoir qui sont les acteurs principaux:
+Toute personne morale ou physique qui agit au cours du conflit.Elle peut prendre différentes composantes.
+ 
+Précisons que une personne morale est un groupe de personne,un collectif, tandis qu&#039;une personne physique est une personne biologique.
+ 
+2)Acteurs secondaires
+Toute personne morale ou physique qui intervient dans le conflit VIA le soutient qu&#039;elle procure à un acteur principale.L&#039;acteur secondaire peut être neutre.Il peut comprendre des composantes.
+ 
+3)Les enjeux
+Objectifs poursuivis à travers le conflit par chacun des acteurs.
+ 
+4)Les moyens utilisés
+Techniques ou matérielles mis en oeuvre par chaque acteur en fonction de ses enjeux.
+ 
+5)Paramètre historique
+Événement antérieur au conflit qui a un impacte sur lui.Le déroulement du conflit ne nous intéresse pas.
+ 
+6)Paramètre géographique
+Spécificités du territoire qui ont un impacte sur le conflit.
+ 
+7)Catalyseur
+Date de départ du conflit.Qui fait quoi,où?
+ 
+8)La résolution
+Date(s) de fin du conflit.Qui fait quoi,où?</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> la première danse francophone interactif:  La danse d&#039;Hélène - Commentaires</title>
+  <description>
+
+ 
+ 
+ 
+Moi je me demande le but de ce couplet:
+ 
+&quot;Je mets le sexe devant
+Je mets le sexe derrière
+Je mets le sexe devant
+Je fais de tous petits ronds
+Je fais le boogie woogie
+Je fais le tour de moi même
+Et je vais en avant&quot;
+ 
+ 
+ 
+ 
+ 
+  Paroles:  
+Je mets le doigt devant
+Je mets le doigt derrière
+Je mets le doigt devant
+Je fais de tous petits ronds
+Je fais le boogie woogie
+Je fais le tour de moi même
+Et je vais en avant
+
+Je mets la main devant
+Je mets la main derrière
+Je mets la main devant
+Je fais de tous petits ronds
+Je fais le boogie woogie
+Je fais le tour de moi même
+Et je vais en avant
+
+La la la la la la
+La la la la la la
+La la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la
+
+La la la la la la
+La la la la la la
+La la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la
+
+Je mets le coude devant
+Je mets le coude derrière
+Je mets le coude devant
+Je fais de tous petits ronds
+Je fais le boogie woogie
+Je fais le tour de moi même
+Et je vais en avant
+
+Je mets le genou devant
+Je mets le genou derrière
+Je mets le genou devant
+Je fais de tous petits ronds
+Je fais le boogie woogie
+Je fais le tour de moi même
+Et je vais en avant
+
+La la la la la la
+La la la la la la
+La la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la
+
+Je mets la langue devant
+Je mets la langue derrière
+Je mets la langue devant
+Je fais de tous petits ronds
+Je fais le boogie woogie
+Je fais le tour de moi même
+Et je vais en avant
+
+Je mets le sexe devant
+Je mets le sexe derrière
+Je mets le sexe devant
+Je fais de tous petits ronds
+Je fais le boogie woogie
+Je fais le tour de moi même
+Et je vais en avant
+
+La la la la la la
+La la la la la la
+La la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la
+
+La la la la la la
+La la la la la la
+La la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la la
+La la la la la la
+ 
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

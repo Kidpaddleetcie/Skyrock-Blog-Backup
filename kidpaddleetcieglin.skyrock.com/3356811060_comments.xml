@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> ICI T LIBRE ! - Commentaires</title>
+  <description>
+ 
+Toi. Toi et tous les autres. Vous avez été des millions dès le début des années 2000 à vous lancer dans la création d&#039;un skyblog, à publier des textes, des photos, à commenter... Vous avez contribué à créer un des premiers réseaux sociaux au monde. Vous étiez les pionniers d&#039;un mode de communication et d&#039;échange collectif qui allait changer nos sociétés. Vous avez inventé l&#039;intimité partagée. Toute une génération créative, artistique, du son, de l&#039;écrit, de l&#039;image a fait ses premiers pas sur les skyblogs ! Les skyblogs sont devenus le 17e site mondial en 2007. La génération skyblogs c&#039;est vous. La révolution skyblogs c&#039;est vous.
+
+Et derrière cette explosion de vécus et d&#039;imaginations en réseau, il y a la fantastique équipe numérique de Skyrock qui va tout inventer. Les classements, la modération, les événements publicitaires, les attaques cyber, le défi du très grand nombre, le code à faire évoluer sans cesse, des délais de réponse des machines, jusqu&#039;au stockage sur les serveurs... Oui, dans les années 2000, c&#039;est un des premiers réseaux sociaux au monde, tout est à concevoir pour la première fois !
+
+C&#039;est l&#039;âge d&#039;or du Web, c&#039;est l&#039;âge d&#039;or des blogs. Viendront ensuite les autres réseaux, des services nouveaux, talentueux, répondant aux goûts du public. Disposant de moyens planétaires, ils seront les plus populaires.
+
+Nous avons vécu ensemble ces moments d&#039;exception, si forts. Une liberté d&#039;expression magique, qui n&#039;existe plus. Ici T Libre ! Comme sur Skyrock, cet état d&#039;esprit, cette émancipation, cette force, c&#039;est nous, c&#039;est vous.
+
+Aujourd&#039;hui, les skyblogs rentrent dans l&#039;Histoire. Pour nous mettre en conformité avec la législation sur les données personnelles, pour conserver la plateforme et les skyblogs dans leur présentation candide et éruptive, il nous faut la geler et la retirer de l&#039;accès public. Chacun pourra transférer sur sa machine son blog, s&#039;il le souhaite, et éventuellement l&#039;effacer. Puis ce trésor sociologique sera anonymisé et prendra le chemin des archives nationales* afin que demain les érudits et les chercheurs puissent se rendre compte avec une granularité inimaginable précédemment de ce qu&#039;était la nouvelle génération du début du XXIe siècle.
+
+Merci mes amis pour tout ce que nous avons fait ensemble, cet immense réseau d&#039;échange qui nous a changés, qui nous a fait rentrer dans une nouvelle ère. Vous étiez l&#039;avant-garde de toutes les générations suivantes.
+
+Pour nous à Skyrock, nous avons une immense fierté de cette trajectoire, de cette ascension ou chacun était une étoile reliée à toutes les autres. Mais nous ne sommes pas nostalgiques. Le meilleur est toujours devant. Aujourd&#039;hui, nous avons créé Skred, première messagerie sécurisée mondiale d&#039;origine européenne avec 17 millions d&#039;utilisateurs dans le monde. Un nouvel utilisateur toutes les 15 secondes à Dubaï, Pékin, Limoges, Jakarta, Khartoum... Et Skred est classée parmi les sept meilleures messageries mondiales par le site de référence « The Verge ». Alors pourquoi une messagerie ? Au XXe siècle, la liberté d&#039;expression, c&#039;était parler à tous ; au XXIe, c&#039;est choisir qui écoute. Avec un système en pair-à-pair, personne ne peut écouter vos conversations sur Skred. Notre mission pour la liberté continue, s&#039;amplifie.
+
+Skyrock, première radio libre de France, première radio urbaine mondiale ; les Skyblogs, réseau social populaire et pionnier et maintenant Skred compagnon des libertés, c&#039;est la même envolée.
+
+Et ce parcours d&#039;une équipe, ce parcours avec des millions d&#039;auditeurs chaque jour, des millions d&#039;abonnés sur les réseaux sociaux, il n&#039;existe que grâce à toi. À toi et à tous les autres.
+
+Pierre Bellanger
+Fondateur et président du groupe Skyrock
+
+* Les blogs sont sauvegardés par l&#8217;Institut National de l&#039;Audiovisuel (INA) et la Bibliothèque Nationale de France (BNF).</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

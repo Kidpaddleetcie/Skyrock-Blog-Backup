@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Informatique]Les commandes &quot;git&quot; pour mettre en ligne un projet GitHub! - Commentaires</title>
+  <description>Lorsqu&#039;on est confronté à l&#039;utilisation de Github sur Linux et Mac, on ne peut utiliser le logiciel créé pour Windows vu que Microsoft a racheté Github en 2018.
+ 
+M&#039;étant confronté à la dur réalité de la chose avec un ordinateur portable fonctionnant avec Ubuntu, j&#039;ai dû utiliser le terminal (Ctrl + Alt + T ) pour pouvoir mettre en ligne des travaux ainsi qu&#039;arranger mes répertoires Github!
+ 
+Pour faire un copier-coller dans le terminal, il faut faire &quot;Ctrl + Maj + C&quot; et &quot;Ctrl + Maj + V&quot;, retenez bien ça, c&#039;est pour ne pas copier les URL à la main ou devoir utiliser la souris à chaque fois!
+ 
+Sachez aussi qu&#039;on ne peut pas revenir à une ligne précédente en cliquant dessus!
+ 
+La démarche est simple mais il faut quand même respecter étape par étape la démarche:
+ 
+D&#039;abord, on écrit ces trois lignes de code pour installer Git:
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install git 
+ 
+Vous mettez votre mot de passe
+ 
+ Ensuite, il faut créer un dossier à partir d&#039;un répertoire en ligne sur Github!
+Trouver donc un répertoire et cliquer sur &quot;Clone or Download&quot; pour récupérer (copier) un lien avec l&#039;extension .git !
+
+Une fois cela fait, allez dans votre terminal et inscrivez:
+git clone https;//github.com/NOM DU PROPRIÉTAIRE DU RÉPERTOIRE/NOM DU RÉPERTOIRE
+cd NOM DU RÉPERTOIRE
+git branch -a
+git branch NOM DE LA NOUVELLE BRANCHE 
+git checkout NOM DE LA BRANCHE NOUVELLEMENT CRÉÉE
+git branch -a
+git branch NOM DE LA BRANCHE DANS LA NOUVELLE BRANCHE
+git checkout NOM DE LA BRANCHE DANS LA NOUVELLE BRANCHE
+nano README.md
+ 
+Ici, c&#039;est pour écrire en MarkDown la présentation du projet! On continue avec:
+ 
+git add README.md
+git commit
+ 
+Ici c&#039;est pour écrire un résumé des modifications apportés au projet! On poursuit avec:
+ 
+git push origin NOM DE LA NOUVELLE BRANCHE
+ 
+Ici, vous inscrivez votre nom d&#039;utilisateur Github et ensuite votre mot de passe!
+ 
+git branch
+git push origin NOM DE LA BRANCHE DANS LA NOUVELLE BRANCHE
+ 
+Ici, vous inscrivez votre nom d&#039;utilisateur Github et ensuite votre mot de passe!
+Et voila, vous aurez créé une branche et une sous branche que vous aurez mit en ligne!
+ 
+Petit récap&#039; des commandes employées:
+ 
+&quot;git clone &quot; vous permet de copier le répertoire en ligne dans votre ordinateur à l&#039;emplacement dont vous vous trouver actuellement (si vous désirez vous rendre quelque part en particulier, taper juste sa position après la commande &quot;cd&quot;)
+ 
+&quot;cd NOM DE DOSSIER&quot; permet de se rendre à un dossier contenu dans le dossier actuel!
+ 
+&quot;cd ..&quot; permet de retourner à un dossier en arrière!
+ 
+&quot;git branch X&quot; permet de créer une branche s&#039;appelant X à l&#039;endroit où vous êtes!
+ 
+&quot;git checkout X&quot; permet de mettre sa position à la branche nommée!
+ 
+&quot;nano NOM DE FICHIER.EXTENSION DU FICHIER&quot; permet d&#039;ouvrir le logiciel &quot;Nano&quot; qui sert à écrire dans le terminal ainsi que le fichier qu&#039;on désire modifier!
+ 
+&quot;git add NOM DE FICHIER.EXTENSION DU FICHIER&quot; permet d&#039;ajouter à la liste des trucs à push (mettre en ligne) les fichiers mentionnés!
+ 
+&quot;git commit&quot; permet de faire un rapport avant la mise en ligne!
+ 
+&quot;git push ENDROIT OÙ METTRE LES FICHIERS&quot; permet de mettre en ligne les fichiers qu&#039;on a &quot;git add&quot; ainsi que mettre à jour le &quot;git commit&quot;. On vous demande votre nom d&#039;utilisateur et votre mot de passe à GitHub après!
+ 
+ 
+Voila,je vous ai donc présenté l&#039;essentiel des commandes pour pouvoir utiliser Github sur Linux mais sachez qu&#039;il y a plein de documentation sur le web pour le Mac et l&#039;application pour Windows qui simplifie grandement la tâche! 
+ 
+KidpaddleetcieGlin
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

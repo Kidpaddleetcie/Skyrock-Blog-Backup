@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Infos] Les valeurs maximales de &quot;Shakes and Fidget:The Game&quot; ( Mai 2021 ) - Commentaires</title>
+  <description>Pour obtenir certains succès, il faut atteindre des objectifs qui sont souvent &quot;améliore tel élément à son niveau maximal&quot;. Malheureusement, le jeu se garde de vous dire quel est le niveau maximal atteignable pour chaque élément en lien avec un succès !
+ 
+Laissez-moi donc vous en dresser la liste à partir de différentes sources : 
+ 
+
+&quot;Collectionneur Frénétique&quot; demande à remplir l&#039;album à 90%.
+Sachant qu&#039;il y a 2 200 éléments collectionnables,  ça fait 1980 éléments à collecter pour obtenir le succès !
+ 
+L&#039;astuce est donc de tout prendre dans les boutiques le plus souvent possible !
+ 
+ 
+&quot;Cryptozoologiste&quot; demande à collecter tout les familiers.
+Il y a 100 familiers en tout ( 20 emplacements *5 éléments )
+ 
+ 
+&quot;Roi&quot; demande d&#039;améliorer tout les bâtiments au maximum.
+&#65279;Alors:
+Carrière et Camps de bucherons: niveau 25 =&gt; Non, c&#039;est 20
+Caserne : Niveau 15
+Académie : Niveau 20
+Banque : Niveau 50 ( déterminé en fonction du succès &quot;Stockage XXL&quot; qui dit qu&#039;il y a 50 emplacement d&#039;inventaire à débloqué ) =&gt; Non, c&#039;est 45
+Mine de gemme : Infini ( non comptabilisé donc )
+Tour des mages : Niveau 15
+Forge : Niveau 20
+Quartier ouvrier : Niveau 15
+Fortifications : Niveau 20
+Forteresse : Niveau 20
+Guilde des archers : Niveau 15
+ 
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------
+Sources: 
+https://forum.sfgame.fr/showthread.php?t=14014
+https://fr.4m7.de/sammelalbum/festung.php
+ 
+MISE À JOUR DU 3 JUIN 2021 : Merci à pandaman621 pour les indications.
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3342077190_comment_1.html#c-20549184472" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3342077190_comment_1.html#c-20549097634" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3342077190_comment_1.html#c-20549184472">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3342077190_comment_1.html#c-20549184472</link>
+		<dc:date>2021-06-24T02:57:15+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Non, j&#039;ai l&#039;ensemble des informations de sources sûrs !</description>
+		<content:encoded><![CDATA[
+			Non, j&#039;ai l&#039;ensemble des informations de sources sûrs !
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3342077190_comment_1.html#c-20549097634">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3342077190_comment_1.html#c-20549097634</link>
+		<dc:date>2021-06-23T16:52:16+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>forterresse 25 et mine de gemme 100 et mine dans les enfer 225 me semble</description>
+		<content:encoded><![CDATA[
+			forterresse 25 et mine de gemme 100 et mine dans les enfer 225 me semble
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

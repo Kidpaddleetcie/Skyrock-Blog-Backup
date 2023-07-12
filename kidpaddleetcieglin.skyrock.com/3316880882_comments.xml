@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Poster de la 3D sur Facebook! - Commentaires</title>
+  <description>------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ MISE À JOUR OCTOBRE 2021: Il semblerait que Facebook aille retirer la fonctionnalité d&#039;importation de petit modèle 3D ! La fonctionnalité était expérimentale et il est possible qu&#039;elle fût retirer parce que peu de gens l&#039;employait.  ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Quand j&#039;ai appris qu&#039;on sait poster de la 3D sur Facebook, je me suis vite renseigné en faisant des recherches...comme tout être humain doté du web et de mains complètes ainsi qu&#039;un support pouvant se connecter à internet avec une interface visuelle... c&#039;est précis mais c&#039;est pour accentuer la blague!
+ 
+De mes recherches, j&#039;ai appris 2 choses:
+1. Le format est propre à Facebook donc l&#039;utilisation d&#039;un Uploader qui convertira votre fichier est nécessaire!
+2.Il existe un logiciel en ligne pour créer aisément (sans réelle difficulté) des modèles 3D directement exportable sur Facebook! En voici le lien: https://easy3dpost.com/
+ 
+Le format de fichier des modèles 3D de Facebook est le &quot;.glb&quot;, la version binaire du format &quot;glTF 2.0&quot; qui est disponible en téléchargement alternatif du fichier d&#039;origine sur Sketchfab!
+
+
+Comment obtenir la version binaire de ce format de fichier alternatif dont on nous vend les mérites de son rapport poids/qualité à cette adresse https://developers.facebook.com/docs/sharing/3d-posts/glb-tutorials/ ?  Hé bien... il n&#039;y a qu&#039;à suivre cette démarche proposé dans le lien, justement!
+
+
+Le soucis est qu&#039;il est long si on ne démarre qu&#039;à partir de son fichier .FBX! Donc il vaut mieux abrégé nos souffrances en publiant sur Sketchfab nos modèles 3D puis les télécharger directement dessus dans le bon format (glTF 2.0)!
+
+
+Maintenant que nous avons abrégé 4 étapes en 2 sans passer par du coding et du téléchargement de logiciel sur Github ( https://github.com/facebookincubator/FBX2glTF ), on n&#039;a plus qu&#039;à faire la dernière étape qui est de convertir le glTF en GLB!
+Pour se faire, l&#039;étape demande juste qu&#039;on fasse cliquer-glisser les fichiers que Sketchfab nous as offert gratuitement et gentiment sur la page! https://glb-packer.glitch.me/
+
+
+
+VOILA! 3 ÉTAPES POUR FAIRE UN MODÈLE 3D PUBLIABLE SUR FACEBOOK!!! VOUS ALLEZ POUVOIR SPAMMER VOS AMIS D&#039;OBJET À REGARDER SUR PLEINS D&#039;ANGLES DIFFÉRENT!!!!
+
+
+KidpaddleetcieGlin
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Mes sources:
+Là où j&#039;ai tiré mes premières informations: 
+https://www.digitalartsonline.co.uk/news/hacking-maker/artists-can-now-post-interactive-3d-models-straight-facebook/
+Des précisions sur la nouveauté: 
+https://www.3dnatives.com/facebook-modele-3d-010320183/
+Le tutoriel de Facebook:
+https://developers.facebook.com/docs/sharing/3d-posts/glb-tutorials/
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Précisions post-rédaction
+
+&#65279;Il y a une limite de 3 145 728 bytes (donc 3 MB) de mémoire allouées à un modèle 3D!
+Vous pouvez faire vérifié vos modèles 3D avec cette page https://developers.facebook.com/tools/3d/validation  !
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3316880882_comment_1.html#c-20573006732" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3316880882_comment_1.html#c-20573006540" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3316880882_comment_1.html#c-20572935590" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3316880882_comment_1.html#c-20573006732">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3316880882_comment_1.html#c-20573006732</link>
+		<dc:date>2021-10-17T01:09:33+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Ouik, ils l&#039;ont retiré !</description>
+		<content:encoded><![CDATA[
+			Ouik, ils l&#039;ont retiré !
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3316880882_comment_1.html#c-20573006540">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3316880882_comment_1.html#c-20573006540</link>
+		<dc:date>2021-10-17T01:06:49+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Mince, je vais voir de mon coté alors :/</description>
+		<content:encoded><![CDATA[
+			Mince, je vais voir de mon coté alors :/
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3316880882_comment_1.html#c-20572935590">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3316880882_comment_1.html#c-20572935590</link>
+		<dc:date>2021-10-16T17:46:59+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Rien ne fonctionne</description>
+		<content:encoded><![CDATA[
+			Rien ne fonctionne
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Retour sur une YTP ]Kendji Girac montre tout son talent divin ! - Commentaires</title>
+  <description>
+ 
+
+
+ 
+Histoire de la création de cette YTP
+ 
+Le 23 Septembre 2020, j&#039;ai eût l&#039;idée de pooper une nouvelle fois
+( après 2 ans avec [YTP FR]Kendjinch Allah/Glin ) Kendji Girac.
+
+
+Je m&#039;étais lancé le défi de rendre cette YouTube Poop regardable et écoutable pour tout le monde selon plusieurs critères:
+
+- Pas de vulgarité
+- Pas de référence à des conflits
+- Raconter une petite histoire
+ 
+J&#039;ai donc regardé plusieurs clips de Kendji Girac et c&#039;est au fur et à mesure que la YTP se faisait que j&#039;ai construit mon récit en revenant sur des séquences des premiers jours de création plusieurs fois.
+ 
+C&#039;est le 4 Octobre 2020 où l&#039;ensemble de l&#039;histoire fût terminé et que je suis passé en phase de peaufinage avec les sous-titres, les effets de type &quot;shockwave&quot; et &quot;smash&quot; ainsi que les zooms et les effets de transitions. L&#039;étape du peaufinage et donc du rendu finale se sera terminé le 7 Octobre 2020.
+ 
+ 
+Le plus dur, selon moi, a été de faire le sentence-mixing. Le fait que Kendji Girac soit chanteur induit que sa voix est posée sur une musique. Si le début de la YTP garde l&#039;instrumental, j&#039;ai préféré la retiré avec https://www.acapella-extractor.com/ pour les dernières scènes afin de garder l&#039;immersion avec la musique et les bruitages de Tetris 99 !
+ 
+L&#039;histoire de la YTP
+
+
+Kendji Girac chantait joyeusement une chanson d&#039;un film Bollywoodien quand, sous un coup de tête, il se met à danser.
+
+Sa danse étant faîtes avec une pose peu équilibrée, Kendji tombe au ralentit. Mais il n&#039;est pas blessé donc il recommence à danser avec bon entrain.
+
+
+Content d&#039;avoir danser joyeusement sans le moindre problème, il se félicite et gagne en confiance en lui. Il décide donc de profiter de cette chance pour exprimer tout son talent dans des activités ludiques.
+
+
+Il prend sa voiture et se rend au Bowling où il arrivera à dégager 98 quilles sur 100,ce qui est très impressionnant. Kendji est en joie et se trouve des airs divins.
+
+
+Kendji marche dans la rue avec sa guitare et un inconnu pour se rendre à la mer pour prendre du bon temps mais... l&#039;envie de chanter revient à Kendji et il décide de chanter un bout du générique de LadyBug à des gens de la plage.
+
+
+Une fois les gens ravis, Kendji se rend dans un bar pour y jouer à la Nintendo Switch après avoir testé un casque avec la chanson &quot; Si la vie est cadeau &quot; de Corinne Hermes.  Une partie de Mario Kart 8 Deluxe gagnée donne encore plus la pèche à Kendji !
+
+Kendji décide donc de chanter un bout du premier générique de Pokémon avant d&#039;aller faire un Home Run en face du bar sur le terrain de Baseball.
+
+Kendji revient dans le bar et chante un bout de &quot;Parle à ta tête&quot; de Indila avant de lancer une partie de Tetris 99 très chargée en émotion mais avec un score relevant du divin : 51 K.O. en une seule partie et un Tetris Maximus. Même Jotaro Kujo n&#039;en revient pas.
+
+Après l&#039;outro, Kendji fait une danse Fornite.
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

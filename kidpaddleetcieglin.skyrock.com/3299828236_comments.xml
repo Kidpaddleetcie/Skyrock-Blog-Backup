@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Réflexion]Mario et sa quantité astronomique de jeux! - Commentaires</title>
+  <description>En me promenant sur Wikipédia, je suis tombé sur cette page: https://fr.wikipedia.org/wiki/Liste_des_jeux_vid%C3%A9o_Mario
+ 
+En regardant la liste des jeux où Mario est la vedette, je me suis rendu compte que la liste de jeu avec Mario est longue, voyez plutôt:
+
+
+
+Donkey Kong (Arcade)
+Donkey Kong (Game&amp;Watch)
+Donkey Kong (Game Boy)
+Donkey Kong Jr. (Arcade)
+Dr. Mario Mario Bros.
+Mario&#039;s Bombs Away
+Mario&#039;s Cement Factory
+Golf
+Super Mario Bros.
+Versus Wrecking Crew
+Super Mario Bros. Special (NEC PC-8801)
+Super Mario Bros.: The Lost Levels
+Kaettekita Mario Bros.
+Super Mario Bros. 2
+Super Mario Bros. 3
+Super Mario Land
+Mario and Yoshi
+Mario Teaches Typing (MS-DOS)
+Mario the Juggler
+NES Open Tournament Golf
+Super Mario Bros. and Friends: When I Grow Up (MS-DOS)
+Super Mario World
+Mario Paint
+Super Mario Land 2: 6 Golden Coins
+Yoshi&#039;s Cookie
+Mario and Wario
+Mario&#039;s Early Years: Fun with Letters
+Mario&#039;s Early Years: Fun with Numbers
+Mario&#039;s Early Years: Preschool Fun
+Mario&#039;s Time Machine
+Yoshi&#039;s Safari Hotel Mario (CD-i)
+Mario Clash (VirtualBoy)
+Mario&#039;s Game Gallery (PC)
+Mario&#039;s Picross
+Mario&#039;s Super Picross
+Super Mario RPG: Legend of the Seven Stars
+Super Mario World 2: Yoshi&#039;s Island
+Super Mario 64
+Mario Teaches Typing 2 (PC)
+Mario Artist
+Dr. Mario 64
+Paper Mario
+Super Mario Advance
+Super Mario Sunshine
+Mario and Luigi: Superstar Saga
+Mario vs. Donkey Kong
+Paper Mario : La Porte millénaire
+Super Mario Ball
+Dr. Mario and Puzzle League
+Mario et Luigi : Les Frères du temps
+Mario vs. Donkey Kong 2 : La Marche des Mini
+New Super Mario Bros.
+Super Mario Galaxy
+Super Paper Mario
+Dr. Mario et Bactéricide
+Mario et Luigi : Voyage au centre de Bowser
+Mario vs. Donkey Kong : Le Retour des Mini !
+New Super Mario Bros. Wii
+Super Mario Galaxy 2
+Mario vs. Donkey Kong : Pagaille à Mini-Land !
+Super Mario 3D Land
+New Super Mario Bros. 2
+New Super Mario Bros. U
+Paper Mario: Sticker Star
+Mario &amp; Luigi: Dream Team Bros.
+Mario and Donkey Kong: Minis on the Move
+Super Mario 3D World
+Mario &amp; Luigi: Paper Jam Bros.
+Mario vs. Donkey Kong: Tipping Stars
+Super Mario Maker
+Mini-Mario &amp; Friends: Amiibo Challenge
+Paper Mario: Color Splash
+
+
+Vous savez, la théorie comme quoi chaque jeu est un film pour ses personnages,
+Mario serait donc, dans ma réflexion, un acteur de renommé mondiale qui joue autant dans le cinéma Japonais (Arcade-NES-SNES-N64-GC-Wii-WiiU),
+qu&#039;à la TV Japonaise (G&amp;W- GC-DS-3DS),
+qu&#039;au cinéma Américain (MS-DOS-PC),
+qu&#039;au cinéma Européen (CD-i)!
+
+
+C&#039;est énorme mais je pense que Mario est le personnage de la mondialisation des médias!
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

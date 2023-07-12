@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Podcast2Glin]Les YouTube Poops - Commentaires</title>
+  <description>En ce moment, j&#039;ai postés 3 podcasts ayant pour sujet les YouTube Poop et...le petit dernier a eût plus de soin que le précédent mais avant de vous le présenter, c&#039;est partit pour les deux premiers podcasts!
+ 
+[Glin PodcastStandUp With GreenScreen]Faire une YouTube Poop  ( 8 sept. 2013 )
+
+ 
+
+Les YouTube Poop  (9 avr. 2015)
+
+ 
+Voila, au niveau de la qualité, c&#039;est toujours un vrai Yo-yo, mais le contenu est riche!
+
+
+La petite dernière est donc celle-ci:
+Les YouTube Poop (15 févr. 2017)
+
+ 
+Voici le texte que j&#039;ai fais (car oui,je sais préparé mes vidéos!):
+ 
+Bonjour, bienvenue sur Kidpaddleetcie,
+Aujourd&#039;hui je vais vous parler des YouTube Poop.
+ 
+Définition
+
+Tout d&#039;abord, amenons une définition à ce groupe nominal :
+Vidéo postée sur YouTube ayant pour ressource des vidéos de la plateforme et/ou de la pop-culture détourné à des fins humoristiques ou critiques.
+ 
+Dans cette définition, je porte surtout un intérêt pour l&#039;idée que ça doit être posté sur YouTube et contenir du YouTube ! Quand on fait une YouTube Poop, c&#039;est surtout la présence de contenu qui prime et non la qualité ! Peu importe si la YouTube Poop a été créé sur Windows Movie Maker ou Sony Vegas avec sur le côté du 3DSmax et du After Effect !
+ 
+Origines
+
+Le terme « poop » est un relent des origines des YouTube Poop car leur but premier était de polluer YouTube en devenant le plus envahissant possible !  Mais ce n&#039;était que l&#039;idée de base car de fil en aiguille, c&#039;est le côté humoristique qui est arrivé à cause des techniques tel que la répétition ou la musique You Spin Me Around en faisant tourner la vidéo ! Mais ce n&#039;était encore qu&#039;en Amérique à ce moment-là !
+ 
+Je tiens à dire que c&#039;est SuperYoshi avec sa YouTube Poop « I&#039;d say he&#039;s hot on our tail » postée le 27 novembre 2006 qui a créé la toute première YouTube Poop de l&#039;histoire ! (OUI, ça fait 10 ans que les YouTube Poop existent). La première source utilisée fût le dessin-animé Super Mario Bros 3 !
+ 
+Je tiens à mettre en évidence que les premières sources des YouTube Poop ont surtout tournée autour des ratés d&#039;adaptation de licence de Nintendo ! D&#039;où les Zelda CD-i,Hotel Mario, Super Mario Bros 3,... La communauté poopesque semble se venger contre ces tragédies nauséabondes !
+ 
+Dans nos chers pays francophones, grâce à MaxLeFou en 2007, nous avons pût découvrir ce monde merveilleux qui ne demandait qu&#039;à avoir sa partie française de la force !
+Voilà ça c&#039;était la partie origine !
+ 
+Evolution
+
+Au fur et à mesure que YouTube mettait des nouveaux YouTubeurs en avant, le nombre de ressource pour les YTP explosait (et explose encore). Combiens de YTP sur JDG,Cyprien,Norman,... ont été posté ? Une sacrée poignée !
+ 
+Et puis...l&#039;évolution ne s&#039;est pas faîte seulement dans les sources car même si beaucoup de contenu purement francophone ont été utilisé dans les French YTP, on peut retrouver également d&#039;autres particularités à nos YTP. Le MLG (pour Major League Gaming) montre le bout de son nez assez souvent 10 ans après le début des YTP alors qu&#039;il n&#039;y avait même pas 2 ans, on croyait à une rivalité alors que la YTP est le genre de vidéo ayant TOUTES LES CAPACITES !
+ 
+En parlant de capacité, l&#039;évolution s&#039;est faîtes aussi avec la démocratisation de certains logiciels tels que Sony Vegas, Adobe Première, Magix Video Deluxe ou encore Pinnacle ! Adieu Windows Movie Maker, bonjour les incrustations à gogo, la corrélation de licence, les distorsions, les YTPMVs, Les YouTubePoopGaming et j&#039;en passe et des meilleurs !
+ 
+Si un mot peut désormais qualifier dans sa globalité le monde de la YTP c&#039;est bien « Diversité » tellement il est facile de créer une YTP mais difficile de se démarquer et de faire en sorte de caler les meilleures vannes aux meilleurs moments !
+ 
+Certains Poopeurs se sont même lancer des grands défis comme le fameux
+« &#12304;Truand2LaCollab&#12305; Morsay Mad Festival 2016 - REVENGEANCE &#8211; »
+qui est vraiment un témoignage des capacités actuels des YTPMVs.
+ 
+Conclusion
+
+Je terminerais donc ce podcast avec une l&#039;énoncé de mes poopeurs préférés !
+-Diddy64Wii
+-Le Père Doriot
+-RangerSpatial8
+-EnfluredeRenard
+-JeFaisChierLesGens
+-Capitaine Sadako
+-Karnak
+-Yoonns</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

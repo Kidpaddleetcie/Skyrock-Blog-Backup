@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Système&amp;Réseau]L&#039;ordinateur familial - Commentaires</title>
+  <description>Un des premier PC fût le ZX81 en 1981, il avait un très lourd câble d&#039;alimentation et la programmation en BASIC était la principale activité. C&#039;était qu&#039;un Kb de mémoire (16 Kb avec l&#039;extension). La résolution était assez proche d&#039;un vieux VGA, 325 lignes. Il n&#039;y a pas de clic quand on appuie sur les touches. L&#039;inventeur du ZX81 est Lord Sinclair.
+ 
+
+En 1982, la couleur arrive sur le ZX Spectrum mais sinon c&#039;est la même bête que le ZX81.
+Encore en 1982, le Oric 1 arrive sur le marché britannique et a pour nouveauté par rapport aux ZXs d&#039;avoir un haut-parleur à l&#039;intérieur et donc un synthétiseur. Il y a une modulation des sons du buzzer 8-bit contrairement aux ZXs où le son est juste des buzzers simples.
+ 
+
+L&#039;Amstrad CPC 464 avait 64 kb de mémoire de ram, un moniteur de bonne qualité, une imprimante, un lecteur disquette, il y avait même deux joysticks. On pouvait aussi communiquer en branchant l&#039;Amstrad CPC 464 au modem.
+ 
+L&#039;Amstrad CPC 6128 avait 128 Kb de mémoire de ram, le lecteur de disquette est directement dans le clavier et un meilleur graphisme.
+ 
+L&#039;Atari ST en 1985 avait un écran noir et blanc, un clavier comme aujourd&#039;hui
+(avec un pad numérique), des prises midi, la première souris à deux boutons, 512 Kb pendant un temps et 1024 kb mais à la fin 1 méga de ram. C&#039;est en 1992 que les magazines sur les ordinateurs arrivent en librairie. Il y aura aussi Word qui aura déjà son dictionnaire des synonymes. On était à 256 couleurs. Il y a aussi un Optical Character Recognition (OCR) qui sert à scanner du texte pour afficher du texte convertit en texte, c&#039;est comme un copier-coller. Grâce à un certain boitier, on pouvait convertir son Atari ST en Macintosh. Il y a aussi une prise DIN. L&#039;interface à l&#039;écran était assez proche de Windows : La corbeille, les fenêtres, les dossiers, les icones, ... étaient déjà là !
+ 
+C&#039;est la société Xerox qui aura aidé Steve Jobs à développer la souris.
+ 
+L&#039;AMIGA avait de très bon graphisme et commençait à faire un peu de vidéo (en petite résolution) !
+ 
+Le premier Apple (Apple I) était vendu comme une carte aux marchands qui les revendait à des électroniciens afin qu&#039;ils puissent créer leurs ordinateurs.
+ 
+L&#039;Apple II sera en lui-même un ordinateur.
+ 
+Le Macintosh n&#039;aura qu&#039;un seul bouton sur sa souris.
+ 
+C&#039;est en 1964 que la souri a été inventé par Douglas Engelbart mais c&#039;est en 1983, en tant que LISA (MAC), qu&#039;elle sera utilisée.
+
+En 1995, elle aura sa molette, en 2001, elle sera sans fil,
+C&#039;est à partir de 2004 qu&#039;elle utilise un laser au lieu d&#039;une boule.
+ 
+Le logiciel Word a été créé à la base pour Macintosh.
+ 
+La première fois qu&#039;on parle de PC c&#039;est avec le PC IBM 5150, c&#039;est donc l&#039;ancêtre de tous les compatibles PC en 1981.
+ 
+Le MS-DOS avait dans les années 80, débuts années 90, un design composé de fond bleu et de texte en blanc.
+ 
+L&#039;Amstrad PC 1512 de 1986 était un clone de Mac.
+ 
+Bill Gates a créé le MS-DOS pour IBM a la base mais IBM ne voulait pas de contrat d&#039;exclusivité ce qui a permis à Microsoft de se faire plein de pognon sur les clones des PC d&#039;IBM. Il créa Word pour Apple.
+ 
+Le Windows 3.11 a été le premier Windows intéressent sur le marché.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

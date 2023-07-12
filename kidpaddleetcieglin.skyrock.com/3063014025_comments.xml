@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Portal - chanson de fin &#039;Still Alive&#039; [toujours en vie] - Commentaires</title>
+  <description>
+ 
+En Français:
+
+
+Ce fut un triomphe 
+Je fais ici une note: GRAND SUCCES 
+Il est difficile d&#039;exagérer ma satisfaction 
+
+Aperture Science: 
+Nous faisons ce que nous devons, car nous pouvons 
+Pour le bien de nous tous 
+sauf pour ceux qui sont morts 
+
+Mais il n&#039;y a aucun sens de pleurer sur chaque erreur 
+Vous avez juste continuer à essayer &quot;jusqu&#039;à ce que vous manquer de gâteau 
+Et la science se fait et vous faites un pistolet soignée 
+Pour les gens qui sont encore vivants 
+
+Je ne suis pas même en colère 
+Je suis d&#039;être si sincère en ce moment 
+Même si tu as brisé mon coeur et m&#039;a tué 
+Et c&#039;est déchirés morceaux 
+Et jeté chaque morceau dans un incendie 
+Comme ils ont brûlé ça fait mal parce que j&#039;étais si heureux pour vous! 
+Or, ces points de données de faire une belle ligne 
+Et nous sommes sortis de la bêta, nous publions sur le temps 
+Donc je suis content je me suis brûlé 
+Pensez à toutes les choses que nous avons appris 
+Pour les gens qui sont encore vivants 
+
+Allez-y et laissez-moi 
+Je pense que je préfère rester à l&#039;intérieur 
+Peut-être que vous trouverez quelqu&#039;un pour vous aider 
+Peut-être que Black Mesa 
+C&#039;était une blague, ha, ha, Fat Chance 
+Quoi qu&#039;il en soit ce gâteau est grand, il est si délicieux et humides 
+
+Regardez-moi parle encore, quand il ya la science à faire 
+Quand je regarde là-bas ça me rend heureux je ne vais pas vous 
+J&#039;ai des expériences de courir, il ya des recherches à faire 
+Sur les personnes qui sont encore vivants 
+
+Et croyez-moi je suis encore vivant 
+Je fais la science et je suis toujours vivant 
+Je me sens fantastique et je suis encore en vie 
+Alors tu meurs je serai encore en vie 
+Et quand tu es mort, je serai encore en vie 
+TOUJOURS VIVANT 
+encore vivants
+&#65279;
+ 
+en VO:
+
+
+This was a triumph
+I&#039;m making a note here: HUGE SUCCESS
+It&#039;s hard to overstate my satisfaction
+
+Aperture Science:
+We do what we must because we can
+For the good of all of us 
+except for the ones who are dead
+
+But there&#039;s no sense crying over every mistake
+You just keep on trying &#039;till you run out of cake
+And the science gets done and you make a neat gun
+For the people who are still alive
+
+I&#039;m not even angry
+I&#039;m being so sincere right now
+Even though you broke my heart and killed me
+And torn it pieces
+And threw every piece into a fire
+As they burned it hurt because I was so happy for you! 
+Now these points of data make a beautiful line
+And we&#039;re out of beta, we&#039;re releasing on time
+So I&#039;m glad I got burned
+Think of all the things we learned 
+For the people that are still alive
+
+Go ahead and leave me
+I think I prefer to stay inside
+Maybe you&#039;ll find someone else to help you
+Maybe Black Mesa
+That was a joke, ha ha, fat chance
+Anyway this cake is great, it&#039;s so delicious and moist
+
+Look at me still talking, when there&#039;s science to do
+When I look out there it makes me glad I&#039;m not you
+I&#039;ve experiments to run, there is research to be done
+On the people who are still alive
+
+And believe me I am still alive
+I&#039;m doing science and I&#039;m still alive
+I feel FANTASTIC and I&#039;m still alive
+While you are dying I&#039;ll be still alive
+And when you&#039;re dead I&#039;ll be still alive
+STILL ALIVE 
+still alive </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

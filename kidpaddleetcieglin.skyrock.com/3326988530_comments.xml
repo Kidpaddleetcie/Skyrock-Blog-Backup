@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Faire un site WordPress facilement ! - Commentaires</title>
+  <description>
+ 
+Lorsqu&#039;on débute dans WordPress, on est censé déjà connaître le PHP et ses installations pré-requises MAIS comme je suis un peu tête en l&#039;air et que d&#039;autres personnes peuvent être dans le même cas que moi, je vous propose d&#039;installer Wamp (http://www.wampserver.com/)  pour pouvoir travailler sur votre futur site WordPress en local et non sur un site qui ne fera que planter !
+ 
+Après avoir installer Wamp, il faut installer votre site WordPress dans le dossier &quot; www &quot; de Wamp ( de préférence, dans un dossier &quot;wordpress&quot; pour rester organisé) et se rendre sur
+&quot; localhost/wordpress/nom du futur site web/ &quot;.
+ 
+Si vous êtes coincé à cette étape, allez voir ces tutos:
+https://www.commentcamarche.net/faq/46802-comment-installer-wordpress-en-local-sur-son-pc
+ 
+http://www.apprenti-webmaster.com/formations-wordpress/formation-wordpress-debutant/lecon-1-installer-wordpress-en-local/
+ 
+https://wp-infinity.com/tutoriels-wordpress/installer-wordpress/local-usb-xampp-wamp-instantwp/
+ 
+ 
+Nous sommes donc sur une page vous demandant d&#039;installer WordPress MAIS il faut penser à créer une base de donné sur &quot; http://localhost/phpmyadmin/ &quot; ( votre identifiant et mot de passe a été établi lors de l&#039;installation de Wamp) et vous allez générer une nouvelle table vide au format &quot;UTF-8 unicode-ci&quot; avec comme nom les initiales de votre site web avec &quot;_WPI&quot; pour bien comprendre que c&#039;est la première version de votre site web.
+(En gros, c&#039;est le &quot;i&quot; signifie &quot;1&quot; dans les nombres grecs et comme on ne peut pas mettre de chiffre arabe dans le nom d&#039;une base de donnée, on fait autant s&#039;y prendre avec les lettres grecs pour signifier l&#039;ordre d&#039;apparition des tables !)
+
+
+
+&#65279;Vous êtes donc, arrivé ici, en possession d&#039;une table qui fera office de base de donnée pour WordPress lorsque vous l&#039;installerez sur la page &quot;&quot; localhost/wordpress/nom du futur site web/ &quot; ! Suivez donc les étapes de cette dernière page !
+ 
+Maintenant que vous avez votre WordPress d&#039;installer, on ne va pas s&#039;embêter d&#039;avantage, rendez-vous sur le site https://www.elegantthemes.com/gallery/divi/ afin d&#039;acheter pour 120€ le thème Divi qui va vous simplifier grandement la vie.
+ 
+Vous décompresserez le thème &quot;Divi&quot; dans le dossier &quot;C:\wamp64\www\wordpress\NomDeVotreSite\wp-content\themes\&quot; afin de pouvoir le sélectionner dans &quot; http://localhost/wordpress/NomDeVotreSite/wp-admin/themes.php &quot;.
+ 
+Ainsi, avec le thème Divi, vous pourrez créer des pages qui seront faciles à faire sans devoir coder quoi que ce soit !
+ 
+VOILA !!!
+ 
+Sinon, pour encore plus vous faciliter la création, il existe quelque plugin simplifiant la création et l&#039;organisation du site WordPress ( ils se retrouvent dans la page &quot; http://localhost/wordpress/NomDeVotreSIte/wp-admin/plugins.php &quot;:
+ 
+-Folders: Permet de créer plusieurs dossiers pour ranger vos pages,médias et articles.Bien pratique quand on gère un site vitrine mettant en avant plusieurs type de produits.
+ 
+-Duplicateur de post: Pour ne jamais recommencer de zéro un article ou une page.
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Les aventures de Sonic : Générique + paroles + montages+blague - Commentaires</title>
+  <description>
+ 
+Coupant comme une lame Rapide comme l&#039;éclair
+Ceux qui voudraient me suivre
+Ils sont tous loin derrière
+
+Je suis Sonic, l&#039;électronique
+Je suis Sonic, supersonique
+Cours par-ci, cours par-là 
+Tu ne m&#039;auras pas
+
+*** Petit Break musical ***
+
+J&#039;ai la pêche et j&#039;entraîne
+Ceux qui sont dans mon camp
+Et qui m&#039;aime me suive
+Nous allons de l&#039;avant
+
+Je suis Sonic, le sympathique
+Je suis Sonic, le romantique
+Cours par-ci, cours par-là 
+Tu ne m&#039;auras pas
+
+ Allez, accrochez vous
+Tant pis si je cours plus vite que vous
+ Le champion c&#039;est bien moi
+Vous traînez le pas
+Vous ne m&#039;aurez pas
+
+ Plus rapide que moi
+Plus malin, plus rusé y&#039;en a pas
+Et si vous tentez de me dépasser
+Il faudra vous accrocher
+
+*** Petit Break musical ***
+
+Non ce n&#039;est pas mon style de rester bien tranquille
+Et quand c&#039;est difficile je suis le chef de file
+
+Je suis Sonic le volcanique
+Je suis Sonic le dynamique
+Cours par-ci, cours par-là 
+Tu ne m&#039;auras pas
+
+ Allez, accrochez vous
+Tant pis si je cours plus vite que vous
+ Le champion c&#039;est bien moi
+Vous traînez le pas
+Vous ne m&#039;aurez pas
+
+ Plus rapide que moi
+Plus malin, plus rusé y&#039;en a pas
+Et si vous tentez de me dépasser
+Il faudra vous accrocher
+
+*** Break Musical ***
+
+ Allez, accrochez vous
+Tant pis si je cours plus vite que vous
+ Le champion c&#039;est bien moi
+Vous traînez le pas
+[Vous ne m&#039;aurez pas]
+
+ Plus rapide que moi
+Plus malin, plus rusé y&#039;en a pas
+Et si vous tentez de me dépasser
+Il faudra vous accrocher              C&#039;est quoi les anneaux dans sonic?     Merci,un vrai morfal,j&#039;aime mieux manger des champignon,des carottes, des fleur,des feuilles,...  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3026855320_comment_1.html#c-20316655984" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3026855320_comment_1.html#c-17882842285" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3026855320_comment_1.html#c-20316655984">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3026855320_comment_1.html#c-20316655984</link>
+		<dc:date>2019-06-27T09:56:10+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Vous saurez me dire c&#039;est lequel qui vous plait le plus ? Sonix X ?</description>
+		<content:encoded><![CDATA[
+			Vous saurez me dire c&#039;est lequel qui vous plait le plus ? Sonix X ?
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3026855320_comment_1.html#c-17882842285">
+		<title>Commentaire de julien-new-vie-57</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3026855320_comment_1.html#c-17882842285</link>
+		<dc:date>2012-04-27T20:55:00+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>julien-new-vie-57</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Mouais... C&#039;est pas le meilleur dessin animé sur Sonic.Il yen a un beaucoup mieux qui passe sur une chaine du cable.</description>
+		<content:encoded><![CDATA[
+			Mouais... C&#039;est pas le meilleur dessin animé sur Sonic.Il yen a un beaucoup mieux qui passe sur une chaine du cable.
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

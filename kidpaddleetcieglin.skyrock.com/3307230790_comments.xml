@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation2Glin]Les sites .io! - Commentaires</title>
+  <description>Depuis un bon moment, les sites portant l&#039;extension .io (Imput/Output) se propage sur le web!
+
+Du même niveau générique de nom de domaine que les éternels &quot;.com&quot; et &quot;.net&quot;,une bonne poignée de ces sites (je ne les ai pas tous vu donc je ne peux dire &quot;l&#039;intégralité&quot;) mettent en avant le fruit de start-up d&#039;application!
+ 
+Ces applications sont souvent des générateurs ou des jeux profitant des capacités du web pour remplacer ce genre d&#039;application qu&#039;on exécute sur PC!
+ 
+Voici les plus populaire: https://domaintyper.com/top-websites/most-popular-websites-with-io-domain
+ 
+D&#039;après tout ce que les sites d&#039;information se recopie mutuellement, le fait que le .IO est l&#039;un des noms de domaine les plus prisé est dû à sa simplicité et le fait qu&#039;il ne nécessite pas de charge administrative!
+ 
+Dommage que je ne trouve pas un logiciel de montage vidéo en .io pour l&#039;instant...l&#039;avenir risque d&#039;être encore plus intéressant!
+KidpaddleetcieGlin     PS: Si vous désirez faire de la vidéo plutôt bien travaillé en ligne: https://panzoid.com/tools/videoeditor
+ 
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

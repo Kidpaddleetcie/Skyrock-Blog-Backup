@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide droit d&#039;auteur]Le droit à l&#039;image! - Commentaires</title>
+  <description>C&#039;est l&#039;ensemble des droits relatifs à l&#039;utilisation de votre image.
+Condition de protection
+Le droit à l&#039;image permet à une personne d&#039;autorisé ou non l&#039;exploitation de son image. Il faut deux autorisations pour exploiter l&#039;image d&#039;une personne.
+
+1.Autorisation de prise de vue : Le fait de prendre l&#039;image
+2.L&#039;autorisation pour chaque mode d&#039;exploitation
+ 
+Pour exploiter l&#039;image d&#039;un enfant mineur, il faut l&#039;accord des parents.
+
+Pour exploiter l&#039;image d&#039;une personne décédée, il faut l&#039;accord des héritiers.
+
+Pour que ce droit rentre en vigueur, il faut que la personne soit identifiable ou reconnaissable.
+
+En cas de violation du droit à l&#039;image et pour obtenir des dommages et intérêt il faut que l&#039;article 1.3.8.2 du code civil s&#039;implique, il y a trois conditions :
+
+1.Il faut une faute.
+2.Il faut un préjudice, un dommage,
+3.Il faut un lien de causalité entre la faute et le dommage (la faute doit entraîner tout le dommage). 
+ 
+Les exceptions au droit à l&#039;image
+Il y a trois cas où il n faut pas demander l&#039;autorisation ni payer les droits :
+
+1.On peut exploiter librement l&#039;image de personne public dans sa vie publique à condition que l&#039;exploitation de l&#039;image ne soit pas commercial, publicitaire, politique ou dégradante.
+(les médias d&#039;information ne sont pas considérés comme commerciaux)
+
+2.On peut exploiter librement l&#039;image d&#039;une personne qui se rattache directement à un événement d&#039;actualité à condition que l&#039;exploitation de l&#039;image ne soit pas commercial, publicitaire, politique ou dégradante.
+
+3. On peut exploiter librement l&#039;image d&#039;une personne dans un lieu publique à condition que l&#039;exploitation de l&#039;image ne soit pas commercial, publicitaire, politique ou dégradante.
+
+N&#039;oublions pas qu&#039;un lieu publique est un lieu accessible à tous sans conditions,
+à ne pas confondre à un lieu privé où se sont des conditions qui vous permet d&#039;y accéder.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

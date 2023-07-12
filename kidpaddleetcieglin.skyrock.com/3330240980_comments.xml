@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide PermisDeConduire]Les différentes pénalités ! - Commentaires</title>
+  <description>
+ 
+Quand on est conducteur, il faut respecter des règles et si on ne respecte pas ces règles, on doit recevoir des pénalités !
+ 
+Sachez que si vous passez votre véhicule à un tiers, si vous n&#039;apporter pas une preuve que c&#039;est lui en cas d&#039;infraction de sa part, vous risquez de subir la pénalité à sa place !
+ 
+ 
+1. L&#039;alcool
+Si vous êtes pris en train de rouler avec au moins 0,35 mg/l d&#039;alcool dans le sang ou 0,8 g/l, le juge PEUT imposer l&#039;EthyAD ( Éthylotest AntiDémarrage ).
+
+
+Si vous êtes pris en train de rouler avec au moins 0,78 mg/l ou 1,8 g/l d&#039;alcool dans le sang OU que vous avez déjà été pris comparu précédemment devant le juge précédemment (maximum 3 ans) et que vous récidiver avec minimum 0,50 mg/l ou 1,2 g/l d&#039;alcool dans le sang, LE JUGE DOIT IMPOSER l&#039;EthyAD.
+ 
+(Plus d&#039;info sur l&#039;EthyAD: https://www.vias.be/fr/particuliers/ethylotest-antidemarrage/ )
+ 
+2. Délit de fuite
+Lors d&#039;un délit de fuite, selon les dégâts causés, vous risquez soit une amende,soit une peine d&#039;emprisonnement,soit les deux  !
+ 
+Si vous faîtes des dégâts matériels, vous devrez payer une amende de 200 à 2 000 € et/ou faire une peine d&#039;emprisonnement de 15 jours à 6 mois.
+ 
+
+Si vous faîtes des coups et blessures pour autrui, vous devrez payer une amende de 400 à 5 000 € et/ou faire une peine d&#039;emprisonnement de 15 jours à 3 ans.
+ 
+
+Si vous faîtes des la mort pour autrui, vous devrez payer une amende de 400 à 5 000 € et/ou faire une peine d&#039;emprisonnement de 15 jours à 4 ans.
+ 
+3.Défaut de permis
+Quand vous êtes pris sur la route et qu&#039;on relève des problèmes pouvant mettre en danger les autres usagers de la route et/ou vous, vous risquez une peine d&#039;emprisonnement de 8 jours à 2 ans, une amende de 1 600 euros à 16 000 euros et/ou une déchéance du droit de conduire de 8 jours à 5 ans avec prise de votre véhicule. Si on vous reprend dans les 3 ans qui suivent, on vous double la sanction.
+
+
+4.Autres
+Tout ce qui est de la gène autour de la conduite du véhicule,assurances,bienveillance,... risque de vous faire perdre le droit de rouler pendant 3 mois minimum, une amende ou encore une peine d&#039;emprisonnement. Mais là, c&#039;est au cas par cas pour connaître les chiffres !
+
+ 
+ 
+ 
+Il y a 4 degré d&#039;infractions ayant chacun son niveau de pénalité:
+
+&#65279;1) Tout ce qui est infraction mineur, qui ne fait de dégât directement(oublie d&#039;un clignotant par exemple !)
+
+Si la police le voit: 58€
+Si ça va jusqu&#039;au parquet (Tribunal): 68€
+Si ça va jusqu&#039;au tribunal de la police (Amende): de 80 à 2 000 €
+ 
+2) Tout ce qui met en danger mais sans dégât directement
+(stationner illégalement sur une place réservée aux personnes handicapées par exemple)
+
+Si la police le voit: 116€
+Si ça va jusqu&#039;au parquet (Tribunal): 126€
+Si ça va jusqu&#039;au tribunal de la police (Amende): de 160 à 2 000 €
+ 
+
+3) Tout ce qui met en danger avec risque de dégât direct
+(dépasser sur un passage piéton par exemple)
+ 
+Si la police le voit: 174€
+Si ça va jusqu&#039;au parquet (Tribunal): 184€
+Si ça va jusqu&#039;au tribunal de la police (Amende): de 240 à 4 000 €
+
+4) Tout ce qui met en danger avec risque de dégât direct physique irrémédiable 
+(Dépasser par la gauche dans une côte ou un virage par exemple)
+ 
+Peu importe qui vous voit, vous êtes obligé de perdre votre permis de conduire et payer entre 320 et 4 000€.
+ 
+ 
+Pour aller plus loin: 
+http://www.infractions-code-de-la-route.be/infractions-et-sanctions/amendes/ 
+
+
+On peut calculer son amende ici :&#65279; https://www.monamende.be/
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

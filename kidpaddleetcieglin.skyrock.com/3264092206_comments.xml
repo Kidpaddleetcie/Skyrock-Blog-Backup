@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Philo2Glin]Les gens moutons et les gens bergers. - Commentaires</title>
+  <description>Mise en situation
+Depuis peu,j&#039;ai décidé de me racheter une conduite,de ré-apprendre à être ce que j&#039;aime être et donc de faire le point sur mes inspirations dans le but de comprendre pourquoi je n&#039;aime pas être avec un groupe alors que j&#039;aime aider les gens,parler et participer.
+ 
+Je suis de loin un être flemmard et en manque de motivation mais il y a une manière de penser qui m&#039;empêche de me lier à des groupes ,des valeurs qui sont contre la prise de partie et la mise en forme d&#039;un complexe d&#039;attachement (ou rattachement) à des idées!
+ 
+On n&#039;a pas arrêté de me dire,pendant ma tendre jeunesse, qu&#039;il faut apprendre à penser par sois-même,aider les gens dans le besoin et qu&#039;il faut respecter son prochain!
+ 
+Qui aide les gens quand c&#039;est nécessaire?Qui prend soins de ne pas offenser les gens?Qui reste assis et attentif à tout problème dans un groupe surveillé? C&#039;est bibi (et comme mon pseudo principale est &quot;Kidpaddleetcie&quot;,on peut dire que c&#039;est kiki...mais c&#039;est ridicule!)!
+ 
+Ce comportement d&#039;être à l&#039;écart et pourtant attentif aux dangers et problèmes de ses camarades,c&#039;est un comportement de berger.
+ 
+Définitions des deux termes ressortants
+ 
+Un berger,c&#039;est quoi?
+C&#039;est une personne qui aime la solitude car elle fait le guet et se maintient prêt à réagir lorsque des gens dans le besoin nécessitent ses soins.Les valeurs du berger sont partagés entre un esprit critique (analyse de situation,pas de identification abstraite,...) et un esprit d&#039;égalité face à sa personne (on parle donc d&#039;un égocentrisme modéré) car il ne veut faire partie d&#039;aucun groupe car il n&#039;y retrouve aucune de ses valeurs dans chacun d&#039;entre eux.
+ 
+Il est plutôt volontaire et passionné mais n&#039;aime pas être mit en valeur par ses camarades,il préfère se contemplé avidement et traiter les autres comme des moutons que de les prendre pour des gens comme lui.
+ 
+Mais si il y a &quot;berger&quot;,il y a donc des &quot;moutons&quot;.
+ 
+Un mouton,c&#039;est quoi?
+Une personne rattachée à des valeurs de groupe qui inspire les échanges,la convivialité et la complémentarité.Une personne qui recherche son bonheur dans les gestes de ses semblables,de ses amis et sa famille.
+ 
+Mise en valeur du consensus intellectuel(destruction des vites-dits)
+Il ne faut pas confondre &quot;berger&quot; avec un &quot;maître&quot;,un &quot;dictateur&quot; ou un &quot;chef&quot;.Il se veut avant tout éloigné des échanges,il n&#039;a pas son mot à dire et il ne vient que si c&#039;est nécessaire pour le bien des moutons.Le berger ne doit pas être nocif et doit se partager sans avoir de chouchous.
+ 
+Un berger peut se tromper des fois,j&#039;ai moi-même confondu un mouton avec une bergère (oui,je porte des lunettes pour rien...c&#039;est très triste) mais quand j&#039;ai voulu monté l&#039;élue de mon cœur aveugle et sans cervelle (je parle de mon cœur,pas de l&#039;élue),celle-ci s&#039;est débattu prise de vertige,elle n&#039;est pas faîtes pour être à ma place car c&#039;est un mouton,pas un berger!
+ 
+Voila donc la différence mais sachez qu&#039;il n&#039;y a pas à se dire qu&#039;il vaut mieux être un berger qu&#039;un mouton ou vice-versa.L&#039;intérêt de cette philosophie est de schématiser le fait qu&#039;il y a des gens qui veulent être seul et qui s&#039;en porte bien car alimenter d&#039;amour par leur égo,et d&#039;autre qui sont plutôt grégaire à souhait et qui s&#039;en porte bien car alimenter d&#039;amour par leurs proches.
+ 
+Ne forcez pas quelqu&#039;un à changer de rôle,c&#039;est à lui de faire le point et ne classer pas les genres d&#039;être humain par les valeurs.Les chiffres veulent tout et rien dire quand cherche à dé-complexifié le genre humain.
+ 
+Vous pouvez passer du stade &quot;mouton&quot; au stade &quot;berger&quot; dans des phases de votre vie selon vos valeurs qui n&#039;arrêterons pas de changer.
+ 
+Mes premières règles de vie furent de ne jamais mentir,de ne pas voler,de ne pas oublier de faire un bisou à ma maman et de ne pas devenir vulgaire...j&#039;avais 12 ans et je peux vous dire que j&#039;ai mentis,j&#039;ai volé,j&#039;ai oublié de faire DES bisous à ma maman et je suis devenus vulgaire plusieurs fois en l&#039;espace de 7 ans!
+ 
+Informations de production + remerciements
+
+Merci d&#039;avoir lu cet article fait avec le cœur,l&#039;esprit et l&#039;envie de partager des idées à des gens que je ne connais pas et qui vont avoir un peu de moi en eux après avoir lu ce beau paquet de information vérifiables dans la vie de tout les jours!
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

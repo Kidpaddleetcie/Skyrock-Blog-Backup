@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Droit] La cohabitation légale - Commentaires</title>
+  <description>
+ 
+L&#039;éducation est un droit de l&#039;enfant.
+ 
+Concubinage : Union libre, habitation ensemble sans liens administratifs.
+ 
+Cohabitation légale : Déclaré à l&#039;administration communale. Offre une protection juridique.
+ 
+Concubinage et Cohabitation légale ont donc rien à voir avec le sexe ou le mariage.
+ 
+Une cohabitation légale et un mariage se distinctes par la durée.
+Le mariage va jusqu&#039;à la mort et la cohabitation légale n&#039;a pas d&#039;obligation éternelle.
+ 
+ 
+Les conditions de la cohabitation légale
+-          Minimum 18 ans et être en capacité juridique
+-          Pas marié
+-          Pas déjà en cohabitation légale
+ 
+Il faut remplir un formulaire ayant :
+-          La date de la déclaration
+-          Les identités (Noms, Prénoms, lieux, dates de naissances) des partis
+-          L&#039;adresse de domicile commun
+-          La preuve/mention de la volonté de cohabiter légalement
+-          Articles 1475 à 1479 mentionnés et validés du Code Civil.
+-          Référence à la cohabitation liant les partis (Généralement fait par un notaire)
+ 
+C&#039;est l&#039;officier de l&#039;État Civil qui vérifie et acte pour l&#039;enregistrement dans le registre de la population.
+ 
+Droits et devoirs des cohabitants légaux
+-          Protection du logement (Consentement des cohabitants à chaque fois)
+-          Contribution aux charges de la vie commune
+-          Partage des dettes communes
+ 
+ 
+Le juge de paix règle les problèmes urgents
+-          Lié à l&#039;enfant et les biens communs
+-          Lié aux obligations (qui paie quoi)
+-          Procédure d&#039;éloignement (pour la sécurité de la résidence commune)
+ 
+ 
+Source : 
+ 
+https://www.wikifin.be/fr/famille/mariage-cohabitation-legale-ou-cohabitation-de-fait/la-cohabitation-legale
+ 
+https://www.notaire.be/famille/la-cohabitation-legale#:~:text=La%20cohabitation%20l%C3%A9gale%20est%20la,un%20lien%20juridique%20est%20cr%C3%A9%C3%A9.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

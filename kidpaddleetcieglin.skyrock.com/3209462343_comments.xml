@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement]Les 57 ans de Gaston Lagaffe - Commentaires</title>
+  <description>Le fameux personnage gaffeurs mais génial de André Franquin fête ses 57 ans ce 28 février 2014.
+ 
+Pour ceux qui veut savoir,Google l&#039;a fêté:
+http://www.dhnet.be/medias/multimedia/google-met-gaston-lagaffe-a-l-honneur-53103c6035708d729d849b57
+ 
+Plus d&#039;info:
+ 
+http://fr.wikipedia.org/wiki/Gaston_Lagaffe
+ 
+http://www.dupuis.com/seriebdfr/gaston/37/
+ 
+http://www.bedetheque.com/serie-31-BD-Gaston.html
+ 
+Gaston Lagaffe est certainement un des héros de BD franco-belge des plus légendaire qui a été créer en 1957 dans le fameux journal de Spirou!
+ 
+Il est gentil,débrouillard mais maladroit...le défaut le plus connu de notre héros!
+ 
+L&#039;origine de son nom est due aux multiples gaffes qu&#039;il fait pendant la totalité de ses planches!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3209462343_comment_1.html#c-19450798840" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3209462343_comment_1.html#c-19450331182" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3209462343_comment_1.html#c-19450798840">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3209462343_comment_1.html#c-19450798840</link>
+		<dc:date>2015-02-06T16:09:26+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Boh,moi,c&#039;est surtout les Spirou et les Kid Paddle!</description>
+		<content:encoded><![CDATA[
+			Boh,moi,c&#039;est surtout les Spirou et les Kid Paddle!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3209462343_comment_1.html#c-19450331182">
+		<title>Commentaire de sonicamy2691</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3209462343_comment_1.html#c-19450331182</link>
+		<dc:date>2015-02-05T21:43:16+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>sonicamy2691</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>J&#039;aime bien les BD Gaston Lagaffe. J&#039;ai tout les albums.</description>
+		<content:encoded><![CDATA[
+			J&#039;aime bien les BD Gaston Lagaffe. J&#039;ai tout les albums.
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

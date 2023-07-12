@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Le JDG est tellement culte,pourquoi il n&#039;y a pas de jeux de lui sur internet? - Commentaires</title>
+  <description>Suite à mes recherches,je peux répondre à ta question &quot;Anonyma88&quot;!   un jeu est en cours mais il manque un graphiste...   Si vous êtes Graphiste,un petit coup de main pour le joueur du grenier ne serait pas trop de mal^^!  
+ 
+Le message date du 25 avril 2011 mais le jeu est introuvable,un petit coup de main (ou plutôt,de pinceaux) et il est finis,si j&#039;ai bien compris!
+
+ 
+ 
+OK To Help the JDG |                                                          |                                                            |
+Suivez le liens </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

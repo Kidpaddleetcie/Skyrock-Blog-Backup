@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique2Glin]Marie Mandy : « Voir sans les yeux » ! - Commentaires</title>
+  <description>
+ 
+&quot;Voir sans les yeux&quot; est un film créé en 2004 par la réalisatrice MARIE MANDY!
+
+
+Synopys:
+&quot;Voyage sensoriel dans l&#039;univers mental de la cécité. Images à l&#039;appui, des aveugles et des malvoyants nous expliquent comment ils voient &quot;sans les yeux&quot;. Une manière de nous interroger sur notre propre représentation de la réalité et de mettre en cause la dictature visuelle que nous nous sommes forgés. La cécité comme vous ne l&#039;avez jamais vue !&quot;
+(source: http://www.wbimages.be/index.php?id=8973&amp;tx_cfwbavmsearch_pi1%5Buid%5D=60 )
+ 
+ 
+Pour ma part, le film est plus un documentaire sur la vue mettant en avant des gens n&#039;ayant pas toutes leurs capacités visuelles.
+ 
+Il y a un homme, qui se nomme John Hull, il est professeur de 69 ans à l&#039;université de Birmingham et il est atteint de cécité complète. Il est conscient de son handicape mais il reste optimiste, il a développé un système de compensation avec ses mains.
+
+Il y a une petite fille, qui se nomme Sarina, elle est aveugle de naissance suite à un virus que sa mère a contracté, elle ne perçoit que les contrastes de couleurs. Elle a 9 ans. Elle est fière et refuse d&#039;être traité différemment ce qui qualifie son fort caractère. Elle a de très bonnes capacités cognitives et mentaux.
+
+Il y a une femme, qui se nomme Sylvie Storn, qui donne des cours et doit faire Bruxelles-Paris pour les donner. Elle a un faible pourcentage de vision, sa vision est obstruée au centre mais pas sur les côtés. Elle a confiance en elle. Elle est aussi sculptrice.
+
+Il y a un jeune homme, qui se nomme Aladji, qui a participé aux jeux paralympiques et il a gagné une médaille de bronze pour le 400 mètre. Il est aveugle depuis ses 5 ans et continue donc sa passion même en étant soumis à une cécité totale.
+
+Il y a aussi un homme, qui se nomme très certainement mais je n&#039;arrive pas à la trouver, qui voit des tâches noires. Il a 49 ans et préfère courir avec son chien que rester à l&#039;intérieur. Il est pseudo-pédagogue.
+ 
+ 
+Le film est rythmé par les interviews et les tranches de vie de chaque interviewé afin d&#039;illustrer leurs soucis et se rendre compte de leurs capacités sur le terrain.
+ 
+Les jeux de lumières, les incrustations de tâches noires, les floues générés par la mise au point sont les moyens mis en place pour émuler les soucis de vue des intervenants.
+ 
+J&#039;ai apprécié et même pleurer certaine fois!
+ 
+Je tiens à mettre en avant que ce documentaire m&#039;a été découvert à l&#039;école au cours de phéno&#039; !
+ 
+KidpaddleetcieGlin
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

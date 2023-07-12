@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> The legend of Glin part 1 - Commentaires</title>
+  <description>Comme toute histoire inventée ou légendaire qui commence,&quot;il était une fois&quot; est la phrase de commencement mais cette fois,cette histoire sort de l&#039;ordinaire,c&#039;est l&#039;histoire de Glin!
+ 
+ 
+En 2007, un jeune homme de 11 ans nommé Glin,il avait déjà 3 ans d&#039;expérience sur internet.
+ 
+Glin naviguait sur la toile comme SDF car il n&#039;avait aucun site d&#039;hébergement ou de blog,mais,en ce 16 Juillet 2007,il fit son premier blog qui était censé présenter ces découverte sur le Web,malheureusement,ce blog prit de l&#039;ampleur et devenu une véritable drogue,des YouTube-Poops s&#039;y introduit dans ce blog n&#039;ayant jamais pût faire place à cette humour déplacer!
+ 
+ 
+Le 21 Août 2011,Glin supprima toute trace de son passé en tant que Kidpaddleetcie!
+ 
+ 
+Plus de Blog et de compte YouTube!
+ 
+ 
+Le 23 Août 2011,Glin créa un tout nouveau réseau,l&#039;envie de partager ses envies et ses découvertes se montra plus puissant que jamais!
+ 
+ 
+Glin recréa donc tout un réseau Blog/YouTube/Dailymotion/Gmail/Hotmail!
+ 
+Glin prît comme star pour commencer;
+ 
+- StatAlchemist (la série abrégée des chevaliers du Zodiaque)
+ 
+- Joueur Du Grenier [le testeur de jeux-vidéos pourris]
+ 
+- LinksTheSun [Conseillé par le Joueur du Grenier]
+ 
+ 
+ 
+Glin décida de vaincre la vulgarité jusqu&#039;à où Cortex Clasha le Joueur Du Grenier!
+ 
+ 
+ 
+Glin décida de devenir un justicier du web contre Cortex et Morsay!
+ 
+ 
+ 
+Une étoile était née! 
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

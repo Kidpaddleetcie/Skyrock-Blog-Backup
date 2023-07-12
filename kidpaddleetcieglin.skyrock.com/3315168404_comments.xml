@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation]Paint.NET - Commentaires</title>
+  <description>
+En 2004, à l&#039;université d&#039;État de Washington, une université fondée en 1890 qui fait des recherches publiques, arrive Paint.NET!
+ 
+Le logiciel fût créé en &quot;C sharp&quot;, un langage de programmation orienté objet, commercialisé par Microsoft depuis 2002 et destiné à développer sur la plateforme Microsoft .NET, et son développement a été soutenu par Microsoft afin de pouvoir s&#039;approprié un programme d&#039;édition graphique gratuit sur Windows.
+ 
+Ce logiciel étant gratuit et codé uniquement pour convenir à l&#039;exploitation Windows, une communauté de jeunes codeurs se mettront indépendamment à la tâche de créer des greffons afin d&#039;ajouter des fonctionnalités à ceux déjà présentes. Le framework .NET étant utiliser depuis 2002 et étant un framework ouvert nécessitant de pouvoir interagir avec les applications les plus anciennes, les possibilités d&#039;extension d&#039;application sont énormes.
+ 
+
+
+Manque de bol pour Microsoft qui voulait se faire une exclusivité de choix afin de ramener une nouvelle vague de monde sur Windows XP, le logiciel Mono pour Linux,Android et IOS permettant de lire le &quot;C sharp&quot; et le .NET est lancé également en 2004.En plus de cette nouvelle,Paint.NET n&#039;est pas encore vraiment capable de devancer Photoshop qui est né en 1988 ou encore TheGimp né en 1995.
+ 
+Aujourd&#039;hui, Paint.NET est à sa 4ème version et possède énormément de .dll permettant d&#039;ajouter des fonctionnalité 3D,des outils d&#039;ajustements colorimétriques, des outils de déformations 2D, des outils de création de schéma et pleins d&#039;autres fonctionnalités utiles ou pas. Mais ce n&#039;est pas tout car les formats propriétaires comme le .PSD peuvent être ajouter dans les FilesTypes !
+
+
+ 
+Pour obtenir le logiciel, suivez ce lien: https://www.getpaint.net/download.html
+ 
+Vous pouvez obtenir toutes ces extensions et effets sur le site web: https://forums.getpaint.net/forum/7-plugins-publishing-only/
+ 
+Attention, quand vous écrivez &quot;Paint.NET&quot; dans votre barre de recherche, vous obtenez le site http://www.warrenpaint.com/index.html qui n&#039;a rien à voir avec le logiciel!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

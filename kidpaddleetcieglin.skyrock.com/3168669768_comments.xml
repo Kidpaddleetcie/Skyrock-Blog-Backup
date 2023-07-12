@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> 3 poopeurs belges trouvé  :)  - Commentaires</title>
+  <description>Voici des poopeurs dont je suis abonné et que je peux vous présenter!
+ 
+alexander2012smille
+ 
+ 
+Pseudo : alexander2012SMILLE
+Prénom : Alessio
+Age : 18 ans (il est très sympa et pas vulgaires)
+Date de naissance : 31/10/1994
+Hobbit : il aime bien les jeux-vidéo de n&#039;importe quelle époque
+Pays : Belgique
+Origine : Italien
+Époques préférées : 90 , 80 et début 2000 (pour les dessin animé de la bonne époque )
+
+
+Tojolle
+Pseudo : Tojolle
+
+
+
+Pourquoi &quot;Tojolle&quot; ?
+
+Oulalah. En gros &quot;Tojolle&quot; c&#039;est une expression que Tojolle a instauré avec un groupe d&#039;amis. C&#039;est un peu le synonyme de lavette, mauviette. Il l&#039;a entendu pour la première fois à un dinner, dans la bouche d&#039;un ami de ses parents venant de la région de Mons (en Belgique), c&#039;est apparemment une expression de là-bas. Il trouve que ça sonne bien, malgré la signification un peu réductrice...
+
+
+Posez vos questions ici&gt;&gt;&gt;&gt;&gt;http://ask.fm/Tojolle
+
+
+
+
+Kidpaddleetcie
+Pseudo : Kidpaddleetcie
+
+
+Prénom : Glin (IRL: Sébastien)
+
+
+Age : 16 ans
+
+
+Date de naissance : 05/07/1996
+
+
+Hobbit : il aime passez du temps sur internet,il est créateur!
+
+
+Pays : Belgique
+
+
+Origine : Français (origine maternelle) et Belge (origine paternelle)
+
+
+Époques préférées :
+80 (pour la musique qui bouge),
+90 (Pour les Jeux-Vidéos),
+2000 (Naissance de Kidpaddleetcie en 2007)!
+
+
+Voila,il faut cliquez sur les pseudo en titre pour accéder à leur chaînes et...voila!
+
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

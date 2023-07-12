@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Français] Compte rendu d&#039;un essai - Commentaires</title>
+  <description>Avant de faire un compte rendu d&#039;un essai, il faut définir ce que c&#039;est un essai:
+ 
+L&#039;essai est un écrit factuel par lequel un auteur, souvent qualifié dans le domaine qu&#039;il aborde, tente de persuader son lecteur du bien fondé de sa thèse. Sa subjectivité y apparaît de manière plus ou moins explicite.
+ 
+Maintenant il faut structurer le compte rendu de l&#039;essai:
+ 
+Commençons par le recto de la feuille:
+ 
+Tout d&#039;abord, on identifie l&#039;auteur sur 5 points:
+1.Prénom
+2.Nom
+3.Date de naissance
+4.Date de décès (ou dire qu&#039;il est toujours vivant)
+5.Travail (ou ses études)
+ 
+On enchaîne par l&#039;annonce du titre et du sous-titre de l&#039;édition originale de l&#039;essai!
+ 
+On introduit la date de la première publication,
+la référence complète de l&#039;édition utilisée et on incruste une reproduction en vignette des première et quatrième de couverture!
+ 
+On finit ce recto par l&#039;analyse du paratexte (mise en valeur du livre).
+ 
+Poursuivons par le verso de la feuille:
+&#65279;
+On débute cette grosse partie en mettant en évidence le rapport entre l&#039;oeuvre considérée des faits d&#039;histoire générale pour faciliter la compréhension de l&#039;essai.
+ 
+On poursuit par révélés les aspects textuels en 5 points:
+ 
+1.Le plan de l&#039;ouvrage et ses articulations logiques
+2.Le repérage de la thèse et des arguments
+3.Les relations entre la thèse et les exemples développés
+4.Le repérage des &quot;redondances&quot;
+5.L&#039;analyse idéologique du message
+ 
+Subséquemment, on se pose pour prendre part aux expériences de lecture en 4 points:
+
+
+1.Les difficultés éprouvées durant la lecture
+2.Les sentiments et les opinions à propos des idées formulées dans l&#039;oeuvre
+3.L&#039;accord ou le désaccord avec la thèse de l&#039;auteur
+4.La lecture de l&#039;essai a-t-elle fait évoluer la vision du sujet abordé
+
+
+Enfin, on surmonte sa tendinite pour ré-écrire un extrait significatif qui sera lu car il devra contenir un exemple, la thèse générale, une anecdote ou un court récit illustrant la thèse!
+
+
+Voila, vous avez fini votre compte rendu de l&#039;essai que vous avez lu.
+
+
+Si vous voulez, je m&#039;y suis prêter à cet exercice il y a quelque mois sous la tutelle de ma prof&#039; de français:http://kidpaddleetcieglin.skyrock.com/3272353262-Compte-rendu-d-un-essai-Francois-Heinderyckx-la-malinformation.html 
+Ce compte-rendu faisait partie de mon examen de fin d&#039;année et il était tellement bien préparé qu&#039;il a fait remonté ma côte qui était pourtant dans les 40% (il faut avoir 55% pour réussir et j&#039;ai fini avec 58%)!
+ 
+Garder en tête que le compte-rendu de votre essai est destiné à être lu donc évité les parenthèses et les notes de bas de page qui risque de vous perturber ET RELISEZ-VOUS POUR VOIR SI DES MOTS NE SONT PAS RESTER DANS VOTRE STYLO/MANCHE/CLAVIER!!!
+ 
+Merci d&#039;avoir lu cet article et j&#039;espère vous avoir éclairer sur la conception du compte rendu d&#039;un essai!
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

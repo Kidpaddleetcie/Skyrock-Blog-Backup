@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Scatman John: Scatman - Commentaires</title>
+  <description>
+ 
+Déroulement de la chansons + paroles (français et anglais): |                                                                                                                       | 
+Code de couleurs
+|                                                                                                                       |
+-en bleu: déroulement en Anglais
+-En Rouge: paroles et déroulement en Français
+- en vert: les paroles en Anglais
+|                                                                                                                       |
+------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                       |
+
+
+(Scatting by Scatman John)
+(Scat (1) par Scatman John)
+
+I&#039;m the Scatman
+Je suis le Scatman
+
+(Scatting by Scatman John)
+(Scat par Scatman John)
+
+I&#039;m the Scatman
+Je suis le Scatman
+
+(Scatting by Scatman John)
+(Scat par Scatman John)
+
+
+
+Everybody stutters one way or the other
+Tout le monde bégaye d&#039;une façon ou d&#039;une autre
+So check out my message to you
+Alors écoute le message que je t&#039;adresse
+As a matter of fact don&#039;t let nothin&#039; hold you back
+En fait ne laisse rien te retenir
+If the Scatman can do it so can you
+Si Scatman peut le faire toi aussi
+
+Everybody&#039;s sayin&#039; that the Scatman stutters
+Tout le monde dit que Scatman bégaye
+But doesn&#039;t ever stutter when he sings
+Mais qu&#039;il ne bégaye plus jamais quand il chante
+But what you don&#039;t know I&#039;m gonna tell you right now
+Mais ce que vous ne savez pas et que je vais vous dire maintenant
+That the stutter and the scat is the same thing
+C&#039;est que le bégayement et le Scat c&#039;est la même chose
+Yo I&#039;m the Scatman
+Hé, je suis le Scatman
+
+Where&#039;s the Scatman ? I&#039;m the Scatman
+Où est le Scatman ? je suis le Scatman
+
+Why should we be pleasin&#039; all the politician heathens
+Pourquoi devrions-nous faire plaisir à tous les politiques païens
+Who would try to change the seasons if the could ?
+Qui tenterait de changer les saisons s&#039;il le pouvait ?
+The state of the condition insults my intuitions
+L&#039;état de cette condition insulte mes intuitions
+And it only makes me crazy and my heart like wood
+Et cela ne fait que me rendre fou et mon coeur devient comme du bois
+
+Everybody stutters one way or the other
+Tout le monde bégaye d&#039;une façon ou d&#039;une autre
+So check out my message to you
+Alors écoute le message que je t&#039;adresse
+As a matter of fact don&#039;t let nothin&#039; hold you back
+En fait ne laisse rien te retenir
+If the Scatman can do it brother so can you
+Si Scatman peut le faire toi aussi
+I&#039;m the Scatman
+Je suis le Scatman
+
+(Scatting by Scatman John)
+(Scat par Scatman John)
+
+
+
+
+I&#039;m the Scatman
+Je suis le Scatman
+
+I hear you all ask &#039;bout the meaning of scat
+Je vous entends tous demander sur la signification de Scat
+Well I&#039;m the professor and all I can tell you is
+Et bien je suis le professeur et tout ce que je peux vous dire c&#039;est
+While you&#039;re still sleepin&#039; the saints are still weepin&#039; cause
+Pendant que vous êtes encore en train de dormir les Saints pleurent parce que
+Things you call dead haven&#039;t yet had the chance to be born
+Les choses que vous dites mortes n&#039;ont pas encore eu la chance de naître
+I&#039;m the Scatman
+Je suis le Scatman
+
+(Scatting by Scatman John)
+(Scat par Scatman John)
+I&#039;m the Scatman... repeat after me
+Je suis le Scatman... répète après moi
+It&#039;s a scoobie oobie doobie scoobie doobie melody
+C&#039;est un scoobie oobie doobie scoobie doobie mélodie
+I&#039;m the Scatman... . repeat after me
+Je suis le Scatman... répète après moi
+It&#039;s a scoobie oobie doobie scoobie doobie melody
+C&#039;est un scoobie oobie doobie scoobie doobie mélodie
+(Scatting by Scatman John)
+(Scat par Scatman John)
+
+
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

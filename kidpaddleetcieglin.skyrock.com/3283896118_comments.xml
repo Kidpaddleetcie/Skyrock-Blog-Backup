@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Informatique]Convertir le Binaire en Hexadécimal pour obtenir un nombre en Décimal(de la base 2 à la base 16 pour la base 10) - Commentaires</title>
+  <description>Oui, le titre est très grand et peut faire peur mais la technique est assez simple :
+ 
+1.Commencer par faire des paquets de 4 bits (Donc une succession de 4 chiffres binaire) .
+
+2.Nommer vos paquets à l&#039;aide de ce tableau (toutes les variétés de successions 4 chiffres binaires y sont répertoriés)
+
+ 
+
+3.Convertissez vos résultats en décimal mais cette fois-ci en additionnant le tout !
+ 
+Par exemple, avec FB3 (base 16)
+ 
+( F.16^2 ) + ( B.16^1 ) + ( 3.16^0 ) = 15.256 + 11.16 + 3.1 = 3840 + 176 +3
+= 4019 (base 10)
+ 
+ 
+Il n&#039;y a pas vraiment de difficulté, il faut juste pigé le principe et prendre le temps de faire le calcul pour éviter des erreurs d&#039;inattention !
+ 
+Si vous avez la flemme, je vous offre cette page &quot; http://sebastienguillon.com/test/javascript/convertisseur.html &quot;, c&#039;est un convertisseur fait par un certain Sébastien Guillon en 2005 mais qui a été mit à jour en 2016 !</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

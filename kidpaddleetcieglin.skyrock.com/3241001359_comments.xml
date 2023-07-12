@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Nettoyer et optimiser son PC pour qu&#039;il aille plus vite! - Commentaires</title>
+  <description>Vous en avez marre que votre PC rame comme une mise à jour sur PS4?
+Vous en avez marre de Minecraft en mode diaporama chez mamie?
+Vous avez perdu beaucoup trop en FPS (frame par seconde)!!!
+ 
+ 
+Pour y remédier et retrouver la richesse d&#039;un monde dynamique moderne sur votre PC,il va falloir installer 3 programmes qui vont protéger,nettoyer et défendre comme des pros alors qu&#039;ils sont gratuits!
+ 
+Bien sur,tout le monde connait Avast Antivirus,je n&#039;ai donc pas besoin de vous le conseillez et de vous expliquer son fonctionnement!
+ 
+Alors je vais prendre CCleaner,UltraDefrag et Malwarebytes Anti-Malware!Ils sont gratuits et ne demande qu&#039;à appuyer sur des boutons!
+ 
+CCleaner est assez simple car sur les boutons sont inscris leurs utilités:
+-Rechercher les erreurs dans le registre (pratique quand le PC fait des recherche très longue),
+-Nettoyer le disque (pratique quand votre PC a plein de vieux fichiers qui ne servent à rien car ils sont obsolètes),
+-Outils (pratique pour désinstaller les programmes qui ne vous plaisent pas de manière rapide et efficace!)
+
+
+
+
+Ultra Defrag est pratique mais ne l&#039;utilisez que quand votre ordinateur ne fait RIEN car il défragmente!
+En gros,c&#039;est le programme qui range correctement les fichiers à leurs places respectives mais il faut pas que des cons de programmes l&#039;emmerde pendant son travail!
+Appuyer sur le bouton &quot;Optimiser&quot; pour...optimiser :D et votre PC d&#039;amour redeviendra dynamique comme une petite sœur après avoir croquer dans un grain de poivre!
+(Effet garanti)
+
+
+ 
+Malwarebytes Anti-Malware est appelé comme ça déjà parce que c&#039;est lui qui a la plus grosse mais en plus c&#039;est lui qui fait la justice.
+Il est conseillé de le télécharger quand on va sur des sites 2X ou 2Q ou encore des forums pédophile-raciste-homophobe-playstation-nazi-kikouesque comme le 15-18 ou mon blog!
+ 
+Il fonctionne comme Avast mais c&#039;est les programmes malveillant qu&#039;il met en quarantaine!
+ 
+ 
+Voila,votre PC devrait péter le feu après une bonne journée de chouchoutage et je vous conseille de vous payer un disque dur externe pour soulager le disque dur interne (il vaut mieux pour ceux qui joue aux jeux-vidéos ou qu&#039;ils créent des vidéos de qualités!)
+ 
+Merci d&#039;avoir lu! :)</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

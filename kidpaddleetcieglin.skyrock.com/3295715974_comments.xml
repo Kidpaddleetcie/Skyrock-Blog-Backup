@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [OrganiPost]Les Ploucs,c&#039;est fini! - Commentaires</title>
+  <description>Depuis la fin des Ploucs suite à pleins de désaccord et de dégoût de la part de l&#039;un de l&#039;autre (tout le monde est fautif),je me suis mit en tête de garder une trace de ce groupe car il y a de quoi s&#039;inspirer pour de nouvelles histoires et groupes.
+ 
+Afin de garder la trace, voici la liste des tags qui permettent de visiter les articles en lien avec les différents sujets relatifs aux Ploucs:
+ 
+LesPloucs
+ 
+Boredguy08
+ 
+FanYoshiBleu
+ 
+Pokémon_Master
+ 
+Yunko
+ 
+ 
+Sachez que chaque Ploucs est partit de son coté pour de nouvelle aventure donc si ils le veulent,je veux bien vous passer de quoi les retrouver!
+ 
+FanYoshiBleu est sur WattPad: https://www.wattpad.com/user/FanYoshiBleu
+ 
+Yunko est sur Twitter: https://twitter.com/YunkoLeTordu</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

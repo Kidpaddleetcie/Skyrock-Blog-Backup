@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Droit d&#039;auteur]Les logiciels  - Commentaires</title>
+  <description>conditions de protection
+le logiciel ne peut pas être protégé par un brevet, il est protégé par le droit d&#039;autre avec des règles particulières. Ça veut dire que pour être protégé il doit être original , l&#039;élément clef du logiciel est le code source.
+
+Les éléments du logiciel , qui sont purement informatique qui ne sont jamais protéger par le droit d&#039;auteur.
+
+-Les simples interfaces
+-Algorithme
+-Langage de programmation
+-Les simples fonctionnalités
+
+Éléments de logiciel qui peuvent être protégé par le droit d&#039;auteur à condition d&#039;être suffisamment originaux :
+
+-Code source
+-La structure
+-Code objet
+-Les différentes versions
+-Les écrans et modalités d&#039;interactivité
+-Documents préparatoires
+ 
+Exception de droit d&#039;auteur (règles particulières)
+il n&#039;y a pas de droit moral de divulgation, on peut céder les droits moraux, on a prévu 4 droits pour les utilisateurs (qui on acheter la licence) :
+
+-          Vous avez le droit d&#039;analysé le fonctionnement du logiciel
+-          Faire une copie de sauvegarde du logiciel
+-          Il peut corriger les erreurs de logiciel
+-          Il peut faire des copies du logiciel, qui sont nécessaire à son utilisation
+-          Ou pour le rendre compatible avec d&#039;autre logiciel
+
+Contrairement au droit d&#039;auteur pour le droit du travail, l&#039;employeur possède automatiquement tous les droits sur les créations de ses employés, il ne doit pas le mettre dans le contrat, au contraire, si l&#039;employé veux garder les droits c&#039;est à lui de le mettre dans le contrat.
+ 
+ 
+Logiciel libre
+Open source est un logiciel sous forme de code source, dont l&#039;architecture interne est partagée et diffusée librement et gratuitement. Cela donne quatre libertés aux utilisateurs :
+
+-Liberté d&#039;utilisé le logiciel
+-Liberté d&#039;étudier le logiciel
+-Liberté de faire des copies du logiciel
+-Liberté de modifier le logiciel à condition de respecter les mêmes conditions de partage libre et gratuit
+ 
+Il y a aussi les faux logiciels libres qu&#039;on appelle propriétaire où il faut demander les autorisations et payer les droits.
+
+Il y a aussi les Creative Commons qui permettent aux utilisateurs de savoir ce qu&#039;ils peuvent faire et ne pas faire grâce à des logos. Il y a 4 logos :
+ 
+La création peut être utilisé librement à condition de mentionner le nom de l&#039;auteur. (le BY)
+ 
+La création ne peut être utilisé qu&#039;à des fins non-commerciales. (Le NC)
+ 
+La création ne peut pas être modifié sans l&#039;accord de l&#039;auteur. (le ND)
+ 
+La création peut être modifié et utilisé librement à condition de respecter les règles de partage libre et gratuit. (le SA)
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Bien débuter sur YouTube! - Commentaires</title>
+  <description>
+Aujourd&#039;hui, on passe énormément de temps sur le web, beaucoup plus qu&#039;il y a dix ans,et c&#039;est due à la multiplication d&#039;appareils connectés avec un écran (oui,ne prenons pas les friteuses connectées pour regarder le nouvel épisode du Joueur Du Grenier...) qui a progressé assez rapidement.
+ 
+L&#039;un des sites où on passe le plus de temps sur nos téléphones portables est YouTube. On y écoute notre musique, on regarde des émissions qui passe aussi à la TV, on regarde des critiques d&#039;œuvres culturelles, on participe à des projets de web-série ou de film,... mais peu de gens sur l&#039;ensemble de YouTube font des vidéos!
+ 
+La demande étant grande, pourquoi ne pas se lancer et tenter de vous faire connaître ou juste faire une petite communauté pour créer une bande d&#039;amis autour de sujet culturels,... les choix sont différents pour chacun!
+ 
+Lorsque vous débuter sur YouTube, il y a plusieurs profil (comme des classes dans un RPG) possible:
+ 
+Parodien/Poopeurs: Vous faîtes des parodies de contenus.
+Podcasteur: Vous parlez devant votre caméra et vous vous mettez en scène.
+Testeur: Vous parlez en off ou devant votre caméra et vous présenter du consommable.
+Vloggeur/réactionner/let&#039;s player: Vous parlez devant votre caméra et vous montrez du contenu.
+Musicien/chanteur/compositeur:  Vous produisez un contenu audio auquel vous pouvez faire un clip.
+ 
+De ces profils, viendront des classes secondaires:
+Filmmaker: Vous faîtes des films,des courts-métrages.
+Critique: Vous faîtes des critiques de contenus culturels.
+Tuto-maker : Vous faîtes des tutoriels.
+
+ 
+Pour produire du contenu, il ne faut pas nécessairement une caméra au début car (pour ma part) je trouve que le montage est plus important à apprendre au début donc le mieux est de télécharger des vidéos nulles,chiantes voir négligées et d&#039;apprendre à utiliser son logiciel de montage avec afin de l&#039;améliorer. N&#039;oublier pas de demander à son auteur l&#039;autorisation AVANT de publier.
+ 
+Pour télécharger une vidéo sur YouTube, voici https://www.telechargerunevideo.com/fr/ .
+Mais, suite à des problèmes avec la justice, on a désormais https://fr.savefrom.net/ .
+On peut aussi utilisé https://notube.net/fr/tool-youtube .
+ 
+Chaque logiciel de montage peut être classé par ordre de difficulté et en voici donc mon classement personnel (le plus haut est le plus facile):
+Windows Movie Maker: https://www.commentcamarche.net/download/telecharger-34055158-windows-movie-maker
+ 
+Movavi Video Editor 14: https://www.movavi.com/fr/videoeditor/
+ 
+Shortcut: https://sourceforge.net/projects/shotcut.mirror/
+
+Magix Video Deluxe Prenium: https://www.magix.com/fr/video/video-deluxe/
+ 
+Panzoid (video editor): https://panzoid.com/tools/videoeditor
+ 
+Panzoid (clipmaker): https://panzoid.com/tools/clipmaker (On l&#039;utilise généralement pour des intros et des outros )
+ 
+Sony Vegas : https://www.vegascreativesoftware.com/us/sem/vegas-pro-edit/
+ 
+Adobe Premiere&amp;After Effect :
+https://www.adobe.com/be_fr/products/premiere.html
+https://www.adobe.com/be_fr/products/aftereffects.html
+ 
+ 
+Bien sur, lorsque vous faîtes des vidéos, il n&#039;y a pas que des ressources de type &quot;vidéo&quot; que vous avez besoin, il faut aussi savoir où trouver vos images,vos sons et peut-être vos modèles 3D si vous êtes un gars qui débute sur YouTube avec déjà une expertise dans ce domaine:
+ 
+Pour les images:
+https://www.deviantart.com/resources/clipart/newest/
+https://www.pinterest.fr/
+https://www.spriters-resource.com/
+https://www.textures-resource.com/
+ 
+ 
+Pour les sons:
+https://www.sounds-resource.com/
+https://soundcloud.com/stream
+https://www.ispeech.org/text.to.speech ( À utiliser pour générer des voix de synthèse ! )
+http://www.cyberlol.com/humour/bruitages.php
+https://lasonotheque.org/
+ 
+Pour les modèles 3D:
+https://www.models-resource.com/
+https://sketchfab.com/feed
+ 
+ 
+Par contre,c&#039;est bien beau d&#039;avoir des ressources pour ses vidéos mais n&#039;oublier pas d&#039;écrire ce que vous voulez dire,montrer et faire dans un document se trouvant dans un dossier arborant le titre de votre vidéo. L&#039;organisation est le maître mot du YouTubeur ayant du succès!
+ 
+Pour écrire vos textes, voici une liste de logiciels:
+Bloc-Note (disponible en natif sur Windows)
+
+Notepad++:  https://notepad-plus-plus.org/fr/
+
+Libreoffice Word: https://fr.libreoffice.org/download/libreoffice-stable/
+
+Open Office d&#039;Apache: https://www.openoffice.org/fr/
+
+Microsoft Office Word: https://www.microsoft.com/fr-be/store/b/word_2016?&amp;OCID=AID718530_SEM_oGYbOjml
+ 
+Mais vous n&#039;allez quand même pas éditer vos images,sons et modèles 3D dans votre logiciel de montage-vidéo? Il existe des logiciels dédiés à ça donc les voici:
+ 
+Pour les images:
+Paint (disponible en natif sur Windows)
+
+LunaPic: https://www168.lunapic.com/editor/
+ 
+PaintDotNet: https://www.getpaint.net/download.html
+ 
+Gimp: https://www.gimp.org/fr/
+ 
+MAGIX Photo &amp; Graphic Designer: https://www.magix.com/fr-be/photo-graphisme/photo-graphic-designer/
+ 
+Adobe Photoshop: https://www.adobe.com/be_fr/products/photoshop.html
+
+ 
+Pour les sons:
+Magix Music Maker: https://www.magix.com/fr-be/musique/music-maker/
+
+Audacity: https://sourceforge.net/projects/audacity/
+
+Adobe Audition:  https://www.adobe.com/be_fr/products/audition.html
+
+AudioSauna: http://www.audiosauna.com/studio/ (ATTENTION, utilise Adobe Flash Player)
+
+Pour les modèles 3D:
+Paint 3D (disponible en natif sur Windows 10)
+
+SculptFab: https://labs.sketchfab.com/sculptfab/
+
+Blender: https://www.blender.org/
+
+3DSmax: https://www.autodesk.be/fr/products/3ds-max/overview
+ 
+Maya: https://www.autodesk.be/fr/products/maya/overview
+ 
+Mixamo: https://www.mixamo.com/#/ ( attention, c&#039;est pour l&#039;animation d&#039;humanoïde !)
+ 
+ 
+ 
+ 
+Tout ces logiciels peuvent être difficiles à employer quand on début mais sachez que des tutos sont disponibles sur YouTube et si vous ne trouvez pas votre bonheur, faîtes une demande à un gars qui a déjà fait un tuto sur le logiciel dont vous êtes perdu.
+ 
+Sachez qu&#039;il existe aussi https://fr.tuto.com/ pour obtenir des tutos professionnels bien classés.
+ 
+ 
+Bien sur, débuter sur YouTube c&#039;est aussi prendre conscience de certains danger liés au potentiel de visibilité possible pour une seule chaîne YouTube.Donc pour bien commencer sans vouloir se tailler les veines au bout de deux jours après la publication de votre première vidéo,respecter ces règles:
+ 
+1.Ne pas montrez sa bouille (visage) quand on est/d&#039; un enfant (de moins de 12 ans),
+ 
+2.Ne pas divulguer son vrai prénom et son vrai nom (sinon,ça fuite et vous perdez votre liberté d&#039;être qui vous voulez),
+ 
+3.Ne pas plagier les autres pour le buzz (vous voulez la paix...vous l&#039;aurez ;) ),
+ 
+4.Ne pas clasher les autres pour le buzz (vous voulez la paix...eux aussi),
+ 
+5.Mettre un petit logo en plein milieu ou créer une esthétique/un concept propre à votre chaîne (comme ça,pas de vol de vos production sans devoir faire des retouches dégradant la vidéo et prouvant que le voleur n&#039;est pas l&#039;auteur),
+ 
+6.Évitez d&#039;utiliser du contenu sous droits d&#039;auteur au risque de perdre votre vidéo et,au bout de 3 pertes, votre chaîne YouTube.
+ 
+7.Évitez de faire votre PUB en commentaire mais profiter des lives et des réseaux sociaux pour réagir en fonction du contexte. En gros: Faîtes-vous remarquer utilement!
+ 
+ 
+ 
+N&#039;oublier pas que votre première vidéo ne sera pas (et surtout &quot;ne doit pas être&quot;) la meilleure vidéo de votre chaîne YouTube à cause du temps hyper-long que vous aurez pris pour la faire ou des achats que vous aurez également fait. Cette première vidéo doit juste permettre de montrer votre qualité étalonne et non votre meilleur qualité.
+Montrer ce que vous savez déjà faire avec maximum 1 mois de travail et vous aurez bien commencé.
+ 
+N&#039;oubliez pas quelques astuces:
+ 
+-Garder vos idées de vidéos dans un bloc-note,
+-Garder les rushes de vos vidéos dans un dossier,
+-Mettez vos textes sur un blog/un site afin de pouvoir y revenir au cas où c&#039;est nécessaire,
+-Mettez les musiques et extraits utilisés en lien dans la description de votre vidéo,
+-Triez dans des playlists vos vidéos,
+-Invitez les internautes à donner leurs avis sous vos vidéos,
+-Créer un Twitter afin de garder un contacte avec votre communauté au-delà de votre chaîne,
+-Créer un Dailymotion ( https://www.dailymotion.com/ ) ou un BitChute ( https://www.bitchute.com/ ) pour répertorier les vidéos qui ont été supprimées de YouTube!
+ 
+ 
+Maintenant, il existe bien des conseils mais là, n&#039;étant pas vraiment au stade de certains dans le YouTube Game, je m&#039;en vais vous faire une compilation de leurs vidéos de type &quot;conseils&quot;:
+ 
+
+ 
+
+ 
+
+ 
+  
+ 
+
+KidpaddleetcieGlin
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

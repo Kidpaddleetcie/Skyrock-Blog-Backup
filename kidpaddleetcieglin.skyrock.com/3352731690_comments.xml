@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Avis2Glin ] Supremacy1914 - Commentaires</title>
+  <description>
+J&#039;ai commencé à jouer à Supremacy1914 parce qu&#039;un proche s&#039;y était mis suite à une publicité sur YouTube ou Facebook vers Mai 2022.
+ 
+Supremacy1914 est un jeu en ligne massivement multijoueur en temps réelle ayant comme imagerie la première guerre mondiale. Il se joue sur PC et Smartphone et a pour gameplay
+le Idle ( attendre ou agir pour qu&#039;une valeur augmente ),
+le pierre-papier-ciseaux ( certaines unités sont plus efficaces que d&#039;autres selon les situations )
+et
+la collaboration/compétition (les joueurs peuvent collaborer entre eux mais aussi se détruire ). 
+ 
+En 7 mois, j&#039;ai pût faire 5 parties et en gagner aucune... il faut dire que je ne suis pas très bon en jeu de stratégie ( mon dernier était un jeu 3DS nommé &quot;Tom Clancy&#039;s Ghost Recon: Shadow Wars&quot; ) et l&#039;aspect lent du jeu n&#039;aide pas non plus.
+ 
+La lenteur
+
+
+Le jeu est particulièrement lent pour tout ce qui est déplacement des troupes. Seules les transactions entre les différentes ressources ( argent, blé, poisson, bois, fer, charbon, pétrole et gaz ) sont rapides à faire.
+
+
+La lenteur du site web peut aussi se ressentir sur les gros serveurs.
+
+
+La communication
+
+
+Malgré un système de tchat général, personne ne l&#039;a employé pendant mes 5 parties. Seuls comptent les tchats entre pays et coalitions.
+
+
+Les PUBs/Pop-Up
+
+
+Le jeu n&#039;est pas entièrement gratuit. Il utilise 3 moyens pour avoir des rentrées financières :
+- Achat de monnaie virtuelle ( le Goldmark, à partir de 2€ ) permettant de se procurer de plus grande quantité de ressource à tout moment dans une partie active.
+- Achat d&#039;un compte prenium ( à partir de 5€ ) permettant de débloquer des fonctionnalités stratégiques dont, notamment, la planification de construction à exécuter une fois la précédente effectuée.
+- La publicité Google.
+ 
+Malheureusement, sur PC, le chargement des publicités Google ralentit fortement le rendu de jeu.
+ 
+Il y a aussi les Pop-Up pour l&#039;achat de monnaie virtuelle ou compte prenium ou pour rejoindre une alliance qui font défaut car c&#039;est à chaque reconnexion.
+ 
+L&#039;ambiance
+On est un peu seul si on ne sollicite pas l&#039;attention en message privé d&#039;un autre joueur.
+ 
+Le jeu a toujours la même musique de fond, les armées n&#039;ont pas de réelle différences visuelles (à part sur leurs fiches de combat), les bruitages sont répétés ad nauseam et la force du nombre est la seule force évidente donc on stress beaucoup quand on voit à nos frontières une garnison de 100 soldats... même quand on a une dizaine de blindés.
+ 
+Du coup, addictif ou pas ?
+Bof bof, une fois une partie terminée ( une partie peu prendre longtemps à se finir ), on est libéré du jeu jusqu&#039;à qu&#039;on rejoint une autre partie. Entre temps, évidemment, ce sont ceux qui sont les plus actifs qui gagnent car présent pour les meilleures offres et les bons moments pour attaquer des pays sans riposte du joueur adverse qui dort ou travaille.
+ 
+C&#039;est un occupe-main et je ne pense pas que ça soit un jeu plus intéressant en terme de graphisme ou stratégie qu&#039;un bon vieux &quot;Le Seigneur des anneaux : La Bataille pour la Terre du Milieu II&quot; qui est bien moins lent et, certes, moins réaliste.
+ 
+Je conclue donc par : C&#039;est pas ouf mais on nous promet pas non plus que ça devrait l&#039;être donc c&#039;est bien.
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

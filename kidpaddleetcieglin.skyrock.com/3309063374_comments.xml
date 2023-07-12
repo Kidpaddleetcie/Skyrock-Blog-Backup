@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ListeInspirante]Les conseils de Glin en 3D! - Commentaires</title>
+  <description>Quand vous commencez à faire de la 3D, vous cherchez à utiliser des logiciels hyper-compliqués qui vous permettent de faire bien plus que du modelling! ET VOUS VOUS ÉTONNEZ D&#039;ÊTRE DÉCOURAGER AU BOUT D&#039;UNE HEURE DE TUTO OU D&#039;ESSAIS?!
+ 
+Le meilleur moyen de commencer est d&#039;utiliser Google SketchUp ( https://www.sketchup.com/fr ) parce qu&#039;il est la parfaite transition entre un logiciel de dessin et de 3D! 
+ 
+Ensuite, quand vous modélisez, veuillez utiliser une image ou deux pour avoir des repères!
+Veillez à mettre toutes vos ressources dans un seul et unique dossier!
+Veillez à bien nommer vos objets et les classez selon un ordre logique comme la taille, l&#039;alphabet,...
+ 
+Lorsque vous faîtes de l&#039;animation, veuillez utiliser une vidéo où vous avez utilisez des objets de même épaisseurs que les objets que vous voulez faire bouger! Ainsi, vous gardez un réalisme dans vos objets virtuels et les gens ne vous feront pas la remarque &quot;Meuh, c&#039;est pas fluide!&quot;!
+ 
+Les logiciels en vogue pour faire de la 3D plus avancée que Google SketchUp sont:
+3DSmax: https://www.autodesk.be/fr/products/3ds-max/overview
+Maya: https://www.autodesk.be/fr/products/maya/overview
+Blender: https://www.blender.org/
+Cinema4D: https://www.maxon.net/fr/produits/cinema-4d/cinema-4d/
+ 
+SACHEZ QUE LA FACILITÉ DANS SES LOGICIELS DÉPEND DE VOS PRIORITÉS DANS LA 3D!
+3DSmax est plus adaptés dans le modelling pure et les effets sont plutôt secondaires!
+ 
+Maya est vraiment fait pour l&#039;animation en 3D!
+ 
+Blender c&#039;est de la merde car je n&#039;arrive même pas à faire un cube au bout de 12 essais espacés de 4 mois chacun!
+ 
+Cinema4D est plus adapté pour l&#039;ensemble du modelling mais surtout pour les jeux de scène avec une grande facilité pour placer les lumières et les objets à animer! IL PEUT REMPLACER LE COMBO 3DSmax/MAYA !
+ 
+Quand vous voulez poster sur internet de la 3D, passer par https://sketchfab.com/ car il est adapté pour les mobiles et les PCs ce qui n&#039;est pas un détail à négligé!
+
+Voila!
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Reprendre des musiques de Soundcloud gratuitement ! - Commentaires</title>
+  <description>
+Il fût un temps où j&#039;avais un plugin Google Chrome qui me permettait de télécharger à l&#039;aide d&#039;un bouton les musiques de Soundcloud ! C&#039;était facile et rapide !
+ 
+Aujourd&#039;hui, on nous as supprimé ce plugin et c&#039;est vraiment triste car voici l&#039;astuce pour télécharger gratuitement des sons sur Soundcloud (oui, des sons !!!) :
+ 
+1. Télécharger le plugin &quot;Activer le clic droit de la souris&quot;  (accessible ici https://chrome.google.com/webstore/detail/enable-right-click/gpeddepmnbmkjfnhifmggnjdggibjjkf )
+
+
+2. Rendez-vous sur Soundcloud et jouer une musique/chanson !
+
+
+3. Cliquez sur l&#039;icone de votre anti-anti-clic-droit et sélectionner &quot;Ultimate Mode&quot; !
+
+
+4. Inspecter l&#039;élément n&#039;importe où sur la page !
+
+
+5. Allez dans la section &quot;Applications&quot;
+
+
+6.Allez dans le dossier &quot;XHR and Fetch&quot; et sélectionner le fichier en .mp3 qui vous tente... ils ont tous le même nom et ce sont des parties de la musique que vous avez joué !
+ 
+ 
+Voila, pour obtenir une musique EN ENTIER, vous allez devoir télécharger un par un les petits bouts et les fusionné entre eux dans un logiciel comme Audacity !
+ 
+ 
+Moi, je vous le dis, je trouve ça trèèèèèès lonnnnng et je suis nostalgique de mon bouton &quot;download&quot; sur l&#039;ensemble des sons du site !
+ 
+KidpaddleetcieGlin
+
+MISE À JOUR AVRIL 2020
+&#65279;Maintenant, on peut utiliser le plugin Google Chrome &quot;MeddleMonkey&quot; (https://chrome.google.com/webstore/detail/meddlemonkey/moihledlmchhofenpacbhphnbnpakgmo/) et suivre ce tutoriel: 
+https://fr.savefrom.net/userjs-for-google-chrome.php
+
+
+En gros, il permet de créer un bouton qui va reprendre les données de stream et les compilés automatiquement pour enregistrer le résultat dans le dossier souhaité ! C&#039;est plus rapide que la méthode que je vous proposais ici après la fin de Soundcloud Downloader et ça vous donne un bouton &quot;download&quot; sur l&#039;ensemble des sites de streaming connus comme Soundcloud,YouTube,Dailymotion,...
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

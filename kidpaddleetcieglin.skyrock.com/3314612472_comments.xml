@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Pourquoi?]Minecraft ne peut imiter The Legend Of Zelda:Breath Of The Wild - Commentaires</title>
+  <description>
+ 
+S&#039;il y a bien une chose qui est génial avec Minecraft,c&#039;est le fait qu&#039;on peut reproduire en version cubique un jeu-vidéo!
+ 
+On a réussi à adapter les premiers Zelda en 3D ainsi que les Mario,les Diablo,... mais pour ce qui est du dernier ToZ,ça va être compliqué!
+ 
+Déjà, les notions de cinétis seront bien compliqué à réalisé car on va devoir créer un système de bumpeur invisible à envoyer et avec une latence de 10 secondes à utiliser n&#039;importe où donc les command block seraient inutiles à cette tâche!
+ 
+Ensuite, la notion des boules (pour les bombes,les pommes,...) qui roulent sur eux-mêmes et permettent des stratégies de combat et de déplacement inédits...MINECRAFT NE PEUT ACCUEILLIR LA NOTION DE ROULEMENT QUAND LES ENTITÉS DESTRUCTIBLES ET TOUCHABLES SONT DES CUBES!!!
+ 
+Dans la catégorie &quot;GamePlay compliqué à mettre dans Minecraft&quot;, on peut parler de la caméra qui sert de moyen pour détecter les créatures et consommables environnants se trouvant en face du centre de l&#039;objectif... Et une photo d&#039;une de ces entités permet d&#039;améliorer le détecteur afin de retrouver cette entité avec le radar après un petit tour dans son encyclopédie... l&#039;ennuie avec l&#039;idée de cette mécanique de GamePlay,c&#039;est qu&#039;il mets en avant un mode photo qui doit afficher un texte en fonction du point de focus et de l&#039;entité regardé pour en faire une photo et garder en mémoire cette photo ET DONC ON A UNE CRÉATION D&#039;UN FICHIER IMAGE DANS MINECRAFT COMME MÉCANIQUE DE GAMEPLAY CE QUI EST COMPLÈTEMENT INÉDIT PARCE QU&#039;ON EST PAS CENSÉ CRÉER DES FICHIERS À PARTIR DE MINECRAFT.JAR À PART DES LEVEL.DAT ET DES MAP.DAT!!!
+ 
+Le pire pour la notion d&#039;objet, c&#039;est que le petit inventaire Minecraft de 27 emplacements devra gagner en case et avoir une notion d&#039;onglet avec des cases grisées à débloquer chez le danseur Korogu...les moddeurs en sueurs bon sang!
+ 
+Pour ce qui est des cinématiques...Minecraft ne sait pas faire de moment de non-jeu...hum... .
+ 
+Pour ce qui est de l&#039;escalade,il faudra que toutes les surfaces latérales des blocs composants les montagnes,falaises,arbres,... aillent la propriété d&#039;une échelle mais qui puise sur l&#039;endurance en fonction du temps à monter.
+ 
+Les notions de cramer,enflammer,neutre,congeler les aliments grâce à la température ambiante rien quand posant ces aliments sur le sol...c&#039;est la notion de grandes zones sous le joug d&#039;un command block et d&#039;un mod pour mettre la notions de température et donc ses effets!
+ 
+La notion de commerce ne devra plus être un système de troc mais un système avec la monnaie &quot;rubis&quot;...c&#039;est pas dur à modder tellement le principe tient en un changement mais c&#039;est une chose à modder quand même!
+ 
+ 
+Voila, il y a certainement d&#039;autres systèmes/mécaniques de gameplay de &quot;The Legend Of Zelda:Breath Of The Wild&quot; impossibles ou compliqués à imiter sur Minecraft mais je pense avoir citer les principaux!
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

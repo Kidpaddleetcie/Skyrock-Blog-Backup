@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation2Glin]L&#039;EgocentrikArt - Commentaires</title>
+  <description>Dans cet article, je vais vous parler de ce que c&#039;est que le &quot;EgocentrikArt&quot;!
+ 
+Déjà, c&#039;est une pure invention de ma part car je n&#039;ai pas trouvé un moyen de caser les œuvres où l&#039;artiste se montre sous son plus beau jour ou s&#039;amuse qu&#039;avec sa personne afin de créer l&#039;émotion!
+ 
+En sois, c&#039;est un art assez proche de l&#039;autoportrait mais comme il n&#039;est pas nécessairement dédié au domaine du visuel (pourquoi ne pas faire une chanson qu&#039;avec son prénom?), je tiens à mettre le point d&#039;honneur sur le fait que c&#039;est un art sans réelle frontière.
+ 
+Voici deux exemples d&#039;EgocentrikArt:
+
+ 
+
+
+ 
+Si vous voulez savoir, je fais de l&#039;EgocentrikArt depuis bien des années et je pense que c&#039;est lorsque j&#039;ai eût mon premier appareil photo et que j&#039;ai fais des photos de ma bouille que j&#039;ai vraiment commencé à faire le culte de ma propre personne.
+ 
+Remarquer que la seule condition pour faire de l&#039;EgocentrikArt est que l&#039;auteur de l&#039;oeuvre se mentionne/se montre dans l&#039;intégralité de l&#039;oeuvre (donc pas seulement dans les crédits ou en tant qu&#039;acteur parmi tant d&#039;autres!).
+ 
+Si un film est fait en EgocentrikArt, c&#039;est qu&#039;il n&#039;a qu&#039;un seul acteur qui est aussi le producteur,le cameraman,... TOUT EST FAIT DE A À Z DE LA PART D&#039;UNE SEULE PERSONNE!
+ 
+Si c&#039;est une BD, ce sera un seul personnage (qui représente le dessinateur/scénariste/coloriste) qui vit une aventure où aucun autre personnage n&#039;entre en jeu.
+ 
+C&#039;est donc un art où aucun dialogue est possible (sauf le coup du miroir) et donc on peut finir par tomber dans la facilité de la multiple personnalité...mais ce ne sera donc jamais original. C&#039;est donc un art plus enclin à être utilisé dans le domaine du statique comme la photographie, la sculpture, la gravure, la peinture,... même si une chanson qui fait l&#039;éloge de votre personne est aussi possible...on appellerait ça aussi &quot;rapper son CV&quot; si vous voyez ce que je veux dire!
+ 
+Bon, je pense que vous avez saisi l&#039;idée de cet art, à vous de vous ouvrir à vous-même et de œuvrer littéralement pour vous-même!
+ 
+Merci d&#039;avoir lu cet article;KidpaddleetcieGlin
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

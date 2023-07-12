@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Pourquoi ? ] &quot;Professeur Layton combat le grand capital partie 3&quot; prend autant de temps à se faire ! - Commentaires</title>
+  <description>C&#039;est depuis le 19 Avril 2021 que je travaille sur &quot;Professeur Layton combat le grand capital partie 3&quot; et je prend maintenant le temps de répondre à cette question qu&#039;on ne m&#039;a pas encore posée.
+ 
+La partie 2 était trop courte et nous laissait avec plusieurs questions :
+- C&#039;est quoi MLG ?
+- Pourquoi ils ont capturés Descole,Luke,Luigi et Mario ?
+- Pourquoi ils ont attaqués Kass,Tintin et Layton ?
+- Pourquoi Tintin est de retour ?
+ 
+
+
+ 
+Ces questions, la partie 3 doit absolument apporté les réponses mais il y en a pleins d&#039;autres de questions à répondre dans cette aventure :
+ 
+- Comment Descole fait pour attaquer avec des éclairs ? ( voir &quot;Professeur Layton combat le nazisme partie 1&quot;)
+- Quel est la limite des pouvoirs de Glin ? (Limitation des Deus Ex Machina)
+- D&#039;où vient toute la thune de Descole ? ( Voir &quot;L&#039;aventure de Jean Descole&quot; )
+- À quoi ressemble le parc d&#039;attraction DescoleXLayton ? ( on voit sa version &quot;mini&quot; dans &quot;Professeur Layton combat le grand capital partie 1&quot;)
+- ...
+ 
+ 
+Comprenez donc que c&#039;est beaucoup de travail et que le résultat va TRÈS CERTAINEMENT aboutir à une YTP de plus de 40 minutes !
+ 
+Je me marre bien en la faisant, je sais que dans quelques mois, je l&#039;aurais terminé donc soyez patient et investissez en masse dans les chips et les boissons gazeuses.
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

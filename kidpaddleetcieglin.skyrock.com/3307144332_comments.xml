@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Astuces2Glin]Bien gérer son site web personnel! - Commentaires</title>
+  <description>Quand on gère un site web personnel (comme un site où vous y mettez vos productions), on se doit de garder en tête qu&#039;il n&#039;est pas infaillible et surtout définit ce qui signifie que vous devrez faire des choix qui vous amèneront à le rendre de plus en plus polyvalent.
+ 
+ Par exemple, quand vous allez faire le header vous allez devoir vous posez la question:
+Est-ce que je le mets en .php ou en .html?
+ 
+Bien sur, ce genre de question nécessite de comprendre les intérêts du .php mais je peux vous dire que si votre site ne nécessite à aucun moment la gestion de donnée provenant d&#039;utilisateur comme des mots de passe et des identifiants, rien ne sert d&#039;utiliser le .php!
+ 
+Une autre astuce en terme d&#039;esthétique est de se limiter à un nuancier pour les couleurs du site pour éviter de faire un site qui fait mal aux yeux! Pour se faire, éviter les couleurs qui sont l&#039;inverse d&#039;autre couleurs que vous avez pris! Préférer donc une part du cercle colorimétrique (chromatique) comme si c&#039;était votre part de pizza !
+ 
+Pour bien gérer vos codes en javascript, le mieux est d&#039;expliqué ce qu&#039;il est censé faire à partir d&#039;une BD ou d&#039;un simple storyboard que vous écrirez en français, puis dessinerez et enfin coderez car ainsi, vous avez la notion d&#039;esthétique et une structure définies!
+ 
+Afin d&#039;éviter de perdre de la qualité pour votre bannière quand il est agrandit sur un écran de TV ou autre écran de taille supérieur à celle de votre écran de PC, vous pouvez utiliser un fichier en format SVG au lieu de votre .PNG! 
+ 
+
+Comme la majorité des personnes qui vont sur le web sont des smartphoneux (utilisateurs de smartphone), pensez votre site sur la verticalité plutôt que l&#039;horizontalité! Ne surchargez en rien votre page avec une mise en page prenant en compte un scrolling horizontale!
+ 
+ 
+ Abusez de la balise &lt;object data&gt;  pour insérer du contenu dans votre page HTML afin de rendre le site plus facile à gérer puisque que votre contenu (comme le header, le footer, le contain,...) se retrouve sur une seule page se retrouvant sur plusieurs pages!
+ 
+ 
+Toute récurrence esthétique DOIT se retrouver dans le fichier CSS lié aux pages nécessitant ces récurrences!
+ 
+ 
+Faîtes vos animations n&#039;apportant rien au contenu excepté une belle présentation en CSS,
+Faîtes vos animations de feed-back en javascript!
+ 
+Évitez la police &quot;COMIC SANS MS&quot;, même si vous la trouvée plutôt jolie,elle est dangereuse et est considérée comme la cause de suicide numéro un chez les gens qui possèdent des yeux!
+ 
+
+Ne mettez pas de musique de fond à votre site...ça n&#039;adoucit pas les mœurs,bien loin de là!
+ 
+ 
+Éviter de mettre plusieurs intérêts à une page afin de ne pas la surcharger et la rendre instable pour les gens qui n&#039;ont pas la fibre!
+ 
+Voila :D
+ 
+KidpaddleetcieGlin
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

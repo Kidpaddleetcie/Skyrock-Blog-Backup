@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Ma Présentation]Février 2014 - Commentaires</title>
+  <description>Je me présente,
+ 
+Je me nomme Glin Kidpaddleetcie,Glin est mon prénom.
+J&#039;ai 7 ans et je suis artiste!
+ 
+Je créer sur tout les genres de médias à l&#039;exception de l&#039;audio car il se combine à un visuel pour former une vidéo.
+ 
+J&#039;aime bien les jeux-vidéos de plateforme et de gestion.
+ 
+Je soutiens surtout la marque de jeu-vidéo &quot;Nintendo&quot; car ils sont producteurs de consoles et de jeu-vidéo ainsi que le moins cher du marché.
+ 
+ 
+Je n&#039;aime pas les conditions du droit d&#039;auteur actuel sur YouTube car ils limite beaucoup mes créations et me fait craindre la perte de création/projet déjà avancé.
+ 
+J&#039;ai une petite sœur de 2 ans nommée FanYoshiBleu,elle est fan de Nintendo depuis que&#039;elle a touché à la Super-Nintendo.
+ 
+Les programmes que j&#039;emplois le plus sont:
+ 
+-Magix Video Deluxe 2007,
+-Paint.NET,
+-Google Chrome.
+ 
+Mon but est de créer un petit réseau nommé &quot;Kidpaddleetcie&quot; qui répertorie mes oeuvres et donne la possibilité aux gens de les ré-utiliser pour créer un répertoire encore plus grand et plus varié!
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

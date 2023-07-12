@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Avis2Glin]La sensibilisation à l&#039;écologie - Commentaires</title>
+  <description> 
+Après l&#039;écoute de quelques discours de Greta Thunberg, des discussions et la lecture de quelque bribe de https://www.ipcc.ch/sr15/ avec autant de concentration possible pour ne pas comprendre de travers ce que je lis en anglais , je me suis créé un avis sur la sensibilisation à l&#039;écologie.
+ 
+
+ 
+
+C&#039;est fou mais malgré le fait que les pays Européens font des efforts depuis 5 ans pour ne pas finir la tête sous l&#039;eau dans 20/30/100/500 ans, Greta ose crier sur la France alors qu&#039;elle passe à coté de Donald Trump sans lui foutre un pain... m&#039;enfin, la France ne représente qu&#039;1% de la pollution terrestre !
+
+
+ 
+( https://fr.statista.com/infographie/15941/deces-causes-par-pollution-atmospherique-particules-fines-en-europe/ )
+ 
+Je peux admettre que la France n&#039;est pas un exemple en terme de recyclage car bien en-dessous de la moyenne européenne mais dans les autres catégories de pollution, ce ne sont pas vraiment eux qui sont à engueuler de manière hystérique !
+( https://fr.statista.com/infographie/18665/taux-de-recyclage-emballages-plastiques-en-france-et-europe/ )
+ 
+La Chine est toujours le pays qui mets à mal notre planète mais comme on ne peut pas risquer un conflit diplomatique avec ce pays, il vaut mieux s&#039;attaquer aux États-Unis qui sont les seules à avoir des liens avec l&#039;Europe et le Programme des Nations unies pour l&#039;environnement !
+
+ 
+( https://fr.statista.com/infographie/14928/pays-pollution-plastique-oceans/ )
+ 
+ 
+Justement, parlons un peu du Programme des Nations unies pour l&#039;environnement !
+En réalité, les différents États responsables de la plus grande partie de pollution participent (ils ont des bureaux) =&gt; https://fr.wikipedia.org/wiki/Programme_des_Nations_unies_pour_l%27environnement
+Ils sont surtout chargés à communiquer sur l&#039;environnement VIA des rapports, des romans, des magazines, des lettres et des expos. C&#039;est donc clairement pour l&#039;information et la sensibilisation autour de l&#039;écologie.
+
+
+Maintenant, parlons de Greta Thunberg, cette suédoise autiste qui la dénue de compassion de 2003 qui n&#039;a rien trouvé de mieux pour sécher l&#039;école de gueuler et de faire grève pour le climat... Elle est juste une vitrine de la sensibilisation et je trouve ça juste pathétique de se servir d&#039;une gamine de 16 ans avec des problèmes sociaux et intellectuels pour gueuler sur des politiques. HOW DARE YOU ?!
+ 
+https://fr.wikipedia.org/wiki/Greta_Thunberg
+https://fr.wikipedia.org/wiki/Syndrome_d%27Asperger
+
+La politique se divise aujourd&#039;hui en 3 grandes axes: Social, écologique et économique. J&#039;appelle ça le RougeVertBleu,le RVB ! 
+
+Le RVB où tout le monde est d&#039;accord n&#039;existe pas car nous répondons à un désir de croissance permanent ( malgré les ressources limitées ). Hors, pour faire des changements, des améliorations, des décisions en générales, il faut de l&#039;argent.
+C&#039;est donc l&#039;économie qui prime.
+  
+
+L&#039;écologie n&#039;est pas encore suffisamment entrée dans la politique depuis 50 ans ! C&#039;est pour cela que vous ne trouverez que des partis &quot;Écolo&quot; ou &quot;Partis des verts&quot; dans votre pays. https://fr.wikipedia.org/wiki/%C3%89cologie_politique
+Un des soucis réside donc dans la sous-représentation en politique de partis pro-écologiques total.
+Un autre soucis est que les partis s&#039;intéressent aussi à l&#039;écologie mais toujours en respectant une autre axe qui sera plus primé. Ce qui fait un avantage par métissage des idées mais des paroles en l&#039;air pour la majorité de ces partis dû à ces dissipations. Les partis politiques tout vert ne peut donc pas avoir une majorité dans ce cas-là.
+ 
+https://fr.wikipedia.org/wiki/%C3%89cologie_sociale
+ 
+https://fr.wikipedia.org/wiki/%C3%89conomie_%C3%A9cologique#Recommandations_politiques
+ 
+ 
+Du coup, la sensibilisation est toujours importante mais ce n&#039;est pas vraiment le peuple qu&#039;il faut blâmer mais le manque de répondant des politiques face à une problématique qui s&#039;ajoute à une crise économique et sociale. Il nous faudrait du pognon et du travail si on veut changer les choses. 
+ 
+Mon avis est donc clair: Sensibiliser les gens, c&#039;est bien. Aider les politiques, c&#039;est mieux !
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Dactylographie ] La disposition américaine d&#039;un texte  - Commentaires</title>
+  <description>Comme vous le savez, nos amis &#039;ricains ne sont pas avec la même culture que nous en terme de norme et de mise en page.
+ 
+Ici, je vous propose de prendre connaissances des aspects d&#039;un texte disposé de manière américaine.
+ 
+Déjà, le titre n&#039;est pas centré, il colle la marge de gauche en majuscule ( en haut de casse, en cap. ) JAMAIS SOULIGNÉ ET SANS POINT À LA FIN.
+ 
+Remarque : En faîtes, le titre peut être centré s&#039;il est encadré.
+ 
+Après l&#039;écriture du titre, ils laissent deux lignes de blancs, de vide, avant de débuter le premier paragraphe.
+ 
+Arrivé aux paragraphes, les espacements sont censés être 0 avant et 24 points après et l&#039;alignement est en justifiée.
+ 
+Pour finir, l&#039;auteur du texte ou la référence se met à droite contre la marge avec les espacements en 12 points avant et après.
+ 
+ 
+ 
+Sources: 
+https://slideplayer.fr/slide/10198989/ ( c&#039;est un diaporama sur le traitement de texte et je me suis servis du slide 5 )
+ 
+
+ 
+ 
+https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&amp;-manuels-informatiques/cours-dactylographie-secretariat/Theorie+sur+la+disposition+des+textes.pdf  ( la page 5 ) </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

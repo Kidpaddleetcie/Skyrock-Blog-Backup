@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Paroles2Glin]La flemme dans la misère! - Commentaires</title>
+  <description>
+Parfois,
+Il m&#039;arrive de penser au lendemain,
+Faut dire que je suis contraint de penser épicurien,
+De profiter de tout avant d&#039;avoir rien,
+Même si j&#039;ai la flemme de dépasser mon quotidien!
+ 
+Ma foi,
+Je pense que je devrais agrandir ma zone de confort,
+Sinon entretenir des relations sociales ne sera jamais mon fort,
+Mouai... j&#039;avoue que ça ne me fera pas de tort,
+De sortir un peu pour entretenir mon esprit et mon corps!
+ 
+Le barème salarial étant à mille deux-cents euros,
+Je pense que je ne suis pas prêt de quitter mes parents,
+Ah oui, j&#039;oubliais de rappeler que je recherche un boulot,
+J&#039;attends de celui-ci la rencontre d&#039;argent et de gens,
+Pour agrandir mes réseaux sociaux et mes infos,
+Car je suis curieux de savoir ce que je vaux,
+Il faut dire que je passe trop de temps dans mon bureau,
+Mais sans mon ordinateur j&#039;aurais mal à mon égo.
+ 
+Je ne sais pas si je suis drogué du monde virtuel,
+Mais ,atteint de diarrhée verbale,il me faut de la réception,
+Car le miroir se moque de ma gestuelle,
+Je préfère donc m&#039;accommoder aux doux sons,
+Que procure ma bouche et ses mimiques bagatelles.
+ 
+Je suis au courant que suis flemmard,
+Si je n&#039;ai rien rien à faire aujourd&#039;hui,
+Je me lève à quatorze heure moins quart,
+Mais si un lieu et une heure de rendez vous est écrit,
+J&#039;y serais une heure en avance sans avoir dormit,
+Je sais que dans la misère je fais de l&#039;art,
+Mes journées sont aussi courtes que des blagues Carambar!
+ 
+La misère n&#039;est pas seulement dans les poches,
+Elle est aussi dans l&#039;hygiène de vie,
+La perte de régularité sportive m&#039;a rendu moche,
+Et je ne vous raconte pas mes déboires en psychologie,
+J&#039;ai autant de réflexion que de la roche,
+Je me fais des débats de comptoir tout seul dans mon lit,
+Souvent des idées bien trop approfondis,
+Mais une conversation tout seul n&#039;est sain d&#039;esprit!
+
+ KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Constat de Glin]Ce qu&#039;on ne retrouve pas dans Super Mario Maker! - Commentaires</title>
+  <description>J&#039;ai beaucoup joué à Super Mario Maker ainsi qu&#039;à ses jeux inspirés,à savoir:
+-Super Mario Bros (1 &amp; 2)
+-Super Mario Bros 3
+-Super Mario World,
+-New Super Mario Bros (DS et Wii).
+ 
+FanYoshiBleu (sur son compte) a tout gagné des différents matériaux de construction de niveau et force est de constater que certain éléments de gameplay manque à l&#039;appel:
+ 
+-Yoshi qui ne crache pas de feu,ne fait pas un tremblement de terre,ne vole pas,
+-Pas de carapace bleu et jaune (ainsi que celle qui clignote et qui est à tête chercheuse),
+-Pas de LUIGI!!!!!,
+-Pas de Guide LUIGIIIIIII!!!!!,
+-Pas de triangle anti-gravitationnelle,
+-Pas la possibilité de faire des bulles,
+-Pas l&#039;item &quot;Montgolfier&quot; (MarioBallon),
+-Pas de Mecha-Koopa,
+-Pas de grille où on peut s&#039;accrocher,
+-Pas de BONUS STAGE,
+-Pas de Rhinocéros,
+-Pas de joueur de football américain,
+-Pas de costume TANUKI,
+-Pas de costume pour lancer des marteaux,
+-Pas de costume pour lancer des boomerangs,
+-Pas de gestion de maps,
+-Pas de Lenny,Morton,Wendy-Oh,Roy,Ludwig,
+-Pas de vol infini (la super-feuille avec un P),
+-Le vent de Super Mario Bros:The lost levels,
+-Le soleil de Super Mario Bros 3,
+
+C&#039;est déjà beaucoup mais sachez que le jeu est bien quand même car il respecte au moins l&#039;accessibilité pour les jeunes joueurs!
+ 
+Trop de variante tue le gameplay quand on n&#039;est pas Game Designer de métier!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

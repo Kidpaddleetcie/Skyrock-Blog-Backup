@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique2Glin] Sonic 2:le film - Commentaires</title>
+  <description>C&#039;est partit pour &quot;Sonic 2: Le film&quot; que j&#039;ai vu ce 3 Avril 2022 en compagnie d&#039;un pote aussi peu calé que moi sur Sonic POUR LA DEUXIÈME FOIS !
+
+ 
+Comme la dernière fois, je ne spoilerais pas , le film en vaut la peine !
+ 
+Commençons par l&#039;appréhension 
+ 
+Le scénario ne devra pas être aussi simple
+
+
+Soyons d&#039;accord sur un truc : RoadTripIntoUSA et la famille
+ 
+Le premier film était assez simple et avait beaucoup de décalque sur les autres scénarios de la Paramount.
+ 
+Il fallait donc que ce deuxième film envoi du lourd, du très très lourd pour compenser et donner de nouveaux points d&#039;évolution à Sonic et l&#039;univers dans lequel il évolue.
+ 
+Le premier film était &quot;facile&quot;, le deuxième devait envoyer des enjeux et des scènes dignes des meilleurs jeux.
+ 
+ 
+Et là, ça commence mal
+ 
+
+
+Je ne spoilerais que les premières secondes du film : D&#039;où Robotnik a gardé l&#039;épine chargé d&#039;énergie ? SONIC N&#039;AVAIT PAS RÉCUPÉRÉ SON POUVOIR ?!
+
+
+Et mis à part ça, c&#039;est bien
+ 
+Le film repose sur un contraste mis en place par la séparation de Sonic avec les humains jusqu&#039;à qu&#039;ils se retrouvent au moment où c&#039;est le plus intéressant.
+ 
+Le film sait se servir des personnages et Sonic en prend plein la gueule ce qui le rend touchant... de toute façons, tout le monde sauf les humains en prennent pleins la tronche dans ce film.
+ 
+Robotnik Carrey est encore plus menaçant que jamais et on ressent bien la pâte scénaristique d&#039;un gars qui a bossé sur des RomHack de Sonic pendant les années 2000. IL EST SPLENDIDE !
+ 
+Quelques blagues de prout... bon... 3 séquences au lieu d&#039;une, c&#039;est pas trop grave.
+ 
+Pour ce qui est de la 3D, malgré beaucoup de Motion-Blur ( merci Blur Studio ), le jeu de lumière et les textures sont assez bonnes MÊME SI SONIC NE SAIT TOUJOURS PAS TAPÉ UN CHECK AVEC UN HUMAIN SANS JUMP-CUT !
+ 
+Malgré ce dernier point qui ne m&#039;a pas sortit du film, on croit vraiment en la présence de Sonic et ses amis dans ces espaces souvent verdoyants ou enneigés.
+ 
+Comme le premier film, amusez-vous à chercher des références aux jeux ( même si je trouve qu&#039;il y en a moins ) mais les références viennent surtout des jeux Sonic 2 et Sonic 3 ( Sonic &amp; Knuckles ).
+ 
+Avis sur les personnages à froid
+
+
+Je dois vous avouer que je certains personnages sont moins présent que dans le premier film où on les implémente ( même s&#039;ils sont biens présent ) comme la femme du Seigneur des Donuts qui ne sert qu&#039;à un plot-twist.
+ 
+La puissance de Sonic me semble un peu aléatoire : Des fois cartoons, des fois il ressent la douleur, des fois il détruit des murs, des fois il n&#039;est pas assez fort.
+ 
+Et Knuckles prétend être le dernier de la tribu des échidnés alors qu&#039;il est venu chercher Robotnik avec des échidnés... vraiment, le début du film me semble être un amas d&#039;erreurs scénaristiques.
+ 
+Malgré tout, je ne me souviens pas d&#039;avoir eût un personnage oublié ( autre ceux qui servait de gag dans le premier ). Le film reste bon malgré deux erreurs scénaristiques ( à moins qu&#039;on me dise l&#039;inverse ).
+ 
+ Allez le voir et rendez-vous pour le troisième avec Shadow !
+( c&#039;est pas un vrai spoil, il sert à rien dans le deuxième, il ouvre même pas les yeux )
+ 
+KidpaddleetcieGlin  
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

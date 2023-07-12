@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Chanson2Glin]Mon capharnaüm!  - Commentaires</title>
+  <description>Depuis 2007,je suis en mode expérimental,
+Peut importe le &quot;/time set&quot; ,Je me recherche,je créer et je cale!
+ 
+Je tente de faire de la qualité mais j&#039;aime pas être organisé!
+ 
+Je n&#039;ai pas de personnalité,je suis bizarre,
+Je n&#039;ai pas sût m&#039;organisé,c&#039;est le bazar!
+ 
+J&#039;ai appris sur le tas DONC sans tuto,sans amis,
+Ma vie c&#039;est de l&#039;impro&#039; que je rectifie,
+Parce que j&#039;aime pas quand j&#039;écris!
+ 
+ 
+Sur ma chaîne YouTube,il y a de tout,
+Des parodies,des podcasts,des animations,des YouTubes Poops,des diaporamas,des CHATS et...moi!
+ 
+Mon blog,c&#039;est pas mieux,
+Mon soundcloud,c&#039;est pas mieux,
+Mon Dailymotion,c&#039;est pas mieux,
+Mon Twitter,...bahhhhh...c&#039;est bordèliqueuuuuuuuh!
+ 
+Mais je continuerais parce que c&#039;est ce qui me rend heureux,
+Je créer comme je respireuhhhhhh!
+ 
+Au revoir et à bientôt sur Kidpaddleetcie (heuuuuuu)</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

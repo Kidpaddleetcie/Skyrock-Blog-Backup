@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation] Ma série de YouTube Poop sur Professeur Layton - Commentaires</title>
+  <description>Le 23 Mars 2019, j&#039;ai commencé une série de YouTube Poop autour d&#039;une source en particulier: Professeur Layton !
+ 
+Cette source est assez convenu vu que ma petite sœur avait commencé la série de jeu et qu&#039;on avait regarder la Diva Éternelle un soir... et on l&#039;a regardé plusieurs fois tellement ce film est beau, respectueux de la licence, émouvant et marrant ! C&#039;est LE meilleur film ayant pour base un jeu-vidéo !
+
+ 
+Ce qui est génial avec cette source c&#039;est que le personnage principal est retrouvable dans toute une série de jeux-vidéos, un film et est simple à dessiner ! LA SOURCE PARFAITE !
+ 
+La source étant propice aux détournements mais aussi au sentence-mixing tellement les prises de paroles du Professeur sont nombreuses, je me suis dis que faire une série avec un fil rouge/des gimmicks était possible... et effectivement, ça l&#039;est !
+ 
+https://www.youtube.com/playlist?list=PLKkDenoSPcDe0wgfylIojDFxn3nLxc5Kv
+ 
+
+ 
+Mais avoir une excellente source pour faire des YTPS (YouTube Poop Stories) n&#039;est pas non plus un facteur de réussite pour autant car la source se devait d&#039;avoir déjà une communauté derrière et très peu de YTP en français à son actif ! Il y a bien des YouTube Poop sur Professeur Layton qui sont géniales mais...elles sont en anglais !
+
+Il faut dire que la communauté des poopeurs francophones est encore assez encrées sur les mêmes sources qui font déjà sujet à mèmes et on ne peut pas vraiment leurs en vouloir d&#039;être soucieux de la visibilité de leurs contenus... mais sortir un peu des sentiers battus permet tout de même d&#039;être plus visible quand ça fonctionne !
+ 
+Ma série de YTP sur Professeur Layton a donc commencé par &quot;Professeur Layton combat la pédophilie&quot; où le Professeur retrouve Descole, enlève le voile sur la pédophilie de ce dernier, le combat, l&#039;insulte et l&#039;envois en prison avant de lui rendre visite pour apprendre qu&#039;il est maintenant gay et amoureux de Layton... TOUTE UNE HISTOIRE !!!
+
+
+ 
+Cette épisode avait beaucoup plus et la partie &quot;Violente&quot; du Professeur Layton a pût caractérisé son personnage et être exploité à fond dans &quot;Professeur Layton smash tout le monde&quot; !
+
+ 
+
+
+Bien sur, comme c&#039;est une série, chaque suite à avoir avec un ou plusieurs éléments du précédent épisode:
+- &quot;Professeur Layton contre Glin&quot; débute avec Descole qui a été smashé sur le mur (un clin d&#039;œil à la fin de &quot;Professeur Layton smash tout le monde&quot;) et Luke est mort !
+
+ 
+-&quot;Professeur Layton combat le terrorisme&quot; reprend le titre de &quot;Professeur Layton combat la pédophilie&quot; mais cette fois-ci, Descole est terroriste ! Layton reste un violent et Luke une victime ! On notera l&#039;apparition de Tintin qui va faire du team-up malgré lui avec Princesse Luigi qui est un personnage récurrent de mes YTPs post-&quot;Qui dort,chie&quot; !
+ 
+
+
+ 
+-&quot;Professeur Layton combat le nazisme (Partie 1)&quot; reprend une nouvelle fois le titre de &quot;Professeur Layton combat la pédophilie&quot; mais Descole a enfin un allié de taille contre Professeur Layton: Hitler ! 
+
+ 
+ 
+ 
+Dans chaque épisode se trouve une constante: Layton est violent, Luke est une victime, Descole est surpris ou fait un truc nul,... 
+C&#039;est une série pas vraiment &quot;à suivre&quot; mais c&#039;est une série tout de même !
+ 
+ 
+C&#039;est toujours un plaisir de faire ces YTPs et puisque que vous avez tout lu jusque-là, je vais vous révélés le pitch de la partie 2 de &quot;Professeur Layton combat le nazisme&quot; qui devrait sortir en début 2020:
+&quot; L&#039;émeraude du chaos de Descole est MadeInChina donc il se cache dans une armoire, Layton appel Glin pour ressusciter Luke une nouvelle fois,
+Layton appel Tintin et Princesse Luigi (au Japon) pour l&#039;aider à retrouver Descole,
+Descole trouve une autre cachette,... &quot;
+ 
+Voila, j&#039;espère que ça va vous plaire, vous pouvez vous abonnez à la chaîne &quot; Poopulaire &quot; à ce lien pour ne rien manquer:
+https://www.youtube.com/channel/UCbK5TxzVZrgbcDUT_XsYgVg/?sub_confirmation=1
+ 
+ 
+KidpaddleetcieGlin
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

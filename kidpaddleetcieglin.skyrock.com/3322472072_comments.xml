@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Infos]NoTube et SaveFrom,les downloaders encore fidèles ! - Commentaires</title>
+  <description>Après la fin de telechargerunevideo.com suite à l&#039;envie d&#039;être beaucoup plus légal et donc suivre le chemin de OnlineVideoConverter qui a été dégradé au plus haut point au fur et à mesure de ses mises à jour, nous devons nous rabattre sur https://notube.net/fr et https://fr.savefrom.net/ qui sont biens plus efficaces !
+ 
+ 
+ 
+Pour NoTube, c&#039;est un site rapide et qui permet d&#039;avoir MP3,MP4,MP4 HD,3GP,FLV et M4A comme formats !
+ 
+ 
+Pour SaveFrom, le site propose une extension fonctionnant sur TamperMonkey (Maintenant &quot;MeddleMonkey&quot;) avec tout les navigateurs afin de télécharger n&#039;importe quelle vidéo sur le web en trois clics (un sur le bouton, un autre sur le format et le dernier sur &quot;enregistrer&quot;) ! Les plus gros sites sont supportés !
+ 
+Voila !
+KIdpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3322472072_comment_1.html#c-20306102540" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3322472072_comment_1.html#c-20306102540">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3322472072_comment_1.html#c-20306102540</link>
+		<dc:date>2019-05-22T22:58:06+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>mercient</description>
+		<content:encoded><![CDATA[
+			mercient
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

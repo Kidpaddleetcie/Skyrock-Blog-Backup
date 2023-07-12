@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Esthétique]Les lois de Gestalt  - Commentaires</title>
+  <description>Introduction
+Les lois de Gestalt (qui regroupe les règles sur la construction, organisation, structuration de l&#039;image) sont des théories qui tente de dégager, via des expériences utilisant un matériel très simple, les lois perceptives qui s&#039;attachent à la détection de la forme seule indépendamment de tout substrat matériel et donc de tout contenu ou toute signification en rapport avec un objet quelconque.
+Ces lois ont été dégagées au cours de la première moitié de ce siècle par un ensemble de psychologues et portent le nom de &quot;théorie de la forme&quot; (gestaltthéorie).
+ 
+Les lois
+ 
+
+1.La ségrégation
+La ségrégation est l&#039;apparition d&#039;unités à l&#039;intérieur d&#039;un champ plus ou moins homogène
+(C&#039;est l&#039;apparition de formes distinctes dans un champ).
+La ségrégation correspond à des inégalités de stimulation dans la mesure où l&#039;unités qui apparaissent sont limitées par un contour net.
+ 
+Les formes constituées par la ségrégation sont comprises comme des formes plus ou moins &quot;solides&quot; et de plus ou moins de &quot;bonne qualité&quot; c&#039;est-à-dire que leur individualité résiste plus ou moins bien au changement quel qu&#039;il soit. Les psychologues de la Gestalt ont étudié avec un matériel très simple les facteurs de cette solidité et on dégagé ainsi une série de lois.
+ 
+
+2.Le rapport fond-figure
+
+
+Plusieurs affirmations pour cette lois et donc plusieurs observations générales:
+ 
+Le fond paraît s&#039;étendre au-delà du contour qui limite une figure; le fond a le caractère des substances (impalpable).
+ 
+La figure possède la caractère des choses (plus dense et plus compacte que le fond, possédant un certain poids attribué par le mental) et est perçue plus proche que le fond par un effet de localisation subjective.
+ 
+Ceci entraîne des modifications de la couleurs apparente.
+ 
+Connaître les facteurs influençant notre construction mentale vers la figure plutôt que vers le fond.
+ 
+Dans ces observations, il y a aussi la notion de contour:
+ 
+La fonction unilatérale du contour : le contour appartient à la figure et jamais au fond qui jouxte la figure. 
+Exception: les figures doubles
+ 
+La notion de &quot;contour subjectif&quot; : connaître les modalités de sa construction mentale. Relier aux effets de recouvrement crées par l&#039;interruption de la surface.
+ 
+ 
+3.Loi de la clôture
+
+La clôture d&#039;une ligne quelconque va limiter une surface par rapport à une autre et va donc la détacher de celle-ci.Ce n&#039;est pas le cas des lignes ouvertes.
+ 
+ 
+4. Loi de la complexité
+Une figure complexe se détache sur un fond uni.
+ 
+
+5. Loi de la proximité
+
+Des points dispersés sur une surface sont des stimuli (de l&#039;énergie à laquelle on peut réagir) faibles car l&#039;homogénéité de cette surface s&#039;oppose à leur ségrégation (présence, perspective). Cependant, la proximité de certains d&#039;entre eux tend à les faire apparaître comme une unité distincte. C&#039;est la loi de la proximité, cette loi est limité à une certaine distance et ne joue plus au-delà d&#039;un certain seuil (moment où la proximité est insuffisante pour s&#039;imposer).
+ 
+
+ 6.Loi de la similitude
+
+À distance égal, les stimuli se groupent en fonction de leur ressemblance. C&#039;est la loi de la similitude. Proximité et similitude peuvent entrer en conflit.
+ 
+
+7. Loi de la bonne forme
+Nous accordons une priorité à la figure simple et régulière.
+ 
+
+8. Loi de la continuité
+
+Cette lois utilises 3 consignes:
+ 
+Présence d&#039;éléments continuant dans une même direction tendent à s&#039;organiser comme une forme unique.
+ 
+La continuité d&#039;un ensemble de points ou d&#039;une ligne quelconque tend à maintenir la direction de chacune de ses parties dans le sens exigé par celle de l&#039;ensemble.
+ 
+Connaître les facteurs qui permettent de la construction de contours reliables.
+ 
+
+9. Loi de la fermeture
+
+Nous complétons une forme à partir de quelques élément qui nous sont donnés.
+(Il faut qu&#039;il y aille des formes manquantes dans une construction logique)
+ 
+
+10.Loi de la transposition
+Faire subir à une forme une modification de telle manière qu&#039;à la suite de cette modification l&#039;identité de l&#039;unité figurable ait été préservée.
+ 
+
+11.Caractère bidimensionnel ou tridimensionnel d&#039;une figure
+Deux points sont à prendre en compte:
+ 
+Les figures qui ont un degré plus élevé de symétrie et qui paraissent plus simples sont davantage perçues comme des figures planes.
+ 
+À l&#039;inverse, celles qui manquent de symétrie sont interprétées comme des volumes.
+ 
+ 
+12. Lois de la symétrie de la simplicité
+Symétrie et simplicité assurent également aux surfaces colorées un privilège d&#039;unité formelle par rapport à celles qui ne possèdent pas ces caractéristiques.
+ 
+Sources:
+https://fr.wikipedia.org/wiki/Psychologie_de_la_forme
+
+http://preunet.fr/gestalt
+
+http://www.psychoweb.fr/articles/psychologie-cognitive/169-gestalt-theorie-les-theories-de-la.html
+
+http://bounie.polytech-lille.net/multimedia/gestalt_vp.pdf</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

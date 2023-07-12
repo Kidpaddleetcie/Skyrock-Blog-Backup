@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Produire une musique de qualité facilement! - Commentaires</title>
+  <description>Alors, c&#039;est un peu compliquer à admettre mais la musique que vous faîtes avec un simple instrument avec tout le matériel d&#039;enregistrement nécessaire c&#039;est pas facile et c&#039;est souvent de mauvaise qualité (j&#039;en ai fais les frais!) .
+ 
+Soyons sérieux deux minutes,que vous faîtes de la flûte,du djembé, du tambour,
+du tam-tam, de la flûte de paon,... il va vous falloir l&#039;instrument mais aussi un microphone suffisamment performant (TU SAIS OÙ TU PEUX TE LE METTRE TON SMARTPHONE?!) et un logiciel d&#039;enregistrement comme Audacity! 
+
+ 
+Franchement,à part si vous voulez en vivre, ce n&#039;est pas intéressant de dépenser du sang de travail pour quelques compositions musicales.
+ 
+La meilleur des idées est de trouver un synthétiseur (si vous êtes bon en piano, vous êtes à l&#039;aise) mais les synthétiseurs sont souvent payants donc...il faut faire de la composition.
+ Qu&#039;est-ce que de la composition? C&#039;est un procédé qui demande juste des parties de musique et un logiciel de montage/traitement musicale.
+ 
+Sur https://www.looperman.com/ vous retrouverez des boucles gratuites pour commencer à faire vos compositions.
+ 
+N&#039;oublier pas les bonnes vieilles notions mathématiques car toutes ces boucles ont une durée différents et si vous arrivez à les synchronisés vous obtenez des rythmes différents!
+ 
+N&#039;oublier pas que l&#039;art musical est d&#039;abord un jeu et qu&#039;en faire son métier demande à se soumettre aux règles du grand marché de distribution et du droit d&#039;auteur. Looperman.com offre gratuitement des boucles musicales libre de droits MAIS ne vous permettra pas d&#039;aller loin dans l&#039;optique de faire de la composition musicale votre profession.
+ 
+Il faudra apprendre à modifier ces loops, de créer vos propres loops, de mixer vos loops, de savoir changer le style de vos arrangements et aussi de vous trouver du bon matos pour faire tout ce que j&#039;ai citer ici. Le hardware est coûteux, le travail onéreux et vos oreilles commencent à siffler une fois que vous y travailler plus de 5h.
+ 
+Maintenant, ce genre de technique qui est à la fois peu coûteux
+(un PC,une connexion à internet, un peu de mémoire et du temps libre suffisent)
+et amusant
+(on aime se dire qu&#039;on a été fait à l&#039;image de Dieu et qu&#039;on est des créateurs...ON SE SENT TELLEMENT HUMAIN!), donc vous pouvez vous y essayer sans soucis politique,économique ou encore éthique!
+ 
+Je tiens à vous conseiller le logiciel Audacity afin de vous initier aux logiciels de composition audio, il est plutôt simple à utiliser et,parce que c&#039;est un gratuiciel,beaucoup de gens en ont fait des tutorielles. http://audacity.fr/telecharger-audacity-windows/
+ 
+Avant de vous quitter,et de vous laissez remplir un énorme dossier de loops sur Looperman.com, je tiens à dire qu&#039;un bête bruit peut devenir un élément intéressant pour une musique, le tout est de savoir l&#039;harmoniser de lui donner un sens à un arrangement.
+ 
+Voili,voilou, c&#039;est tout! :D </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

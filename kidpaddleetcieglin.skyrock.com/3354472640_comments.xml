@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Test2Glin] Les Chevaliers du Zodiaque - La légende d&#039;or ( NES ) - Commentaires</title>
+  <description> 
+Le Wikia de cette épisode : https://joueur-du-grenier.fandom.com/fr/wiki/Les_chevaliers_du_zodiaque_-_NES
+ 
+Dans le but de retracer les jeux qu&#039;a fait Joueur du Grenier, je me suis procurer la ROM et un Émulateur (Nestopia) pour jouer aux &quot;Chevaliers du Zodiaque - La Légende d&#039;Or&quot; sur NES.
+ 
+Je connaissais les défauts donnés par JDG :
+- Il n&#039;y a pas la musique d&#039;un générique ( Ni celui de Bernard Minet, ni celui de la série au Japon ),
+- Les discussions entre les personnages sont rébarbatifs,
+- La méthode de combat est absurde car on finit toujours par remplir toutes les jauges et ne plus avoir assez de cosmos pour enchaîner les combats,
+- Les phases de plateforme sont difficiles.
+- Les traductions manquent de re-lecture,
+- Le jeu est très répétitif.
+ 
+Je me suis donc lancé dans la découverte du jeu avec un fort apriori mais j&#039;avais envie d&#039;en savoir plus, ce voir s&#039;il n&#039;y avait pas des qualités ou des défauts que Fred&#039; n&#039;aurait pas mis en avant.
+ 
+Chapitre 1 : On est là, on comprend rien !
+Je lance la ROM et je mate l&#039;intro avec une musique que je ne comprend toujours pas ça vient d&#039;où ( avant, je pensais que c&#039;était juste une version aigu en 50 hertz de l&#039;opening principal mais même pas, les séquences de notes ne correspondent pas ). J&#039;appuie sur START pour débuter une partie et je rentre ma date de naissance : 1996 05 07 ,  le jeu interprète que je suis Cancer. J&#039;ai de la chance !
+
+J&#039;ai mes bases, je connais le début des Chevaliers du Zodiaque et je situe bien qu&#039;on commence par la confrontation contre Cassios pour avoir l&#039;armure de Pegase. C&#039;est pas compliqué.
+
+Malheureusement, le système de combat est pas facile à comprendre. &quot;Marin&quot; ( au lieu de &quot;Marine&quot; ) nous raconte des trucs sur le choix de l&#039;offensive mais je ne pigeais rien du tout, heureusement que c&#039;est un entraînement.
+
+J&#039;ai réussi l&#039;exploit de me retrouver à l&#039;hôpital parce que Marin m&#039;avait défoncé. Je ne vous cache pas que j&#039;ai fais un rire nerveux.
+ 
+Je me suis mis à faire des recherches et... bingo !
+ 
+Chapitre 2 :  Des explications !
+
+
+Le livret du jeu est en ligne ! Certes, dans un PDF du site jenesuis.net qui est un vieux site web fait sous HTML4,PHP et JQuery mais le PDF a bien été trouvé !
+
+
+Je peux donc mieux comprendre comment fonctionne le système de combat.
+
+ 
+ 
+Le système des caractéristiques en combat est simple :
+On a 4 caractéristiques chargeable en 10 crans de Cosmos maximum par tour.
+Les deux premières sont offensives et permettent de faire des dégâts à son adversaire.
+Les deux dernières sont défensives et permettent de réduire les dégâts qu&#039;on va se prendre au tour de l&#039;adversaire.
+ 
+L&#039;idée du jeu est de jouer autour du Cosmos qui permet d&#039;avoir des déplacements rapides et des sauts biens hauts pendant le mode Action mais aussi de donner de la puissance à ses coups ou limiter les dégâts reçus lors des phases de combat. C&#039;est donc un jeu de gestion.
+ 
+La mécanique pour éviter de dépenser tout son Cosmos en jaugeant à fond ses caractéristiques est de connaître les statistiques de son adversaire pour connaître le nombre de dégâts qu&#039;il nous fait et le nombre de point de vie qu&#039;il a. On est censé savoir tout ça en lui demandant dans &quot;Parole&quot; si on a alloué suffisamment de point de Cosmos dans la dernière caractéristique de combat, la P.C. pour &quot;Puissance de Concentration&quot;. Si vous n&#039;avez pas mis assez d&#039;énergie dans cette caractéristique, l&#039;adversaire va juste répondre une banalité.
+ 
+C&#039;est chouette, je sais me battre dans le jeu maintenant ! MAIS LE PIRE RESTE À VENIR !
+ 
+Chapitre 3 : La soluce de serait pas du luxe !
+ 
+Soyons sérieux 2 minutes. Connaître l&#039;interface de combat ne fait pas de moi un joueur qui sait où il doit aller pour se battre.
+ 
+Une fois le fébrile Cassios vaincu et l&#039;armure de Pégase récupéré, le jeu ne nous indique pas quoi faire pour quitter la Grèce afin de se rendre au Japon.
+ 
+J&#039;ai cherché un téléporteur, un aéroport, quelque chose mais RIEN !
+ 
+Je suis donc aller voir sur le web et j&#039;ai trouvé une soluce m&#039;apprenant la fonction &quot;Dir.&quot; trouvable dans le menu qu&#039;on peut ouvrir avec la touche SELECT. 
+ 
+Cette touche, elle est magique ! Elle me sert à mettre l&#039;armure, à convertir mes points de Cosmos en vie et inversément ainsi que répartir mes points d&#039;expérience dans 7 caractéristiques.
+ 
+Je suis particulièrement triste. La soluce de jeuxmangas.com est parfaite sauf pour un point : Elle me confirme que le jeu a une grande partie de hasard.
+En effet, une voix arrivé à Shiriu dans le Colisée, il a une chance d&#039;agir en premier et me manger de 14 à 20 vies.
+ 
+Et c&#039;est là où je dois dire que le jeu est mal-foutu.
+Quand vous étiez encore en Grèce, vous pouviez farmer de l&#039;EXP avec les chevaliers de la carte. Ils repassaient à l&#039;infinie et on pouvait se la jouer à Metroid à prendre de l&#039;expérience en prévision d&#039;un éventuel combat trop hardu.
+Malheureusement, non seulement je ne peux pas revenir en Grèce mais en plus mes points de vie sont inférieur à 14 et ma Cosmos est à 10. Je ne peux rien faire, la moindre attaque de Shiriu équivaut à un headshot.
+ 
+Ne voyant pas vraiment comment faire, je tente un reset avec, pour plus de confort, une accélération du jeu grâce à l&#039;émulateur. Je viens à bout de 4 ennemis en Grèce et je m&#039;y remets contre Shiriu en ayant ma vie à 20 et mon cosmos à 16.
+ 
+Comment j&#039;ai fais pour avoir ma santé au maximum ? Je suis allez à l&#039;Orphelinat et Miho m&#039;a donner pleins de point de vie.
+ 
+En vrai, le jeu est très bavard mais si on prend le temps de suivre le script tout en profitant des moments où les ennemis réapparaissent tout le temps pour cultiver de l&#039;expérience, on peut le finir sans y passer une journée entière.
+ 
+J&#039;ai finis le jeu en 5 heures avec le mot de passe &quot;TU..ASGAGNE!!TU.ESPASSE..MAITRE!&quot; parce que le jeu est bien trop difficile quand on n&#039;a pas de patience et je me suis désamouraché de la soluce après celle qui permet de trouver les chevaliers noirs et Ikki dans la grotte.
+ 
+Quand on a activé le mot de passe, seul les phases de plateforme et de recherche font la difficulté du jeu.
+ 
+Chapitre 4 : En vrai, le jeu n&#039;est pas fidèle
+Je m&#039;attendais à ce que le jeu reprenne toute l&#039;histoire de Saint Seiya avec la quête de l&#039;armure d&#039;or et l&#039;arc du sanctuaire mais... le jeu est sortit en 1987 et l&#039;arc n&#039;était pas encore terminé à la télévision.
+ 
+Au-delà du Grand Pope qui se nomme Arles et qui est un chevalier d&#039;Or du Bélier alors que Mû existe aussi dans le jeu, le jeu prend quand même des libertés au niveau de l&#039;histoire :
+- Jabu de la Licorne n&#039;a pas son combat dans le colisée ainsi que Geki de la Grande Ourse vu qu&#039;on commence avec Shiriu,
+- Il n&#039;y a pas la phase où Seiya devait mourir en noircissant... mais ça, c&#039;est normal, c&#039;est compliqué de faire une phase de gameplay chronométré quand on a déjà 3 gameplays différents dans une cartouche.
+ 
+Je vous avoue que je me sers de la fiche Wikia de Seiya de Pégase pour connaître le déroulement original des événements.
+ 
+Pour le reste, le jeu est assez fidèle sauf au niveau des musiques alors que la version japonaise avait au moins l&#039;opening.
+ 
+
+D&#039;ailleurs, sachez que la version pour WonderSwan Color a remanié la fin pour correspondre à la fin définitive ainsi qu&#039;adapté les sprites, les combats et tout pleins d&#039;autres choses qui est possible à faire 15 ans après la première version. Cette nouvelle version s&#039;appelle &quot;Saint Seiya: Ougon Densetsu Hen Perfect Edition&quot;.
+
+ 
+
+ 
+
+Je termine donc ce test en disant que le jeu est quand même un bon jeu mais il est juste mal-équilibré en terme de niveau à prendre, de timing de farm.
+KidpaddleetcieGlin
+
+AJOUT DU 16 FÉVRIER 2023
+J&#039;ai trouvé un let&#039;s play montrant comment terminé le jeu en une cinquantaine de minutes sans le mot de passe en français. 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

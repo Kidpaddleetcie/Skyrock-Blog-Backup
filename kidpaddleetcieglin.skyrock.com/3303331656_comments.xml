@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement]Demain,fin de Miiverse! - Commentaires</title>
+  <description>Le 8 novembre 2017 à 7h du matin, Miiverse ferme!
+ 
+Cet événement est très important car ça marque la fin de l&#039;indépendance de Nintendo de Twitter et Facebook mais aussi la fin du lien entre les développeurs et les joueurs!
+ 
+Même si ce réseau sociale était assez secondaire dans tout ce qu&#039;à fait Nintendo pendant la génération 3DS/WiiU, c&#039;est quand même un symbole de l&#039;indépendance de Nintendo qui ferme et qui emporte avec lui toutes ses fonctionnalités propre à son intérêts premiers: &quot;Parler de jeux-vidéos entre joueurs/développeurs&quot; !
+ 
+Je me souviendrais surtout du trash-talking entre développeurs sur le forum des développeurs de The Legend Of Zelda! Imaginez quand même le bordel entre des développeurs qui écrivent des reproches et d&#039;autres qui dessinent leur mécontentement en n&#039;allant pas de main morte sur les détails malgré la faible résolution de l&#039;outil qu&#039;est l&#039;écran tactile!
+ 
+À part ça, à cause de la fermeture, on perd la capacité d&#039;avoir des captures d&#039;image de la 3DS dans leurs qualités d&#039;origine! Il va falloir hacké votre 3DS si vous voulez faire de la capture!
+ 
+Il y a aussi les forums autour des jeux qui ne se feront plus et qui n&#039;apporterons plus leurs lots de fan-arts et discussion autour de personnages secondaires mieux mis en valeur que par le jeu lui-même (le &quot;syndrome Luigi&quot;...Le &quot;syndrome Chen d&#039;Andromède&quot; si vous préférez)!
+ 
+ 
+Voila, le message d&#039;adieu de Miiverse tient sur une image que le service nous a envoyé dernièrement et qui est composé de pleins de dessins en lien avec la fermeture!
+(l&#039;image a dû être compressé en 600px de hauteur mais l&#039;image était bien plus grande comme détaillé ici bas)
+ 
+Cela a dû prendre des jours si vous voulez mon avis! Quand on zoom de 400% , on apprend que l&#039;image de 10 200px de largeur sur 5 760px de hauteur
+est composé de dessin de 130 pixels de largeur sur 90 pixels de hauteur!
+ 
+ 
+Il est temps donc de dire au revoir à ce service qui n&#039;a pas apporté grand chose mais qui a bien fait son boulot quand même et puis...au fond...c&#039;était un peu pour détruire le cliché de &quot;Gameur=Anti-Social&quot;...comme d&#039;habitude avec Nintendo!
+ 
+  Kidpaddleetcie Glin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Techniques de reproduction et de transmission des images]Les formats de fichier d&#039;images - Commentaires</title>
+  <description>C&#039;est surtout les formats de fichiers d&#039;image les plus intéressent qui sont présentés
+
+
+Le gif (Graphic Interchange Format) : Développé par la société CompuServe en 1987, en format de compression non-destructible LZW. Il y a une indexation des couleurs (donc 256 couleurs,255 couleurs et la transparence qui est soit tout ou rien) qui permet d&#039;avoir un octet par pixel ce qui fait que ce n&#039;est pas un format qui va bien passer au redimensionnement. La photographie est donc aussi à éviter. C&#039;est en 1989 qu&#039;il gagne l&#039;animation mais même si chaque frame de l&#039;animation a sa propre palette de couleur, il est toujours aussi moche.
+ 
+Le Jpeg (Joint Photographic Expert Group) : De 1978 à 1992, le développement a été catastrophique, c&#039;est en format de compression destructible (degré ajustable par l&#039;utilisateur) qu&#039;i a dû être programmé. Il y a le JPEG2000 qui a la transparence et le motionJPEG2000 pour l&#039;animation mais ils ne sont pas utilisés.  Chaque fois que l&#039;image JPEG est enregistré et réenregistré, il perd de la qualité QUELQUE SOIS LES MODIFICATIONS (à cause de la compression destructible).
+ 
+Le PNG (Portable Network Graphics) : Contrairement au GIF, le format de compression est le GZIP qui est en licence libre de droit. Il est tout pareil que le GIF pendant un temps mais lors du PNG-24, les couleurs ne sont plus indexés, et après ce fût le PNG-32 avec l&#039;apparition de la couche alpha. Il aura aussi sa version avec l&#039;animation qui est le MPNG !
+ 
+Le SVG (Scalable Vector Graphics) : C&#039;est un format vectoriel, publier en 2001 par W3C (World Wide Web Consortium), il utilise les courbes de Bézier et il se base sur un document xml. C&#039;est un code structuré enregistré en une page CSS. Il y a un canal alpha et il y a une animation (à faire en javascript). Il est pratique pour afficher des données dynamiques. Il peut inclure du bitmap. Il sert surtout à afficher des données graphiques, statistiques, ...
+ 
+Le Flash (.SWF= Shockwave Flash) : C&#039;était encore un fichier d&#039;animation vectoriel pour Macromedia. C&#039;est bien après qu&#039;il gagna le bitmap, le son et la vidéo. Adobe a racheté Macromedia et on créa Adobe Flash. C&#039;est donc un format propriétaire. En avril 2010, Steve Jobs se déchainera sur Flash à cause du manque de plugin Flash sur l&#039;Iphone, qu&#039;il est plantagène (il peut faire planter le système) et il est très gourmand en ressource (il demande beaucoup d&#039;énergie). En novembre 2011, Adobe arrête de développer Flash pour les portables. Le Flash se meure depuis cette date
+ 
+Le Flif (Free Lossless Image Format) : C&#039;est un format libre sans perte animable et on peut utiliser un affichage progressif. Il peut donc s&#039;adapter à l&#039;affichage de l&#039;écran Iphone,Télévision,...
+ 
+EPS (Encabulated PostScript) : Le PS signifie ProScript et c&#039;est un format vectoriel mais il n&#039;a pas d&#039;image de prévisualisation, il devait être imprimer pour voir le rendu. Le EPS d&#039;Adobe a donc en plus cette prévisualisation. Au début, c&#039;était le PICT qui était le format de prévisualisation mais comme il n&#039;est pas compréhensible par un PC, c&#039;est le TIFF qui l&#039;a remplacé.
+ 
+TIFF (Tagged image file format) : C&#039;est un format d&#039;image bitmap non-compressé créé par Microsoft et ALDUS en 1987. Il est bien mieux que le Jpeg et est universelle. C&#039;est la référence pour l&#039;impression d&#039;image bitmap.
+ 
+Ai (Adobe Illustrator) : Le format natif d&#039;Adobe illustrator a toujours été un problème pour les logiciels de mise en page et il vaut mieux privilégier l&#039;EPS depuis le début. Le format AI a évolué de nouvelle version d&#039;Adobe Illustrator en nouvelle version d&#039;Adobe Illustrator mais il y a des soucis de rétrocompatibilité.
+ 
+Le PSD (Photoshop Document) : Le format natif d&#039;Adobe Photoshop est pratique pour garder la composition du document. Les modifications se font directement avant l&#039;impression. La transparence est prise en compte.
+ 
+Le DCS (Destop Color Separation) : La société Quark afin de répondre aux soucis du Raster Image Processor (RIP) a créé le DCS. Composé de 5 fichiers (1 fichier EPS et 4 fichiers pour chaque couleurs CMJN). Il y aura le DCS2 qui utilisera qu&#039;un seul fichier (mais qui a toujours ce fonctionnement) et le nombre de couleurs est illimité. Ce format n&#039;est plus utilisé.
+ 
+Le PDF (Portable Document Format) : Créé en 1993 par Adobe, sous base de PostScript et compatible PC, Mac, Smartphone, .... Il contient de l&#039;information vectorielle, du bitmap et importe les fonts. Il est le format d&#039;impression le plus utilisé. Il y a deux formes de PDF, celui de production qui est le plus lourd mais qui sert pour l&#039;impression et celui de lecture qui est plus léger et qui est pratique pour un rendu rapide.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

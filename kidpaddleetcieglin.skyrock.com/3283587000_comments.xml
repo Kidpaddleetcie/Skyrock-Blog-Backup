@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Anatomie]Les os du bras! - Commentaires</title>
+  <description>En anatomie, notre but est de comprendre comment notre corps est constitué pour comprendre comment le dessiner et/ou l&#039;animé et/ou trouver des solutions pour l&#039;améliorer!
+
+Donc, nos bras sont constitués de quoi? par quoi sont-ils reliés? Comment on dessine ça?
+ 
+C&#039;est parti!
+Depuis le sternum, nous avons une clavicule (qui se dessine comme un s couché)
+
+qui est rattaché à une omoplate. Les mouvements de l&#039;omoplate se font en même temps que les mouvements du coude en une synchronisation plutôt précise à cause du seul os qui relie les relient, l&#039;humérus!
+
+La grosse bosse de votre coude (appelé &quot;condyle&quot;) sert à l&#039;articulation tandis que les deux plus petites (appelées &quot;épicondyle externe&quot; et &quot;épicondyle interne&quot;) servent à relier le radius et le cubitus à leurs faces granuleuses par des muscles et des ligaments.
+
+Le radius est dans le muscle quand il est au niveau de l&#039;épaule donc on ne le voie par , c&#039;est l&#039;humérus qu&#039;on voit avec le cubitus.
+ 
+
+ 
+Du coude à la main, nous avons le radius (côté du pouce) et le cubitus (côté de l&#039;auriculaire) qui peuvent se croiser si vous ouvrez la main. Le radius relie le poignet par deux os.
+
+ 
+ 
+La petite boule à la base du pouce est l&#039;extrémité du radius.
+La petite boule parallèle à l&#039;extrémité du radius se nomme le pisiforme.
+
+Les phalanges sont séparés par les articulations (2 pour le pouce, 3 pour les autres doigts).
+
+Les 4 bosses de votre main se nomment les métacarpiens, ils sont à la base de vos phalanges et permettent de diminuer la capacité de rotation de vos doigts vers l&#039;extérieur. En gros, ils empêchent la main de se plier des deux côtés.
+
+Pour voir en 3D les os du bras, vous pouvez utiliser le site &quot;Sketchfab&quot; et le modèle 3D de Zachariah Hale à ce lien: https://sketchfab.com/models/0720062200814972ab06169a9489bf0b 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3283587000_comment_1.html#c-20270178332" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3283587000_comment_1.html#c-20270176238" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3283587000_comment_1.html#c-20270111458" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3283587000_comment_1.html#c-20270178332">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3283587000_comment_1.html#c-20270178332</link>
+		<dc:date>2019-02-04T19:03:51+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Voila, je viens d&#039;utiliser Reverso pour corriger les 2-3 fautes!</description>
+		<content:encoded><![CDATA[
+			Voila, je viens d&#039;utiliser Reverso pour corriger les 2-3 fautes!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3283587000_comment_1.html#c-20270176238">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3283587000_comment_1.html#c-20270176238</link>
+		<dc:date>2019-02-04T18:58:04+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>En effet, si vous désirez, vous pouvez m&#039;aider à corriger!</description>
+		<content:encoded><![CDATA[
+			En effet, si vous désirez, vous pouvez m&#039;aider à corriger!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3283587000_comment_1.html#c-20270111458">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3283587000_comment_1.html#c-20270111458</link>
+		<dc:date>2019-02-04T16:10:29+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;est fou le nombre de fautes qu&#039;il y a.....</description>
+		<content:encoded><![CDATA[
+			C&#039;est fou le nombre de fautes qu&#039;il y a.....
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

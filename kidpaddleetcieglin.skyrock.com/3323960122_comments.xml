@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Pourquoi?]Super Smash Bros. Ultimate devrait être le dernier SSB ! - Commentaires</title>
+  <description>
+ 
+ 
+Depuis la fin de 2018, Super Smash Bros Ultimate rayonne de mille feux dans les rayons et encore plus en compétition et possibilités ! Ce jeu à tout: Pleins de personnages, des gameplays différents, différents mode de jeux, un éditeur d&#039;arène (DARAEN ?!) et le jeu fait aussi office de MP3 avec plus de 800 musiques !
+ 
+On pourra dire ce qu&#039;on veut (gneu gneu, il manque des cinématiques dans le mode &quot;histoire&quot;, le home smash,...),SSBU est vraiment le summum du concept &quot;Super Smash Bros&quot; du fait d&#039;être le plus complet des 5 jeux de la série mais aussi celui qui peut recevoir des mises à jour,  se créer des arènes,...
+ 
+Face à temps de capacité, que pouvons-nous mettre de plus ? Une suite ferait un peu tâche, personnellement !
+ 
+ 
+Bon... bien sur, il vous faut un argument de poids: Masahiro Sakurai arrêtera Smash Bros quand les joueurs seront ravis !
+(Sources: https://www.p-nintendo.com/news/masahiro-sakurai-je-continuerai-a-faire-smash-si-la-demande-est-la-251780
+http://www.gameblog.fr/news/77460-smash-bros-ultimate-le-dernier-episode-de-masahiro-sakurai-l 
+)
+ 
+Pour moi, ça veut dire que les DLCs seront tous choisis pour répondre aux caprices des joueurs (coucou Banjo-Kazooïe !) pour terminer SSBU avec un roster qui ne veut plus rien dire (je rappelle qu&#039;on a la Plante Piranha et le gars de Persona 5 alors que le jeu associé n&#039;est sortit que sur Playstation 3 et 4 !) !
+ 
+Au-delà de tout ça, je tiens à rappeler que ça fait depuis Brawl que Sakuraï voulait prendre son indépendance de Nintendo pour un peu plus se concentrer sur son entreprise &quot;SORA&quot; !
+ 
+En plus, il était déjà en train d&#039;en pâtir pour le précédent SSB (WiiU et 3DS) à causes des heures et des heures de boulot à devoir enchaîné (Source: http://www.nintendo-master.com/news/masahiro-sakurai-est-extenue-par-le-developpement-de-super-smash-bros )
+ 
+ 
+Comme conclu cet article ( https://www.eclypsia.com/fr/smash-bros-ultimate/actualites/sakurai-sur-un-nouveau-smash-bros-si-on-le-lui-demande-26949 ), faire un Super Smash Bros Infinite serait un gros bordel avec des personnages qui n&#039;ont rien à voir avec le jeux-vidéos ou l&#039;histoire du jeu-vidéo en général ! 
+ 
+J&#039;espère que Sakuraï pourra retravaillé sur sa boule rose qu&#039;on puisse enfin la dissocié des développements des graphismes de Yoshi ( parce que bon... la laine, la pâte à modeler,... c&#039;est bien mais Kirby manque cruellement d&#039;une suite à Kirby Air Ride et Kirby64) ! C&#039;est bien beau les jeux en coop&#039; mais Kirby est censé être un héro solitaire venu de la planète PopStar pour vaincre Ennemi qui envoi ses monstres assujettir le monde... pas Bandana Waddle-Dee le survivant !
+ 
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

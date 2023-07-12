@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [La publicité]Les différentes approches - Commentaires</title>
+  <description>La publicité est vraiment vicieuse et attaque sur plein de front, voyons-en les 3 différentes approches:
+ 
+1.Le schéma de Lasswell (1930-1940)
+
+Ce schéma est simple, le voici:
+
+ 
+source: http://fr.slideshare.net/dcornelis_slide/chapitre1-theories-de-la-communication3epartie
+ 
+Là, c&#039;est le ciblage du public et l&#039;analyse des effets de ce ciblage qui est surtout mit en avant par Lasswell. Voyons ça comme un schéma d&#039;étude d&#039;un marché en fonction de 5 variables interdépendantes.
+
+
+2.Le modèle AIDA
+ 
+Encore une illustration assez intéressent:
+source: http://www.institut-numerique.org/partie-i-revue-de-litterature-513ee17742186
+ 
+Ce modèle est la représentation parfaite du procédé de la publicité que nous subissons à chaque fois que nous allumons la TV, la radio ou encore un site de streaming. 
+C&#039;est LA DÉMARCHE MARKETING!!!!
+ 
+Maintenant, des spécialistes ont trouvé une faille dans le modèle AIDA car le modèle ne fonctionne pas lorsqu&#039;il s&#039;agit d&#039;un achat &#8220;coup de cœur&#8221;. Malgré cette faille, ce modèle reste toujours d&#039;actualité et est toujours utilisé de nos jours, car celui-ci est considéré comme une &#8220;formule magique&#8221;.
+ 
+Maintenant, il peut y avoir une cinquième étape à cette formule magique (rien n&#039;est vraiment parfait) car malgré que ce modèle soit toujours utilisé, on remarqua qu&#039;il manquait une dernière étape pour boucler ce modèle. Celle-ci est apparue suite à l&#039;évolution du mode de consommation des individus. Ce changement est dû entre autre aux médias, et aux technologies qui ont évolué, ainsi que des besoins de la population. Voilà pourquoi ce modèle devint incomplet aux yeux des marqueteurs. Cette fameuse cinquième étape est la &quot;satisfaction&quot;. Son but est assez important, car elle permet de fidéliser le client pour vendre d&#039;autres produits et services et surtout de le transformer en client assuré.
+ 
+
+3.Le neuromarketing
+C&#039;est une technique qui met en lien direct les neurosciences au marketing, à la communication, et à la pub. Cet outil est très intéressant à analyser, du point de vue du comportement du consommateur en présence de marques via les réponses émises par le cerveau.
+
+
+3 moyens sont utilisés:
+
+
+1)L&#039;IRM: considérée comme la technique la plus précise du neuromarketing, elle permet d&#039;avoir une vision complète du cerveau.
+Utilisée dans les films pour savoir à quelle scène du film le témoin est le plus sensible afin de calibrer au mieux le packshot (= &#8220;une photographie de haute qualité d&#039;un produit sur un fond le plus souvent uni servant à présenter le produit sur catalogue, sur un site web ou encore dans une démarche de contrôle qualité au sein d&#039;une entreprise&#8221;)
+ 
+2)EFG: qui est l&#039;Electro-Encéphalogramme permettant de mesurer à l&#039;aide de champs électriques chaque milliseconde sur la surface du cerveau via un casque muni d&#039;électrodes.
+ 
+3)Eye tracking: méthode permettant de se mettre à la place des yeux du consommateur, afin d&#039;essayer de voir dans un supermarché par exemple quels seraient les emplacements, les couleurs qui attireraient plus spécifiquement l&#039;œil du consommateur. Bien sur, ça se fait en simulation, pas dans de vrais magasins!
+ 
+ 
+N&#039;oubliez pas que le but de l&#039;entreprise afin d&#039;être la plus rentable possible, c&#039;est d&#039;essayer d&#039;avoir une communication de plus en plus efficace pour une marque et une pub. C&#039;est pour ça que Coca-Cola ou Facebook s&#039;affichent toujours de plus en plus et
+(pour Facebook ou encore YouTube et Dailymotion) optimiser leurs pages webs selon les intérêts de CHACUN des internautes (avec le système des cookies) afin de lui afficher des PUBs qui ont le meilleur potentiel à le faire consommer.
+ 
+N&#039;oubliez pas qu&#039;un &quot;cookie&quot; est &quot;un petit fichier texte au format alphanumérique déposé sur le disque dur de l&#039;internaute par le serveur du site visité ou par un serveur tiers.&quot;
+source:http://www.definitions-marketing.com/definition/cookie/
+ 
+Maintenant, dans le neuromarketing aussi, il y a une faille car même si des sondages sont réalisés afin d&#039;évaluer si tel ou tel produit marcherait, les résultats seront de toute manière erronés car l&#039;irrationalité de nos actions ne peut être mesurée. Malgré tout, les industries continueront de développer le neuromarketing, pour tenter de comprendre la dimension irrationnelle du cerveau, dans le but de consolider la valeur que le cerveau a de la marque.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

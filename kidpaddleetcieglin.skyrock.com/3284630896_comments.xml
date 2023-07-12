@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement]L&#039;annonce de la Nintendo Switch ! - Commentaires</title>
+  <description>Le 20 octobre 2016, la nouvelle console de Nintendo dont le nom de code était NX, s&#039;est révélé être la Nintendo Switch!
+ 
+Révélée en 2015 par Satoru Iwata le 17 Mars (quelques mois avant sa mort le 11 juillet 2015) lors d&#039;une conférence de presse, cette console n&#039;a pas arrêté d&#039;être analyser par les journalistes. 
+ 
+En Août 2015, jeuxvidéo.com nous a apprit que la console sera hybride
+(console mi-&quot;portable&quot;,mi-&quot;de salon&quot;) ne possédant pas un lecteur de disque. Le gamepad devrait aussi être de retour mais amélioré!
+http://www.jeuxvideo.com/news/439932/nx-nintendo-brevette-une-console-sans-lecteur-de-disque.htm
+ 
+En Septembre 2015, c&#039;est au tour de l&#039;idée que les jeux seront dématérialisés sur la console et de confirmer la capacité &quot;portatif&quot; de la console.
+ http://www.jeuxvideo.com/news/441923/pour-microsoft-les-prochaines-consoles-delaisseront-le-physique.htm
+ 
+http://www.jeuxvideo.com/news/443278/nx-nintendo-brevette-un-nouvel-appareil-portatif.htm
+ 
+Je tiens à faire une parallèle au jeu-vidéo PC qui ne constitue son marché actuel que de dématérialisé! Les consoles se rapprochent de plus en plus vers une politique &quot;PC-Like&quot; car Microsoft s&#039;y met aussi avec ses Xbox!
+ 
+En Novembre 2015, c&#039;est au tour des kits de développement qui ont été distribués. Ce qui a permit de confirmer la capacité &quot;hybride&quot; de la console et rassuré sur le fait que des jeux seront disponibles au lancement de la console.
+http://www.jeuxvideo.com/news/446626/nx-nintendo-commencerait-la-distribution-des-kits-de-developpement.htm
+ 
+Toujours en Novembre 2015, l&#039;annonce du nouveau The Legend Of Zelda lors du Nintendo Direct permet déjà de se rendre compte que la NX est une console qui en a autant dans le ventre, si pas plus, que la WiiU. Le jeu devrait sortir sur WiiU et NX en 2016 (reporté bien plus tard pour Mars 2017 en même temps que la sortit de la fameuse NX, la Nintendo Switch).
+Ce The Legend Of Zelda deviendra dans une poignée de mois:
+The Legend Of Zelda: Breath Of Wild.
+ 
+En Décembre 2015, on a la confirmation que la NX ne sera pas une version amélioré de la WiiU par le récent nouveau directeur de chez Nintendo (Tatsumi Kimishima).La 3DS a aussi été défendu en mettant en avant qu&#039;elle s&#039;est vendu plus que la PS4 et que la Xbox One et qu&#039;elle permet de jouer à certain jeux smartphone.
+ 
+ En 2016, Nintendo sécurise les fuites et les dessins-brevets n&#039;ont plus montré le bout de leur nez.
+ 
+C&#039;est donc le 20 octobre 2016 que la NX a été révélé avec le nom &quot;Nintendo Switch&quot;!
+
+
+ 
+Mon avis sur cette console est assez mitigé. Je ne sais pas ce qu&#039;elle va donner et elle se fait déjà critiquer pour ses petites manettes (Joy-Con)... Le pire est que je pense que c&#039;était plus une console &quot;fantasme&quot; de Iwata avant sa mort et que ce fût un concept qu&#039;il a eût pour la WiiU et non une nouvelle console.
+ 
+C&#039;est quoi la Switch en soit? Une WiiU 2.0 avec des allures de Xbox One au niveau répartitions des boutons et des couleurs grisâtres...la couleur du posthume, l&#039;adieu à l&#039;esprit du seul et unique directeur qui a préféré crever de son cancer plutôt que de laisser tomber la WiiU.
+ 
+Tout reste à voir et il n&#039;est pas dit que cette console aura qu&#039;une apparence et un seul coloris! 
+ https://fr.wikipedia.org/wiki/Nintendo_Switch
+KidpaddleetcieGlin2016
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

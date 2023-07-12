@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Contre L&#039;ACTA partage l&#039;Article sur Facebook,Twitter, Skyrock,... - Commentaires</title>
+  <description>Loi ACTA //explication:
+
+
+
+
+
+
+
+Si le traité ACTA venait à être appliqué, l&#039;internet tel qu&#039;on le connait aujourd&#039;hui serait radicalement changé. Le traité renforce de façon démesurée le pouvoir du copyright (ou du droit d&#039;auteur, en l&#039;occurrence la différence est insignifiante), forcera les fournisseurs de services sur internet à faire la police du copyright, rendant du même coup l&#039;hébergement de contenus générés par les utilisateurs impossible à assumer financièrement, il mettra en place des sanctions pour les utilisateurs violant le copyright, comme de leur couper l&#039;accès à l&#039;internet après trois avertissements, et exigera que les supports informatiques soient inspectés aux frontières (disques dur, lecteurs mp3, etc.). Ceux qui contiendraient des fichiers copyrightés téléchargés de façon illégale seraient détruits, et leur possesseurs se verraient infliger une amende.
+
+Parmi les informations qui ont fuité du traité ACTA -- toujours en négociation -, on trouve aussi la possibilité pour les ayants droits d&#039;accéder aux informations personnelles d&#039;un internaute, suspecté d&#039;avoir téléchargé un contenu copyrighté, sans avoir besoin de recourir à un juge. En bref, Hadopi, à coté, ce n&#039;est pas grand chose, mais c&#039;est un bon début.
+
+Les négociations autour du traité ACTA se font en dehors de tout cadre, aucune organisation internationale comme l&#039;OMC ne les supervise. Elles ont commencé en 2006 entre les USA, la Commission Européenne, la Suisse et le Japon. Depuis, l&#039;Australie, le Canada, l&#039;Union Européenne, la Jordanie, le Mexique, le Maroc, la Nouvelle Zélande, la Corée, Singapour et les Emirats Arabes Unis se sont joints aux négociations.
+
+Ce traité est négocié dans le plus grand secret, mais en mai 2008, Wikileaks.org a publié un document en révélant de nombreux éléments. C&#039;est plus récemment que l&#039;opinion publique a été alertée, grâce à l&#039;EFF dans un premier temps, puis à ReadWriteWeb US en fin d&#039;année dernière.
+
+Beaucoup d&#039;analystes en France voient le couple Hadopi/Loppsi comme un premier pas dans la mise en application du traité ACTA. Les récentes loi impactant l&#039;usage de l&#039;internet en Espagne et en Italie font penser que c&#039;est une partie de l&#039;Europe qui est en train de mettre en application ce traité, avant même qu&#039;il soit signé.
+
+Mais comme le montre les dernières évolutions législatives concernant Internet en Italie, ce n&#039;est pas seulement le téléchargement &#039;pirate&#039; qui est visé par ACTA, mais bien l&#039;ensemble du web 2.0 et de la capacité qu&#039;a donné l&#039;internet à tous de s&#039;exprimer (sans même parler du logiciel libre, nous reviendrons sur ce point ultérieurement). L&#039;obligation faite aux services &#039;web 2.0&#8242; de faire la police obligerait de facto la plupart des plateformes de blog à fermer, tout comme les autres sites proposant d&#039;héberger gratuitement les contenus des internautes.
+
+Sans Wikileaks, ce traité serait encore à ce jour secret, nous ôtant la possibilité de comprendre ce qui se trame réellement en France, en Espagne, et en Italie en ce moment. Si vous aussi vous pensez que le rôle joué par Wikileaks est essentiel pour la démocratie, faites un don, ils ont besoin de notre soutien. Vous pouvez également adresser vos don à La Quadrature du Net, qui joue un rôle indispensable pour la défense des citoyens face à ACTA auprès, entre autre, de la Commission Européenne.
+
+
+
+
+
+
+
+:(!!Ce sera la Mort D&#039;internet!!:(
+
+
+&gt;&gt;Luttons contre l&#039;ACTA en signant la pétition!&lt;&lt;
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

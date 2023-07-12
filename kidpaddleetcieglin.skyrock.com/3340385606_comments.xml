@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Critique2Glin ] OpenShot Video Editor - Commentaires</title>
+  <description> 
+ 
+
+
+Aujourd&#039;hui ,j&#039;ai découvert l&#039;existence d&#039;un logiciel de création de vidéo gratuit et open source créé en 2008 et mit à jour régulièrement ( j&#039;ai testé la version de mars 2020 ). 
+ 
+Son petit nom: Open Shot Video Editor ( https://fr.wikipedia.org/wiki/OpenShot_Video_Editor ).
+ 
+J&#039;étais emballé. Je me disait que ça serait mieux que Panzoid ( https://panzoid.com/tools/videoeditor ) car il fonctionne en local et emploi Blender pour sa 3D ! EN FAÎTES,NON !
+ 
+Plusieurs soucis :
+ 
+- Il fait peur à mon logiciel de protection contre les virus et les malwares ( alors qu&#039;il m&#039;a demandé de cocher une option pour qu&#039;il soit une exception ! )
+ 
+-&gt; Le processus d&#039;AVG montait à ~60% l&#039;emploi du processeur !
+ 
+- Le logiciel manque d&#039;outils/effets audio
+
+
+-&gt; On ne peut que changer le volume et faire des fondues !
+
+
+- Blender alourdit le système à la création de titres en 3D 
+
+-&gt; Faire du motion-design est un enfer !
+
+- l&#039;effet de chrominance ne fonctionne pas 
+ 
+-&gt; On ne peut pas utiliser un fond vert !
+
+- on passe le plus clair de notre temps dans l&#039;onglet &quot; propriété de la séquence &quot; 
+ 
+-&gt; Rien ne fonctionne au cliquer-glisser ! Il faut tout reparamétrer une fois l&#039;effet ajouté à une séquence.
+
+- le dégradé dans chaque piste est très moche et fait &quot; vieux logiciel fonctionnant sur Adobe Flash Player &quot;
+ 
+-&gt; La version testée date du 3 Mars 2020 et est la 2.5.1 ( https://www.openshot.org/fr/blog/2020/03/03/openshot-251-released-optimized-effects-improved-performance/ ), ce style visuel date du début des années 2000 !
+
+
+- les titres sans Blender ne propose que des .PNGs avec un traitement de texte allant à l&#039;essentiel ( couleurs et mot, pas de gestion de l&#039;animation )
+ 
+-&gt; On ne peut pas faire de contour, de gras , de soulignement , ...
+
+- la segmentation est imprécise ( 3 à 4 frames d&#039;average )
+ 
+-&gt; Le cut, cette manipulation d&#039;une séquence la plus simple, est un calvaire !
+
+- le logiciel prend beaucoup trop de ressource sans et avec blender activé ( surtout qu&#039;il l&#039;active sans qu&#039;on est une quel qu&#039;onc utilité dans l&#039;immédiat )
+
+
+-&gt; L&#039;ordinateur fait un bruit monstre quand on emploi ce logiciel... même quand on a un casque sur les oreilles !
+
+- le Blender actuel n&#039;est pas compatible avec la dernière version de OpenShot 
+
+-&gt; La dernière version de Blender est la 2.92.0 et elle date du 25 Février 2021. Il est probable qu&#039;il faut avoir la version du 5 Décembre 2019 ( la 2.81.0 ) pour qu&#039;OpenShot daigne à nous offrir sa particularité par rapport aux autres logiciels de montage-vidéo !
+
+- les transitions sont toutes des incrustations de PNGs en fondu
+
+-&gt; C&#039;est vraiment de l&#039;incitation à la haine. On n&#039;a aucune transformation dans le plan qui est prédéfinit ! On passe le plus clair de notre temps à créer des trucs basiques que même Windows Movie Maker 2.6 ( accessible ici: https://www.commentcamarche.net/download/telecharger-34055158-windows-movie-maker ) proposait déjà en 2012... et le fait que je me souviens que j&#039;employais déjà Windows Movie Maker avec des presets en 2008 me fait penser que même le Windows Movie Maker 1.0 du 14 Septembre 2000 offrait des transitions animées.
+
+
+ 
+
+ 
+
+ 
+Je recommande beaucoup plus Panzoid ( https://panzoid.com/tools/videoeditor ) qui est aussi gratuit mais accessible sur le web avec beaucoup plus d&#039;effet, de préréglages et un meilleur visuel !
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

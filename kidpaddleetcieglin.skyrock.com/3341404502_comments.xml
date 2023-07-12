@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Retour sur une YTP ] Professeur Layton combat le grand capital ( PARTIE 2 ) - Commentaires</title>
+  <description> 
+
+ 
+Histoire de la YTP
+ 
+Le vendredi &#8206;29 &#8206;janvier &#8206;2021, je créé une première séquence qui sera la séquence avec Bruno avec le logiciel Xtranormal qui se nomme aujourd&#039;hui &quot; nawmal &quot;.
+
+
+
+
+ 
+Comme j&#039;avais cette séquence en stock mais aussi une situation de départ pour la YTP, j&#039;ai put , le &#8206;mercredi &#8206;31 &#8206;mars &#8206;2021 ( après moulte recherches et rendus ) , relié ces deux situations.
+ 
+
+ 
+ 
+L&#039;idée de refaire venir Tintin sera trouvé le &#8206;lundi &#8206;5 &#8206;avril &#8206;2021 dans l&#039;optique de rassembler un maximum de personnage précédemment apparût dans la saga pour gagner en personnage et en ressorts scénaristique. En plus, Tintin est Belge et son arrivé se fait à Bruxelles. 
+ 
+La séquence de son arrivé a été faîtes à partir de celle-ci :
+ 
+
+ 
+C&#039;est dans la même idée d&#039;un regroupement qu&#039;on apprend que Descole, Luke, Luigi et Mario se sont fait capturer pour être emmener quelque part à Bruxelles.
+ 
+ Voici quelques créations faîtes spécifiquement pour cette YTP
+
+
+ 
+Histoire de la YTP
+ 
+On retrouve Layton dans la banque de Glin en train d&#039;écouter de la musique à fond pendant qu&#039;il lit.  Layton se rend compte que Karl Tastroff dort au lieu de s&#039;intéresser à son cas donc il le réveille en mettant à fond ses écouteurs.
+ 
+Une fois réveiller et presser , K. Tastroff laisse passer Layton qui se perd et surprend Bruno en train de parler tout seul. Ce dernier l&#039;envoi bouler. 
+ 
+Layton continue de chercher le bureau de Glin et finit par le trouver. Il donne la carte bancaire de Descole à Glin et ce dernier la convertit pour la faire correspondre aux normes de sa banque.
+ 
+Ceci étant fait, Glin soudoie Kass, son assistant , avec une robe bleue légendaire pour qu&#039;il puisse raccompagner Layton chez lui.
+  
+En sortant, Kass et Layton, prenant une frite, tombe nez à nez avec Tintin mais à peine nommer que déjà les ennuis reviennent avec une attaque à main armée de trois gaillards étrangement vêtus.
+ 
+Layton donne son feu vert pour attaquer et Kass emploi un pouvoir de foudre pour vaincre les 3 affreux jojos. 
+ 
+La foudre casse la voiture en deux et révèle leurs otages : Luke, Descole , Luigi et Mario.
+ 
+Fin de l&#039;épisode 2 !</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

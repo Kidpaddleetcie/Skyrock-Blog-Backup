@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Faire une animation en CSS rapidement! - Commentaires</title>
+  <description>
+Après bien des recherches sur le web pour m&#039;aider à faire des animations pour mes
+&quot; :hover &quot;, je me suis retrouvé sur ce site http://cssanimate.com/  !
+ 
+En gros, le système du site est simple! À l&#039;aide d&#039;une gestion de keyframes sur une timeline, une zone de code se met à jour (mais il faut appuyer sur le bouton &quot;CopyCode&quot; pour que ça se fasse...moi-même j&#039;ai crût que c&#039;était pour &quot;copier&quot; le code mais non...une erreur de nomination), il suffit après de copier le code CSS et de le mettre à l&#039;endroit prévu à cet effet dans votre page CSS sans avoir oublier de renommer &quot;element-animation&quot; et &quot;animationFrames&quot; par les noms qui les conviennent le mieux!
+ 
+Je suis content que ce logiciel en ligne existe car il simplifie grandement un rêve de gosse qui est de faire de l&#039;animation avec des images et du script CSS...il manque plus qu&#039;un générateur de code Javascript et la conception de jeu-vidéo sur navigateur Web serait encore plus accessible et on pourrait enfin dire adieu à Adobe Flash pour ses fonctionnalités!
+ 
+En plus, le site nous dit bien qu&#039;il rend le code compatible à Chrome,Safari,Opera,Firefox et, comble de la perfection, Internet Explorer! C&#039;est un avantage à ne pas ignorer!
+ 
+Je tiens à dire que, d&#039;après le copyright du site, ça fait depuis 2013 que le logiciel en ligne existe mais que ça fait que depuis deux jours que je l&#039;emplois! MAIS IL EST OPÉRATIONNEL ET C&#039;EST UN RÉGAL!!!
+ 
+ 
+Merci d&#039;avoir lu cet article, je vous propose mettre un commentaire si vous avez un problème et je vous permet de posez vos questions en mode &quot;non-connecté&quot; pour être universellement accessible!
+ 
+Kidpaddleetcie Glin;Le Web en marche, le Web en saut, le Web en vol! </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

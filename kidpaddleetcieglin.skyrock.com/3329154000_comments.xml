@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide PermisDeConduire]Nos amis ayant des engins autres que des vélos ! - Commentaires</title>
+  <description>Sur la route vous verrez parfois des gens avec des engins bien moins imposants que votre voiture et qui ne peuvent rouler à plus de 18 km/h.  Ces engins sont:
+ 
+- Les bicyclettes
+- Les tricycles
+- Les quadricycles
+- Les segways
+- Les patins à roulettes
+- Les trottinettes
+- Les chaises roulantes
+- Les monocycles
+ 
+Lorsque ces engins ne dépasse pas la vitesse de l&#039;allure du pas ( pour Wikipédia, ça va chercher dans les 5 km/h ), ils sont soumis à la réglementation des piétons:
+ 
+- On est sur le trottoir, sur l&#039;accotement en saillie praticable, sur les parties de chaussée dont le panneau rond et bleu indique que les piétons peuvent passés
+ 
+- S&#039;il n&#039;y a pas de d&#039;accotement, on peut aller sur la piste cyclable
+ 
+- On cède le passage aux cyclistes si on est sur la piste cyclable
+ 
+- On circule où on veut si on est en zone résidentielle
+ 
+- On se met du coté gauche de la chaussée le plus près du bord si on n&#039;a aucun espace réservé à notre usage ( voir les 2 premières règles)
+ 
+- Si on doit conduire à la main une bicyclette ou un cyclomoteur à deux roues, on se tient à droite de la chaussée
+ 
+- Si on est un groupe d&#039;individu avec un guide ou un cortège, on doit se tenir en file indienne (se suivre l&#039;un derrière l&#039;autre) si on se tient à gauche de la chaussée. Autrement (si on se tient à droite), il n&#039;est pas nécessaire se mettre en file indienne.
+ 
+- On traverse la chaussée par les passages piétons sans s&#039;arrêter ni s&#039;attarder
+ 
+ 
+ 
+Si votre véhicule motorisé dépasse l&#039;allure du pas d&#039;un piéton, la réglementation devient celle des cyclistes: https://kidpaddleetcieglin.skyrock.com/3329154290-Aide-PermisDeConduire-Nos-amis-les-cyclistes.html
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

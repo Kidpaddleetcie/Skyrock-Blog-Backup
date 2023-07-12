@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Community Manager ] Susciter le clic avec une image - Commentaires</title>
+  <description>Lorsqu&#039;on fait des vidéos sur YouTube ou des pins pour Pinterest, il faut que ça soit bien mit en valeur par l&#039;image.
+ 
+Lorsque vous faîtes la photo d&#039;un produit, pensez à bien centrer ce dernier à une distance de 2 fois sa largeur et 2 fois sa hauteur dans la plan pour avoir de la marge quand il faudra rogner la photo.
+ 
+Une fois votre photographie faîtes, il est temps de passer à son optimisation:
+- Faîtes basculer dans les couleurs chaudes ( saturées ) votre image ( ça met en valeur les bijoux et la douceur des peaux féminines et donne une ambiance convivial à des photos d&#039;intérieur )
+ 
+- Faîtes un jeu de lumière pour éviter les zones trop sombres. Ça fait ressortir le brillant et donc met encore plus en valeur le sujet. N&#039;hésiter pas à rogner si une zone d&#039;ombre est beaucoup trop importante.
+ 
+- Favoriser le gros plan ( pas le fish-eye ) pour mettre en valeur les touts petits produits comme les bagues, pin&#039;s ,... Ça tombe sous le sens mais le but est qu&#039;on les voient.
+ 
+- Décentrer le produit du plan et utiliser la règle des tiers pour que votre composition donne une situation, un contexte au produit.
+ 
+- Mettez du texte/votre logo sur votre image dans un endroit où votre produit ne sera pas recouvert. Inutile de mettre un filigrane vu que le but est de fournir une image mettant en valeur un produit et donc une marque.
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ScenarioYTP]Professeur Layton combat le nazisme - Commentaires</title>
+  <description>La poop commence avec un drapeau nazi avec le chapeau de Descole en post-il dessus. La musique de fond est &quot;Tu veux mon zizi&quot; en grave et ralentit... ou une cover !
+ 
+
+ On trouve Layton en train de boire son thé et qui jette un oeil à son journal &quot;YTPNews&quot; où y figure une photo de Descole avec Hitler à une soirée arrosée.
+ 
+ 
+Layton dit à Luke que Descole est ami avec Charlie Chaplin et Luke réponds &quot;C&#039;est qui ?&quot;.
+Layton marque une pause dévisagent Luke et en buvant son thé...&quot; Je ne sais pas, Luke !&quot;.
+ 
+Layton part se coucher et Luke dort par-terre.
+ 
+[Transition vers Descole]
+ 
+Descole fait un salut nazi devant la cathédrale Notre-Dame de Paris en feu.
+ 
+Descole (en incruste) écoute la colère d&#039;Hitler se plaignant que Layton a arrêté ses plus grands collaborateurs (Illustrations de Garfield,Princesse Peach et Marie d&#039;Animal Crossing en prison).
+ 
+
+
+Descole et Hitler rentrent chez Layton. Tuent Luke (Descole rigole avec un pistolet dans sa main) et Hitler crie à Descole de ne pas faire de bruit.
+ 
+
+
+Layton, dans sa chambre, appel Luke pour savoir si tout va bien.
+ 
+Descole répond que tout va bien et se fait frapper par Hitler.
+ 
+Layton crie le nom de Descole et descend vite.
+ 
+Hitler se prend une babouche en pleine tête.
+ 
+Descole se défend avec ses éclaires. Layton se fait projeter vers un Jukebox et change la musique par l&#039;armée rouge.
+ 
+Descole fait un malaise et Hitler explose.
+ 
+Layton appelle Glin au téléphone et Luke revit.
+ 
+Descole finit de nouveau en prison et Layton continu de lire son journal en buvant son thé.
+ 
+FIN
+ 
+ 
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

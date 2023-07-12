@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Retour sur une YTP ]La daily routine de la colloc&#039;Layton ! - Commentaires</title>
+  <description>
+
+
+ 
+Histoire de la création de cette YTP
+Le 14 Juin 2020, j&#039;ai créé un dossier nommé &quot;Professeur Layton se met au rap&quot; après avoir rassembler TOUT LES PHONÈMES DU PROFESSEUR LAYTON (Martial LeMinoux).
+
+Le soucis est que je n&#039;ai pas pût trouver d&#039;inspiration pour faire chanter Layton et beaucoup des phonèmes sont de faible qualité et inutilisable par le logiciel UTAU. Je pense donc à faire une histoire.
+ 
+L&#039;idée de faire un &quot;daily&#039;routine&quot; me vient après la scène où Layton et Descole font des gaminerie dans la chambre. Commencer une histoire par une soirée, c&#039;est inspirant pour se poser la question de ce qu&#039;ils ont fait pendant la journée !
+ 
+Une des critiques qu&#039;on me fait souvent est de manquer de structure donc j&#039;ai structuré en 6 parties:
+ 
+- Intro : Layton,Descole et Luke définissent leurs caractères
+ 
+- Petit-déjeuner : La colloc&#039; mange avec en fond une publicité présenté par Professeur Layton ( Terminé le 14 Juin 2020 )
+ 
+- Au marché : La colloc&#039; se paume mais arrivent à bon port, se font attaqué par LaytonEN mais déjoue la situation en disant la vérité ( Terminé le 27 juin 2020 )
+ 
+- Le travail : Layton est policier, Descole est en recherche d&#039;emploi et Luke est à l&#039;école
+ ( Terminé le 2 Juillet 2020 )
+
+- Le début de soirée : La colloc&#039; mange et Luke regarde des contenus sur des sites de popotin  ( Terminé le 3 Juillet 2020 )
+ 
+- Bonus : Luke continue de péché et Usul dit que c&#039;est dégelasse ! ( Terminé le 14 Juillet 2020 )
+ 
+ 
+Le plus dur, selon moi, a été de bien garder le rythme et de bien espacé les parties pour évité la flemme ! C&#039;est pour ça que la partie &quot;travail&quot; est beaucoup + travaillé que la partie que j&#039;ai fais le lendemain &quot;début de soirée&quot; !
+ 
+Pour être sûr de la bonne réception des gags mais aussi de la compréhension de ce qui n&#039;en est pas, j&#039;ai fais appel à un pote et un poopeur ! Avoir un retour sur un travail pas encore finit est un bon dopant et m&#039;a permis de peaufiner des dialogues et des scènes !
+ 
+En parlant des scènes, justement:
+ 
+À la base, j&#039;aurais voulu employer des vidéos de gens en cosplay pour avoir une plus grande réserve de mouvement mais mon pote m&#039;a dit &quot; C&#039;est moche et ça casse avec tout le reste&quot; donc j&#039;ai évité !
+ 
+Certains dialogues comme &quot;Si tu avais retourné la carte, ça aurait été parfait !&quot; ont eût une version &quot;BETA&quot; qui ne collait pas ou qui était incompréhensible ! Pour notre exemple, à l&#039;origine, Layton disait &quot;Si tu avais retourné la carte, tu ne m&#039;aurais pas déçus !&quot; d&#039;où le &quot;SUUS&quot; qui suit et qu&#039;on a finalement gardé.
+ 
+ 
+LES RESSOURCES CRÉÉES POUR LA YTP
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

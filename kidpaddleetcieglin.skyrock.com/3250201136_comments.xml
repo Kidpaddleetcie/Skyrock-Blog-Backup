@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Jeux-Vidéos]Pokémon Rumble World - Commentaires</title>
+  <description>Bon,soyons clair,ce n&#039;est pas un Pokemon très original mais il est amusant et permet toujours la collection et repose bien sur le combat ;)
+ 
+Vous pouvez télécharger GRATUITEMENT ce jeu sur le Nintendo eShop et voici le QR code:
+
+ 
+Voila,maintenant je cite les mots de passes pour avoir vos Pokémon préférés sans trop se casser la tête:
+ 
+Évoli: 46657585
+
+
+Pikachu: 70403360
+
+
+Ce n&#039;est pas énorme mais je ne sais pas qu&#039;elles sont vos créatures préférés ^^
+
+
+Sinon,il y a le site http://www.pokemonrumble.com/world/ qui est très bon pour un site de Nintendo!
+
+
+N&#039;oublions pas le fait que le jeu vous donne la possibilité de faire des photos in game (comme ça,vous pouvez faire un Selfi avec votre Pikachu ou votre Groudon...si vous le capturez ;) )
+
+
+
+
+Mon avis sur le jeu: C&#039;est une fusion entre la Place MiiStreetPass et Pokemon Rumble de la Wii...même si quand je vois les screens shot de la version Wii je ressens un grand vide de la part de ma version!
+
+
+En ce qui est du Gameplay,c&#039;est varié en fonction du Pokemon et de la mission!
+ 
+En ce qui est de la durabilité du jeu...on parle d&#039;un jeu de collection de plus de 150 espèces créatures,ça peut vous faire une idée sachant qu&#039;on ramasse environs que trois espèces de créatures par heure!
+ 
+En ce qui est de son accessibilité...on parle OK J&#039;ARRÊTE AVEC CET ARGUMENT MAIS CE JEU N&#039;EST PAS BASÉ SUR LE FARMING IN GAME MAIS SUR LE FARMING INTERNET CAR TES PREMIERS POKEMON SUPER-CHEATÉ SONT EN CODES!!!!!!!
+
+
+Le jeu est magnifique...c&#039;est un Pokémon!
+
+
+Le jeu a des musiques assez entraînantes et je ne sais pas où je viens d&#039;écouter du métal dans ce jeu...peut-être lors du monde brasier :) mais en tout cas j&#039;ai retrouvé du dubstep,du classique,du rock,du 8-bit,du New Age et du House ;)
+
+
+Un truc assez sympa,tes potes peuvent endosser un rôle dans le jeu (Roi,Magicien,Bandit,...),c&#039;est marrant quand on prend des photos!
+ 
+Un autre truc sympa,le roi est égocentrique et égoïste...mais il te passe l&#039;unique pokémon qu&#039;il a réussi à capturer,un Pikachu de puissance 36 et c&#039;est NULLLLLLLLLLLLLLLLL!
+(en 2 heures de jeu,tu peux obtenir des niveaux 150 et en 4h des niveaux 250)!
+ 
+ 
+ 
+Voila,j&#039;espère que vous allez en profitez de ce jeu et que vous allez créé des photos marrantes!
+ 
+Merci de m&#039;avoir lu!
+ 
+Voila mes propres Screens Shots!
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

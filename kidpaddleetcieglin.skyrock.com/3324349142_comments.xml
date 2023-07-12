@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement]Glin Kidpaddleetcie a 23 ans ! - Commentaires</title>
+  <description>
+23 années d&#039;existence entre la sortie du corps maternel et l&#039;écriture de ces lignes !
+ 
+23 années qu&#039;on peut divisier en 3 périodes:
+ 
+de 0 à 12 ans: Période de personne pas du tout conscient d&#039;être capable de faire grand chose à part répondre à ses besoins primaires !
+ 
+de 13 à 17 ans: Période de personne découvrant la culture du web et la création numérique dans l&#039;image et la vidéo!
+ 
+de 18 à 23 ans: Période de personne découvrant le code, se perfectionne dans la vidéo, l&#039;image, le son,... et qui sort un peu plus de sa bulle pour devenir enfin un adulte avec un emploi !
+ 
+ 
+Qu&#039;est-ce que je retiens de ma 22 ème année ? Que je suis toujours très &quot;scolaire&quot; comme gars et que mes notions de vivre ensemble peuvent se résumer à une piscine à balle ! Tout le monde DOIT avoir sa bulle et être pudique !
+ 
+Je me lance dans le marché de l&#039;emploi et je tiens à me faire suffisamment d&#039;expérience pour commencer à vivre de mes capacités et m&#039;épanouir suffisamment pour toujours gagner en expérience ! Espérons que je sois encore plus compétent à mon prochain anniversaire !
+ 
+Rendez-vous le 5 Juillet 2020 pour le savoir ;
+KidpaddleetcieGlin
+ 
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

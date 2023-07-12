@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement]Bonne année 2017 et topo 2016! - Commentaires</title>
+  <description>Bonjour ou bonsoir et bienvenu sur cet article où je vais faire un topo de l&#039;année 2016 sur le réseau Kidpaddleetcie et en même temps vous souhaiter une bonne année 2017!
+ 
+Alors, le record de vue sur le blog en un mois est de 547 pour le mois de Novembre 2016!
+
+
+Le nombre d&#039;abonné sur YouTube s&#039;élève à 385!
+
+
+Le nombre d&#039;abonné sur Twitter s&#039;élève à 37!
+ 
+Voila, ça c&#039;est pour le niveau d&#039;intérêt et maintenant, les chiffres actuels en ce qui est des contenu postés:
+ 
+1 610 images sur DeviantArt,
+1 464 vidéos sur YouTube,
+695 articles (celui-ci compris) sur le Blog.
+ 
+Je tiens à dire que 2017 sera la dixième année d&#039;existence de &quot;Kidpaddleetcie&quot; sur internet et que c&#039;est au courant du mois d&#039;Avril que je vais tenter de fêter cette décennie de présence!
+ 
+Merci d&#039;avoir lu ce &quot;rapport&quot; d&#039;activité sur internet et, encore une fois, je vous souhaite une bonne année 2017!
+
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

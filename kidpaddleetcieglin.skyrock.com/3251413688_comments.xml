@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [UnGlinDansLaMare]Internet c&#039;était pareille avant! - Commentaires</title>
+  <description>Bonjour vous regardez « Un Glin dans la mare »,
+Je suis attristé de constater de source sur qu&#8217;internet souffrait déjà de sa mélancolie à peine le 21ème  siècle commencé et dans deux minutes, vous en serrez également attristé.
+ 
+Partie 1 : La rencontre
+
+
+C&#8217;est en cette moitié du moi de mai 2015 que j&#8217;ai pût choisir un essai, un écrit factuel par lequel un auteur qualifié dans le domaine aborde un sujet pour susciter un débat.
+ 
+Dans les essais ayant pour sujets « l&#8217;immigration », « la peine de mort »,  « l&#8217;absurdité du suicide » et bien d&#8217;autres, j&#8217;ai choisis l&#8217;essai d&#8217;un certain « François Heinderyckx » ayant pour titre « La malinformation : Plaidoyer pour une refondation de l&#8217;information ».
+ 
+Je l&#8217;ai pris car il m&#8217;intriguait plus que les autres avec son illustration du penseur assis sur un tas de journaux en train de regarder la télé&#8230;Qui a dit que la curiosité est un vilain défaut ?
+ 
+J&#8217;ai commencé à feuilleté ce bouquin datant de 2003 :95 pages, 4 axes de réflexion se présentant comme des chapitres !
+ 
+
+ 
+Je me souviens m&#8217;être dit  « Chouette, un petit livre parlant des médias à l&#8217;époque où internet n&#8217;avait pas encore YouTube ! ».
+ 
+J&#8217;ai emprunté l&#8217;essai et j&#8217;ai commencé à le lire en marchant tellement j&#8217;étais captivé par son contenu.
+ 
+Partie 2 : Le contenu qui a retenu le con que je suis !
+
+
+La première axe de réflexion est nommé « Le Bazar de l&#8217;information » et sous ce titre se cache plein de sous-titre aussi intéressent que les autres tellement ce n&#8217;est pas démodé comme « Internet et le mythe de l&#8217;information universelle », »la surinformation n&#8217;existe pas » ou encore « la dilution du sens dans un océan d&#8217;information » !
+ 
+Le sous-titre qui est le centre de cette vidéo est « Internet et le mythe de l&#8217;information universelle » !
+ 
+Je dévorais ce premier chapitre de 8 pages en quelques minutes et j&#8217;en fusse sidéré car absolument rien n&#8217;a changé entre 2003 et 2015 mise à part la politique des publicités qui, grâce aux réseaux sociaux, à put s&#8217;adapter aux personnalités de chacun !
+ 
+L&#8217;essai parlait d&#8217;un internet où l&#8217;information est peu travaillée, peu analysée et facilement perdue et que la publicité peut se montrer très persuasive (pas le biais de procédés de plus en plus scandaleux) juste pour capter l&#8217;attention de l&#8217;internaute.
+ 
+Internet avait déjà ce principe qu&#8217;un site gratuit avait une surcharge de bannière publicitaire, que les sites copiaient ou s&#8217;inspirait d&#8217;autres sites sans citer leurs sources et que « des services dont le caractère gratuit n&#8217;est que temporaire afin d&#8217;attirer et d&#8217;accoutumer l&#8217;utilisateur qui, lorsque la tarification sera instaurée, sera suffisamment habitué et satisfait (sinon dépendant) que pour consentir le sacrifice financier. » !
+ 
+C&#8217;est ici où j&#8217;ai commencé à sortir du livre pour commencé à écrire le contenu de cette vidéo !
+ 
+Partie 3 : La conclusion !
+
+
+Ce que vous devez surtout comprendre de cette vidéo c&#8217;est qu&#8217;internet a toujours été ainsi dans sa manière de propager de l&#8217;information d&#8217;après « La malinformation » de François Heinderyckx et que ça continuera tant que la publicité sera rentable et qu&#8217;il n&#8217;y ai aucune réforme pour donner à internet des outils suffisamment puissant pour retrouver la source originel de chaque écrit/image/vidéo/son/&#8230;
+ 
+Merci d&#8217;avoir regardé cette vidéo et je vous dis à très bientôt sur Kidpaddleetcie !</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

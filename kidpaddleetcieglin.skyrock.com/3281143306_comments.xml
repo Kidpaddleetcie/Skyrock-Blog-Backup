@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Histoire2Glin]Pokémon GO-Ploucs Quest - Commentaires</title>
+  <description>Tout commence chez Glin, dans sa chambre avec des plans sur son bordel et une voix off qui explique le contexte:
+ 
+&quot;2016,l&#039;application du contrôle du monde a été créé et la résistance peine à se dissimuler parmi les rang des contaminés&quot;.
+ 
+Un plan sur Glin qui dort profondément:
+ 
+&quot;Le marché des consoles, des téléphones ainsi que les tablettes,PC et télévisions sont en chute libre alors que Apple,Google et Nintendo s&#039;enrichissent sur l&#039;application zombifiant les gens une par une par paquet de millions chaque mois voir même par semaine&quot;.
+ 
+Glin marmonne les mots &quot;sauver&quot; et &quot;Nintendo&quot;.
+ 
+&quot;Tiens,notre jeune héro semble rêver du but de sa destiné, empêcher que Nintendo tombe et que Pokémon GO fasse un holocauste&quot;.
+ 
+Glin se réveille en sursaut après qu&#039;un inconnu Iphone à la main aille défoncer la porte.
+ 
+-Flagadoss?
+-Hein?!
+-OÙ EST LE FLAGADOSS? PARLE!
+-Je ne sais pas,sortez de chez moi!
+-Je veux ton Flagadoss!
+-Je n&#039;ai pas de Fla*
+ 
+L&#039;inconnu fonce sur Glin et commence à le tabasser.D&#039;autres iphoneux arrivent et commencent à tout chamboulés.
+ 
+-Nooooon!!!!
+ 
+Glin se fait mordre par un Iphoneux. Glin hurle:
+ 
+-Faaaaan&#039;!!!!
+-Gliiiiiin!!!!
+ 
+FanYoshiBleu se fait aussi tabassé à son tour quand soudain une lumière jaillit de la porte.
+ 
+-Dégagez les puceaux,ceci est ma proie!
+ 
+Gros plan sur la moustache,gros plan sur les cheveux et un gros plan sur la bosse du pantalon.
+ 
+Les iphoneux crament littéralement devant le doc&#039; et certains saute par la fenêtre.
+ 
+-Allons au QG, prenez le Nintendo Scope [Se retourne] la Super-Nintendo  et vos New3DS ainsi que vos PC portables!
+ 
+Le doc&#039;,Fan&#039; et Glin descendent et vont dans la rue...la ville est remplie de iphoneux.
+ 
+[Pas de suite pour l&#039;instant] </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

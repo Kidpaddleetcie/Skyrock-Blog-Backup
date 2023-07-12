@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Créer et améliorer son image sur le Web! - Commentaires</title>
+  <description>
+Comme vous le savez, on a souvent besoin de miniature pour nos vidéos (pour éviter d&#039;afficher une sale tronche ou une frame vraiment dégueulasse ou hors propos) ainsi qu&#039;un joli petit effet de cadre pour améliorer le focus sur un détail de la photo ou encore mettre une image dans une image pour créer une présentation classique!
+ 
+Tout ces montages,effets et traitement (car oui, on peut &quot;corriger&quot; une image sur le web) sont disponibles sur des sites un peu perdus à cause de la facilité et de l&#039;augmentation qui en découle pour cracker Photoshop ou devenir génial sur PaintDotNet ou TheGimp... mais si vous avez un PC de merde ou une New3DS, c&#039;est quand même plus pratique d&#039;employer autre chose qu&#039;un logiciel qui fera les rendus sur votre carte graphique!
+ 
+Utiliser donc https://www141.lunapic.com/editor/ pour modifier vos photos comme sur PaintDotNet (avec certains effets supplémentaires et d&#039;autres effets en moins...on ne peut pas tout avoir les gens) mais sachez que vous pourrez en faire une bonne miniature pour YouTube grâce à https://panzoid.com/tools/backgrounder qui est simple d&#039;utilisation et il y a même des bases très intéressantes!
+ 
+En ce qui est de la création pur, vous devrez passer par http://www.rinmarugames.com/playgame.php?game_link=mega-anime-avatar-creator pour faire votre personnage d&#039;anime (ATTENTION, FLASH PLAYER DOIT ÊTRE INSTALLÉ SUR VOTRE PC) mais il y a aussi http://charas-project.net/charas2/index.php pour faire des personnages pour RPG Maker...mais vous pouvez en faire un pour un petit jeu fonctionnant avec javascript!
+ 
+Il existe aussi le site Japonais https://picrew.me/ qui sert à faire des images de profil... c&#039;est pas difficile à utiliser et c&#039;est disponible sur Smartphone !
+ 
+Pour transformer en &quot;dessin pour un manga&quot;, il existe https://waifu.lofiu.com/ mais c&#039;est optimisé pour les jeunes femmes ! 
+
+ Si vous désirez faire un .SVG d&#039;une image que vous possédez ou juste créer une version un peu plus &quot;Polygoné&quot; de votre image, il y a http://alteredqualia.com/visualization/evolve/ !
+ 
+Si vous désirez avoir plein d&#039;image de votre Mii (3DS et WiiU) en 360°, vous avez https://desmu.github.io/Miicro-Ondes/ !
+ 
+Si vous désirez faire des mèmes rapidement: https://imgflip.com/memegenerator/131350768/Grus-Plan
+ 
+Pour effacer une marque qui se trouve dans un endroit précis de votre photo:
+https://www.webinpaint.com/myimages
+ 
+
+
+VOILA, probablement qu&#039;il y a d&#039;autre site mais il faut les trouver!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

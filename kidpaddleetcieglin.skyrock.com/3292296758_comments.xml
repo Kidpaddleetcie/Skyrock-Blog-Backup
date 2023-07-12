@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [DeadOnYouTube]Villou87 - Commentaires</title>
+  <description>Bonjour et bienvenu sur Kidpaddleetcie pour cet remémoration d&#039;une chaîne YouTube qui a pris fin vers 2015 (je suppose) et qui a commencé le 8 Mars 2009, Villou87!
+
+
+Derrière cette chaîne se cache un homme qui parle de jeux-vidéos avec le style du JDG et les anecdotes façons Hooper.
+
+
+Il avait sortit 7 vidéos en tout et sa dernière était une vidéo de vacances sous la musique &quot;c&#039;est toujours les vacances au club Dorothée&quot;.
+
+
+Il a présenté 4 jeux-vidéos (dont Spirou sur SNES et &quot;Mickey Castle of Illusion&quot; sur MasterSystem avant le JDG et Mea):
+ 
+-Shadowgate sur NES
+-Battle of Olympus sur NES
+-Mickey Castle of Illusion sur MS
+-Spirou sur SNES
+ 
+Sa dernière vidéo traitant du jeu-vidéo était un pilote d&#039;émission (qui n&#039;aura pas de suite du coup) qui se nomme &quot;Papy Pixel&quot; et qui avait pour sujet &quot;le classement PEGI&quot;.
+
+En bref,Villou87 c&#039;est Mea dans le timbre de la voix, JDG dans le montage et Hooper dans les anecdotes sur son expérience de jeu. 
+
+Même si sa chaîne YouTube est décédé
+(voici quand même le lien: https://www.youtube.com/user/villou87#p/a/u/2/QiG5BT3N2tQ#=_= )
+Une chaîne Dailymotion a été créé et c&#039;est donc avec nostalgie que je vous propose d&#039;aller y jeter un coup d&#039;œil.
+
+
+
+
+Pour aller plus loin (et dans la rubrique &quot;on s&#039;en fout de ce qu&#039;il est, on l&#039;aime pour ce qu&#039;il fait&quot;), quand on tape &quot;Villou87&quot; dans la barre de recherche de Google, on tombe sur son arbre généalogique et apprend que son nom est Villoutreix!
+ 
+Si on clique sur son pseudo, on apprend qu&#039;il se prénomme Guillaume et que c&#039;est lui l&#039;auteur de l&#039;arbre généalogique sur ce site.
+ 
+Si on recherche &quot;Guillaume Villoutreix&quot; sur Google, on tombe sur sa page copainsdavant et on apprend qu&#039;il est animateur depuis 2007...ce qui lui va très bien puisque c&#039;est un gars cultivé qui sait structurer ses phrases et être drôle sans utiliser les jokers qui sont
+les pets,le sexe, la religion, le racisme et la misogynie.
+ 
+Voila voilou sur Villou! :3
+
+
+Sachez qu&#039;il a beau avoir fait 4 test de jeux-vidéos, ses tests étaient travaillés et amenait plus d&#039;information qu&#039;une page Wikipédia et le dynamisme était présent aussi!
+Probablement qu&#039;il a servit de source pour le teste de Spirou par JoueurDuGrenier,
+probablement qu&#039;il a servit de source pour le test de Mickey Castle Of Illusion par Mea,
+mais chacun de ces tests sont débordants de personnalité, d&#039;anecdote sur l&#039;expérience de jeu, de mini-sketch et...quand même,pour des vidéos gaming de 2009, c&#039;est du travaillé, il n&#039;y a pas à chipoter là-dessus!
+ 
+Si tu vois cet article,Villou,j&#039;espère te revoir sur les internets car tu as du charisme et tu mérites déjà ta place dans le gaming actuel car tu n&#039;es pas un de ces jeunes qui imite Squeezie, Siphano ou DiabloX9. Tu sais offrir du contenu travaillé et enrichir notre culture vidéo-ludique tel le Joueur Du Grenier, MrMeeea,Hooper,Les Critiques du MaSQuE, G-E2, Monsieur Plouf,UnDropDansLaMare,Aienkei,Sizefac et 3615Usul!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

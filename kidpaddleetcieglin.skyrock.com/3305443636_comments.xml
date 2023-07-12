@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Tout faire sur le Web! - Commentaires</title>
+  <description>
+Il arrive que tout vos cracks ne soient, par un heureux hasard pour les entreprises auxquels vous ne payez pas vos licences, exécutables...vous devez donc revenir à vos vieux logiciels gratuits sans saveur car n&#039;ayant pas plein de plug-in pour vous aidez à abrégé de longue heures de montage,d&#039;effets-spéciaux ou encore d&#039;arrangement!
+ 
+Imaginez, vous revenez à Windows Movie Maker alors que vous avez connu Adobe Premiere/AfterEffect,
+vous revenez à TheGimp2 alors que vous avez connu Adobe Photoshop,
+vous revenez à Blender alors que vous avez connu Autodesk Maya/3DSmax,
+vous revenez à Audacity alors que vous avez connu LogicProX,
+vous revenez à OpenOffice alors que vous avez connu MicrosoftOffice,
+vous revenez à... ben...je crois avoir citer les principaux...
+ 
+Le temps que vos soucis soient réglés (que des hackeurs aillent pût refaire les cracks)
+vous pouvez utiliser ces logiciels en ligne qui font, presque, autant que vos logiciels pros:
+ 
+Pour Adobe Premiere/AfterEffect, il y a Panzoid avec son &quot;video editor&quot;!
+Pour Adobe Photoshop, il y a possibilité de faire beaucoup de chose avec LunaPic !
+Pour Maya/3DSmax...c&#039;est compliqué, la modélisation peut se faire avec Tinkercad (donc, pas d&#039;animation)!
+Pour LogicProxX, on peut tenter d&#039;utiliser AudioSauna (ça se rapproche un peu plus de FruityLoops...c&#039;est mieux que rien ou Audacity!)!
+Pour MicrosoftOffice, on...attendez...mais il existe une version gratuite en ligne... la voici ! MERCI MICROSOFT!
+ 
+ Vous voila donc avec des logiciels dont l&#039;efficacité ne dépend plus que de votre connexion et donc de sa vitesse ainsi qu&#039;à votre expérience sur le dit logiciel, n&#039;est-ce pas magnifique!?
+ 
+KidpaddleetcieGlin
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

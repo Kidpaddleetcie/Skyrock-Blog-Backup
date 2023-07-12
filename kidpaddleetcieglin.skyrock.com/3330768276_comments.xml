@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide PermisDeConduire]Quelques règles 1 - Commentaires</title>
+  <description>Pour mieux vous préparer à l&#039;acquisition du permis B, je vous propose de prendre conscience de quelques règles qui paraissent peut-être évidente mais face à 50 questions, on ne peut pas vraiment se permettre le luxe d&#039;hésiter ou réfléchir à son aise !
+ 
+1) Le clignoteur à chaque fois que vous tournez sauf si c&#039;est un tournant suivant une route (un virage)
+ 
+2) Toujours utiliser les clignoteurs quand vous dépasser un autre véhicule, quelques soit le véhicule
+ 
+3) On ne dépasse pas à gauche si on ne peut pas voir ce qui se passe à gauche 
+ 
+4) Les signaux bleus parlent d&#039;obligation et les signaux rouges d&#039;interdiction
+ 
+5) On doit couper le moteur quand on est à l&#039;arrêt ou en stationnement
+ 
+6) Un changement de direction vous fait perdre toute priorité, laisser passer tout les véhicules devant vous
+ 
+7) Toute manœuvre fait perdre la priorité, vous devez attendre que la place soit disponible pour l&#039;effectuer
+ 
+8) Le klaxon est autorisé qu&#039;en dehors des agglomérations
+ 
+9) On peut tripler des motos s&#039;il y a la place pour le faire
+ 
+10) La priorité de droite fonctionne aussi avec les cyclistes,les cavaliers,...
+ 
+11) Si vous prenez la fuite après avoir volontairement foncer sur votre ex&#039; avec votre voiture et qu&#039;on l&#039;apprend, vous n&#039;avez pas fait un délit de fuite mais un assassinat/meurtre
+ 
+12) Il faut une dérogation délivrée par le Ministère de la Mobilité pour être en droit de ne pas mettre sa ceinture de sécurité
+
+
+13) La reproduction retro-réfléchissante de votre plaque d&#039;immatriculation se met en avant du véhicule
+
+
+14) Comme le niveau d&#039;huile se vérifie à froid sur sol plate, il faut le vérifier AVANT le départ du véhicule
+
+
+15) On peut le plus souvent s&#8217;arrêter mais pas stationner.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

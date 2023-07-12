@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [PUB]Les livres de Glin Kidpaddleetcie! - Commentaires</title>
+  <description>Comme vous l&#039;avez vu depuis quelque mois,je suis sur Wattpad!
+ 
+Ce site regorge de livre d&#039;histoire (et d&#039;autres de machin beaucoup trop intime pour être recommandé à lire) et j&#039;avoue que ça m&#039;a rappelé le bon vieux temps où j&#039;écrivais des histoires sur Glin vers 2013 sur ce blog!
+ 
+C&#039;est dans l&#039;optique de vous révélez mes talents d&#039;écrivains que je vous propose la sélection suivante de mes meilleurs bouquins gratuits:
+
+ La journée passionnante d&#039;un chômeur     L&#039;histoire de mon popotin     La sombre histoire de Nwar       Journée de chocolat    L&#039;histoire passionnante d&#039;une lampe de chevet     </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

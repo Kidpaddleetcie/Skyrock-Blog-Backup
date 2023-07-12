@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Parodie2Glin]Toute la haine du monde  (Parodie de &quot;Tout le bonheur du monde&quot;) - Commentaires</title>
+  <description>Toute la haine du monde
+On vous souhaite toute la haine du monde
+Et que de vous il ne reste plus rien
+Que votre chemin soit sous nos bombes
+Qu&#039;y viennent des américains
+On vous souhaite toute la haine du monde
+Pour aujourd&#039;hui, comme pour demain
+Que nos avions vous fassent de l&#039;ombre
+Et mettre fin à vos dessins !
+ 
+Puisque l&#039;avenir nous appartiens
+Puisque vous ne contrôler pas votre destin
+Que votre génocide est pour demain
+Comme tout ce qu&#039;on a à vous offrir
+Saura probablement vous suffire
+Dans ce massacre à venir
+Puisqu&#039;on sera toujours là
+En tenue, armés et au pas !
+ 
+&#65279;Que votre chemin soit sous nos bombes
+Qu&#039;y viennent des américains
+
+On vous souhaite toute la haine du monde
+Et que de vous il ne reste plus rien
+Que votre chemin soit sous nos bombes
+Qu&#039;y viennent des américains
+On vous souhaite toute la haine du monde
+Pour aujourd&#039;hui, comme pour demain
+Que nos avions vous fassent de l&#039;ombre
+Et mettre fin à vos dessins !
+ 
+Toutes vos vies s&#039;éteignent devant nous
+Tant de traque à effectuer jusqu&#039;au bout
+Sûrement tant de joies quand on en aura fini avec vous
+Libres de faire notre propre Shoas
+De choisir quel sera nos gars
+Plus aucun djihadiste nous embêtera
+J&#039;espère juste que vous prendrez l&#039;temps
+De regretter d&#039;être des mécréants 
+On vous souhaite toute la haine du monde
+Et que de vous il ne reste plus rien
+Que votre chemin soit sous nos bombes
+Qu&#039;y viennent des américains
+On vous souhaite toute la haine du monde
+Pour aujourd&#039;hui, comme pour demain
+Que nos avions vous fassent de l&#039;ombre
+Et mettre fin à vos dessins !
+ 
+Je sais quel monde on vous laissera
+On fera de notre mieux, seulement parfois
+J&#039;ose espérer que cela suffira
+Prêt à punir votre insouciance
+Et à apaiser notre conscience
+Au nom de la liberté et la paix cher à la France !
+ 
+On vous souhaite toute la haine du monde
+Et que de vous il ne reste plus rien
+Que votre chemin soit sous nos bombes
+Qu&#039;y viennent des américains
+On vous souhaite toute la haine du monde
+Pour aujourd&#039;hui, comme pour demain
+ 
+Que nos avions vous fassent de l&#039;ombre
+Et mettre fin à vos dessins !
+ 
+On vous souhaite toute la haine du monde
+Oh oui, toute la haine du monde
+On vous souhaite toute la haine du monde
+Oh oui, toute la haine du monde
+On vous souhaite toute la haine du monde
+Oh oui, toute la haine du monde
+ 
+Que votre chemin soit sous nos bombes
+Qu&#039;y viennent des américains
+ 
+On vous souhaite toute la haine du monde
+Oh oui, toute la haine du monde
+On vous souhaite toute la haine du monde
+Oh oui, toute la haine du monde
+On vous souhaite toute la haine du monde
+Oh oui, toute la haine du monde
+Que votre chemin soit sous nos bombes
+Qu&#039;y viennent des américains
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Math]Rappels des racines de nombres - Commentaires</title>
+  <description>Définition: &#8730;x -&gt; &#8730;x . &#8730;x = x
+
+
+Exposant fractionnaire: &#8730;x  = x (exposant 1/2)
+Produit de deux racines: &#8730;a . &#8730;b = &#8730;a.b
+Somme de deux racines: &#8730;a + &#8730;b =/= &#8730;a+b
+
+
+Quelques valeurs à retenir:
+
+
+&#8730;2=~1,4
+
+
+&#8730;3=~1,7
+
+
+car on peut, par exemple faire: &#8730;6= &#8730;2 . &#8730;3 = ~2,4
+
+
+&#8730;1=1
+
+
+&#8730;0=0
+
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

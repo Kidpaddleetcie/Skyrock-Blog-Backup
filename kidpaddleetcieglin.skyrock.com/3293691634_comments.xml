@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Système&amp;Réseau]Architecture des ordinateurs: Les mémoires de masses non électroniques Disque dur CD/DVD (Partie 2) - Commentaires</title>
+  <description>Partie 1 La capacité
+Capacité = capacité/disque * nombre disques
+ Nombre de disques ou plateau : entre 1 et 4 (influence l&#039;épaisseur du boitier)
+Capacité par disque : on arrive à 1TO par plateau
+Remarque : sur le plan commercial il existe une capacité optimale capacité/prix
+ 
+Le contrôleur disque : les fonctions
+1) Gestion électronique : moteur des disques, positon des têtes, lecture électrique des données et décodage
+2) Gestion de l&#039;interface de connexion : IDE, SATA, SCSI, USB...
+3) SMART (Self Monitoring, Analysis and Reporting Technology) : surveillance des secteurs fautifs et leur ré-allocation, statistiques d&#039;erreur
+ 
+Principales interfaces et contrôleur
+&#8211; S-ATA : la plus courante
+&#8211; SCSI : pour la performance (serveur)
+&#8211; USB : disque dur externe
+ 
+ 
+ 
+Le disque dur hybride : SSHD (Solid State Hybrid Drive)
+Disque hybride = combinaison de :
+&#8211; un disque dur : pour les hauts débits séquentiels
+&#8211; une mémoire flash pour les accès aléatoires sur des petits fichiers
+Concerne principalement le marché des portables afin d&#039;obtenir un bon compromis énergie/performance
+ 
+Le HDD
+Évolution des coûts des HDD
+
+
+
+Gammes de HDD
+Gamme bureau :
+&#8211; 3,5&#039;&#039; et 2,5&#039;&#039;
+&#8211; 5400 tr/min, 7200 tr/min, 10 000tr/min
+&#8211; Taux de transfert de +- 500 Mb/s
+Gamme mobile :
+&#8211; 2,5&#039;&#039; et 5400 tr/min
+&#8211; Capacité plus faible
+Gamme entreprise :
+&#8211; orienté performance : 10 000 tr/min voir 15 000tr/min parfois au détriment de la capacité
+&#8211; Interface de gestion (firmware) plus poussée
+&#8211; Même longévité que la gamme bureau</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

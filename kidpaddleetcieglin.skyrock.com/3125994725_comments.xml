@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Définitions Sciences - Commentaires</title>
+  <description>Mélange Homogène: C&#039;est un mélange d&#039;où on ne peut pas distinguer les constituants à l&#039;oeil nu !
+ 
+Mélange Hétérogène: C&#039;est un mélange où on peut distinguer les constituants à l&#039;oeil nu !
+ 
+Dissolution: On peut retrouver chaque constituant en utilisant une méthode de séparation !
+( solvant + soluté = dissolution ) 
+ 
+Réaction chimique: Les corps de départ &lt;&lt; disparaissent &gt;&gt; et deviennent d&#039;autres corps aux propriétés différentes !
+( réactif + réactif = produit )
+ 
+La concentration massique: C&#039;est la masse du soluté divisé par le volume de la solution ce qui est égale à la concentration
+massique de la solution !
+y=m/v
+
+
+Molécules: C&#039;est la plus petite partie de la matière !
+ 
+
+Atome: C&#039;est une particule qui constitue d&#039;une molécule !
+ 
+
+Ion monoatomique : C&#039;est un atome électrisé par la perte ou le gain d&#039;électron(s) !
+ 
+
+Cation: Ions positifs !
+ 
+
+Anions: Ions négatifs !
+ 
+
+Source de lumière: C&#039;est une source primaire,elle émet et produit de la lumière !
+ 
+
+Corps éclairé : C&#039;est une source secondaire,il ne produit pas mais il émet (diffuse) une partie de la lumière qu&#039;il reçoit ! 
+ 
+
+Objet lumineux : C&#039;est soit un corps éclairé soit une source de lumière !
+ 
+
+Faisceau : C&#039;est un ensemble de rayons !
+ 
+
+Réflexion: C&#039;est les rayons incidents parallèles arrivant sur une surface ! 
+ 
+
+Réflexion spéculaire: C&#039;est quand les rayons incidents parallèles arrivent sur une surface lisse et vont s&#039;y réfléchir parallèlement !
+ 
+
+Réflexion diffuse: C&#039;est quand les rayons incidents parallèles arrivent sur une surface rugueuse et vont se réfléchir en partant dans toutes les directions.La lumière se diffuse !
+ 
+
+Mélange : C&#039;est un ensemble de substance diverse !
+ 
+
+Corps pur: C&#039;est une matière constitué d&#039;un seul type d&#039;atome !
+ 
+
+Corps pur simple : C&#039;est un corps constitué d&#039;atome d&#039;une seule sorte,associé en molécules !
+ 
+
+Corps pure composé : C&#039;est un corps constitué d&#039;une sorte de molécule formée à partir d&#039;atomes de plusieurs sortes !
+ 
+
+Solvant: C&#039;est un liquide volatile ayant la propriété de dissoudre !
+ 
+
+Soluté : C&#039;est ce qui est dissout par un solvant !
+ 
+
+Solution : C&#039;est un mélange homogène de liquide,solide ou gazeux!
+ 
+
+Réactif: C&#039;est une substance qu&#039;on utilise pour la réaction produit au contact d&#039;autre substance !
+ 
+
+Produit: C&#039;est le résultat de l&#039;expérimentation de deux réactifs !
+
+
+Vitesse de la lumière: C&#039;est 300 000 Kilomètres par seconde !
+
+
+Biotope: C&#039;est l&#039;habitat des êtres vivants avec ses caractéristiques physico-chimique !
+
+
+Biocénose : C&#039;est l&#039;ensemble des êtres vivants (végétaux,humains,animaux)occupant un milieux !
+
+
+Écosystème : C&#039;est l&#039;interaction entre les êtres vivants et leurs milieux !
+
+
+Facteurs biotique: C&#039;est ce qui concerne les éléments du systèmes qui sont vivants !
+
+
+Facteur abiotique : C&#039;est ce qui concerne les éléments du système qui ne sont pas vivants !
+
+
+Producteurs Primaires : Ce sont les végétaux qui fabriquent leurs matières organiques en se nourrissant des substances minérales !
+
+
+Consommateurs Primaires : Ce sont les herbivores,les végétariens qui fabriquent leurs substances organiques grâce aux végétaux!
+
+
+Consommateurs Secondaires : Ce sont les carnivores qui fabriquent leurs substances organiques en se nourrissant d&#039;autres animaux !
+
+
+Consommateurs Tertiaires : Ce sont les omnivores qui fabriquent leurs substances organiques en se nourrissant  des consommateurs secondaires,des consommateurs primaires et des producteurs primaires !
+
+
+Détritivores : Ce sont êtres vivants se nourrissant de déchets organiques provenant de tout les milieux!
+C&#039;est grâce à eux que la chaîne alimentaire se perpétue et que les organismes primaires peuvent retrouver dans le sol les minéraux! 
+
+
+Biosphère : C&#039;est l&#039;ensemble des êtres vivants sur terre ainsi que le milieux dans lequel ils vivent!
+
+Vaisseaux (Xylème) : C&#039;est un système de transport de l&#039;eau et des sels minéraux dissous (sève brute) des racines vers les feuilles!
+
+Tubes Criblés : C&#039;est un système de transport de la sève sucrée (élaborée) des feuilles aux autres organes de la plante!
+
+Criblés : C&#039;est l&#039;action de perforés pour permettre les passages! </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

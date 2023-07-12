@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Community Manager ] Le tableau de bord lors de crise - Commentaires</title>
+  <description>Vous n&#039;êtes jamais à l&#039;abris d&#039;un bad buzz où l&#039;actualité ne vous est pas, vraiment pas, favorable.
+ 
+Les buts du tableau de bord lors des crises sont:
+- Suivre en temps réel l&#039;évolution et l&#039;impact de la crise ( rubrique &quot;actualité&quot; en flux )
+- Comprendre les différents points de vue ( on sélectionne des tweets et autres commentaires )
+- Identifier les différents parties ( nos influenceurs, les influenceurs en général, les détracteurs et nos fidèles )
+ 
+Avec cela en tête, on détermine plusieurs indicateurs à garder en vu:
+ 
+- L&#039;évolution et la portée de la couverture médiatique: Mesurer à quel point on mentionne votre marque et sa crise. 
+ 
+- Le sentiment: Taux de satisfaction actuel. On peut considéré la crise comme finie une fois que c&#039;est positif.
+ 
+- L&#039;évolution du sentiment: Un graphique en temps réel qui indique l&#039;évolution des mentions positif et négatif et de leurs retombés. 
+ 
+- Les tendances-clés : Qu&#039;est-ce que les gens disent tous sur la marque ? On va devoir répondre précisément à ce qu&#039;ils retiennent de cette crise.
+ 
+- Les Top Sources: Qui sont ces gens qui osent pourrir votre marque ? Qui sont les influenceurs à l&#039;origine de cette crise ? 
+ 
+- Les Top Social Posts : Quels sont les publications qui descendent le plus l&#039;évolution du sentiment ? Qui les a écrit ? De quoi parlent-ils ?
+ 
+- La portée géographiques: Où cette crise influence-t&#039;elle dans le monde ? 
+ 
+- Le fil d&#039;actualité: Regardons peu à peu les gens dirent du bien de notre marque !
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

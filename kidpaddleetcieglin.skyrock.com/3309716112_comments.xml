@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Colorier comme un boss sur Photoshop! - Commentaires</title>
+  <description>Comment colorier comme un boss et faire les effets de lumière-ombres sur Photoshop sans utiliser une méthode destructrice de merde qui vous amènera à penser au suicide lorsque votre client demandera la moindre retouche ?
+ 
+C&#039;est simple en 14 étapes :
+ 
+Etape 1 : Importer votre dessin en noir et blanc sur Photoshop et utiliser l&#039;outil
+« Courbe de transfert de dégradé » (ce sera le nom du calque)
+pour ajuster les noirs et blancs !Vous trouverez cet outil dans l&#039;icône ronde qui se trouve en bas de l&#039;onglet des calques ! N&#039;oubliez pas de nommer le calque de votre dessin «Traits»!
+ 
+Etape 2: Relier votre calque de réglage «Courbe de transfert de dégradé» avec Alt-Clique sur le segment entre le calque du dessin et le calque de réglage!
+Ainsi, vous n&#039;auriez aucun problème à remplacer l&#039;effet plus tard et, surtout, ne pas l&#039;avoir dans les pattes lorsque vous allez faire les autres calques!
+ 
+Etape 3: Mettez le calque du dessin en mode «produit» afin de n&#039;avoir plus que le noir qui sera visible sur l&#039;ensemble de l&#039;image...ce qui veut dire que vous devez
+faire les claques ultérieurs en-dessous!
+
+ 
+Etape 4: Faîtes un calque «aplat de couleur PERSOS» où vous allez colorier avec l&#039;outil «crayon» votre personnage, l&#039;idée de laisser toutes les
+couleurs sur un seul et même calque afin de ne pas surcharger le fichier Photoshop et aussi de ne pas chercher pendant une heure où se trouve
+la couleur d&#039;un élément du personnage!
+JE PRÉCISE QUE CE SONT JUSTE LES COULEURS DU PERSONNAGE, PAS DU DÉCOR QU&#039;IL FAUT FAIRE !!! ET JE REPRÉCISE AUSSI QUE LE CRAYON DOIT ÊTRE UTILISER ! &gt;:( Grrrrrr
+ 
+Etape 5 : Faîtes un calque « ombres persos » au-dessus de votre calque « aplat de couleur Persos » que vous mettez en mode « produit ».
+N&#039;UTILISER PAS DU NOIR OU DU GRIS POUR VOS OMBRES !!! C&#039;EST DÉGUEULASSE ! Prenez plutôt une couleur pâle pour faire les ombres du personnage !
+ 
+Etape 6 : Une fois les ombres faites, faîtes les lumières grâce à un nouveau calque nommé « Lumières Persos » que vous mettez en mode « Lumière Crue ».
+Vous pouvez employer la même couleur que pour vos ombres vus que le mode va éclaircir plutôt qu&#039;assombrir !
+ 
+Etape 7 :  Une fois vos lumières faîtes, il est temps de mettre un calque de fond ! Faîtes juste un calque en-dessous de tous vos calques que vous nommerez « Fond Blanc » !
+Il sera pratique quand on va faire les calques du décor !
+ 
+Etape 8 : Voici venu le temps de colorier le décor en créant le calque
+« aplat de couleur DÉCOR » juste au-dessus du calque « Fond Blanc » ! Colorier comme bon vous semble le décor sans vous soucier de colorier derrière le personnage vu que son calque d&#039;aplat de couleur se trouve plus haut dans la hiérarchie des claques ! Oui, les calques sont capitalistes et plus ils sont haut, plus ils sont visibles ! N&#039;OUBLIEZ PAS D&#039;UTILISER L&#039;OUTIL CRAYON ! ON NE VEUT PAS DE CRÉNELAGE MOCHE À CAUSE DES BORDS HUMIDES !
+ 
+Etape 9 : Une fois les couleurs au rendez-vous, faîtes un calque « Ombres décor » et...bahhhh...vous faîtes les ombres du décor ! N&#039;oubliez pas de mettre le calque en mode
+« Produit » !
+ 
+Etape 10 : It&#039;s time of the light ! Créez un calque « Lumière gauche » et utiliser un dégradé allant de votre couleur jusqu&#039;au transparent ! Mettez l&#039;origine en-dehors de votre plan de travail et glisser jusqu&#039;à atteindre le milieu de celui-ci ! N&#039;oubliez pas le mode
+« Lumière Crue » !
+ 
+Etape 11 : Ne pensez pas que ça soit finit, même si c&#039;est déjà magnifique, car c&#039;est le moment de faire le calque « Ombres projetés » que vous allez mettre au-dessus du calque des aplats de couleurs du décor ! Sachez que les ombres peuvent se faire au pinceau pour plus d&#039;esthétique !
+ 
+Etape 12 : Vous avez pensé à faire une deuxième lumière ? Très bien, faîtes donc cette lumière en précisant son origine dans le nom du calque ! Vous savez comment on gère une lumière maintenant donc je ne vous reprécise pas le fait qu&#039;on doit le mètre au-dessus des calques qui doivent être soumis à cette lumière et que cette lumière sera en mode « Lumière Crue » ! N&#039;EST-CE PAS ?!
+ 
+Etape 13 : Avez-vous une texture à importer pour rendre votre dessin désormais colorié un peu plus réaliste ? Un peu plus plaisant à regarder ? VOUS VOULEZ METTRE UN EFFET OUI OU NON ? Oui ? Très bien, importer votre texture et mettez-là dans un calque nommé
+« Texture » juste en-dessous du calque « Traits » de votre hiérarchie en mode « Incrustation » !
+ 
+Etape 14 : Maintenant, vous avez créé tous vos calques ! Bravo mais si vous trouvez que les couleurs ne vont pas, vous pouvez vous rendre sur les calques d&#039;aplats de couleur pour les ajuster grâce à une sélection à la baguette magique et un petit « Ctrl-U » si vous êtes sur PC et « Command-U »si vous êtes sur un Mac (ta vie est triste si c&#039;est le cas, tu as des courbatures à force de te mettre en PLS) !
+ 
+Une fois les modifications souhaitées réalisées, vous pouvez enfin vous dire que c&#039;est terminé !
+ 
+ 
+Voici le résultat à obtenir:
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

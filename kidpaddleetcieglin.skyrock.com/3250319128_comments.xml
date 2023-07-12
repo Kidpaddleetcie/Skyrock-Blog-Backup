@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Histoire]Les premiers actes de Glin! - Commentaires</title>
+  <description>Dans une nuit froide belge,dans un village beaucoup trop peu développé technologiquement,un couple s&#8217;étreignait.
+ 
+-Merde,j&#039;ai oublié le préservatif!
+ 
+-C&#039;est pas grave,cette fois-ci tout est prêt!
+ 
+-T&#039;es sur qu&#039;il va faire l&#039;affaire?
+ 
+-Depuis quand doutes-tu de la finalité de notre projet,Dario?
+ 
+-J&#039;ai juste un peu peur pour Glin,Athinia!
+ 
+-Bah,ferme les yeux et pousse!
+ 
+10 ans plus tard,nous voici avec un jeune fils de forgerons complètement abrutis et binoclard nommé Glin Kidpaddleetcie.
+ 
+-Glin,viens mangé!
+ 
+-Oui,maman!
+ 
+-Et n&#039;oublie pas de ranger tes affaires pour demains!
+ 
+-Oui,maman!
+ 
+-FanYoshiBleu a une surprise pour toi!
+ 
+FanYoshiBleu c&#039;est la fille la plus belle et la plus doué du village,elle était âgé de 5 ans quand Glin l&#039;a rencontré dans la rue avec une GameBoy.
+ 
+-ça va Glin?
+ 
+-Ouai,j&#039;ai terminé une fan-made pour ton personnage!
+ 
+-C&#039;est bien,n&#039;oublis pas de me la montré avant de la posté!
+ 
+-Okay!
+ 
+8 ans plus tard,une limousine dotée de mitrailleuse et de sniper terrorisa le village et tua 20 personnes,Glin retrouva un oiseau mort à ses pieds,un jeune colibri au plumage tout doux.
+ 
+Glin devenu rouge,ses yeux se noircirent et ses cheveux devinrent bruns châtains foncé.
+Glin fonça vers la limousine blindé et la souleva mais il était ridicule car il n&#039;arriva pas à tenir longtemps.Soudain,un vent puissant se fit sentir,un vent d&#039;une chaleur volcanique.Glin vît FanYoshiBleu derrière le véhicule mais elle avait quelque chose d&#039;étrange dans la main...sa NintendoNew3DS.
+ 
+Le vent souleva la limousine et les terroristes,par peur,sautèrent et braquèrent FanYoshiBleu.Glin en profita pour venger l&#039;oiseau en bottant les culs et en cassants les armes pendant que FanYoshiBleu évitait les balles  en montrant son gilet par-ball fait en GameBoy (armure légendaire incassable).
+ 
+Une fois les terroristes en fuite par manque de munitions,FanYoshiBleu vas vers Glin.
+ 
+-Merde,t&#039;es un ouf,t&#039;aurais pût te coincer le petit doigt!
+ 
+-Fan&#039;,un piti oiseau est mort à cause de ces ces pro-Sony!
+ 
+-Oui,je sais,j&#039;ai vus leur logo sur le toit du véhicule!
+ 
+-T&#039;étais où quand ça a commencé?
+ 
+-Sur le toit  des fans de SEGA,j&#039;adore le vent dans mes cheveux quand je joue à Smash Bros!
+ 
+-Woaw!
+ 
+-Où est l&#039;oiseau?
+ 
+-Là!
+ 
+FanYoshiBleu se dirige vers l&#039;oiseau près de l&#039;arbre du domaine des Kidpaddleetcie et pose une main dessus!
+ 
+L&#039;oiseau s&#039;envole et revient sous sa forme adulte.
+ 
+-Merci mademoiselle!
+ 
+-Ce n&#039;est rien,maintenant casse-toi de ma vue et fonde une famille dans un pays chaud!
+ 
+Et l&#039;oiseau partit sous les yeux des jeunes pro-Nintendo.
+FIN </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

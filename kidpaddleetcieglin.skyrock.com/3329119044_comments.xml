@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide PermisDeConduire]Nos règles sur la voie publique - Commentaires</title>
+  <description>
+ 
+Sur la voie publique, nous sommes tous obligé de respecter plusieurs règles en fonction de différents paramètres. Ces paramètres sont souvent dû à la composition de la chaussée et ce qui l&#039;entoure ou le sépare... en bref, les règles s&#039;appliquent partout mais pas de la même manière.
+ 
+ 
+Rester à droite le plus près possible
+
+
+Nous sommes en Europe, pas en Angleterre, donc on roule à droite et on ne va à gauche que pour dépasser et changer de direction. Sachez que dans les ronds-points et les places, il vaut mieux être en plein milieu de la chaussée puisque personne peut vous dépassé.
+ 
+Sachez que quand on dit &quot;le plus près possible&quot;, on ne parle pas de coller la bordure ! Ne faîtes pas les sots ou allez vous frotter les pneus et les endommager !
+ 
+Ajoutons que les signaux routiers peuvent réservés certaines bandes de circulation les plus à droite pour informer d&#039;une sortie. Restez attentif aux flèches !
+Remarquer que le choix d&#039;une bande de circulation qui convient au mieux à une circulation n&#039;est possible QUE dans une agglomération !
+ 
+Notons aussi d&#039;autres exceptions à cette règles:
+- Quand la circulation est intense, on peut créer plusieurs files en fonctions de bandes de circulation.
+- On ne roule pas sur une bande de BUS... même si elle est à droite.
+- Si la bande de réservée aux heures de pointe a sa flèche verte,vous pouvez roulez dessus.
+- Si vous avez plus de 3 personnes dans votre voiture, vous pouvez utilisé la bande de co-voiturage.
+ 
+Tenez compte de l&#039;environnement
+ 
+Autour de vous se présente plein de chose fragile par rapport à vous dans votre voiture ! Prenez garde de ne pas écraser les cyclistes,cyclomotoristes et piétons.
+ 
+Faîtes gaffe aussi à ce qui n&#039;est pas en mouvement comme les arbres,buissons,véhicules à l&#039;arrêt ou en stationnement,... N&#039;oublier pas que la moindre égratignure à votre voiture est difficile à enlever !
+ 
+Faîtes attention également à l&#039;état de la chaussée car elle peut être pleines de trous, parsemées de flaques d&#039;eau, de couvercles d&#039;égouts ou encore du verglas !
+ 
+Dépasser par la gauche
+ 
+Toujours dépasser par la gauche SAUF si un panneau D1 ou F21 autorise la droite ! Ces panneaux se trouvent dans les îlots directionnels ! Les panneaux sont bleus avec de grosses flèches blanches dessus pointant dans une direction (en bas à droite) ou deux directions (gauche et droite).
+ 
+ 
+Sources: https://www.permisdeconduire-online.be/theorie/theorie-permis-b
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

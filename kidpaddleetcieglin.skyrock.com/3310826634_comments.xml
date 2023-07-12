@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Poster du contenu sur le Web 2.0 ! - Commentaires</title>
+  <description>
+Introduction
+Pas besoin de faire un site web (même si c&#039;est l&#039;idéal si on produit du contenu varié de manière massive) car il existe des sites web ayant des lecteurs
+et des fonctionnalités plus aboutit qu&#039;une simple balise ou!
+ 
+Dans cette vidéo, je vais vous faire la présentation de divers sites web que j&#039;emplois même si j&#039;avoue que chaque site web possède des fonctionnalités différentes et qu&#039;il faut en essayer un maximum pour être certain de posséder le plein pouvoir sur ses contenus!
+ 
+Pour le texte
+Avant de faire des grosses productions, on doit passer par le texte pour s&#039;organiser et créer les premières dynamiques! Dans l&#039;idéal, il faut pouvoir souligner, mettre en couleur, mettre en surbrillance et pouvoir mettre quelques images/vidéos d&#039;exemple pour accompagner le texte!
+ 
+Je vous conseille de créer un Blog Skyrock si c&#039;est pour faire suivre un projet, mettre l&#039;ensemble du texte de votre vidéo ou votre chanson,...
+ 
+Je vous conseille Wattpad si c&#039;est pour raconter des histoires avec une structure par chapitre! (ATTENTION,IL FAUT ÊTRE MEMBRE POUR LIRE VOS HISTOIRES!)
+ 
+Pour vos images
+Quand on fait de l&#039;illustration ou juste des rendus 3D, on a besoin d&#039;un moyen de poster ses images à la vue de tout le monde pour alimenter la visibilité d&#039;un projet comme une BD, un court-métrage,un dessin-animé ou encore une vidéo présentative!
+ 
+Je vous conseille DeviantArt pour son coté « communautaire » et surtout sa gestion de l&#039;organisation qui fonctionne comme votre PC sauf qu&#039;un même contenu peut appartenir à plusieurs dossiers et possède plusieurs mots-clés!
+ 
+Sinon, il y a Memecenter mais c&#039;est surtout si vous faîtes des parodies d&#039;image en anglais...des Mèmes donc (ça tombe sous le sens)!
+
+
+Pour la musique
+
+Quand on créé des court-métrages et qu&#039;on est un pro, on créé son identité musicale! On peut aussi créé le jingle de son émission ou juste la musique du générique mais...on a des fois marres des
+« c&#039;est quoi la musique à 0:17 ? »  donc il faut donner au bas-peuple majoritaire ce qu&#039;ils demandent pour éviter de finir la tête sur une pique!
+
+ 
+
+Je vous recommande Soundcloud pour la gratuité et l&#039;accessibilité si vous ne faîtes pas trop de musique car il y a une limite de 3h pour la gratuité!
+ 
+Pour la 3D
+Des fois, on est fier d&#039;avoir terminer son personnage dans 3DSmax, Maya, Blender ou encore Cinema4D mais on a envie de l&#039;offrir aux mirettes de notre publique...et pourquoi pas lui permettre de s&#039;en emparé gratuitement ou pas...hé hé hé !
+ 
+Je vous recommande Sketchfab qui est gratuit (sauf si vous voulez poster de manière Privé vos modèles 3D) et assez complet! On peut même utiliser un plugin pour uploader depuis le logiciel de 3D notre modèle 3D avec ses textures et ses animations! C&#039;EST TROP BIEN =D
+ 
+Pour les vidéos
+Quand on a un smartphone depuis tout petit à cause de parent irresponsable et une incommensurable capacité à faire chier le monde le monde, on aimerait bien poster son podcast sur les différents types de profs sur un site web pour se la péter dans la cours de récré le lendemain avant qu&#039;un camarade te montre que t&#039;es une petite merde parce qu&#039;il maîtrise After Effect et qu&#039;il a des amis pour tenir la caméra contrairement à toi...petite merde!
+ 
+Je recommande YouTube...à défaut de mieux car Dailymotion n&#039;a plus d&#039;espace « commentaire » et Facebook est encore plus chiant sur les droits d&#039;auteurs tandis que Vimeo n&#039;est pas vraiment gratuit!
+ 
+Il y a l&#039;alternative pewtube.com qui existe mais c&#039;est pas encore aussi bien organisé que Dailymotion ou YouTube! (En plus,c&#039;est moche!)
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation2Glin]L&#039;évolution du support de l&#039;image(partie 5:L&#039;Epoque contemporaine)! - Commentaires</title>
+  <description>L&#039;époque contemporaine : L&#039;ère du numérique
+Après la révolution française (en 1789), tout a changé dans la politique et dans la croissance des différentes nations. C&#039;est aussi à cette période que l&#039;Amérique (conquise en 1492) et l&#039;Europe commence à se développer de manière exponentielle et où la science apportera de nouvelles capacités technologiques.
+ 
+Bien sûr, la quête historique de la communication absolue est toujours dans les fantasmes des scientifiques mais il a fallu attendre les ordinateurs à tube en 1946 créer par Alan Mathison Turing
+
+
+mais comme il ne servait qu&#039;à faire des calculs, il a fallu attendre
+l&#039;Apple 1 de Steve Jobs en 1976 (qui est le premier ordinateur équipé d&#039;un clavier et d&#039;un écran) pour pouvoir s&#039;éloigner des interrupteurs et des lumières clignotantes pour l&#039;affichage.
+
+ 
+C&#039;est en 1978 que les premiers logiciels  de création d&#039;images numériques s&#039;invitent à utiliser un format d&#039;image bien dépassé de nos jours...
+Meuh non, puisque c&#039;est le JPEG, un format ne permettant pas vraiment la qualité optimale (à cause de son système de compression qui ruine la qualité de l&#039;image à chaque réenregistrement de l&#039;image).
+ 
+ 
+C&#039;est bien après que le GIF, le PNG, Le PDF, l&#039;EPS, le TIFF, le BMP et les extensions de suite comme PSD (format de Photoshop), AI (format d&#039;Illustrator) et INDD (format de de InDesign).
+ 
+Le PS (l&#039;ancêtre du EPS) signifie ProScript et c&#039;est un format vectoriel mais il n&#039;a pas d&#039;image de prévisualisation, il devait être imprimer pour voir le rendu. Le EPS d&#039;Adobe (qui sont les initiales de « Encabulated PostScript ») a donc en plus cette prévisualisation. Au début, c&#039;était le PICT qui était le format de prévisualisation mais comme il n&#039;est pas compréhensible par un PC, c&#039;est le TIFF qui l&#039;a remplacé.
+ 
+ 
+Le TIFF (Tagged image file format), c&#039;est un format d&#039;image bitmap non-compressé créé par Microsoft et ALDUS en 1987. Il est bien mieux que le JPEG et est universel. C&#039;est la référence pour l&#039;impression d&#039;image bitmap.
+ 
+ 
+Le PDF (Portable Document Format) : Créé en 1993 par Adobe, sous base de PostScript et compatible PC, Mac, Smartphone, .... Il contient de l&#039;information vectorielle, du bitmap et importe les fonts. Il est le format d&#039;impression le plus utilisé. Il y a deux formes de PDF, celui de production qui est le plus lourd mais qui sert pour l&#039;impression et celui de lecture qui est plus léger et qui est pratique pour un rendu rapide.
+ 
+
+Mais outre ces formats d&#039;impression, le BMP, PNG, le GIF et le JPEG vont avoir un nouveau compagnon sur le net : Le format Flif pour « Free Lossless Image Format » qui sera un format d&#039;image qui aura la particularité d&#039;avoir tout du PNG mais avec un affichage progressif. En gros, il peut faire de la transparence, avoir une large gamme de couleur et un affichage direct sur l&#039;écran sans un affichage en forme de scan ce qui sera pratique pour les nouveaux écrans pouvant accéder à internet comme le smartphone, la télévision, ... .
+
+
+Sources:
+
+
+http://flif.info/
+
+
+Noirot, A. (2017, Avril 1). Jpg, Gif, Png, Pdf, Eps, Tiff, Bmp : analyse des principaux formats d&#8217;images.
+Récupéré sur http://blog.peexeo.com: http://blog.peexeo.com/jpg-gif-png-pdf-eps-tiff-bmp-analyse-des-principaux-formats-dimages/
+
+
+
+Dondero, M. G., &amp; Reyes-Garcia, E. (2017, Mars 31). Les supports des images : de la photographie à l&#8217;image numérique.
+Récupéré sur Revue française des sciences de l&#8217;information et de la communication: https://rfsic.revues.org/2124
+
+
+sbetty. (2017, Mars 31). L&#039;évolution de l&#039;image. Récupéré sur intellego.fr: https://www.intellego.fr/soutien-scolaire-1ere-annee-cap/aide-scolaire-francais/l-evolution-de-l-image/51496
+
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

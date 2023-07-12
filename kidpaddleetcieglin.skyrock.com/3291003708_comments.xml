@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Idée2Glin]Un scénario pour une YouTube Poop! (Une journée de paix à Haïroule) - Commentaires</title>
+  <description>Déroulement général
+Tout commence chez le roi d&#039;Hyrule qui regarde par la fenêtre de son château Link qui fait du badminton avec Zelda.
+ 
+Zelda perd contre Link et fait son fameux cri de défaite « ohoooo » tandis que Link cri « j&#039;ai gagné ».
+ 
+Le roi descend dans le jardin (en se vautrant dans les escaliers au passage) et dit « Mon petit, je veux jouer avec toi » ce à quoi Link répond « Super » et enchaine vers Zelda « J&#039;vais mettre à terre ton père ».
+ 
+Bien sûr, le duel est juste chiant et Link place sa célèbre réplique « Bon sang, qu&#039;est-ce qu&#039;on peut s&#039;ennuyer ici ! » ce qui emmerde autant le roi et le fait dire « J&#039;ai la dalle, je me demande ce qu&#039;il y a pour diner ».
+ 
+Le roi dit soudain « IL SUFFIT ! » et Link se permet un « ohlala » avec le dernier « a » plus long. Le roi se casse vers le château suivit par Zelda et Link avec les deux raquettes.
+Le roi mange un sanglier tandis que Link et Zelda (avec des têtes de pervers) dégustent un octorok qui rétréci à chaque coup de fourchette avant d&#039;exploser en fumée.
+ 
+Link et le roi sortent de table et vont fumer à la fenêtre (Link a juste une pipe à bulle tandis que le roi fume une fumax). Ils regardent les étoiles (on voit l&#039;ombre de Gwonam qui passe) et le roi se permet de crier « les étoiles c&#039;est pour les vrais PD » ce que le ciel répond en voix synthétique « C&#039;est toi le PD sale roi blabablablablabla blaaaaaaahaaaaaablaaaaaaahbaaaaahhhhhblaaaa » (pendant les « blaaahabaabahaa » qui seront plus que le fond de l&#039;ambiance, le roi se fait un facepalm avec Link qui sourit bêtement à coté) alors le roi ajoute « le ciel c&#039;est pour les PD » et il dit bonsoir à Link en lui faisant un bisou sur la joue (Link est toujours en train de sourire bêtement) et il dit « bonsoir, mon petit ».
+ 
+Le roi va donc se coucher et Link reste bêtement à la fenêtre...Zelda le prend donc comme un skateboard sous le bras et va le mettre au lit (un lit SUPER MAL DÉSSINÉ au passage) et elle se couche à coté en souhaitant la bonne nuit à Link.
+FIN
+ 
+ 
+ 
+Description des lieux
+La fenêtre : Une simple image PNG avec un ton bleuté transparent pour les vitres et un trait blanc pour l&#039;effet de verre.
+
+ 
+Le jardin : L&#039;image de fond d&#039;écran par défaut de Windows XP mais avec le château du roi fond (même si c&#039;est un château de Hotel Mario). Pour un autre plan, une simple image JPEG de jardin verdoyant suffit.
+http://wallpapersonthe.net/31249-windows-xp-garden/
+
+ 
+La salle à manger : Un premier plan avec un morceau de table et un poster Weegee au fond sur un mur de pierre (donc une image de fond JPEG et la table est un PNG),
+un deuxième plan avec le reste de la table mais avec une photo du roi bébé en poster sur le mur.
+ 
+Le ciel : Un dégradé du bleu marine au noir avec des étoiles scintillantes (incrustations de vidéos MP4 représentant des étoiles).
+ 
+La chambre de Link : Même si mal dessinée, on peut y distinguer le lit mais aussi une photo de Link et Ganon avec des lunettes de soleil avec en fond la tour Eiffel.
+
+ 
+ 
+Les actions sonorisées
+Dé-zoom de la fenêtre au jardin
+Le volant touche les fils de la raquette
+Zelda rate le volant
+Les mouvements de Link
+Les pas du roi
+Les raquettes qui se percutent entre elles à chaque pas de Link quand il va au château
+Le roi qui mange comme un porc
+Zelda et Link qui mangent
+Le souffle du roi dans sa fumax et quand il recrache la fumée
+Le bruit des bulles de la pipe de Link
+Le bruit du bisou du roi sur la joue de Link
+Le bruit de Link qui tombe dans son lit
+Le couinement de Zelda qui se couche parterre
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

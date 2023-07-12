@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Mon Avis sur la question]L&#039;amour peut-il être virtuel? - Commentaires</title>
+  <description>Mon avis sur l&#039;amour virtuel et son existence est assez mitigé car il dépend de votre définition de l&#039;amour!
+ 
+
+L&#039;amour affectif est l&#039;amour des enfants et des bons amis,il est donc juste &quot;communicatif&quot; et il ne requiert pas de contact physique mais seulement des contacts psychologiques et sincères,c&#039;est la base d&#039;une relation entre deux êtres dans une société.
+Ce premier genre d&#039;amour est possible derrière votre mobile/ordinateur car il demande juste attention et intéressement à un être (qu&#039;il soit loin ou proche de vous)! 
+(Amour de citoyen ou de collègue car on est tous dans la même merde!)
+ 
+ 
+Le deuxième est plus compliqué parce qu&#039;il demande un échange d&#039;entité,c&#039;est encore un amour d&#039;enfant (celui que nous faisons à la récréation quand on partage notre goûter avec les copains et les copines) mais il demande un échange d&#039;oeuvre,de produit!
+C&#039;est encore possible sur la toile car vous pouvez échanger vos œuvres dans le but de créé une association artistique ou d&#039;échanger des informations sur un sujet donné pour préciser des recherches et atteindre un certain niveau de culture!
+(Amour d&#039;enfant ou d&#039;entreprise car je t&#039;aime juste parce que t&#039;es utile!)
+ 
+
+
+Le troisième est IMPOSSIBLE SUR INTERNET car il demande une présence qui atteint les sens du système nerveux et pas le cortex!
+C&#039;est le besoin de toucher cette personne,de la sentir (voir même de la goûter!!!)!
+C&#039;est le désir qui se fait ressentir comme un besoin!
+C&#039;est l&#039;amour tactile,un amour qui ne peut aboutir que par une union pour un projet de vie et non un projet lucratif ou culturelle (les deux sont cumulables,à la base aussi!)!
+(Amour animal ou naturel car il faut être deux pour ne pas devenir fou!)
+ 
+ 
+On ne peut pas toucher son prochain sur internet mais vous pouvez l&#039;instruire,le faire rire et même l&#039;aider pour sa vie IRL même si vous n&#039;êtes pas face à lui dans la même pièce!
+ 
+L&#039;amour n°3 est un amour d&#039;union pour la vie et allant à l&#039;encontre d&#039;une loi virtuelle qui est la liberté de chacun à l&#039;expression et à la navigation!
+ 
+Tant que l&#039;affection reste attaché aux mots,aux visages,aux voix et aux gestes:l&#039;amour peut être virtuel!
+ 
+Si cette amour requiert plus de sens que la vue et l&#039;ouïe:L&#039;amour ne peut pas être virtuel!
+ 
+C&#039;est fondamental!
+ 
+Kidpaddleetcie Glin,2014 </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

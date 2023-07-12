@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Astuces2Glin]Optimiser ses YouTube Poops ! - Commentaires</title>
+  <description>
+ 
+Lorsqu&#039;on fait des YTPs pour une communauté comme Poopulaire ( https://www.youtube.com/channel/UCbK5TxzVZrgbcDUT_XsYgVg/videos ), la moindre des choses est de bien bosser ses poops pour les rendre le plus agréable possible à regarder.
+ 
+Mais dans une optique d&#039;optimisation du contenu et de proposer de la nouveauté afin de lier des sources à votre pseudo, le mieux est de suivre ces quelques conseils pour augmenter la qualité et le visionnage de vos œuvres poopesques.
+ 
+ASTUCE 1: Pré-production
+&#65279;
+Peu de poopeurs pensent à écrire leurs YTPs avant de passer à la phase de recherche des ressources alors que cette étape peut potentiellement se révéler utile pour avoir un recul sur les futures visuels à créer ou trouver ainsi qu&#039;avoir une maquette de base pour définir où on se trouve dans la production.
+ 
+La pré-production, c&#039;est aussi faire l&#039;inventaire des thèmes, des personnages,des idées et d&#039;un fil rouge pour lier tout ça. Si vous n&#039;aimez pas écrire des histoires, vous pouvez faire un schéma narratif avec des étiquettes sur une feuille... c&#039;est plus visuel !
+ 
+ASTUCE 2: L&#039;assistant 
+ 
+Si vous avez des fans de YTPs dans vos innombrables amis, vous pouvez lui demander de visionner sur VLC votre YTP et noter dans un bloc-note ses remarques avec le timecode du moment associé...bien sur, ne soyez pas derrière lui à ce moment-là ! Sortez un peu vous oxygéner ou aller regarder une YTP de Glin sur la chaîne Poopulaire !
+ 
+Cette astuce permet quand même de vérifier si vos gags fonctionnent, si votre sentence-mixing est compréhensible, s&#039;il y a des idées en plus qu&#039;on peut ajouter ou si , pour cause de rythme, on ne devrait pas plutôt retirer certaines séquences inutilement présentent ou raccourcir des moments trop longs.
+ 
+N&#039;oubliez pas qu&#039;il y a plus d&#039;idée dans deux têtes que dans une !
+ 
+ASTUCE 3: Les covers
+ 
+Pourquoi utiliser la chanson original qui vous vaudra une attestation pour droit d&#039;auteur alors qu&#039;une cover est plus marrante à pooper et peu faire un de PUB à une personne qui a une jolie voix ? En plus, vous pourrez vous faire une relation pour les prochaines fois et vous faire des amis en plus et agrandir votre communauté... 
+ 
+Bien sur, vous pouvez aussi juste reprendre la cover sans mentionner le nom de la personne qui l&#039;a faîte mais le mieux quand même est de demander avant pour vous faire remarquer et avoir une pré-PUB gratuite.
+ 
+ASTUCE 4: Les runnings gags
+ 
+Vos YTPs vont devenir petit à petit des YTPS (YouTube Poop Stories) et c&#039;est une très bonne chose car vous pourrez créer des gags faisant références à d&#039;autres que vous avez fait récompensant par un feeling gratifiant votre fidèle public.
+ 
+Ces références peuvent être des screenshots, des mentions d&#039;un élément passé, des suites spirituelles de séquences,... il y a l&#039;embarras du choix !
+ 
+ De plus, ça vous permet de recycler vos anciennes ressources et économiser un peu de temps, de mémoire et d&#039;originalité... donc on n&#039;est pas censé abusé des runnings gags sinon ça devient redondant et c&#039;est pas agréable du tout. Parcimonie et rigueur sont les grands mots des bons poopeurs !
+ 
+ 
+ASTUCE 5: La peur des larmes
+ 
+Dans les YTPs, on a l&#039;habitude de faire des gags qui n&#039;installent aucune ambiance... et c&#039;est triste !
+ 
+Les larmes, les sourires, les flottements, la confusion et toutes les autres ambiances peuvent être de très bons tremplins humoristiques si on les exploitent comme il faut ! Pour cela, il suffit juste de se mettre dans la peau des personnages et travailler le visuel et l&#039;habillage sonore.
+ 
+Vous devez ressentir ces gros feelings au fur et à mesure que vous faîtes votre YouTube Poop pour calibrer le ressenti du visionneur. On rentre dans du subjectif mais c&#039;est aussi une facette d&#039;un contenu artistique !
+ 
+ 
+ 
+ASTUCE 6: Le timing de sortie
+ 
+Afin de vous donnez le temps nécessaire pour vous de sortir vos YTPs, il faut vous laissez minimum 3 semaines MAIS vous pouvez également mettre des palliés de pouce bleus ou de vues afin de donner l&#039;illusion à votre publique que s&#039;il veut avoir d&#039;avantage de vos YTPs, il faut qu&#039;il clique et qu&#039;il demande à d&#039;autres personne de regarder/liker votre dernière YTP.
+ 
+Le pallier minimum de vue possible peut être déterminé par le nombre de vue accumulé dans l&#039;avant-dernière YTP postée (minimum 3 semaines) auquel on ajoute 100 vues.
+Ainsi, vous faîtes vivre vos YTPs dans les recommandations et dans les suggestions assez longtemps pour obtenir des records de vues exponentielles. 
+ 
+Maintenant, bien sur, je déconseille de faire des poops pour les vues et les likes car vous créer une dépendance à des chiffres qui ne vous servent pas à grand chose vu que vous ne faîtes pas d&#039;argent avec vos œuvres poopesques !
+ 
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

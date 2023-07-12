@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Avis2Glin ] Le Reset System sur Professeur Layton AVANT SA SORTIE - Commentaires</title>
+  <description>Dans la dernière vidéo de MisterFlech ( vidéaste français orienté &quot;jeu-vidéo&quot; avec une présentation en voix-off et motion-design ainsi qu&#039;une mascotte animée ), ce dernier nous révèle qu&#039;il travaille et publiera un prochain épisode de son émission &quot;Reset System&quot; ( Émission qui présente un jeu ou une licence de jeu entre 5 et 40 minutes ) sur la licence Professeur Layton.
+ 
+
+ 
+Je n&#039;estime pas vraiment que ce sujet soit une bonne idée pour un Reset System. Je vous donne donc sur différents points les éléments qui me titillent :
+
+1. La commu&#039; Layton est bien mignonne mais elle ne compte qu&#039;une centaine de francophone 
+
+2. La vidéo d&#039;Edward n&#039;a pas cité Descole une seule fois. Je fus très déçus et je me suis désabonné d&#039;Edward. ( Oui, je suis un gros rageux mais quand on spoil Layton, on doit citer le méchant principale du film et des 3 jeux de la prélogie... Connard d&#039;Edward )
+
+3. 8 jeux ( dont deux child-spin-offs ), un film et un anime de 50 épisodes pas encore doublé en français. Monsieur Chair va prendre cher si le Reset System ne dure pas au moins 40 minutes
+
+4. La licence est trop lourde ( ce sont des Visuals Novels en même temps ). Il va y avoir certainement des éléments survolés qui seront TROP important à mes yeux
+
+5. On attend toujours la suite des remakes HD de la prélogie ( Appel du Spectre , Masque des Miracles et L&#039;héritage des Aslantes ) sur smartphone pour une review qui n&#039;a pas des bumps de résolution
+
+6. C&#039;est un visual novel, Flech ne va pas pouvoir dire grand chose sur le gameplay qui utilise exclusivement l&#039;écran tactile comme un Wario Ware
+
+7. Il y a tellement de trou d&#039;informations entre les personnages et leurs capacités... il est facile d&#039;inventer un truc mais c&#039;est jamais canon ( l&#039;âge de Descole notamment )
+
+
+8. Sans spoil, on s&#039;emmerdera ! IL FAUT QU&#039;ON LEUR DISE QUE LAYTON A RÉDUIT À NÉANT UNE MAFIA ET GIFLER UN PREMIER MINISTRE ! ( Layton est létal )
+ 
+
+ 
+Voila, Professeur Flech va en avoir du boulot et j&#039;ai peu d&#039;espoir pour ce Reset System !
+Maintenant, je tiens à dire que j&#039;ai un immense respect pour MisterFlech qui fait parti de ces vidéastes qui présentent le jeu-vidéo comme un médium complet et non seulement du divertissement. Il me rappelle un peu GE-2 ( Myth Boy ) mais avec des chroniques bien plus complètes autour d&#039;un jeu ou une licence.
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3342648976_comment_1.html#c-20547364926" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3342648976_comment_1.html#c-20547359104" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3342648976_comment_1.html#c-20547364926">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3342648976_comment_1.html#c-20547364926</link>
+		<dc:date>2021-06-14T23:01:40+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>J&#039;ai jamais prétendu avoir la qualité ! ;)  </description>
+		<content:encoded><![CDATA[
+			J&#039;ai jamais prétendu avoir la qualité ! ;)  
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3342648976_comment_1.html#c-20547359104">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3342648976_comment_1.html#c-20547359104</link>
+		<dc:date>2021-06-14T22:25:52+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Très mauvaise critique</description>
+		<content:encoded><![CDATA[
+			Très mauvaise critique
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

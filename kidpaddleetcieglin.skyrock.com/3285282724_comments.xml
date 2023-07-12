@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Informatique]Répéter une boucle en javascript pendant un certain nombre de fois! - Commentaires</title>
+  <description>Lorsque vous créer une boucle en Javascript et que vous désirez embêter en spammant un message, il suffit d&#039;intégrer un compteur.
+ 
+En pseudo-code cela donne:
+ 
+Cpt&lt;- 0
+Répéter
+ Afficher &quot;message à répéter&quot;
+ Cpt&lt;- Cpt+1
+jusque (Cpt= le nombre de fois qu&#039;on désire que le message soit répéter)
+ 
+On peut décortiquer le compteur en 3 étapes:
+1)Initialisation
+2)Incrémentation à chaque fois que l&#039;événement se produit
+3)Utilisation
+
+
+N&#039;oublier pas de faire la légende de votre variable &quot;Cpt&quot;!
+
+
+Cpt   /   nombre   /   le nombre de &quot;message à répéter&quot; affichés
+
+
+Par-contre, n&#039;oublier pas que les &quot;jusque&quot; ne sont pas utilisé directement en Javascript,donc on le convertit à l&#039;utilisation du &quot;tant que&quot;:
+
+
+Cpt&lt;- 0
+Tant que (Cpt &lt; 10)
+Afficher &quot;message à répéter&quot;
+Cpt&lt;- Cpt+1
+FIn Tant que 
+
+
+Ce qui donne en javascript:
+
+
+&lt;script&gt;
+var Cpt=0
+while (Cpt&lt;nombre de fois que le message à répéter doit être répéter)
+{
+document.write (&quot;message à répéter &lt;br/&gt;&quot;);
+Cpt= Cpt+1;
+}
+&lt;/script&gt;
+
+
+ 
+
+Le &quot; &lt;br/&gt; &quot; sert à faire une entré à la ligne!
+On aurait pût utiliser &quot; alert &quot; au lieu de &quot; document.write &quot; mais &quot; alert &quot; aurait été chiant à force puisqu&#039;il dira bonjour 10 fois, une fois à chaque clic sur le &quot;ok&quot;!
+
+
+L&#039;utilisation du &quot; for &quot; aurait pût aussi être utilisé!
+
+for (initialisation, condition de bouclage, incrémentation);
+
+Donc:
+&lt;script&gt;
+for (Cpt=0; Cpt&lt;nombre de fois que le message à répéter doit être répéter ; Cpt= Cpt+1)
+      document.write (&quot;message à répéter&quot;);
+&lt;/script&gt;
+
+
+On peut abrégé &quot;Cpt=Cpt+1&quot; par &quot;Cpt++&quot; ! </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Community Manager] Talkwalker- Free Social Search - Commentaires</title>
+  <description>
+ 
+Si Google Trends est déjà très complet, on peut l&#039;être encore plus avec Free Social Search de Talkwalker. Un outil de veille supplémentaire à prendre:
+https://www.talkwalker.com/fr/outil-analyse-web-reseaux-sociaux
+ 
+Les fonctionnalités qu&#039;offre FSS par rapport à Google Trends:
+- Évaluation du buzz ( étude du sentiment )
+- Accès aux publications en lien avec la recherche ( de n&#039;importe quel période en version payante, de la semaine dernière pour la version gratuite )
+- Nuage de tendances autour du sujet ( les hashtags entourant le mot-clé )
+- Nuage d&#039;émojis ( les sentiments qu&#039;éprouvent les gens qui mentionne le mot-clé )
+- Filtre par &quot;type de média&quot;
+- Listing des influenceurs ( comptes Instagram, Twitter, Blogs, Actualités en ligne et Magazines mentionnant le mot-clé recherché )
+ 
+La version payante ne permettant qu&#039;à affiner les périodes de recherche au-delà de la semaine précédente, la version gratuite est suffisante pour une petite boite. La version payante est sous demande: https://www.talkwalker.com/fr/tarifs
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

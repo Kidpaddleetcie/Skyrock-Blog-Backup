@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Système&amp;Réseau]Architecture des ordinateurs - Commentaires</title>
+  <description>Les principaux éléments constituants d&#039;un ordinateur sont, le processeur, la mémoire, les bus et les imput/output.
+ 
+Les deux architectures historiques principales :
+Architecture Von Neumann : une seule mémoire pour données et programmes
+(plus souple et répandue)
+ 
+Architecture de Harvard : des mémoires distinctes pour les données et les programmes
+(plus performante)
+ 
+ 
+On peut avoir internet en insérant dans un port Ethernet un câble RJ45.
+ 
+C&#039;est dans le PCI Express qu&#039;on met les cartes graphiques les plus performante.
+ 
+Les radiateurs servent à faire partir la chaleur du PC, le refroidir. Le métal est accompagné de ventilateur. L&#039;ensemble s&#039;appelle le refroidisseur.
+ 
+Le Port SATA est plus utilisé que le Port IDE.
+ 
+CPU (Central Processing Unit).
+ 
+Le microprocesseur est un processeur intégré sur un circuit.
+ 
+
+L&#039;architecture externe dite ISA (Instruction Set Architecture) définit l&#039;interface avec le monde du logiciel grâce au jeu d&#039;instructions du processeur.
+ 
+
+ 
+« Core » (cœur) signifie « noyau ».
+ 
+On est dans les PC 64-bit depuis Windows 7.
+ 
+ARM est un producteur de processeurs qui travaille beaucoup avec les autres marques. Ils sont surtout spécialisés dans les processeurs sur mesure.
+
+ 
+Les petites barrettes noires sont des composants de surface, ils peuvent être des résistances.
+Un processeur peut faire 4 choses par cycle cadencé par l&#039;horloge interne.
+Toute instruction suit le cycle :
+
+1.fetch = charger l&#039;instruction
+2.code = décoder l&#039;instruction
+3.execute = exécuter l&#039;opération
+4.writeback = écrire le résultat 
+
+Ces millions d&#039;instruction par seconde ont pour unité le MIPS
+(Million instructions per second).
+Pour ceux qui ont besoin de faire la gestion des calculs à virgules flottantes, il y a l&#039;unité de mesure FLOPS (floating-point operations per second). D&#039;où le FPU (floating-point unit)
+ 
+
+ 
+La mémoire cash est la mémoire intermédiaire. C&#039;est également nommé mémoire tampon. (L1 et L2 sur le schéma)
+La plus rapide des mémoires est la mémoire registre.
+La moins rapide est la mémoire rom (le bios pour allumer la machine).
+La mémoire vive est la mémoire RAM.
+ 
+Les principaux composants d&#039;un processeur :
+&#8211; Une horloge interne (en Ghz)
+&#8211; Des unités opérationnelles
+&#8211; Une unité de contrôle
+&#8211; Des mémoires caches
+&#8211; Des registres
+ 
+I/O signifie « input/output »
+ 
+La carte graphique est souvent dans le processeur (actuellement).
+ 
+Architecture 32 ou 64 bits
+Définition : un processeur 32/64 bits est un processeur dont les registres ont une
+largeur de 32/64 bits
+Avantages du 64 bit
+&#8211; Espace mémoire adressable &gt; que 4GO (=232)
+&#8211; Échanges plus rapides
+Inconvénients du 64 bit
+&#8211; Augmentation de la taille des programmes et donc de la consommation de mémoire
+ 
+
+(L&#039;IRM (Imagerie par résonance magnétique-la résonance magnétique nucléaire)
+est moins dangereux pour la santé que les scanners (les rayons x).) non mais c&#039;est bon à savoir!
+ 
+
+
+ 
+« Display » signifie « affichage ».
+
+Le « p » après « 1080 » signifie « progressif ».
+
+GPU est le &quot;graphics processor unit&quot;. C&#039;est un processeur optimisé pour les calculs en parallèle.
+&#8211; à l&#039;origine graphique :
+Manipulations de points (vertex)
+Transformations géométriques : translation, rotation, ...
+Manipulation des textures (pixel)
+Transfert rapide vers la mémoire vidéo (VRAM)
+ 
+C&#039;est aussi un processeur optimisé pour les calculs en parallèle à l&#039;origine graphique qui est devenue un puissant processeur spécialisé dans le calcul matriciel et vectoriel utilisé dans :
+
+Le traitement vidéo : encodage, décodage
+Le calcul scientifique et la simulation
+Le traitement d&#039;image : reconnaissance, restauration, etc... 
+ 
+ 
+LE DVI est comme le HDMI mais sans le son.
+Le VGA a été remplacé par le DVI.
+Nvidia est la marque la plus populaire des processeurs graphiques.
+Medion est une marque d&#039;ordinateur de la société Aldi.
+Le GPU peut être interne sur le circuit du processeur ou externe en étant placé sur une carte graphique externe.
+ 
+Les DSP (Digital Signal Processor) sont utilisé dans le traitement temps remps réel des signaux numériques (voix, son, flux de transmission) pour :
+-Filtrage,
+-Encryptage des données
+-Compression
+-Effets audio
+-Traitement et reconnaissance de la parole
+ 
+Les SOC (Système On Chip) (Système sur une puce) servent à l&#039;intégration d&#039;un système complet sur une puce. Ils servent aussi à la mobilité et basse consommation. Les principaux sont « Atom » d&#039;Intel, «Tegra » de Nvidia, « Exynos » de Samsung et « Snapdragon » de Qualcom.
+
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

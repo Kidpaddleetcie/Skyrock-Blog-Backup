@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Chanson2Glin]Un jour ils le feront! - Commentaires</title>
+  <description>Depuis que nos capacités se résume à l&#039;échange d&#039;entité contre une identité,
+L&#039;humanité se créé autour d&#039;une idée naïve de croissance indéterminée,
+Pourtant, si un jour une alternative pointe le bout de son nez,
+Et que tout le monde y court sans se retourner,
+On pourrait revoir nos constitution et encore évoluer.
+ 
+Un jour les pauvres travailleront au chaud dans des bureaux,
+Un jour les autistes rapperont en dénonçant les problèmes sociaux,
+Un jour les patrons privilégieront l&#039;éthique à l&#039;économique,
+Un jour les artistes bosseront à la place des politiques.
+Un jour, ils le feront.
+ 
+Peut importe si c&#039;est communiste Trotskiste ou république gérer par le web,
+Tout ce qui nous importe c&#039;est de sortir de la capitali-plèbe,
+Sortir des politiques enchaîner par les lois du marchés,
+Qui ont perdus leurs bourses à force d&#039;y jouer,
+Amenant des conflits dangereusement capillotractés,
+Mettant en jeu la sécurité,l&#039;économie et l&#039;écologie de l&#039;état,
+Car on ne dicte pas des lois à une multi-nationale qui s&#039;invite chez toi,
+Piquant le blé des travailleurs et home sweet home in America,
+Une fois chez eux c&#039;est partit pour revendre du Made In China.
+C&#039;est comme ça que l&#039;économie se passe ici bas.
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

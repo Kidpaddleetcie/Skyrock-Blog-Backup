@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Essai]Posséder par un autiste.  - Commentaires</title>
+  <description>
+En panne d&#039;inspiration,
+En manque d&#039;interaction,
+C&#039;est la mort d&#039;un artiste,
+D&#039;être possédé par un autiste.
+ 
+Les politiciens sourient très forts,
+À s&#039;en péter les articulations,
+Car enfermer dans des châteaux-forts,
+Ils n&#039;entendent rien des manifestations.
+ 
+La religion est maltraitée,
+Car elle sert de marchepied,
+Pour des victimes des tirs américains,
+Qui se vengent dans des pays européens,
+Parce qu&#039;ils sont OTAN coupables,
+À financer la prise du pétrole non-durable,
+Au lieu de prendre leur indépendance avec de l&#039;huile recyclable.
+ 
+Ainsi tourne, tourne, tourne cette planète d&#039;abrutis,
+À s&#039;en taper le front parce qu&#039;il y a des partis néo-nazis.
+ 
+Ainsi brasse, brasse, brasse ces connards de politiques,
+Qui n&#039;ont aucun mal à tourner les phrases pour que leurs idées restent dans l&#039;éthique.
+
+
+ 
+J&#039;ai essayé de raccourcir le texte et en faire un son mais ce n&#039;est pas vraiment ce que j&#039;attendais comme rendu:
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3279441136_comment_1.html#c-19856741838" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3279441136_comment_1.html#c-19856415318" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3279441136_comment_1.html#c-19856741838">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3279441136_comment_1.html#c-19856741838</link>
+		<dc:date>2016-07-16T11:34:25+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;est vrai que je fais souvent la faute, merci de me le faire remarquer!</description>
+		<content:encoded><![CDATA[
+			C&#039;est vrai que je fais souvent la faute, merci de me le faire remarquer!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3279441136_comment_1.html#c-19856415318">
+		<title>Commentaire de ProfDeFranais</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3279441136_comment_1.html#c-19856415318</link>
+		<dc:date>2016-07-15T18:45:47+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>ProfDeFranais</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Attention aux &quot;er&quot; qui devraient être des &quot;é&quot;</description>
+		<content:encoded><![CDATA[
+			Attention aux &quot;er&quot; qui devraient être des &quot;é&quot;
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

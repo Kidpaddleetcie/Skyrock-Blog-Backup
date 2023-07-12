@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ListeInspirante]Les sites à consulter avec sa NewNintendo3DS! - Commentaires</title>
+  <description>
+Comme vous l&#039;aurez devinez en lisant le titre de l&#039;article, les sites de cette nouvelle liste inspirante sont uniquement consultable pour une qualité optimum par une New3DS!
+ 
+http://jsa.x10host.com/n3ds/ par exemple, nous montre qu&#039;on peut récupérer les keydowns pour faire des jeux sur navigateurs se jouant avec le pad circulaire, les boutons A Y X, le stick C et l&#039;écran tactile! N&#039;oubliez pas de le visionner dans un nouvel onglet (new tab) quand vous serez sur votre New3DS!
+ 
+http://froxot.de/ nous montre les jeux qu&#039;on peut faire en javascript sur New3DS! Il y en a déjà 41 et ce sont tous des jeux classiques allant du Domino jusqu&#039;à Tetris en passant par le Sudoku et le Memory!
+ 
+http://3dspaint.com/ le dernier que j&#039;ai trouvé et qui est hyper-aboutit même si il y a quelques bugs à corrigés notamment dans l&#039;outil de painting parce qu&#039;il semblerait que le OnKeyUp ne soit pas pris en compte et qu&#039;on ne peut faire que des dessins en un seul tracé!
+ 
+Voila, peut-être que d&#039;autres personnes vont s&#039;amuser à améliorer ces codes et en faire des jeux intégralement jouable sur New3DS dans le browser! Cela donnerait une raison de plus pour en acheter une!
+ 
+KidpaddleetcieGlin
+------------------------------------------------------------------------------------------------------------------------------------------------------
+J&#039;avais à peine terminé cet article que j&#039;avais refais des recherches et que j&#039;ai trouvé ça:
+
+Voila le site: https://labrat.mobi/ 
+12 jeux très beaux et fonctionnels...d&#039;après la vidéo puisque quand on tapote sur le lien, on se mange un &quot;Code d&#039;erreur: 032-1035&quot; parce que le site est en &quot;.mobi&quot; et donc il est crypté!
+
+Vous voyez, quand je dis que les jeux sur le NewNintendo3DSBrowser peuvent être aboutit...si Nintendo ne s&#039;en mêle pas avec ses mises à jour qui empêche le navigateur Web d&#039;être à fond opérationnel sur l&#039;ensemble des sites!  
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+J&#039;ai trouvé des jeux compatibles mais pas fait à la base pour la New3DS:
+Drop: http://impactjs.com/drop/
+Il prend en compte les touches gauche et droite et le bouton A qui sert à reset le jeu!
+C&#039;est un petit jeu où on doit rester sur les plateformes sans sortir de l&#039;écran!
+
+Helicopter: http://funhtml5games.com/?play=helicoptergame
+Il prend en compte la touche A et l&#039;écran tactile pour remonter l&#039;hélicoptère! C&#039;est un petit jeu bien rageant où on doit éviter les obstacles!
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Les Ploucs]Le documentaire (Par Boredguy) - Commentaires</title>
+  <description>Documentaire animalier :
+ 
+*voix de Stéphane Bern* bonsoir et bienvenue dans cette nouvelle émission, ici, nous allons observer les ploucs
+ 
+Le poke : le poke (virginitus PLSestius) est connus pour être l&#039;animal dont la survie est la plus incroyable, en effet, celui si meurs comme une merde après avoir perdu sa virginité !
+ 
+Le glin : le glin (clochardus gogolis) vit en symbiose avec son carton (adamantis cellulosus) qui le protège de tout prédateur.
+ 
+La fanyoshi : la fanyoshi (feignassus gueule-tout-le-tempsus) est un petit animal omnivore, une proie facile qui a tendance à dépendre de son prédateur naturel (le doc).
+ 
+Le doc : le doc (italianus pederastus) est l&#039;un des 2 supers prédateurs de cet écosystème, il s&#039;agit d&#039;un animal relativement trapu qui migre vers ses proies (enfants, prostituées, fanyoshi, animaux morts etc) tout en fuyant le bored, autre prédateur qui ne mange pas le doc mais le chasse quand même de par son batardisme envers les docs.
+ 
+Le yunko : le yunko (bob-marlus nique-sa-soeurus) est un ori (bande-de-branleurus-selon-boredus vulpus) dont la particularité est qu&#039;il se nourrit de yuki (trou-du-cus elargiqus) et consomme d&#039;énorme quantité de plantes hallucinogène telle que le jmemmejuana (boredus quatre-cent-vingttus) connu pour donner des hallucinations incroyables.
+ 
+Le bored :  le bored se divise en diverses espèces :
+ 
+Végétale : des arbres tel que le palmemmerde (blazeticus tropicanus) le pin las (coniferus batardus) et d&#039;autres arbres plus grands tel que le matemontronc (braguettus froidus)
+ 
+Animal : s&#039;il existe des boreds plante, il existe aussi des bored différents : Le las (raffinus s&#039;emmerdum) se nourri de végétaux et est couramment chassé par le yunko qui lui dérobe son herbe afin de la fumer.
+
+
+Le Bored (cravatus flasquitus) n&#039;aillant que le confus pour prédateur mais fuyant par agacement face aux luigis (casse-verrus moustachus).
+
+
+Le Confus : (celibatus perdurum) lui, est un super prédateur rapide, intelligent et agressif mais facilement embrouillé se nourrissant principalement de gitans et amassant tout objet brillant.
+ 
+Toutes ces espèces ont bien sur des comportements liés à la reproduction :
+ 
+Les docs peuvent se reproduire avec les luigis mais préfèrent migrer vers les fans, un doc trop faible se laissera mourir pour ne plus avoir à supporter les hurlements du fan dont il doit s&#039;occuper
+ 
+Le yunko se reproduit majoritairement avec des yukis, connues pour se reproduire avec n&#039;importe quoi
+ 
+Le poke meurs après s&#039;être reproduit et n&#039;a jamais été vu dans l&#039;acte.
+ 
+Le glin ne se reproduit pas et c&#039;est tant mieux.
+ 
+
+le bored se divisant en plusieurs espèces a un comportement variable :
+
+
+le las : chassant les filles de fermiers sans trop de succès se reproduit avec des femelles de son espèce,
+le bored est une espèce particulière,les femelles bored sont en effet plus grande, plus forte et plus agressive et violent bien souvent leurs males,
+
+
+le confus quant à lui est très particulier : chasseur solitaire de grande taille,
+le confus ne cherche pas tellement à se reproduire mais plutôt a s&#039;occuper d&#039;un être du sexe opposé ou de jean-phillipes (esperus decorationmurum) (en faisant, avec le doc l&#039;un des meilleurs pères et plus grands prédateurs du règne animal) mais cela n&#039;est pas simple ! Le confus était connus pour se reproduire avec des agnes (illetratus narcolepsys) espèce éteinte à cause de sa tendance à s&#039;endormir n&#039;importe où (les fans devant leur survie aux docs, elle disparaitrait si les docs s&#039;éteignaient) et en de TRÈS RARES occasions, des perdues (crioviol solitarus) qu&#039;il évite à cause de leur tendance à hurler presque autant que les fans mais en griffant en prime.
+Le bored est donc un animal qui sera vite proche de l&#039;extinction s&#039;il ne trouve pas une alternative.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

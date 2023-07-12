@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ TextePourUneVidéo ] Le Cri d&#039;alarme de Jean-Pierre Coffe avec d&#039;autres répliques - Commentaires</title>
+  <description>
+ 
+[ Intro ]
+
+- Qui peut prendre le temps de faire de la confiture ?
+ 
+- Voyons, j&#039;aimerais ne pas vous être désagréable mais [...]
+ 
+- Osez, c&#039;est le principe de l&#039;émission
+ 
+- En effet mais la contrainte du temps n&#039;est pas à prendre compte !
+Le temps, on l&#039;emploit pour les activités aucquelles nous désirons y mettre la volonté. La confection de confiture ou le visionnement de votre émission peuvent être effectué simultanément.
+ 
+Voyez-vous, la contrainte du temps c&#039;est... hem... un exemple vaut mieux qu&#039;un long discours :
+ 
+Un jeune damoiseau éloigné de sa majorité de 3 ans, il n&#039;est pas encore capable d&#039;être confronté au marché du travail, il doit encore se former et se construire socialement. Dans un registre alimentaire, le jeune bœuf de 2 ans n&#039;est pas agréable en bouche car le goût est beaucoup plus tendre quand le bœuf a atteint ses 4 années d&#039;existence.
+Nous n&#039;avons pas pris en compte la contrainte temporelle alors que, personnellement, j&#039;estime qu&#039;un couple présent le samedi matin à leur logis peuvent se rendre au marché accompagné de leurs progénitures...
+ 
+D&#039;ailleurs, n&#039;êtes-vous pas affligé quand à la question &quot;D&#039;où vient le chocolat ?&quot; un futur adolescent vous rétorque &quot;D&#039;une tablette de chocolat !&quot; ? Cela m&#039;hérisse les poils d&#039;entendre de pareils manque de bon sens, sortez de ce plateau de télévision pour vous rendre dans les écoles ou autres institutions où on peut voir être en contact des jeunes héritiers, vous allez vous rendre compte que l&#039;institution scolaire est lamentable dans son rôle de partager et fructifier du savoir. L&#039;exemple de la tablette de chocolat en est une preuve qui me chagrine !
+ 
+- Qui sont les coupables ?
+
+- Au différents gouvernements et &quot;ministères de l&#039;éducation nationale et de la jeunesse&quot; ayant changés les programmes en omettant la transmission de connaissances autour de l&#039;alimentation. À mon époque, dans les années 40 et 50, on étudiait l&#039;histoire, la géographie et les sciences en partant d&#039;une fraise.
+ 
+- Et donc l&#039;apprentissage ne s&#039;effectue plus à l&#039;école mais les enfants s&#039;instruisent par la télévision [...]
+ 
+- Et les parents !
+ 
+- Et l&#039;information est divulgée par la télévision. Je tiens à mettre en avant que vous avez présenté une émission de radio culinaire sur les ondes de France Inter qui se nommait &quot;Ça se bouffe pas, ça se mange&quot;, il y a très longtemps !
+ 
+- Depuis mille-neuf-cent quatre-vingt-dix-huit !
+ 
+- Depuis mille-neuf-cent quatre-vingt-dix-huit, merci, est-ce que vous désirez devenir un animateur télévisuel pour une émission du genre afin d&#039;atteindre un public beaucoup plus juvénile que le public de France Inter ?
+ 
+- Monsieur, j&#039;ai animé une émission à la télévision nommée &quot;Comment c&#039;est fait&quot; sur France 3 en mille-neuf-cent quatre-vingt-douze où je présentais les secrets de fabrications des produits du terroir aux enfants. Lors d&#039;une émission, ces jeunes ont pût admirer la mer pour la première fois de leurs vies car, contrairement à nous qui sommes privilégiés de part nos libertés de mouvements, ils n&#039;avaient connus qu&#039;un système scolaire lamentable et les colonies de vacances animées par les mêmes acteurs du système scolaire.
+
+C&#039;est la base d&#039;une idiocratie.
+ 
+De mon coté j&#039;ai pût faire voyager un petit groupe de jeune et admirer à Guérande l&#039;extraction d&#039;un tas de sel par un saunier à l&#039;aide de son simoussi. Les enfants furent impressionnés à la vue de cette génération de gros sel qu&#039;ils en sont venus à être assez curieux pour en porter à leurs bouches. Après la dégustation, j&#039;ai pût leur exposé les étapes de la fabrication du sel, ce fût une journée inoubliable.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

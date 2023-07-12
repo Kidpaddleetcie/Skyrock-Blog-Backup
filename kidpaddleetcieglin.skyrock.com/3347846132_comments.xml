@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Droit ] Les régimes matrimoniaux - Régime légal - Commentaires</title>
+  <description>
+
+Image provenant de  https://www.notaire.be/famille/le-mariage/le-contrat-de-mariage 
+
+Régime légal : S&#039;il n&#039;y a pas de contrat de mariage signé par les époux.
+ 
+Le régime légal (mariage) est imposé à défaut d&#039;autre chose. (Chacun garde son patrimoine d&#039;avant le mariage).
+ 
+Le domicile est la propriété des deux personnes.
+ 
+Patrimoine partagé entre le propre de l&#039;homme, le propre de la femme et le commun des époux.
+ 
+Le propre du époux
+ Passif 
+-          Les dettes antérieures au mariage
+-          Les dettes résultantes à une condamnation pénale
+ 
+ Actif 
+-          Ensemble de ses biens et ses créances au jour du mariage
+-          Les biens et les créances acquis pendant le mariage pour donation ou par succession
+-          Ses effets personnels
+-          Droits à la réparation d&#039;un préjudice personnel
+-          Droits de propriété artistique, littéraire intellectuelle ou industrielle
+-          Les pensions et les rentes dont il est le seul titulaires
+ 
+ 
+La gestion se fait par chaque époux indépendamment de l&#039;autre.
+ 
+Le commun des époux
+ Passif 
+-          Dettes conjointement contractées
+-          Les dettes familiales (par intérêts)
+-          Les dettes du patrimoine commun (par intérêts)
+ 
+ Actif 
+-          Tous les biens sont communs sauf le propre des époux
+-          Les revenus de l&#039;activité professionnelle
+ 
+Chaque époux peut gérer le patrimoine commun à condition de respecter les actes de gestion accomplit par son conjoint.
+ 
+ 
+Le consentement des époux est nécessaire pour
+-          Achat de bien immobilier
+-          Achat fonds de commerce
+-          Conclusion d&#039;un bail
+ 
+ 
+
+La fin d&#039;un mariage sans contrat
+Seul le divorce et le décès mettent fin à la communauté légale.
+ 
+On peut aussi adopter un autre régime matrimonial.
+ 
+La dissolution engendre une liquidation de la communauté légale et un partage de l&#039;actif après paiement des dettes.
+ 
+Sources:   https://www.notaire.be/famille/le-mariage/le-contrat-de-mariage   https://www.contrat-mariage.be/regime-legal.html   https://www.vivreenbelgique.be/sejour-en-belgique/le-mariage-et-la-cohabitation-legale </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

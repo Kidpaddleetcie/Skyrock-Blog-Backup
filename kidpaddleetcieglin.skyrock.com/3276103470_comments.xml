@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Français]Analyser une pièce de théâtre ! - Commentaires</title>
+  <description>Il y a 5 couches à une pièce de théâtre:
+-L&#039;énonciation (en gros,la communication),
+-La narration,
+-L&#039;espace,
+-Le temps,
+-Les personnages.
+ 
+1) L&#039;énonciation (la communication)
+
+On parle de triple énonciation car il y a trois manières de communiquer une pièce de théâtre:
+ 
+Acteur 1-&gt;Représentation-&gt; Acteur 2 = Premier niveau d&#039;énonciation
+ 
+Acteur 1-&gt; fable-&gt; Acteur 2 = Deuxième niveau d&#039;énonciation
+ 
+Acteur 1 -&gt; Phénomène social « Théâtrale » -&gt; Public= Troisième niveau d&#039;énonciation
+ 
+Une représentation c&#039;est une série d&#039;action qui compose une histoire.
+ 
+Une fable c&#039;est une narration.
+ 
+Un phénomène social &quot;théâtrale&quot; c&#039;est quand un sujet de société est représenté de manière théâtrale (et donc en forçant sur la caricature et vulgarisant les explications).
+ 
+ 
+Les paroles énoncées au théâtre tissent de façons varier des liens entre spectacles et spectateurs, personnages et spectateurs disposant celui-ci à la complicité, à la lucidité à l&#039;identification ou à la distance. La parole au théâtre cherche tantôt à informer, à désinformer, à orienter, à désorienter ou à renvoyer à soi-même.
+ 
+2)La narration (fable).
+ 
+Ce qui est vraiment caractéristique du théâtre est que la fable est incomplète car, contrairement au conte, elle ne se créé que par le dialogue.
+ 
+Histoire (fable)&gt; Histoire centrée (unitaire) &gt; Quête (issu) déséquilibre, problème &gt;Équilibre-Solution 
+ 
+Histoire (fable)&gt; Histoire éclaté (plurielle)&gt;plusieurs péripéties (différentes petites histoires) [Tranche de vie]
+
+
+Il y a 4 formes de variables de narration
+
+
+a) Monologue/Dialogue
+
+
+b) Scénario réaliste/Irréaliste
+
+
+c) Pièce machine/Pièce-paysage
+ 
+
+d) Fable continue/Discontinue
+
+
+Garder à l&#039;esprit que:
+Le principe du théâtre c&#039;est de raconter une histoire soit narrative (Drame Romantique) soit, principalement à partir du 20ème siècle où l&#039;histoire n&#039;est pas vraiment présente, se voulant absurde, (Pièce Paysage) pour autant que ces pièces soient quand même réalistes que les histoires dramatiques.
+ 
+3) L&#039;espace
+ 
+Il y a 4 variables:
+ 
+a) Représenté ou non,
+ 
+b) Clos ou ouvert,
+ 
+c) Décoratif ou significatif,
+ 
+d) Unique ou multiple,
+
+
+4) Le temps
+ 
+Il y a deux notions de temps en théâtre:
+ 
+Le temps de la représentation (par exemple : 2 heures)
+Le temps de la fable (par exemple : 4 jours)
+ 
+Au 17ème siècle la &quot;Tragédie classique&quot; a tenté de coïncider les deux temps.
+ 
+Il y a 4 variables:
+ 
+a)Figé ou évolutif,
+ 
+b)Le temps de la fable correspond au temps de la représentation,
+ 
+c)Réaliste ou irréaliste,
+ 
+d)Défini ou indéfini.
+ 
+5)Les personnages
+ 
+Le personnage se définit autour de/par 3 fonctions:
+ 
+1. D&#039;après ses répliques,
+ 
+2. D&#039;après ses actions -&gt; l&#039;actualisation de l&#039;acteur (schéma actanciel),
+ 
+3.La relation entre les personnages liés ou pas par des rapports de pouvoir ou de passion.
+ 
+On peut étudier l&#039;évolution de ces configurations:
+ 
+-Le personnage de la pièce de théâtre peut être rébarbatif d&#039;une classe sociale,
+ 
+-Le statut du personnage va évoluer durant la pièce
+(le statut est très consistant dans le théâtre classique),le personnage contemporain perd de la consistance, il vit parce qu&#039;il fait et pas parce qu&#039;il est,
+ 
+-La mise en scène intervient sur l&#039;organisation des personnages.
+ 
+ Voila, c&#039;est tout ce qui faut préciser pour une bonne analyse de pièce de théâtre. </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

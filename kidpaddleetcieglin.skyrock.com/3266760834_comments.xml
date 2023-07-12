@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Les sentiments de Glin-Les retournées de la folie]L&#039;origine d&#039;Aglina! - Commentaires</title>
+  <description>Depuis 1 an et demi scolaire,je tourne autour d&#039;une fille très gentille!
+ 
+Pour une raison d&#039;anonymat et de respect,je la nommerais pas mais sachez que j&#039;ai écris ceci:
+ 
+Techniquement, malgré mon dégoût pour l&#8217;amour que j&#8217;attachais à [Prénom de la fille que j&#039;aime], j&#8217;ai réussi à créer Aglina, la petite amie secrète de Glin (qui est tellement secrète que Glin ne sait même pas qu&#8217;elle est amoureuse de lui, c&#8217;est la blague).
+ 
+Contrairement à [Prénom de la fille que j&#039;aime], elle est plus dynamique par son comportement (comme FanYoshiBleu) et aime parler aux bêtes (Lapin, chats, Glin, chevaux,&#8230;).
+ 
+Ce que je reprends surtout de [Prénom de la fille que j&#039;aime], c&#8217;est sa beauté (cheveux longs, lisses et doux, un rien de maquillage, une faible poitrine et les yeux souvent clos) ainsi que son intelligence basée sur l&#8217;acquis plutôt que l&#8217;inné (elle tire ses informations de la bouche ou des écrits des autres, pas de ses pressentis et de sa logique).
+
+
+Je tiens à dire que je fais ce genre d&#039;écris assez souvent sous l&#039;effet de la frustration de l&#039;attachement envers cette fille!
+ 
+Tiens,je vais un peu exposer, mais pas trop, ma vie privée de ce coté:
+En gros,je suis amoureux d&#039;une fille mais elle ne ressent rien pour moi.
+ 
+Imaginez la frustration d&#039;être prêt à tout pour quelqu&#039;un qu&#039;on ne connait pas et qui apporte à notre existence que sa présence physique mais seulement quand c&#039;est nécessaire!
+ 
+Pendant un an civil (Novembre 2014 à Novembre 2015),je lui ai offert des petits cadeaux et envoyé des lettres pour me révéler mais rien de tout ça m&#039;a permis de conquérir la fille que j&#039;aime!
+ 
+Tant d&#039;effort pour que dalle,elle ne ressent VRAIMENT rien pour moi :/
+ 
+J&#039;ai tenté d&#039;être plus &quot;proche&quot; d&#039;elle mais c&#039;est comme la cigarette,ça ruine la santé:
+ 
+-Tentative d&#039;une petit bisou sur la joue pour souhaiter de bonnes vacances d&#039;été
+ &gt;&gt;&gt; Gifle.
+ 
+-Sourires et cadeaux hebdomadaires
+&gt;&gt;&gt; Lettre pour me faire savoir qu&#039;elle ne m&#039;aime pas de la part d&#039;elle.
+ 
+-Montages photos envoyé sur Facebook de manière privée
+&gt;&gt;&gt; Porte plainte à ses parents,le directeur de notre collège et de mes parents.
+ 
+Voila,c&#039;est très compliqué l&#039;amour uni-latérale surtout que je me renseigne sur ce que je ressens mais...je suis censé être dépressif d&#039;après Wikipédia: https://fr.wikipedia.org/wiki/Amour_non_partag%C3%A9
+ 
+Ben...un peu que je suis dépressif parce que j&#039;ai encore internet pour compenser à mes emmerdes quotidiennes! Je mettrais donc mon niveau de caractère sur l&#039;indication &quot;frustré&quot;.
+ 
+Je suis juste frustré parce que mes sentiments envers une jeune inconnue ont pût me faire produire...J&#039;ai vraiment aucun self-control !
+ 
+Mais bon,c&#039;est la vie et cette fille ne sera peut-être la dernière a être choisi par ma pompe cardiaque :)
+ 
+Merci d&#039;avoir lu!
+Kidpaddleetcie Glin  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

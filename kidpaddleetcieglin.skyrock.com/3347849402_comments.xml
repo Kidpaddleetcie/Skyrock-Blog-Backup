@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Droit ] Le droit du bail - Commentaires</title>
+  <description>
+Image provenant de  https://www.news.uliege.be/cms/c_11056048/en/la-reforme-du-bail-en-region-wallonne  
+ 
+ 
+(Un bail, des baux)
+ 
+Il existe 3 types de baux :
+-          Bail de résidence (location bâtiment)
+-          Bail de commerce (location bâtiment pour le commerce)
+-          Bail à ferme (Location bâtiment + poules + ...)
+ 
+Le bail doit être écrit autant de fois qu&#039;il y a de concerné.
+ 
+Si le bail est oral, il ne peut être indexé chaque année et il peut durer maximum jusqu&#039;à 9 ans.
+ 
+Pour un bail écrit :
+Il faut l&#039;enregistrer (officier de l&#039;enregistrement)Certifier la dateRendre opposable aux tiers 
+Tiers : Tout parti juridique qui n&#039;est ni le propriétaire ou locataire.
+ 
+C&#039;est le propriétaire qui enregistre le bail dans les 4 mois après la rédaction.
+ 
+On ne peut louer/faire louer un bâtiment insoluble.
+ 
+Un bien doit être rendu tel quel il a été reçu.
+ 
+Après 3 ou 6 ans, le locataire peut, sans payer une indemnité de rupture, mettre fin au contrat de bail. (Dans un bail de 9 ans)
+ 
+La fixation du loyer est libre. Il ne peut être modifié en plein milieu du bail.
+=&gt; On peut modifier le bail (son loyer) si on ajoute de la valeur réelle au bâtiment, à la structure.
+ 
+Un propriétaire ne peut virer un locataire. Il doit faire appel au juge de Paix.
+ 
+Le précompte immobilier est à charge du propriétaire
+ 
+Bail de commerce : Minimum 9 ans
+ 
+-          On loue un commerce pour en faire un commerce.
+-          &quot;La valeur de l&#039;immeuble + la valeur commerciale de l&#039;immeuble&quot; donne le loyer du commerce.
+ 
+ 
+Bail à ferme : Minimum 9 ans
+ 
+-          On loue une exploitation agricole
+-          Seul la perte, l&#039;arrangement ou le congé peut mettre un terme au bail
+=&gt;  L&#039;administration publique fait de l&#039;expropriation &amp; du remaniement de terrain en plus.
+ 
+ 
+ 
+Sources et infos supplémentaires 
+ https://www.larousse.fr/dictionnaires/francais/bail/7515#:~:text=Convention%20par%20laquelle%20le%20possesseur,contrat%20qui%20constate%20le%20bail. 
+ https://www.notaire.be/immobilier/louer/regles-communes-a-tous-les-baux 
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

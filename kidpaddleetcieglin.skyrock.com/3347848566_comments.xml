@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Droit ] Le droit des obligations - Commentaires</title>
+  <description>
+
+
+
+
+Obligations : Concerne autant ce qu&#039;on doit faire, donner et ne pas faire.
+ 
+Sources d&#039;obligations :
+ 
+1. Contrat ( Principal )
+
+2. Quasi-contrat
+ 
+3. Gestion d&#039;affaire
+ 
+4. Paiement de l&#039;indu
+ 
+5. Enrichissement sans cause (Principal)
+
+6. Le délit (Principal)
+
+7. Le quasi-délit (Principal)
+
+8. La loi (Principal)
+
+
+
+Terme : Moment où l&#039;obligation arrive, s&#039;exécute.
+
+ 
+
+Condition : Événement futur et incertain qui suspend l&#039;obligation.
+
+ 
+
+Obligation conjointe : Obligation qui se divise entre plusieurs créanciers
+
+ 
+
+Obligation solidaire : Obligation à plusieurs, c&#039;est l&#039;autre qui prend le relais si l&#039;un est absent
+
+ 
+
+Obligation indivisible : Obligation qui ne peut être exécuté séparément
+
+ 
+
+La justice peut forcer une obligation (engagement) via une mise en demeure et un huissier.
+Si ça ne peut être exécuté en nature, on doit payer des dommages et intérêts (ARGENT).
+
+ 
+
+ Les fins d&#039;obligation
+
+1. Paiement
+
+2. Novation (Remplacement)
+
+3. Compensation (Totale ou partielle)
+
+4. Confusion
+
+5. La remise de dette (renoncement)
+
+Sources et compléments d&#039;informations :
+https://cours-de-droit.net/les-sources-des-obligations-a121605036/
+
+
+https://www.cabinetaci.com/la-notion-dobligation-definition/#:~:text=La%20source%20d&#039;une%20obligation,produire%20des%20effets%20de%20droit.
+
+
+https://fr.wikipedia.org/wiki/Droit_des_obligations_en_Belgique </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

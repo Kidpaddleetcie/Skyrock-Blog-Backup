@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Liste inspirante ] 3 façons d&#039;améliorer le STREAMING D&#039;ANIME - Ermite Moderne - Commentaires</title>
+  <description>De temps en temps, je regarde les vidéos de l&#039;Ermite Moderne ( un chroniqueur qui parle généralement de manga, anime et culture nippone ).
+ 
+Aujourd&#039;hui, en regardant sa vidéo &quot; 3 façons d&#039;améliorer le STREAMING D&#039;ANIME - Ermite Moderne &quot;, je me suis fais une réflexion :
+Pourquoi mettre ce qu&#039;il met en avant en vidéo alors qu&#039;un texte serait bien plus simple pour s&#039;y retrouver si on veut vraiment mettre ces fonctionnalités en avant ?
+
+
+
+
+
+J&#039;ai donc décider de vous lister tout ce que l&#039;Ermite Moderne met en avant dans cette vidéo afin de mieux s&#039;y retrouver si on développe tout ça ! ( Comme une checklist )
+
+
+Voici le sommaire de la vidéo d&#039;ailleurs :
+0:00 Introduction
+1:18 Sponso
+3:02 Plus d&#039;options de sous-titres
+5:09 Plus d&#039;options pour le lecteur vidéo
+7:28 Plus de contenu &quot;rétro&quot;
+10:28 Outro
+11:28 Générique
+
+
+
+
+La liste
+Nous avons donc à faire dans le domaine des sous-titres et du lecteur vidéo ( vu que le contenu &quot;rétro&quot; n&#039;est pas de l&#039;ordre technique mais juridique vu que c&#039;est dépendant des droits de diffusion ).
+
+
+Sous-titres:
+- Sous-titres spéciaux pour les openings et endings d&#039;animé :
+Pouvoir les paroles originales, les françaises ou mettre les crédits des auteurs.
+
+
+- Changer la taille des sous-titres, la couleur , la police de caractère , créer un arrière-plan pour mieux faire ressortir les caractères, modifier l&#039;opacité,...
+
+
+Note2Glin : On pourrait totalement faire ça avec le lecteur vidéo de l&#039;HTML5 et un peu de javascript. https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video
+
+
+- Les sous-titres pour malentendants : L&#039;audiodescription
+
+
+ 
+Lecteur vidéo:
+
+
+- Donner des infos lorsqu&#039;on met sur pause ( les acteurs présents de l&#039;épisode, les films où ils ont joués , quel est la musique qui passe à l&#039;instant de la pause , les doubleurs , les artistes qui ont dessiné la frame de la pause, ... )
+
+
+Note2Glin : J&#039;ai peur que ça fasse &quot;pop-up&quot; à chaque fois qu&#039;on met sur pause. Il faudrait que la vidéo rapetisse pour se ranger en haut et mettre des sections d&#039;information à dérouler avec des liens vers Wikipédia ou des sites officiels quand on parle d&#039;entreprise.
+
+
+
+
+Voila, c&#039;est tout ce que propose l&#039;Ermite Moderne comme fonctionnalité à mettre dans les lecteurs vidéos ( et sous-titres ) de Streaming en deux minutes !
+KidpaddleetcieGlin
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

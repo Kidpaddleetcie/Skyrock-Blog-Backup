@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Avis2Glin]Mansplaining! - Commentaires</title>
+  <description>
+S&#039;il y a bien un truc qu&#039;on peut remarquer depuis 5/6 ans maintenant, c&#039;est que la femme s&#039;émancipe de plus en plus devenant ainsi moins timide face aux hommes dominant la société sur les plans politiques,artistiques et économiques.
+ 
+Malheureusement, certains individus utilisent à mauvais escient certains mots sortit de la bouche des féministes anglophones et s&#039;en servent comme casse-débat et créent un mal-être pour les plus sociable et cultivé d&#039;entre-nous.
+ 
+Un des mots les plus utilisé est &quot;Mansplaining&quot;, contraction de &quot;Man&quot; et d&#039; &quot;Explain&quot; qu&#039;on pourrait traduire par &quot;Explication d&#039;homme&quot;  dans le sens d&#039;une correction provenant d&#039;un homme à une femme.
+ 
+À la base,c&#039;était censé dénoncé le fait que la femme était souvent infantilisé en la mettant au second plan et en la dominant par un procédé de &quot;maître-élève&quot;. Ce rabaissement étant hyper-courant dans certaines familles et dans plein d&#039;œuvres de fiction créant un imaginaire découlant de ces animés et autre comics en passant par les films apportant des exemples à ne pas être et pourtant imités...
+ 
+Combien de &quot;ta gueule&quot; se ramasse une femme suivit d&#039;un &quot;c&#039;est moi qui parle&quot;? Aucune statistique sérieuse peut vraiment mettre en avant des chiffres mais probablement que vos mères et sœurs (et aussi vous) s&#039;est fait enchaîner par cette mise à l&#039;écart de discussion.
+ 
+Je ne suis pas vraiment féministe mais je respecte l&#039;initiative de permettre à tout le monde de participer à un débat sans qu&#039;une de ces techniques d&#039;anti-débats soit utilisé:
+-Le &quot;ta gueule&quot; suivit de refus de discuter;
+-Le sophisme avec les nazis, les terroristes,Alain Soral,l&#039;extrême-droite,...;
+-L&#039;utilisation d&#039;accusation d&#039;origine féministe de manière dérivé;
+-L&#039;utilisation de son sexe ou de son genre pour se conduire en victime;
+-L&#039;utilisation de l&#039;humour de type cynique afin de perturber un débat autour de sujet dangereux.
+ 
+Pour rappel, les sujets dangereux sont: La politique,le sexe, la religion et la culture nationale.
+ 
+Voila,j&#039;espère que vous utiliserez &quot;mansplaining&quot; à bonne escient sans dégrader la cause féministe en lui donnant une image de communauté contre la liberté d&#039;expression qui divise plus qu&#039;elle rassemble!
+ 
+KidpaddleetcieGlin
+   </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

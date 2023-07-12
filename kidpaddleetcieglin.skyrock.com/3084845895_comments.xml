@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> YouTube:plus de FanArt,plus de démocratie,nous allons tout supprimé! - Commentaires</title>
+  <description>Lundi 19 avril, le site TechCrunch révélait que la plus célèbre des sources de parodies en ligne, l&#8217;accès de rage d&#8217;Adolf Hitler dans La Chute d&#8217;Oliver Hirschbiegel, faisait l&#8217;objet d&#8217;une demande de retrait systématique de la part du distributeur Constantin Film. Dès le lendemain, cette information se voyait à son tour détournée et moquée sur la partition de l&#8217;offensive Steiner. On aurait pu apprécier la réactivité du web et sa réjouissante capacité à transformer l&#8217;arroseur en arrosé. Mais il n&#8217;a fallu que quelques heures aux robots de YouTube pour bloquer l&#8217;accès à ces pastiches.
+ 
+Mise en parallèle avec d&#8217;autres symptômes, comme l&#8217;effacement des bandes-son des vidéos exigé par Warner Music Group dès qu&#8217;un extrait copyrighté y est détecté, la disparition programmée des parodies de La Chuteconstitue un signal inquiétant, symbole d&#8217;une inéluctable inversion de tendance.
+Créée en 2005 avec le slogan &#8220;Broadcast yourself&#8220;, YouTube devait devenir le paradis des vidéos amateurs &#8211; oeuvrettes familiales, productions avant-gardistes bricolées avec les moyens du bord, performances musicales et remixes en tous genres, auxquelles le film de Michel Gondry Soyez sympas, rembobinez (Be Kind, Rewind) offrait en 2008 la plus belle incarnation. Une alternative aux productions stéréotypées des industries culturelles qui paraissait si alléchante qu&#8217;elle était rachetée par Google pour 1,6 milliards de dollars.
+ 
+Mais le rêve d&#8217;un cinéma réalisé par des vidéastes de quartier a fait long feu. Aujourd&#8217;hui, sur YouTube, on trouve surtout les copies numériques d&#8217;archives et de programmes réédités en DVD, les dernières productions Universal et les clips de lady Gaga. Les remixes et les vidéos amateurs émigrent sur d&#8217;autres plates-formes, où ils seront moins exposés aux robots fouineurs, à la pression des ayants-droits et aux messages automatiques de retrait des contenus.
+Ce qui fut un temps la force de YouTube &#8211; être le premier carrefour d&#8217;audience de la vidéo en ligne &#8211; est désormais sa principale faiblesse. C&#8217;est parce que la plate-forme est le navire amiral du web qu&#8217;elle est devenue la cible de tous les distributeurs de culture au kilo. En 2005, on pouvait encore espérer que les législateurs emboîtent le pas des nouvelles formes de partage et adaptent les règles de la propriété intellectuelle à la &#8220;free culture&#8221; naissante. Il n&#8217;en a rien été. Loi après loi, accord après accord, les lobbies industriels ont patiemment rebouché les trous de la toile. Aux prises avec un &#8220;droit d&#8217;auteur&#8221; (qu&#8217;il serait plus juste d&#8217;appeler: &#8220;droit du distributeur&#8221;) plus puissant que jamais, YouTube n&#8217;a pas d&#8217;autre choix que se plier à la tyrannie du copyright.
+ 
+Entretemps, un concurrent nouveau est apparu, appuyé sur la dynamique du groupe d&#8217;amis. En proposant une adaptation en ligne de la copie privée, Facebook a réalisé le seul espace web compatible avec l&#8217;avidité industrielle. Dont les conditions sévères sont la fermeture et l&#8217;inexportabilité des contenus.
+ 
+Fin du rêve de la télé par tous. Il n&#8217;y aura pas d&#8217;espace de diffusion alternatif, puisque sa seule existence est déjà une menace. Depuis Susan Boyle, nous savons que YouTube a réintegré l&#8217;ample giron des mass médias. Sa normalisation se poursuit.
+ 
+Après une brève période de concentration et de visibilité, la vidéo amateur va à nouveau s&#8217;éparpiller et se dissimuler. Revenir à la discrétion qui est la condition de son acceptabilité par le marché. C&#8217;est alors qu&#8217;on regrettera l&#8217;ère du &#8220;broadcast yourself&#8220;, cette parenthèse utopique qui faisait de chacun de nous le rival potentiel de la Metro Goldwin Mayer. Avec la complicité d&#8217;un pouvoir politique sourd et aveugle, les distributeurs ont gagné. On ne rigole pas avec Hitler.
+ 
+
+ 
+ 
+8)Source:http://culturevisuelle.org/icones/5568) </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

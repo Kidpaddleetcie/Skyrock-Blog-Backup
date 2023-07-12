@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Histoire des Ploucs]Boredguy (sketch audio)  - Commentaires</title>
+  <description>
+ 
+l&#039;histoire de Boredguy: Il naquit dans un meuble, ce meuble n&#039;était autre que le meuble magyayk ! Un meuble fait du plus beau des bois, du plus solide ! Du plus brillant !
+En sortant du meuble, il rampa vers un autre meuble, et il ramassa le contenu d&#039;une garde robe.
+Il vagabonda durant des années, mais il finit par arriver devant...l&#039;académie d&#039;husbandisme !
+Ses études furent assez moyennes, il mit du temps à s&#039;habituer au concept.
+L&#039;académie d&#039;husbandisme était collée à une académie de médecine, les étudiants de l&#8217;académie de médecine suivaient des cours d&#039;husbandisme moins précis.
+Il fallut donc obtenir son diplôme !
+C&#039;est ainsi que :
+- Dites-moi monsieur ! Ai-je passé mes examens ?!
+La réponse du professeur fut claire :
+-*mets ses lunettes* .....Hut!
+-MERCI MONSIEUR ! MERCI ! (;u; )
+Ayant obtenu son diplôme d&#039;husbandisme, il quitta l&#039;académie.
+Il voyagea durant des années.
+Il du prendre l&#039;habitude de se battre pour survivre, mais après tant de victoires, il connu une défaite.
+-Écartes-toi donc vieillard !
+-*le fait trébucher* mmh, tu manques d&#039;entrainement...
+-Comment avez vous...d&#039;ou venait votre main ? Je....
+-Tu es né dans un meuble sacré n&#039;est ce pas ?
+-Mais comment ?!
+-Tu n&#039;en as pas conscience mais...lorsque tu te concentres sur un point, une porte s&#039;ouvre n&#039;est ce pas ?
+-Bah nan... *flash-back* &quot;Mmh j&#039;me demande si le frigo est plein chez les voisins...&quot; &quot;AAAH CHÉRIS ! YA UNE MAIN QUI SORT DU FRIGO !&quot; *fin du flash-back*
+...............ouaiiiiiiiiis , bon, où voulez vous en venir ?
+-Jeune homme, nous faisons tout les deux partie....de l&#039;antique race des meubliers !
+-C&#039;est complètement con...
+-Ta gueule !
+Après tout ce temps à s&#8217;entraîner au meublisme, l&#039;heure des adieux était arrivée !
+-Merci pour tout maître, j&#8217;espère que nous nous reve- 
+- CASSE-TOI D&#039;MA MONTAGNE ! LAISSE MOI CREVER BORDEL D8&lt;
+-Mais j&#039;me fais tellement chieeeeeeer !
+Bored vagabonda encore plus, jusqu&#8217;à rencontrer.......les Ploucs ! Il fut le 4ème plouc et finis par s&#039;installer dans un placard, lui même étant connecté a son bar.
+ 
+EN CONTENU AUDIO: https://soundcloud.com/kidpaddleetcie-glin/histoire-des-ploucsboredguy
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

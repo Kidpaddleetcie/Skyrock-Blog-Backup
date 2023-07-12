@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Anne Cassidy: L&#039;affaire Jennifer Jones - Commentaires</title>
+  <description>J&#039;ai du lire un roman pour le collège!!!
+ 
+Un livre qui te mets le passé après le présent et le future par la suite!
+ 
+C&#039;est un roman pour les adolescents (jeunes adultes) qui va vous conter l&#039;histoire d&#039;une criminelle qui a tué une petite fille de son age à l&#039;age de 10 ans! (Oui,on peut tuer à 10 ans)!
+ 
+Voici la couverture
+ 
+ 
+ 
+Le roman parleras surtout de la vie d&#039;après d&#039;une criminelle face aux journaux (les médias)!
+ 
+Mon avis:
+ 
+Ce roman est un calvaire temporelle,tout y est pour nous faire confondre le présent et le future (des flash-back,des chapitres sur l&#039;événement qu&#039;est le meurtre,...)!
+ 
+Ce roman m&#039;a fait surtout goûter aux joies de la gente féminine en terme de accompagnement social!
+ 
+On passe de plusieurs nom et prénom pour une seule personne (Jennifer Jones,la criminelle)!
+ 
+J&#039;ai bien aimé car le rythme est fluide mais le roman perd en éclat vers la fin où elle est obligé de fuir (encore une fois) les médias,ce qui créer une boucle!
+ 
+Je le conseille à tout ceux qui ont déjà eu affaire à ce genre de concept mais dans les séries télévisuelles!
+ 
+Voila!
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

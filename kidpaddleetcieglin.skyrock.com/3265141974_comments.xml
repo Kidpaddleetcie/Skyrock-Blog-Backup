@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Géographie]Les institutions européennes - Commentaires</title>
+  <description>En tout,il y a 5 institutions européennes:
+ 
+1)Le Conseil européen (géographique)
+
+Composé des chefs d&#039;État ou de gouvernement (donc les rois,les présidents ou encore les premiers ministres) ainsi que de la Commission Européenne et du président du Conseil européen.
+ 
+Définit les grandes lignes stratégiques pour l&#039;Union Européenne.
+ 
+Tout se passe à Bruxelles (consilium) depuis 2004.
+ 
+Site WEB: http://www.consilium.europa.eu/fr/home/
+ 
+2)La Commission européenne
+Composée d&#039;un commissaire par État membre désignés le gouvernement de leurs pays et acceptés par le Parlement européens pour cinq ans.
+ 
+Les commissaires sont là pour gérer chacun un &quot;portefeuille&quot; (éducation, aide au développement,environnement,...) tout en étant assisté par l&#039;administration européenne avec environ 23 000 fonctionnaires permanents.
+ 
+Les 3 missions de la Commission européenne sont:
+ 
+-Le droit d&#039;initiative: Proposer des lois et des règlements au Conseil de l&#039;Union européenne
+et/ou au Parlement européen en les aidant à accepté ces propositions ensemble.
+ 
+-Le pouvoir exécutif: Exécuter les décisions du Conseil et du Parlement européen.
+ 
+-Le contrôle: Veiller au respect des règlements par les pays membres et par les citoyens.Elle imposé des sanctions sous la forme de blâme, d&#039;amende,d&#039;astreinte ou de procès devant la Cour de justice.
+ 
+L&#039;ensemble des décisions se font à Bruxelles au Berlaymont.
+ 
+Site WEB: http://ec.europa.eu/
+ 
+3)Le Parlement européen
+Se compose de 751 députés choisis pour 5 ans par les citoyens européens lors des élections européennes.Chaque pays a un nombre fixe de députés mais donc en fonctions des besoins des pays,de leurs populations. Les députés sont réunis par &quot;couleurs&quot; politique.
+En gros,les socialistes avec les socialistes et les libéraux avec les libéraux.Les députés ont le droit de parler leurs propres langues pour que le Parlement européen puisse travailler dans les 23 langues officiels de l&#039;Union Européenne.
+ 
+Le rôle est d&#039;émettre un avis sur les propositions de lois avec le Conseil des ministres.Le Parlement européen représentant donc un grand intérêt dans les décisions dans un nombre croissant de domaine.Sinon le Parlement européen peut aussi voté chaque année le budget européen et contrôle la Commission...que le Parlement peut faire démissionné si nécessaire.
+ 
+En gros,le Parlement européen,élu au suffrage universel,représente et défend les intérêts des citoyens européens ce qui fait que le citoyen peut introduire des pétitions auprès du Parlement.
+ 
+Le lieu où tout est décidé se trouve soit à Strasbourg (une semaine par mois) et à Bruxelles (le reste du temps) au &quot;Caprice des Dieux&quot; mais comme il y a beaucoup trop de député et que Bruxelles est déjà assez remplis comme ça,on correspond avec des députés qui se sont installés au Luxembourg.
+ 
+Site WEB: http://www.europarl.europa.eu/
+ 
+4)Le conseil des ministres (de l&#039;Union européenne)
+Se compose de 27 ministres issus des différents États membres.Ces ministres sont changés en fonctions du sujet à discuté (l&#039;agriculture,l&#039;environnement,l&#039;emploi,...) et un État membre assure la présidence du Conseil pendant six mois à tour de rôle.
+ 
+Le but de cette institutions est simple,votés les propositions de lois en fonction d&#039;un nombre de voix et aussi de approuver le budget annuel de l&#039;Union européenne.
+ 
+En gros,ils ne font que donner la parole aux différents États membres les laissant exprimer leurs intérêts nationaux ou leur propre vision.
+ 
+Tout ce fait dans le bâtiment &quot;Justus Lipsius&quot; au rond-point Schuman à Bruxelles.
+ 
+Site WEB: http://www.consilium.europa.eu/
+ 
+5)La Cour de justice européenne
+Se compose d&#039;un juge par pays membres tous pas assistés par des avocats généraux.
+
+
+Elle s&#039;occupe des litiges entre les pays membres et se prononce également sur l&#039;interprétation des traités européens afin de garantir l&#039;application uniforme des règles dans tout les États membres.Surveille aussi la légalité des actes des institutions de l&#039;Union européenne.
+
+
+Tout a lieu au Luxembourg.
+
+
+Site WEB:  http://curia.europa.eu/
+
+
+VOILA vous savez tout ce qu&#039;il faut savoir sur les institutions de l&#039;Union Européenne!
+
+ 
+ 
+Mon professeur de géographie a apporté sa correction:
+
+ 
+donc voici ma version propre en fonction de la correction:
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

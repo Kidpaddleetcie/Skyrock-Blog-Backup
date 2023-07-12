@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Logique d&#039;image]Le rapport de l&#039;image à la réalité! - Commentaires</title>
+  <description>Les images qu&#039;on voit peut représenter la réalité ou bien la parodier, la distordre.
+
+Il y a plusieurs manière de distordre la réalité dans une image:
+ 
+Le cadre
+
+&#65279;Il suffit de isoler un élément pour changer la perception d&#039;une image, par exemple ces deux images:
+
+
+ 
+ 
+ 
+ 
+ 
+C&#039;est vraiment un changement de point de vue!
+ 
+Le contexte
+Si cette image vous évoque que le policier a frappé violemment ce jeune homme 
+
+ 
+
+ vous vous trompez car des témoignages racontent qu&#039;il fait fuir les ravisseurs du jeune homme. Cette image a pourtant tournée dans les médias pour dénoncer les violences policière.
+ 
+ 
+La retouche d&#039;image
+Vous trouvez que tel élément est moche, tel personne n&#039;est pas censé se trouver sur votre photo alors vous mettez votre image dans photoshop ou paint pour effacer,corriger, cette élément.
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

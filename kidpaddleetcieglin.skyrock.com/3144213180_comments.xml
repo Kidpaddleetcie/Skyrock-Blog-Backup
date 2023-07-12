@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Meg &amp; Dia - Monster - Commentaires</title>
+  <description>
+ 
+Cette chanson est plus connu pour la version de DotEXE  ^^    Voici les paroles originales trouvé sur ParolesMania.com 
+ 
+ His little whispers
+Love me, love me
+That&#039;s all I ask for
+Love me, love me
+He battered his tiny fists to feel something
+Wondered what it&#039;s like to touch and feel something
+
+Monster
+How should I feel ?
+Creatures lie here
+Looking through the window
+
+That night he caged her
+Bruised and broke her
+He struggled closer
+Then he stole her
+Violet wrists and then her ankles.
+Silent pain
+Then he slowly saw their nightmares were his dreams
+
+Monster
+How should I feel ?
+Creatures lie here
+Looking through the window
+
+I will hear their voices
+I&#039;m a glass child
+I am Hannah&#039;s regrets
+
+Monster
+How should I feel ?
+Turn the sheets down
+Murder ears with pillow lace
+There&#039;s bath tubs
+Full of glow flies
+Bathe in kerosene
+Their words tattooed in his veins
+ 
+ 
+
+ Voici en français ,non ,ce n&#039;est pas Google Traduction:
+ 
+Ses petits chuchotements 
+Aime-moi, aime-moi
+C&#039;est tout ce que je demande
+Aime-moi, aime-moi.
+Il s&#039;est battu avec ses poings minuscules pour ressentir quelque chose
+Se demandant ce que ça fesait de toucher et de ressentir quelque chose.
+
+Une monstre
+Comment devrais-je me sentir ?
+Les créatures errent ici
+Regardant par la fenêtre
+
+Cette nuit il l&#039;a enfermé
+L&#039;a blessé et violé
+Il a lutté de toutes ses forces
+Puis il l&#039;a enlevé
+Les poignets et les chevilles violettes
+Une douleur silencieuse
+Ensuite il a lentement vu leurs cauchemars devenir son rêve
+
+Une monstre
+Comment devrais-je me sentir ?
+Les créatures errent ici
+Regardant par la fenêtre
+
+J&#039;entendrais leurs voix
+Je suis un enfant de verre
+Je suis les regrets d&#039;Hannah
+
+Un monstre
+Comment devrais-je me sentir ?
+Enlève les draps
+Les bruits d&#039;un meurtre avec un oreiller à dentelles
+Il y a une baignoire
+Pleine de mouches rougeâtres
+Baignant dans de l&#039;essence
+Leurs mots sont tatoués dans ses veines
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

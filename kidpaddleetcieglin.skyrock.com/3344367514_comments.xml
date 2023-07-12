@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [PUB]   Aria Asimov   - Commentaires</title>
+  <description>
+ 
+
+
+
+
+Les sketchs ( dessins avec traits de construction ) 
+7€ le sketch détaillé mais sans couleur ( juste les traits )
+
+
+12€ le sketch détaillé avec couleur de votre personnage incomplet
+
+
+16€ le sketch détaillé avec couleur de votre personnage complet
+
+
+
+
+
+
+Les Cells Shadings ( dessins avec jeux de volume )
+15€ La frimousse de votre petit bonhomme ( pas en mousse )
+
+
+20€ Votre futur photo de profil pour vos RPs
+
+
+30€ Votre personnage de jeux de dating ou Professeur Layton
+
+
+
+
+
+
+Les Paintings (dessins en effet &quot;peinture&quot; )
+35€ Votre personnage de template Twitch
+
+
+45€ Votre personnage prêt à servir de meme
+
+
+65€ Votre blague de &quot;Mon personnage vient d&#039;un manga. Seriez-vous le deviné ? C&#039;est bon ? Vous avez chercher pendant des heures ? C&#039;était pas vrai, il est juste trop bien fait &quot;
+
+
+Les Big Illustrations ( grosses illustrations )
+
+80€ Votre illustration de live MusicChillToLearn
+
+
+130€ Votre poster d&#039;égocentrique sans limite ! QUI VEUT UN POSTER DE SON PERSONNAGE DANS UN DÉCOR PEINT DANS UNE POSE DYNAMIQUE ?!
+ 
+ 
+&#9484;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212; Rendez-vous donc sur : &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+&#9474;
+&#9474;Boutique RedBubbles : https://www.redbubble.com/fr/people/ariaasimov/shop?asc=u
+&#9474;
+&#9474;Twitter : https://twitter.com/Ariavegetable
+&#9474;_____________________________________________________________________________________________</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

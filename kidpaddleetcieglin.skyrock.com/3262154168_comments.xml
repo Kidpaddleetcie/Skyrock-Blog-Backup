@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Explication2Glin]La théorie du &quot;Jamais Deux sans Trois&quot; ! - Commentaires</title>
+  <description>
+Soyons clair,sans une raison pour se lier (interagir),deux entités (vivante ou morte) ne peut réagir!
+ 
+Il faut un contact,un lien entre les éléments pour qu&#039;il y ait une transformation (réaction)!
+ 
+Quand on parle des amoureux,il y a elle,lui et l&#039;amour (sentiments ou le plaisir du Q),
+Quand on parle d&#039;affaire,il y a le producteur,le consommateur et la production,
+Quand on parle de politique,il y a l&#039;état,les citoyens et la lois,
+...
+ 
+Mettons ça en lien avec une autre expression qui vient de Antoine Lavoisier (celui qui a créer le tableau des éléments,en science): &quot;Rien ne se perd, rien ne se crée, tout se transforme&quot;.
+
+
+Cette expression qui dit clairement qu&#039;aucune entité peut se auto-détruire,se auto-créer mais peut se TRANSformer!
+
+
+Définitions de transformation (d&#039;après Larousse.fr):
+ 
+En Bactériologie: &quot;Incorporation dans le génome d&#039;A.D.N. exogène modifiant le phénotype de l&#039;hôte.&quot;
+
+
+En Thermodynamique: &quot;Modification que subit un système du fait de ses échanges d&#039;énergie avec le milieu extérieur.&quot;
+
+
+On a,d&#039;un coté,une &quot;incorporation&quot; et de l&#039;autre on dit clairement qu&#039;il y a un &quot;échange&quot; ce qui prouve qu&#039;il faut une relation avec un contact,une relation avec une entité extérieur pour se transformer!
+
+
+Nous avons donc prouvé que OUI,il n&#039;y a jamais 2 sans trois mais seulement lors d&#039;un échange (relation)!
+
+
+Ce qui manque donc à cette expression est &quot;dans une relation&quot;!
+
+
+DONC &quot;Il n&#039;y a jamais deux sans trois dans une relation&quot;!
+
+
+Merci d&#039;avoir lu et j&#039;espère que vous avez compris mon procédé d&#039;étude!
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Techniques de reproduction et de transmission des images]L&#039;histoire des logiciels pour l&#039;offset! - Commentaires</title>
+  <description>L&#039;offset surtout employé dans les années 60 à cause de la composition nécessitant de la photocomposition (photos + texte). Il n&#039;y aura pas de vraiment de logiciel pour voir ce qu&#039;on fait vu que ce n&#039;était que des suites de codes. C&#039;était à l&#039;époque des flasheuses (ComputerToFilm) et on devait insérer de 1 à 4 disques ayant des glyphes pour faire les fonts (les polices de caractère).
+ 
+On passera aux disquettes pour contenir les fonts (ces disquettes se nomment floppy) mais c&#039;est bien plus tard qu&#039;on pourra prévisualisé son travail avant de faire un l&#039;impression par la flasheuse, cet prévisualisation se fait sur un écran annexe fait pour la prévisualisation et donc se présentait comme un écran vertical.
+ 
+Chaque système, chaque gamme avait son langage de commande pour la composition. Les études se faisait en Suisse, elles coutaient chers et étaient très longues, et le matériel coûtait une fortune...tout comme les compositeurs à cause de leur rareté.
+ 
+On pouvait aussi faire le montage sur table lumineuse mais il fallait un scanner très cher.
+En 1984, le premier Mac arrive sur le marché avec sa souris, son interface graphique bousculera le monde de la pré-press. On voyait enfin sa prévisualisation sur un ordinateur.
+Bill Gates améliorera donc Word pour Mac (précédemment sur DOS) sous l&#039;acronyme WYSIWYG (What you see, what you get), on voit donc ce qu&#039;on écrit.
+
+Adobe inventera aussi le PostScript qui est un langage de pré-press qui se voudra universelle.
+ 
+En 1985, Adobe Illustrator arrive sur le marché et est logiciel de dessin vectorielle se basant sur postscript. La première imprimante à interpréteur PostScript arrivera sur le marché, la LaserWriter, elle coûtera 7 000$ mais la première imprimante à laser de Xerox coûtait 500 000$.
+
+Adobe et Xerox fondera la société Aldus et créerons PageMaker, le premier programme de mise en page.
+ 
+En 1987, la société de Quark invente le logiciel Xpress qui met en danger ceux qui faisait encore de la photocomposition car vraiment plus performant que PageMaker. Ils devront se recycler pour survivre et donc devenir flasheuses (fournir des films pour ceux qui emploient Xpress), capitaliser leur maîtrise technique et donc de devenir un bureau de PAO (ComputerToFilm).</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Informatique]Convertir le Décimal en Hexadécimal (De la base 10 à la base 16) - Commentaires</title>
+  <description>Pour convertir un nombre en base 10 en base 16, il faut diviser votre nombre décimal autant de fois que possible en 16 pour obtenir des résultats compris entre 1 et F!
+ 
+Par exemple: 918 (base 10)
+ 
+918-&gt; 6
+57-&gt; 9
+3-&gt; 3
+ 
+Ce qui nous donne &quot;918 (base 10) = 3 9 6 (base 16)&quot; !
+ 
+ 
+La marche à suivre est simple:
+918/16 = 57.375 
+//on ignore les chiffres après la virgule
+57/16= 3.5625
+57-(3*16)=9
+918-(57*16)=6
+
+//Une fois que c&#039;est inférieur ou égale à un, ça veut dire que ce fut l&#039;avant-dernier résultat qui fut le dernier à obtenir 
+
+Si on devait faire une formule passe partout:
+ 
+NOMBRE DE BASE 10/16= NOMBRE OBTENU 1
+ 
+NOMBRE OBTENU 1/16=VALEUR HEXADÉCIMAL 1
+NOMBRE OBTENU 1-(VALEUR HEXADÉCIMAL 1*16)=VALEUR HEXADÉCIMAL 2
+NOMBRE DE BASE-(NOMBRE OBTENU 1*16)= VALEUR HEXADÉCIMAL 3
+
+
+ 
+ Si vous avez besoin de plus d&#039;aide: http://fr.wikihow.com/convertir-un-nombre-d%C3%A9cimal-en-hexad%C3%A9cimal</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

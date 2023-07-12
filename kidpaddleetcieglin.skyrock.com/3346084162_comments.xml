@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Méthodologie de travail ] La différence entre la carte de l&#039;araignée et la carte mentale - Commentaires</title>
+  <description>Pour peu qu&#039;on soit confronté à ce vocabulaire, la carte mental et la carte de l&#039;araignée se présente de la même manière MAIS ne se font pas au même moment.
+ 
+Carte mentale ( mindmap  ): Se créé à partir d&#039;un document. Elle sert à faire ressortir la structure d&#039;un document terminé.
+ 
+carte de l&#039;araignée (spidermap ) : Se créé au tout début de l&#039;élaboration d&#039;un document. Elle sert à élaborer la structure d&#039;un futur document.
+ 
+ 
+Pour schématiser : 
+Méthode de l&#039;araignée =&gt; Document =&gt; Carte mentale  
+Pour aller plus loin, voici comment les deux se présentent :
+
+
+
+
+ 
+ Pour faire encore plus schématique :
+
+ 
+ 
+Sources et infos supplémentaires : 
+https://www.lafacilitation.fr/dynamisez-vos-restitutions-grace-au-mind-mapping/
+ 
+https://www.ecommercemag.fr/Thematique/methodologie-1247/fiche-outils-10182/La-carte-araignee-324010.htm
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

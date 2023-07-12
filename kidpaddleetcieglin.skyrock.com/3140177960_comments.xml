@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Vocabulaire sur le mouvement (dérivé du livre &quot;800 Mots pour réussir&quot;) - Commentaires</title>
+  <description>D&#039;après le bouquin:
+Français 4e-3e : 800 mots pour réussir
+ https://www.amazon.fr/Fran%C3%A7ais-4e-3e-mots-pour-r%C3%A9ussir/dp/2701149037
+
+
+Bon,je tiens à précisez que je fais confiance à ce livre car comme son nom l&#039;indique,il est fais pour réussir au niveau de notre vocabulaire!
+ 
+Cette semaine,c&#039;est sur le mouvement que je commence à copier le vocabulaire de la page 48 à 49!
+ 
+Je ne reprends pas les exemples mais seulement les définitions et les synonymes!
+ 
+Pour faciliter la lecture et la compréhension,j&#039;ai mis les mots définis en rouge!
+--------------------------------------------------------------------------------------------------------------------------------------
+ 
+Accéder : Entrer,pénétrer,arriver,parvenir à . (synonyme : atteindre)
+ 
+Arpenter : Marche à grands pas,à grandes enjambées . (synonyme : parcourir)
+ 
+Cabrer,se cabrer : Le fait se dresser sur ses jambes de derrière. En relève la partie avant .(synonyme : redresser)
+ 
+Une cabriole : Petits bonds légers et désordonnés. Sortes de petits sauts périlleux .(synonyme : des gambades,des pirouettes)
+ 
+Chanceler : Pencher de côté et d&#039;autre  comme s&#039;il allait tomber,en perdant l&#039;équilibre .(synonyme : vaciller)
+ 
+Côtoyer,se côtoyer : Avançait le long de .(synonyme : longeait )
+ 
+Culbuter : Etre tombé,tête en bas et jambes en l&#039;air. L&#039;avoir fait tomber brutalement .(synonymes : avoir basculé,l&#039;avoir renversé)
+ 
+Déambuler : Marcher sans but précis . (synonymes : errer , se promener )
+ 
+Déguerpir : Abandonner très vite la place, par peur .( synonymes : filer ,  détaler) 
+ 
+Déployer,se déployer : Ouvrir et étaler en grand. Ouvrir, étendre.Disposer sur une plus grand étendue,face à l&#039;ennemie. (synonyme: déplier)
+ 
+S&#039;ébattre : Se donner du mouvement,librement,en toute fantaisie.
+ 
+Un élan : Mouvement consistant à se jeter en avant avec force. (synonyme : bondir)
+ 
+Ériger,s&#039;ériger : Élever ou construire.Se dresser . (synonymes : avoir dressé , s&#039;élever)
+ 
+Esquiver,s&#039;esquiver : S&#039;en aller en évitant d&#039;être vu  (synonymes : filer, s&#039;échapper)
+ 
+Se faufiler : S&#039;introduire,se glisser adroitement.Progresser par des lieux étroits.
+(synonyme: se couler)
+ 
+Fondre sur : S&#039;abattre,se jeter,se précipiter sur sa proie.Foncer sur lui .
+(synonymes : tomber sur,se ruer sur,faire passer à l&#039;état liquide)
+ 
+Hisser,se hisser : Élever en faisant des efforts .Monter en faisant des efforts.
+(synonyme : grimper)
+ 
+Palpiter : Battre irrégulièrement et violemment . ( synonyme : passionnant )
+ 
+Vaciller : Etre sur le point de perdre l&#039;équilibre et risquer de tomber.Trembler,être sur le point s&#039;éteindre. (synonymes: chanceler,trembler)
+ 
+Virevolter : Tourner rapidement sur sois-même ou faire des demi-tours.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3140177960_comment_1.html#c-19991593650" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3140177960_comment_1.html#c-19991420128" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3140177960_comment_1.html#c-19991593650">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3140177960_comment_1.html#c-19991593650</link>
+		<dc:date>2017-03-10T12:27:57+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Il existe un logiciel pour ça ! http://www.01net.com/telecharger/windows/Loisirs/education_et_scolarite/fiches/28380.html</description>
+		<content:encoded><![CDATA[
+			Il existe un logiciel pour ça ! http://www.01net.com/telecharger/windows/Loisirs/education_et_scolarite/fiches/28380.html
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3140177960_comment_1.html#c-19991420128">
+		<title>Commentaire de Lily</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3140177960_comment_1.html#c-19991420128</link>
+		<dc:date>2017-03-09T23:05:12+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Lily</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Merci c super mais il faudrait avoir + de mots </description>
+		<content:encoded><![CDATA[
+			Merci c super mais il faudrait avoir + de mots 
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

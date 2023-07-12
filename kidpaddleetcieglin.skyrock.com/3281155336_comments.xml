@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique2Glin]Mario et Sonic aux jeux olympiques de Ryo 2016! - Commentaires</title>
+  <description>
+
+Bien le bonjour (ou bonsoir) cher lecteur et bienvenue dans cette critique du jeu Mario et Sonic aux jeux olympiques de Rio 2016! Au menu, 14 épreuves ne se servant que de la croix directionnelle et des boutons &quot;A&quot; et &quot;B&quot; à la manière d&#039;un Track And Field sur NES!
+
+
+Bien sur, il y a du bons dans ce jeu: La musique,le graphisme (1080p 60fps...LA WIIU!!!!) mais aussi les environnements!
+ 
+Le gros point noir est qu&#039;on ne se sert ni de la gyroscopie,ni de l&#039;écran tactile,ni de la caméra interne du WiiU Gamepad, ni le pointeur,ni la détection de mouvement de la WiiMote! On ne touche plus que les boutons A,1,2,la croix directionnelle et B... LE GAMEPLAY A RÉTROGRADÉ!!!!
+
+
+Si c&#039;est pour passer d&#039;un jeu où on faisait des épreuves avec la Wiimote qu&#039;on devait agiter ou encore utiliser pour jouer à un jeu de plateforme MAGNIFIQUE à un jeu où le Gameplay se résume à &quot;Jean-Bourrin,86 ans,arrive à utiliser sa Parkinson pour vaincre son petit fils&quot;.
+
+Bien sur,le jeu est beau mais 17 épreuves (classiques et duels) n&#039;utilisant aucune exclusivités des consoles utilisés (Wii et WiiU) et qui en plus se permet le luxe de faire des jeux de purs hasards (Les tirs aux buts notamment) n&#039;est pas un meilleur jeu que celui qui avait 31 épreuves (classiques et rêves) qui employait la détection de mouvement et faisait même des jeux de plate-forme assez originaux.
+ 
+Voici ce qu&#039;on avait dans Mario et Sonic aux jeux olympiques de Londres 2012,sur Wii,il y a 5 ans:
+
+Merci Wikipédia!
+https://fr.wikipedia.org/wiki/Mario_et_Sonic_aux_Jeux_olympiques_de_Londres_2012
+ 
+Je conclus sur le fait que le manque d&#039;épreuve &quot;duels&quot; (&quot;rêves&quot; dans les bons opus) rend le jeu encore plus monotone de par le fait que ça ne se résume qu&#039;à de la simulation sans fantaisie à part de prendre Mario et de faire comme les autres!
+ 
+Merci d&#039;avoir lu cette critique et sachez que je respecte le votre malgré tout...on peut résumé ma critique par &quot;c&#039;était mieux avant&quot; si vous remarquer!
+ 
+Au revoir et à bientôt pour une nouvelle critique :D</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

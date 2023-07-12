@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement] J&#039;arrête les YTPs - Commentaires</title>
+  <description>
+
+
+ 
+Bonjour et bienvenue dans cette vidéo officialisant mon départ du monde des YouTube Poop.
+ 
+Il y a plusieurs raisons à mon départ donc on va procédé à un chapitrage comme si nous étions dans une vidéo de Trash.
+ 
+== 1. Le temps ==
+Écoutez, le problème du temps, c&#039;est pas un non-problème.
+ 
+Je travail déjà sur des projets me demandant des skills en montage-vidéo, en documentation et de la culture audiovisuelle memesque. Je recherche également toujours de l&#039;emploi.
+ 
+Mes journées sont assez remplies comme ça et refaire un épisode de la LaytonYTPsaga serait dangereux pour un résultat médiocre.
+ 
+== 2. La communauté ==
+Comme disait &quot;Taré des Étoiles&quot; quand nous étions sur la chaîne Poopulaire : Je suis vieux.
+ 
+La plupart des poopeurs que j&#039;ai connu ont changé de contenu, d&#039;univers ou sont juste partit.
+ 
+Le dernier poopeur que je regarde régulièrement, comme si je regardais un épisode de Joueur du Grenier,est Diddy64Wii. Il prend souvent 1 ou 2 mois pour composer une YouTube Poop mais elle est souvent drôle à plusieurs niveaux.
+ 
+Il y a aussi le fait que je ne discute plus des masses avec des poopeurs, je suis déconnecté de la partie sociale de cet art qu&#039;est la production audiovisuel dadaïste.
+ 
+== 3. Un tour complet ==
+J&#039;ai tenté de tout dans les YouTube Poop. Je me suis surtout épanouis dans la LaytonYTPsaga en racontant des histoires qui se suivent mais j&#039;ai également fait des YTPMVs inaudibles, des YTP Randoms insupportables,...
+ 
+J&#039;aime faire de la mise en scène et chercher à combiner l&#039;ensemble des techniques infographiques pour faire des YouTube Poop Stories mais après le dernier épisode de la LaytonYTPsaga, Professeur Layton combat le grand capital partie 3, j&#039;ai pas envie de repasser 2 ans à me creuser la tête tout seul pour faire 250 vues après 1 an suivant la publication du résultat.
+ 
+C&#039;est pas bon pour le moral.
+ 
+== 4. L&#039;argent ==
+Une YouTube Poop, pour être produite, ça demande du temps et ça consomme de l&#039;énergie. Une énergie qui doit être payée mais dont les YouTube Poop ne font pas un retour direct sur l&#039;investissement.
+ 
+Je ne perçois que 600 euros par mois et c&#039;est pas assez pour soutenir des projets longs nécessitant de la recherche et du développement.
+ 
+L&#039;idéal serait qu&#039;un vidéaste m&#039;emploi si vous désirez que je fasse le montage de vos vidéos, n&#039;hésitez pas !
+ 
+Voila... le compte LesYTPs2Glins continuera d&#039;exister après cette vidéo mais seulement pour commenter, recommander et faire le pont avec d&#039;autres contenus que je produis.
+ 
+Au revoir et à bientôt sur le réseau Glin Kidpaddleetcie.
+======================================================
+Vous pouvez retrouver la playlist des 100 meilleurs YTPs d&#039;autres poopeurs ici : https://youtube.com/playlist?list=PLKkDenoSPcDfFEjZ2A6tVLLTY4c7KSSGY
+ 
+Je vous ai recommandé la chaîne de Diddy64wii : https://www.youtube.com/@Diddy64wii/videos
+ 
+Les vidéos de tiers utilisées :
+- &quot;Le show de Mario chat - Épisode 37&quot; de NintendoFR : https://youtu.be/-kvIyhKyVbA
+- &quot; Le cri d&#039;alarme de Jean Pierre Coffe&quot; : https://youtu.be/SxkA2oue6ag
+- &quot; FR - Tierlist des Poopeurs&quot; de Maxinee : https://youtu.be/HwGZPwSG3Gc
+ 
+Les musiques utilisées :
+- L&#039;OST de Miitopia
+- &quot;Bent Amel - Où Je Vais&quot; de Amel Bent : https://youtu.be/qUSiJmZ-YyM
+- &quot;La Compagnie Créole - C&#039;est bon pour le moral&quot; de La Compagnie Creole: https://youtu.be/km6gUbW8s28
+ 
+Logiciels utilisés :
+- PaintDotNet : https://www.getpaint.net/download.html
+- Adobe Premiere Pro CS6
+- Adobe After Effect CS6
+- Panzoid Video Editor : https://panzoid.com/tools/videoeditor
+- Photopea : https://www.photopea.com/
+- Canva : https://www.canva.com/fr_be/
+- FireAlpaca : https://firealpaca.com/
+- Blender : https://www.blender.org/
+- MakeHuman : http://www.makehumancommunity.org/content/downloads.html
+- Flipnote Studio ( Nintendo DSi )
+- Bloc-notes
+ 
+KidpaddleetcieGlin
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

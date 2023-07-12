@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique2Glin]Second Sight - Commentaires</title>
+  <description>
+CONTEXTE DE SORTIE
+Second Sight est un jeu-vidéo sortit en 2004 sur tout les supports de l&#039;époque excepté la Dreamcast parce qu&#039;elle était déjà morte!
+ 
+L&#039;éditeur CodeMaster (Entreprise britannique ayant fait ses débuts dans le monde du jeu-vidéo avant même que la NES existe) aura décidé de partir dans un jeu linéaire mais avec un gameplay assez permissif et une histoire justifiant l&#039;avancé des facultés de notre personnage et de sa quête!
+ 
+Le jeu se présente comme une version améliorée des mécaniques de GoldenEye007 (Normal, les développeurs, &quot;Free Radical Design&quot;,ont parmi eux des anciens membres de la société Rare qui ont travaillé sur ce jeu) et se permet aussi de mettre en avant des mécaniques de gameplay beaucoup plus poussé au niveau de la physique et ses interactions!
+ 
+GAMEPLAY
+Le joueur commencera le jeu avec 4 mécaniques de gameplay:
+-Télékinésie: Permet de faire léviter les objets et de les faire bouger où bon nous semble,
+
+-Se battre: La fameuse touche &quot;F&quot; qu&#039;on emploi qu&#039;en cas de combat rapproché ou pour assommer un personnage,
+
+-La guérison: Parce que le jeu n&#039;utilisera les sprays de soin que dans 2 niveaux sur les 17,
+
+-La discrétion: On peut s&#039;accroupir, on peut se faufiler dans le dos de nos ennemis et on peut étrangler ces derniers!
+ 
+ 
+Si le jeu est court (17 niveaux, je rappelle), les différentes cartes permettent quand même un maximum de truc à faire sans que le jeu nous punisse comme pas possible pour avoir osé ne pas aller dans son sens!
+Le truc est simple,si vous jouez comme un connard en voulant faire le maximum de victime, le jeu va vous offrir UNE ARMÉE ENTIÈRE D&#039;ENNEMI AVEC DES ARMES DE PLUS EN PLUS PUISSANTE AU FUR ET À MESURE DES MORTS QUE VOUS AVEZ COMMIS!
+ 
+Prenons le niveau 3 qui se nomme &quot;Expérimentation&quot;, c&#039;est le premier niveau où vous allez pouvoir déclencher l&#039;alarme et affronter un maximum d&#039;ennemi alors que les seules nouvelles mécanique de gameplay que vous avez en plus sont l&#039;impulsion PSY (Vous tuez en un coup un ennemi) et l&#039;utilisation des armes à feu!
+Ce niveau peut se terminer de plusieurs manières (2 chemins possibles, ne vous emballez pas non plus) mais vous pouvez y passer des heures de fun avec l&#039;intelligence artificielle qui se bonifie à vu d&#039;œil!
+ 
+Au début, les ennemis auront peur de vous quand vous utilisez impulsion PSY et Télékinésie devant eux MAIS au bout d&#039;une vingtaine de mort, ils en ont plus rien à foutre et ils vous le disent par voie buccale et létale si vous voyez ce que je veux dire (bla bla et pan pan)!
+ 
+Sinon, un autre exemple de bonification de l&#039;intelligence des ennemis, ils savent que ça sert à rien de tirer plus de 30 secondes sur un obstacle qui vous protège et ils le contourne en continuant de tirer...ce qui fait qu&#039;ils peuvent être bien plus malin que vous ET C&#039;EST TRÈS STRESSANT D&#039;AVOIR UN ENNEMI QUI SE CREUSE PLUS LES MÉNINGES QUE VOUS!
+ 
+Si au début du jeu, vous vous amusez avec la télékinésie pour détourner l&#039;attention d&#039;un garde pour le tuer discrètement, ils savent vite que c&#039;est vous et commencent à vous chercher dès les 3 secondes de réflexions faîtes
+(en gros, ils s&#039;éloignent de vos conneries ce qu&#039;ils les rapprochent de votre position en mode &quot;toujours aux aguets&quot;)!
+ 
+ 
+Bon... parlons des armes, la partie la plus nulle du jeu: 
+Les armes ne se différencient pas par leurs portées, vous pouvez faire un headshot à un sniper avec un NSE ou un pistolet tranquillisant donc vous pouvez faire tout le jeu avec cette dernière arme si il n&#039;y avait pas un rapport d&#039;efficacité!
+
+
+L&#039;arme la plus bruyante mais celle qui a une bonne cadence de tir est le fusil d&#039;assaut, elle est souvent planquée dans les niveaux où on a une embuscade!
+
+L&#039;arme ayant aussi une bonne cadence de tir est le PM, elle se trouve dans tout les niveaux à partir du troisième! Vous en aurez notamment besoin aux 4 derniers niveaux du jeu car certains ennemis auront des boucliers psychiques qui ne se détruisent qu&#039;après une dizaine de balle... ou un coup d&#039;impulsion psychique!
+
+
+L&#039;arme la plus puissante des moins lente est le Fusil Cal.12 NSE
+(trouvable en Easter Egg pour la première fois dans le niveau 6 nommé &quot;Démence&quot; après un petit scan des toits à la télékinésie pendant la partie où on est à l&#039;extérieur,sur le mirador, qui nous permet de trouver une clé qui ouvre la cabine au fond à gauche!)
+qui prend un temps dingue à recharger après ses 8 balles mais qui one-shot les ennemis comme si on leurs faisait des headshots! Elle est un peu doublon avec le pouvoir &quot;impulsion psychique&quot; mais on va dire que c&#039;est pour économiser la jauge d&#039;énergie psychique...tient, je n&#039;en ai pas encore parler!
+
+
+Il y a 2 jauges dans le jeu: La santé et l&#039;énergie!
+Vous récupérez de la santé grâce au pouvoir de guérison (sans blague),
+Vous récupérez de l&#039;énergie en ne l&#039;utilisant pas pendant un moment (15 secondes pour que la jauge à 0 reviennent à 100%), si elle atteint 0, l&#039;interface du jeu se trouble d&#039;un coup comme un vieux effet de Sony Vegas Pro et on a un bruit parasite qui s&#039;affiche qui va vous gêner pendant 5 secondes le temps qu&#039;il s&#039;estompe!
+
+En tout, le jeu vous offrira dans le gameplay 4 pouvoirs qui seront améliorés jusqu&#039;au niveau 8 &quot;Exploration&quot;:
+ 
+-Télékinésie (au début, on peut soulever QUE LES OBJETS et au niveau 6,démence, il pourra soulever des gens),
+ 
+-Guérison (Ne va pas s&#039;amélioré pendant tout le jeu ,il sert juste à se guérir!),
+
+-Impulsion PSY (Au début, on peut lancer une impulsion devant soi et one-shot un ennemi et au niveau 4,fuite,on peut faire tomber tout les ennemis autour de nous sans les tuer pour autant SAUF S&#039;ILS SONT DANS UNE POSITION OÙ ILS NE PEUVENT PAS REMETTRE LEURS BRAS LE LONG DU CORPS...dans ce cas, ils sont décédés!)
+ 
+-Ensorcellement (Permet d&#039;être invisible et, quand le scénario le permet, de rassurer les gens),
+ 
+-Projection (Au début, c&#039;est juste une projection de soi qui peut traverser les lasers de sécurités et ce pouvoir sera amélioré au niveau &quot;infiltration&quot; pour posséder les gens CE QUI SERA LE POUVOIR LE PLUS CRACKÉ CAR VOUS POURREZ SE FAIRE ENTRE-TUER VOS ENNEMIS)!
+ 
+
+Bon...je pense qu&#039;il est temps de vous expliqué comment le jeu se passe:
+Vous avez 17 niveaux qui font un crescendo en terme de taille de carte du premier au dixième niveau avant de faire un decrescendo afin de créer des niveaux &quot;couloirs&quot; qui permettent de mettre plus en avant le scénario et la difficulté!
+ 
+En effet, le jeu gagne en difficulté quand l&#039;espace de jeu ne permet pas de fuite ou de protection par un obstacle comme un mur ou un rocher (Comme tout les FPS en général)! Second Sight ne brillant pas pour sa partie &quot;gun fight&quot; mais plutôt sa partie &quot;puzzle&quot;, il faudra refaire plusieurs fois un niveau pour comprendre les différents moyens d&#039;arriver à nos fins!
+ 
+Le jeu n&#039;a pas une durée de vie énorme si on joue à celui-ci juste pour le scénario mais si on s&#039;attarde sur les dialogues des PNJs,
+les deux mini-jeux (Astéroïds,ou impact Earth dans le jeux, et X-Space &#180;92 qui est un shoot&#039;em&#039;up),
+les différents moyens pour finir un niveau,
+les moments où on se rend compte que les développeurs ont vraiment penser à tout pour qu&#039;on ne soit pas bloqué mais aussi pour pas que le scénario perd en cohérence,
+Les fonctionnalités de la touche &quot;Tab&quot; (Les renseignements sur les armes,les personnages, les pouvoirs psychiques, les niveaux, les mini-jeux et autres),
+Le niveau caché &quot;Challenge Extra de Starke&quot;,
+...
+On se rend vite compte que le jeu mérite qu&#039;on s&#039;y attarde bien plus que deux heures!
+ 
+Je l&#039;ai terminé 8 fois en 10 ans (parce que je l&#039;ai depuis mes 12 ans) et je peux vous dire que plus j&#039;y joue, plus je m&#039;amuse à trouver les différents moyens de me débarrasser des ennemis de la manière la plus créative possible (à base de télékinésie et de possession)!
+ 
+SPOIL DU SCÉNARIO
+Bon... spoilons le scénario!
+Vous êtes John Vattic, vous avez des pouvoirs psychiques qui vous ont été révélés par des gosses qui ont aussi des pouvoirs psychiques sauf que vous êtes encore plus puissant qu&#039;eux puisque vous êtes un adulte et aussi médecin!
+ 
+Vous avez été recruter par l&#039;armée américaine pour participer à la mission de l&#039;équipe WinterIce grâce à Jayne Wilde qui est aussi une personne doté de pouvoir psychique mais qui ne sait pas se battre avec...juste faire de la télépathie et voir l&#039;avenir proche !
+ 
+La mission de l&#039;équipe WinterIce est d&#039;allé en Sibérie pour trouver le professeur russe Grienko qui travaille sur une mystérieuse arme qui se révélera être la création de soldat ayant des pouvoirs psychiques...sauf que pour les faire, il faut soumettre les fameux petits enfants à des tests qui en font des catastrophes de Tchernobyl tellement ils deviennent difformes! Heureusement, ceux qui vous viennent en aide ont encore une intégrité physique et psychique!
+  
+En Russie, vous vous faîtes attaquer par des Russes qui ont de l&#039;équipement Américain...en faîtes, c&#039;est parce que le directeur Hanson, un putain de mec d&#039;extrême droite qui veut conquérir le monde (bref, c&#039;est un américain), fait tout ce qui est en son pouvoir pour que les recherches de Grienko arrivent à terme pour les récupérer et créer son armé de super-soldat!
+ 
+Le jeu vous montre qu&#039;il a réussi mais grâce au pouvoir ultime de John Vattic qui est la faculté de voir l&#039;avenir (il voit ce qu&#039;il risque de se passé 6 mois plus tard), il changera le futur en tuant Hanson et en libérant les enfants!
+ 
+La morale de l&#039;histoire: La guerre c&#039;est mal et les cons sont au pouvoir...AH, j&#039;ai oublié de préciser que ce jeu se passe en pleine guerre froide!
+ 
+ 
+Le jeu alterna la vision futuriste (on commencera d&#039;ailleurs dans le futur) avec le présent (qui est aussi le passé...aïe ma tête) où les plus gros événements et phases du jeu en équipe se feront (vu que vous êtes avec l&#039;équipe WinterIce)!
+ 
+Le scénario est suffisamment floue au début pour nous faire croire que nous sommes un malade dans un hôpital à qui ont a donné des médicaments qui lui donne ses pouvoirs psychiques mais une fois commencé le niveau &quot;Fuite&quot;, s&#039;y on s&#039;attarde sur le déroulement de l&#039;histoire, on apprend qu&#039;on change le futur (Jayne n&#039;est pas morte) et c&#039;est depuis donc ce cinquième niveau que le jeu va alterner les phases &quot;Six mois plus tôt&quot; et les phases futuristes afin de faire revivre d&#039;abord Jayne qui va nous permettre de nous remémorer Starke (que le chef de l&#039;équipe WinterIce) et, ainsi,chacun nous donnera suffisamment d&#039;information (Starke nous donnera carrément une pile de papier consultable sur la touche TAB) pour comprendre le projet d&#039;Hanson et de Grienko!
+ 
+AU DELÀ DU JEU
+Je vais continuer cet avis-critique en donnant des informations qu&#039;on ne trouve pas dans le jeu sans les développeurs par voie journalistique et provenant de Wikipédia!
+ 
+C&#039;est partit pour la samba des liens:
+http://www.gameblog.fr/blogs/cutscene/p_107934_quand-un-jeu-ferait-un-meilleur-film-le-cas-second-sight
+
+Dans cet article de blog de Gameblog ( hi hi hi ), on apprend plusieurs choses intéressantes:
+-La capacité de remonter dans le temps aurait dû être intégrer directement au gameplay et non être utilisé comme mécanique du scénario seulement,
+ 
+-Le journaliste trouve que la gestion du TPS (Third Person Shooter, jeu de tir à la troisième personne) n&#039;a pas bien été appréhender. La caméra est lente car ne permet que de visé une étendue de 180° (soit,l&#039;équivalent d&#039;une vue subjective...comme dans GoldenEye007) et la visée est nulle de par son manque de feeling (j&#039;admet qu&#039;il n&#039;y a pas de notion de recule pour les armes puissantes et que la notion de portée est inexistante).
+ 
+-Le journaliste trouve que les phases de gunfight et de discrétion font partit de 75% du gameplay général! (Je suis pas vraiment d&#039;accord car le gunfight peut TOUJOURS être évité sauf pour les niveaux sans pouvoirs...et il n&#039;y en a que 4 sur les 17 niveaux du jeu!)
+ 
+-Le journaliste compare l&#039;ambiance du jeu à la licence Metal Gear Solid (Merci mec, tu sais faire plaisir).Il en retient le traitement de l&#039;humour (les doublages façons nanars) et la musique !
+ 
+ 
+Je tiens à copier-coller son résumé de l&#039;histoire car je le trouve complet et...quoi? Ah, vous estimez que c&#039;est du vol...bon bah,alors je tiens à dire que son résumé de l&#039;histoire dans sa partie &quot;Spoil&quot; est très bien écrite et encore plus complète que la mienne!
+ 
+
+Bon, changeons de source et consacrons-nous maintenant au Wikipédia des développeurs: 
+https://fr.wikipedia.org/wiki/Crytek_UK
+
+Contrairement à ce que vous allez me reprocher en voyant le lien, NON JE NE ME SUIS PAS TROMPER DE PAGE WIKIPÉDIA! &quot;Free Radical Design&quot; s&#039;est renommé &quot;Crytek UK&quot; en 2009 à cause de redressement judiciaire! Étant à l&#039;origine de la série TimeSplitters
+(qui est une série de jeu comme Second Sight mais sans les pouvoirs psychique et avec une ressemblance plus proche de GoldenEye007 en terme de visée car le jeu peut être un FPS)
+Free Radical Design se fera racheter par le groupe allemand Crytek qui sont les développeurs des licences Far Cry et Crysis...décidément, le monde est petit!
+
+
+Nous avons donc des gens qui ont bossé sur GoldenEye007 qui ont travaillés sur Second Sight et qui ont travaillé pour le moteur de Far Cry et Crysis...LE MONDE EST PETIT JE VOUS DIT!
+
+Mais le 30 Juillet 2014, Free Radical Design (sous le nom de Crytek UK) est vendu à Deep Silver pour devenir le studio &quot;Dambuster Studios&quot;. (Bon sang, il en auront fait du chemin ces développeurs)!
+ 
+
+Les studios Dambuster font actuellement le jeu &quot;Homefront: The Revolution&quot;...c&#039;est tout ce qu&#039;on a sur les développeurs de Second Sight aujourd&#039;hui,14 ans après la sortie du jeu!
+ 
+Voici des images de ce fameux &quot;Homefront: The Revolution&quot; !
+
+ 
+ 
+ Pour revenir sur la page Wikipédia de Crytek UK: https://fr.wikipedia.org/wiki/Crytek_UK
+on apprend que la licence Second Sight a été rachetée par THQ Nordic le 15 Août 2018!
+THQ Nordic est une société autrichienne d&#039;édition de jeux-vidéos qui ne font que distribué les jeux en Autriche comme Halo Wars 2 ou des jeux que je ne connais pas excepté The Guild 3,&#65279; ...
+ 
+J&#039;ai le seum, la licence Second Sight appartient à donc à un éditeur que je connais juste de part un jeu appartenant à une série que je ne connais que par le let&#039;s play narratif du Joueur du Grenier... c&#039;est d&#039;une tristesse pour moi car ça veut dire qu&#039;un remasterHD du jeu ne serait pas possible (car il n&#039;y a pas de développeurs ), ni une suite,ni un portage sur Nintendo Switch,PS4pro et XboxOneX!
+ 
+...Bah, le jeu n&#039;a, de toute façons, pas besoin de suite puisqu&#039;il n&#039;a pas de trou dans son scénario et de toute façons, il a fait un petit flop d&#039;après le journaliste donc il vaut mieux me contenter de Second Sight comme il est que devoir chercher à avoir une suite!
+
+
+INFORMATIONS DU README.TXT
+--------------------------------------------
+Fichier ReadMe de &quot;Second Sight&quot; - 01/11/04
+--------------------------------------------
+I. Introduction
+II. Installation
+III. Protection contre la copie StarForce
+IV. Lancer le jeu
+V. Commandes
+VI. Mémoire et performances
+VII. Cartes son et cartes graphiques
+VIII. Problèmes connus
+IX. Sites web Second Sight
+X. Contactez-nous
+ 
+--------------------------------------------
+I. Introduction :
+--------------------------------------------
+Merci d&#039;avoir acheté Second Sight. Ce fichier contient des informations
+techniques détaillées. Lisez-le attentivement.
+-----------------------
+Configuration minimum :
+-----------------------
+- Windows XP/2000
+- DirectX 9.0c
+- Processeur Pentium III ou Athlon cadencé à 1 GHz
+- 256 Mo de RAM
+- Carte graphique prise en charge
+- Carte son compatible DirectX 9
+- Lecteur de CD-ROM 8x
+- 1 Go d&#039;espace disque disponible
+
+---------------------------
+Configuration recommandée :
+---------------------------
+- Windows XP/2000
+- DirectX 9.0c
+- Pentium 4 cadencé à 2 GHz ou AthlonXP 2000+
+- 512 Mo de RAM
+- Carte graphique : GeForce FX 5xxx ou Radeon 9xxx
+- Carte son compatible DirectX 9
+- Lecteur de CD-ROM 32x
+- 1 Go d&#039;espace disque disponible
+
+-----------------------------------
+Cartes graphiques prises en charge :
+-----------------------------------
+- ATi Radeon 8500, 9000, 9100, 9200, 9500, 9600, 9700, 9800, X600, X800
+- nVidia GeForce 3 Ti200/Ti500, GeForce4 MX420/MX440, Ti4200/Ti4600,
+GeForce FX5200/FX5600/FX5700/FX5800/FX5900/FX5950
+GeForce 6800GT.
+
+Non compatible avec les cartes sonores/graphiques intégrées (ordinateurs portables inclus)
+
+--------------------------------------------
+II. Installation
+--------------------------------------------
+Insérez le disque de Second Sight. Si la notification d&#039;insertion automatique est activée,
+l&#039;installation commencera automatiquement. Dans le cas contraire, ou si le programme
+d&#039;installation ne se lance pas, déroulez le menu Démarrer, choisissez Exécuter et
+tapez &#039;D:\disc1\setup&#039;, où &#039;D&#039; désigne la lettre correspondant à votre lecteur CD/DVD.
+Le système vous demandera de choisir la langue d&#039;installation. Sélectionnez-la dans la liste.
+Pour continuer l&#039;installation, suivez les indications à l&#039;écran.
+
+--------------------------------------------
+III. Protection contre la copie StarForce
+--------------------------------------------
+Second Sight utilise le système de protection contre la copie StarForce. Lors du
+premier lancement du jeu, vous devrez redémarrer votre ordinateur pour finaliser
+l&#039;installation des pilotes StarForce.
+Les pilotes StarForce ne sont pas désinstallés en même temps que Second Sight, ce
+qui peut causer des problèmes. L&#039;utilitaire permettant de désinstaller ces pilotes se
+trouve sur le CD de Second Sight, dans le répertoire &#039;Utils&#039;.
+Pour désinstaller ces pilotes :
+Allez dans Démarrer -&gt; Exécuter et tapez &#039;D:\utils\sfclean.exe&#039;, où &#039;D&#039; désigne la lettre
+correspondant à votre lecteur CD/DVD.
+Cependant, si vous avez désinstallé ces pilotes et que vous lancez Second Sight à nouveau,
+ou tout autre jeu protégé, les pilotes seront réinstallés. Pour plus d&#039;informations sur la
+protection contre la copie StarForce, consultez le site web
+StarForce Technologies International (http://www.star-force.com)
+
+--------------------------------------------
+IV. Lancer le jeu
+--------------------------------------------
+Une fois le jeu Second Sight installé, un raccourci apparaît sur votre bureau.
+Double-cliquez pour lancer le jeu.
+Vous pouvez également procéder de la façon suivante :
+Menu Démarrer -&gt; Programmes -&gt; Codemasters -&gt; Second Sight -&gt; Second Sight.
+ 
+--------------------------------------------
+V. Commandes
+--------------------------------------------
+
+Les commandes clavier par défaut sont les suivantes :
+DÉPLACEMENTS :
+--------------
+AVANCER Z FLÈCHE HAUT
+RECULER S FLÈCHE BAS
+PAS À GAUCHE Q FLÈCHE GAUCHE
+PAS À DROITE D FLÈCHE DROITE
+ARMES :
+-------
+PSI PRÉCÉDENT N
+PSI SUIVANT , MOLETTE SOURIS VERS LE BAS
+ARME SUIVANTE G MOLETTE SOURIS VERS LE HAUT
+ARME PRÉCÉDENTE B
+VISER/LEVER BRAS BOUTON DROIT SOURIS
+TIRER BOUTON GAUCHE SOURIS
+LANCE-FLÉCHETTES 1
+PISTOLETS 2
+MITRAILLEUSE 3
+FUSIL À POMPE 4
+FUSIL DE SNIPER 5
+AUTRES :
+--------
+S&#039;ACCROUPIR/CESSER PROJECTION C
+CORPS À CORPS F
+CHANGEMENT CAMÉRA MAJ GAUCHE
+ACTION ESPACE
+VUE 1ÈRE/3E PERSONNE CTRL GAUCHE
+CHANGEMENT RAPIDE A BOUTON MILIEU SOURIS
+COLLÉ AU MUR/ARRÊTER E
+ 
+--------------------------------------------
+VI. Mémoire et performances
+--------------------------------------------
+Second Sight requiert au moins 256 Mo de RAM et un processeur 1 GHz.
+Les performances du jeu seront meilleures si vous disposez de plus de RAM, d&#039;un processeur
+plus rapide et d&#039;une carte graphique plus performante. Quelle que soit la configuration de
+votre ordinateur, vous pouvez optimiser la mémoire disponible et améliorer les performances
+du jeu en procédant ainsi :
+&#8226; Fermez tous les programmes qui ne sont pas nécessaires au fonctionnement de Windows,
+comme les programmes de chat ou les anti-virus.
+&#8226; Défragmentez votre disque dur régulièrement.
+&#8226; Augmentez la quantité d&#039;espace disque disponible.
+ 
+--------------------------------------------
+VII. Cartes son et cartes graphiques
+--------------------------------------------
+CARTES GRAPHIQUES
+Second Sight requiert une carte graphique disposant d&#039;une accélération matérielle 3D
+et d&#039;au moins 64 Mo de RAM. Les pilotes de votre carte graphique doivent prendre en charge
+DirectX 9 ou une version plus récente. Si vous rencontrez des problèmes en jouant,
+assurez-vous que les pilotes de votre carte graphique sont à jour avant de contacter
+le support technique.
+CARTES SON
+Si vous rencontrez des problèmes sonores (bruits parasites, par exemple),
+il sera peut-être nécessaire de désactiver l&#039;accélération matérielle. Pour ce
+faire, allez dans Démarrer - Paramètres - Panneau de configuration - Sons et désactivez le paramètre
+correspondant à l&#039;accélération matérielle audio.
+Certains utilisateurs rencontreront des problèmes sonores s&#039;ils utilisent une carte
+nForce intégrée en même temps que certaines cartes graphiques.
+Si le problème persiste une fois vos pilotes nForce mis à jour, rétablissez la carte graphique intégrée.
+ 
+--------------------------------------------
+VIII. Problèmes connus
+--------------------------------------------
+1. Second Sight n&#039;est pas compatible avec les options d&#039;anticrénelage forcées.
+Veuillez désactiver toute option d&#039;anticrénelage avant de lancer le jeu.
+2. Les utilisateurs de Windows 2000 observeront peut-être des problèmes de
+performance s&#039;ils n&#039;ont pas installé le Service Pack 4. Veillez à utiliser le
+Service Pack le plus récent pour votre système d&#039;exploitation.
+3. Second Sight n&#039;est pas compatible avec l&#039;application Refresh Force.
+Les utilisateurs qui ont installé cet utilitaire ne pourront peut-être
+pas modifier la résolution graphique à partir du jeu.
+4. Les utilisateurs doivent disposer des droits administrateurs pour pouvoir installer et lancer le jeu.
+5. Dans le jeu d&#039;arcade &quot;Earth Impact&quot;, le bouton de tir n&#039;est pas correctement désigné ;
+utilisez le bouton gauche de la souris pour tirer.
+
+--------------------------------------------
+IX. Sites web Second Sight
+--------------------------------------------
+Codemasters
+http://www.codemasters.com/
+Si vous rencontrez des problèmes en jouant, essayez de mettre à jour les pilotes de votre carte graphique
+à partir d&#039;un des sites web suivants avant de contacter le support technique :
+ATI Technologies
+http://www.ati.com/
+Creative Labs
+http://www.creative.com/
+NVIDIA
+http://www.nvidia.com/
+ 
+--------------------------------------------
+X. Contactez-nous
+--------------------------------------------
+Toutes les demandes d&#039;assistance technique doivent être adressées via
+le formulaire d&#039;assistance : http://www.codemasters.fr/support/contact.php
+Vous pouvez nous adresser toutes vos questions concernant des commandes
+électroniques, les dates de sortie des jeux, la disponibilité, etc. à :
+SUPPORT EUROPE
+==============
+Email de Codemasters :
+custservice@codemasters.com
+SUPPORT US
+==========
+Codemasters E-mail:-
+custservice@codemastersusa.com
+Vous pouvez également contacter l&#039;assistance clientèle par téléphone au :
++44 (0) 870 7577881
+Nos horaires :
+Lundi 0900-1730, mardi - vendredi 0800-2000, samedi 1000-1600.
+ 
+© 2004 Free Radical Design Limited. Tous droits réservés. &quot;Second Sight&quot;&#8482;
+et &quot;Free Radical Design&quot;&#8482; sont des marques de Free Radical Design Limited.
+Développé par Free Radical Design Limited. Edité par The Codemasters
+Software Company Limited (&quot;Codemasters&quot;). &quot;Codemasters&quot;® est une marque déposée et
+&quot;GENIUS AT PLAY&quot;&#8482; est une marque de Codemasters. Toute copie, adaptation, location, revente, utilisation
+en salle de jeu, utilisation payante, émission, transmission par câble, utilisation publique, distribution
+ou extraction non autorisée de ce produit, d&#039;une marque ou d&#039;un élément protégé par copyright faisant
+partie de ce produit est interdite.
+ 
+
+
+ 
+
+LE JEU EST-IL ÉDITABLE ? 
+
+Pour ce qui est de la création de mods dans le jeu (car cet article se doit d&#039;être bien plus complet que tout ce que les forums, les blogs de journaliste et les articles de Wikipédia vous offre comme information), la version PC utilise des fichiers d&#039;archives .PAK pour compiler ses fichiers Les sons sont en .ogg
+Les cutscenes sont faîtes avec des fichiers .RAW (mais je ne comprend pas la mention &quot;ps2&quot; dans l&#039;arborescence...c&#039;est le jeu sur PC que j&#039;ai!)
+
+ Tandis que pour les scripts dans le jeu (prenant en compte votre état) sont en .war
+
+ Les textures sont en fichier .DDS
+
+
+Donc la principale contrainte pour créer des mods est l&#039;extraction des fichiers .PAK mais aussi des fichiers de script .war car ABSOLUMENT PERSONNE N&#039;EMPLOIS CE FORMAT DE SCRIPT DANS UN JEU EN .EXE!
+ 
+À la base, le .war est une extension du .ZIP (ça part mal, on est sur du .PAK) et son extension provient de &quot;Web application Archive&quot;...Je tiens à rappeler que Second Sight n&#039;est pas un jeu Online et n&#039;a pas de mode multijoueur ! 
+(Source: https://fr.wikipedia.org/wiki/WAR_(format_de_fichier) )
+
+
+Pour ce qui est du .PAK, c&#039;est normal de l&#039;utiliser même si c&#039;est surtout Electronic Arts qui l&#039;emploi comme fichier d&#039;archive pour les données de jeu!
+ (Source: https://www.reviversoft.com/fr/file-extensions/pak )
+ 
+J&#039;ai essayé plein de logiciel pour extraire les fichiers des .PAK mais il n&#039;y en a qu&#039;un seul qui arrive à le faire pour Second Sight et c&#039;est Game Extractor: https://sourceforge.net/projects/gameextractor/
+ 
+Mais de toute façons, à part pour changer vous amusez à démolir votre jeu, je ne vois pas vraiment à quoi ça sert de s&#039;amuser à extraire quand on ne sait pas re-créer un fichier .PAK... pour ma part, j&#039;ai surtout fait tout ça pour voir comment a été fait le jeu et aussi reprendre les sons!
+ 
+Sinon, j&#039;ai envie de trouver le moyen de reprendre les fichiers 3D du jeu mais il semblerait que ce soit des scripts en .raw qui s&#039;occupe des modèles 3D... &#039;tain, en faîtes, ce jeu c&#039;est un ensemble de .raw dans des .pak !  IMPOSSIBLE À MODDER!!!!
+ 
+Aller, je pense avoir tout dit sur ce jeu et j&#039;espère un jour pouvoir convertir mes .raw en fonction de leurs contenus!(c&#039;est déjà bien que les .ogg sois des fichiers audios que n&#039;importe quel ordinateur d&#039;aujourd&#039;hui puisse lire)
+ 
+KidpaddleetcieGlin
+
+
+
+
+
+
+EXTENSION DE MARS &amp; AVRIL 2020: Les bugs du jeu
+
+Je tiens à revenir sur cet article de décembre 2018 pour vous mettre au courant de certain bugs du jeu:
+
+1. La vue subjective (FPS)
+
+
+Le jeu étant un TPS avec une caméra dans le dos de votre personnage ( comme tout les jeux de ce type aujourd&#039;hui), la vue subjective n&#039;a pas vraiment eût beaucoup d&#039;optimisation !
+
+
+Le bug est simple et fait planter le jeu (la preuve: https://twitter.com/Kidpaddleetcie/status/1242211872037908483 ) !
+
+Mettez-vous en vue subjective (Touche &quot;Ctrl&quot;) et mettez-vous à tirer avec votre NSE et, au moment où vous avez plein d&#039;ennemis face à vous, changer l&#039;arme par le pouvoir &quot;impulsion psychique&quot; !  C&#039;EST UN CRASH !
+
+2. Les portes
+
+Les portes ne buggent pas toutes mais des fois elles se ferment toutes seules ou refusent de se fermer alors que vous vous en éloignez ou que vous allez derrière pour les fermer !
+
+Le moteur physique sur les portes est compliqué, si on voulait faire une speedrun du jeu, il faudra toujours dégager le passage vers les portes !
+
+3. Les balles sans dégâts
+
+
+Depuis le début du jeu, on a aucune notion de porté des armes et de nos pouvoirs... pourquoi quand on tire de loin sur un ennemi (par exemple celui qui est au bout du couloir dans la deuxième partie du niveau &quot;démence&quot;), il agit comme si on lui avait tirer sur un membre comme le ventre alors qu&#039;on lui a tirer dans la tête très distinctement ? 
+
+
+J&#039;émet la théorie comme quoi la gestion des zones de collision se fait en fonction de la vision de l&#039;ennemi et donc sa place à l&#039;écran !  S&#039;il est trop éloigné, ce n&#039;est plus qu&#039;un rectangle ne pouvant accueillir l&#039;input &quot;blessure non-mortelle&quot; !
+
+4. L&#039;intelligence artificielle
+
+De temps en temps, l&#039;ennemi voudra briller devant ses camarades en voulant contourner un obstacle ou chercher une brèche dans votre défense... c&#039;est bien mais si c&#039;est pour tirer sur ses camarades jusqu&#039;à les tuer, c&#039;est pas vraiment très &quot;intelligent&quot; ( et la mort du PNJ sera compter dans les innocents tués ou les agents tués par vous... l&#039;intelligence artificielle n&#039;assume pas ses bavures !) !
+
+Des fois, ils resteront à 3 à surveiller l&#039;endroit où vous êtes cachés sans pour autant tenter de vous y déloger... hors bug, ils sont censé garder un en retrait et un autre ouvre la planque où êtes loger ! C&#039;est quand même ballot !
+
+5. Soft Lock le combat final
+
+
+Si vous profiter de votre pouvoir &quot;projection&quot; pour ouvrir aux enfants avant même d&#039;avoir eût la première cinématique avec Hanson, vous allez devoir recommencer le niveau parce qu&#039;après avoir fait le grand carnage, les enfants ne vont pas lever le petit doigt pour défoncer la barrière qui vous sépare du directeur général de la National Security Executive !
+
+
+Le pire c&#039;est que ce bug nous donne de l&#039;espoir, on se dit qu&#039;on allait pouvoir sortir du soft lock en mettant la pause ( touche &quot;TAB&quot; ) ou devoir tirer sur les enfants... rien à faire,ils font des bruits ( des cris de douleurs ) mais ils sont invincibles comme dans Skyrim !
+
+En plus, pour bien mettre la pression, il y a Hanson qui continue de nous emmerder avec ces remarques désobligeantes...et sans la musique de fond, c&#039;est creepy as fuck !
+
+
+Si vous cherchez de plus amples informations In-Game, vous pouvez consultez les biographies et les fiches des pouvoirs comme celles des armes en allant dans le menu de la touche &quot;Tab&quot; ou en vous rendant sur ce Wiki fait par des fans (attention, ce n&#039;est pas traduit en français): https://secondsight.fandom.com/wiki/Second_Sight_Wiki
+
+
+AJOUT DU 8 AVRIL 2022
+
+
+Il semblerait que la version GameCube peut avoir du ActionReplay pour débloquer tout les pouvoirs et les armes.
+
+
+https://www.youtube.com/watch?v=aKg-Hhwmwvs&amp;ab_channel=WERTESCin%C3%A9Film
+
+
+En effet, il y a bien des CheatCodes d&#039;ActionReplay sur la version US du jeu sur GameCube : https://etherealgames.com/gcn/s/second-sight/action-replay-codes-us/
+
+
+Il y a également la même chose pour la version EU du jeu sur GameCube : https://etherealgames.com/gcn/s/second-sight/action-replay-codes-eu/
+
+
+Personnellement, ayant le jeu sur PC dans sa version définitive, je ne m&#039;y tenterais pas.
+
+
+Sachez que le jeu est de retour sur Steam  : https://store.steampowered.com/app/11550/Second_Sight/?l=french
+
+
+Vous pouvez voir le manuel ( HYPER-MOCHE ) ici : https://cdn.cloudflare.steamstatic.com/steam/apps/11550/manuals/SS%20ManInn%20PC%20FR%20v003%20combined.pdf?t=1617889764
+
+
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

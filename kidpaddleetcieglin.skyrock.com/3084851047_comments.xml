@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Ecolo appelle à faire barrage ! 31 janvier 2012 sur &quot;web4.ecolo.be&quot; - Commentaires</title>
+  <description>Malgré la mobilisation de nombreux élus, associations et ONG, 22 Etats de l&#8217;Union européenne, dont la Belgique, ont signé le 26 janvier dernier le traité anti-contrefaçon « ACTA », enclenchant ainsi sa procédure de ratification au sein du Parlement européen et des parlements nationaux.
+
+
+Pour l&#8217;ensemble des écologistes belges et européens, cette signature démontre une nouvelle fois au mieux une insouciance dangereuse, au pire une volonté affichée de céder à la logique de privatisation des biens communs de la planète.
+ 
+Les responsables gouvernementaux européens font ici la démonstration que les intérêts commerciaux et financiers de quelques uns pèseraient plus que la défense de l&#8217;intérêt général. Rappelons qu&#8217;en signant le texte, ils font également fi de l&#8217;avis de juristes ayant pointé l&#8217;incompatibilité du texte avec le droit européen, dont la Charte européenne des droits fondamentaux et la Convention européenne des droits de l&#8217;Homme.
+ 
+Avec et au nom des écologistes européens, nous appelons donc le Parlement européen à défendre les droits des citoyens qu&#8217;il représente et à faire barrage à ACTA qui restreint non seulement les libertés publiques et l&#8217;accès aux savoirs, notamment sur internet, mais qui fait aussi peser de lourdes interrogations en matière d&#8217;accès aux médicaments génériques et de brevetabilité du vivant.
+ 
+Citoyens, société civile, élus européens et nationaux doivent se mobiliser au-delà des clivages partisans contre ce texte. Les Etats font la sourde oreille, préférant à la défense de l&#8217;intérêt public celle de quelques intérêts privés comme ceux de l&#8217;industrie du divertissement ou des firmes pharmaceutiques et biotechnologiques, soit. Nous saurons y répondre par la mobilisation politique et citoyenne.
+ 
+Le Gouvernement belge estime-t-il, à contrario des analyses juridiques, que le traité ACTA respecte les libertés individuelles ? Un débat public et transparent sera-t-il enfin organisé en Belgique sur ce sujet d&#8217;importance ? Le Sénateur Jacky Morael interpellera le Ministre en charge des relations extérieures sur ces questions. En cas de réponse négative, les écologistes estiment qu&#8217;il y aura lieu de mettre en question la ratification de cet accord par les parlements belges.
+ 
+La pression exercée par plus de 7 millions de citoyens et élus a permis de faire reculer les projets de loi visant les mêmes objectifs de privation SOPA et PIPA aux Etats-Unis. En Europe, montrons au monde que nous sommes attachés et savons défendre nos valeurs fondatrices et ses libertés.
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

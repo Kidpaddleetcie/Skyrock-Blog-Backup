@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide informatique]Introduire une vidéo en HTML 5 - Commentaires</title>
+  <description>En octobre 2014, HTML 5 est arrivé avec une fonctionnalité assez intéressante pour les gens désirant mettre un lecteur vidéo dans leurs pages Web! Plus besoin d&#039;employer Flash Player pour regarder vos vidéos, le navigateur s&#039;en charge.
+
+
+Voici le code:
+&lt;video width=&quot;largeur&quot; height=&quot;hauteur&quot; controls=&quot;controls&quot;&gt;
+&lt;source src=&quot;nom du fichier vidéo&quot; type=&quot;video/extension&quot; /&gt;
+&lt;/video&gt;
+
+
+ Décortiquons et comprenons:
+ 
+Au début, nous avons: 
+&lt;video width=&quot;largeur&quot; height=&quot;hauteur&quot; controls=&quot;controls&quot;&gt;
+ 
+Qui signifie qu&#039;on annonce qu&#039;on introduit un lecteur de vidéo, ses dimensions (largeur/hauteur) et qu&#039;il emploi son contrôleur de base.
+source: http://www.alsacreations.com/article/lire/1125-introduction-balise-video-html5-mp4-h264-webm-ogg-theora.html
+
+ 
+Ensuite:
+&lt;source src=&quot;nom du fichier vidéo&quot; type=&quot;video/extension&quot; /&gt;
+
+
+On précise le nom de la vidéo (&quot;le nom de ma vidéo.mp4&quot; par exemple) et on dit comment on lit la vidéo (&quot;video/mp4&quot; par exemple).
+ 
+On peut faire plusieurs ligne comme celle-ci pour permettre des alternatives afin que tout les navigateurs puissent voir la vidéo.
+ 
+Sur YouTube, par exemple, vous retrouver ce code qui signifie que la vidéo est visible en &quot;.mp4&quot; et &quot;.webm&quot;.
+ 
+ &lt;source src=&quot;nom du fichier vidéo.webm&quot; type=&quot;video/webm&quot; /&gt;
+
+
+&lt;source src=&quot;nom du fichier vidéo.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+ 
+ 
+Terminons en fermant le code avec &lt;/video&gt; !</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

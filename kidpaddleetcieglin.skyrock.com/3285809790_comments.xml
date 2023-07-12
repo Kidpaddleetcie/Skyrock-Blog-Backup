@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide informatique]La composition d&#039;une page HTML - Commentaires</title>
+  <description>Une page HTML prend cette forme sur le web:
+ 
+&lt;!DOCTYPE html&gt;
+&lt;html lang= &quot;fr&quot;&gt;
+ 
+&lt;head&gt;
+&lt;title&gt;Ce qui va s&#039;afficher comme nom d&#039;onglet&lt;/title&gt;
+&lt;meta charset= &quot;utf-8&quot;&gt;
+ 
+&lt;meta name=&quot;description&quot;
+content=&quot;Description de votre page pour les résultats de recherche comme Google&quot;&gt;
+&lt;meta name=&quot;keywords&quot;
+content =&quot; premier mot-clé, deuxième mot-clé,troisième mot-clé&quot;&gt;
+ 
+&lt;style&gt;
+TOUT LE CONTENU CSS ET C&#039;EST PAS POUR TOUT DE SUITE POUR MON CAS,REVENEZ PLUS TARD
+&lt;/style&gt;
+
+&lt;/head&gt;
+ 
+&lt;body&gt;
+J&#039;écris un texte qui emplois &quot;&lt;br/&gt;&quot; pour faire un &quot;enter&quot;!
+ 
+Pour faire un nouveau paragraphe, je dois entouré mon texte à mettre en paragraphe avec des &lt;p/&gt;
+ 
+Si vous voulez insérer un lien qui va s&#039;ouvrir dans un nouveau onglet, vous faîtes juste
+&quot; &lt;a href=&quot;le lien HTML de la page où vous voulez envoyez la personne qui va cliquer&quot;
+target=&quot;_blank&quot;&gt;texte qui va faire le lien hypertexte&lt;/a&gt; &quot;
+ 
+
+Pour insérer une image qui va s&#039;afficher avec un lien cliquable à l&#039;intérieur et une description si on passe le curseur dessus, il suffit de respecter ce code:
+&quot; &lt;a href=&quot;le domaine du site&quot;&gt;&lt;img src=&quot;le nom de l&#039;image avec son extension&quot; alt=&quot;la description de l&#039;image&quot;/&gt;&lt;/a&gt; &quot;
+ 
+
+Pour créer une liste non-ordonnée (sans les chiffres), on emploi un système comme ça:
+
+&lt;h2&gt;Nom de la liste&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;premier élément de la liste&lt;/li&gt;
+&lt;li&gt;deuxième élément de la liste&lt;/li&gt;
+&lt;li&gt;troisième élément de la liste&lt;/li&gt;
+&lt;li&gt;quatrième élément de la liste&lt;/li&gt;
+&lt;/ul&gt;
+ 
+ 
+CE QUI DONNERA:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vous pouvez créer un tableau en ligne horizontale (sans colonne) et il y a plusieurs balise à faire:
+ 
+ &lt;table&gt;
+&lt;tr&gt;
+&lt;th&gt;Une première variable&lt;/th&gt;
+&lt;th&gt;Une deuixème variable&lt;/th&gt;
+&lt;th&gt;Une troisième variable&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lol&lt;/td&gt;
+&lt;td&gt;MDR&lt;/td&gt;
+&lt;td&gt;PTDR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Salut&lt;/td&gt;
+&lt;td&gt;Coucou&lt;/td&gt;
+&lt;td&gt;Bonjour&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+CE QUI DONNERA:
+
+
+ 
+ 
+ 
+ 
+Plus d&#039;information sur les tableaux ici: 
+http://formation.upyupy.fr/html-xhtml/tableaux-html/
+
+ 
+Pour faire un faux lien, il suffit mettre une dièse après un appel de lien, donc le code est:
+href=&quot;#&quot;
+ça peut servir quand on attend pour mettre un lien, on remplacera la dièse plus tard!
+ 
+ 
+Nous avons aussi les balises &lt;iframe&gt;...&lt;/iframe&gt; qui sert à gérer un cadre,intégrer un contenu par exemple:
+&lt;iframe&gt; src=&quot;page web à intégrer&quot; width=&quot;largeur de l&#039;élément&quot;
+height= &quot;hauteur de l&#039;élément&quot; &gt;texte invisible&lt;/iframe&gt;
+ 
+Plus d&#039;information sur le &lt;iframe&gt; ici: 
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/iframe
+ 
+ 
+À tout moment, vous pouvez arranger l&#039;esthétique des éléments de votre page avec les balises:  &quot;&lt;style&gt;...&lt;/style&gt;&quot;
+MAIS ON RENTRE DANS LE CSS QUAND ON JOUE AVEC L&#039;ESTHÉTIQUE DE LA PAGE!
+ 
+&lt;/body&gt;
+&lt;/html&gt;</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

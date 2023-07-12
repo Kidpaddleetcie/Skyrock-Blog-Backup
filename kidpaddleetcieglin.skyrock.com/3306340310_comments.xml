@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Chanson2Glin]Mensonges à vous! - Commentaires</title>
+  <description>
+Perdu dans un songe,
+À revoir la cohérence de nos mensonges,
+Sommes-nous vraiment prêts à passer l&#039;éponge,
+Sur toutes ces non-vérités qui nous rongent ?
+ 
+Qui est le premier qui a dit qu&#039;on pouvait être tous égaux,
+N&#039;a-t &#039;il pas compris qu&#039;on est tous différent avec chacun ses oripeaux,
+Qui est le primitif qui nous fait croire à un monde infini,
+N&#039;a-t &#039;il pas saisi qu&#039;on produit de plus en plus en gros pour un nombre toujours plus petit ?
+ 
+Qui est le sot qui a dit que la suprématie de Staline était communiste,
+N&#039;a-t &#039;il pas fait le parallèle avec un autre régime nazi ou fasciste,
+Qui est l&#039;idiot qui a annoncé que le capitalisme allait nous rassemblés,
+N&#039;a-t &#039;il pas pensé à Machiavel et son « diviser pour mieux régner » ?
+ 
+Qui est l&#039;aliéné qui a osé nous mettre dans la tête que tout était la faute des travailleurs,
+N&#039;a-t &#039;il pas omis l&#039;idée qu&#039;ils ne sont que des exécuteurs,
+Qui est l&#039;aveuglé qui croit que ce sont les patrons le mal du grand capital,
+N&#039;a-t &#039;il pas regardé qui sont ceux qui gèrent les dépenses salariales ?
+ 
+Mensonges à vous,
+Vous qui croyez en tout,
+Tout ce qui ne vous ménage pas pour un sou,
+Soumis que vous êtes aux manitous,
+Manitous aidés par les lois du marché rendant indigestes les feuilles de choux,
+Chouchoutes des vielles personnes en manque de vous...</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

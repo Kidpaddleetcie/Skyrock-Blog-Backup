@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation2Glin]L&#039;évolution du support de l&#039;image(partie 4:La Renaissance et les Temps Modernes)! - Commentaires</title>
+  <description>La Renaissance et les temps modernes : L&#039;impression et la peinture à l&#039;huile 
+
+
+À la fin du 15ème siècle, après les premières guerres de religion et la redécouverte des arts antiques offerts par nos amis les arabes ainsi que quelques connaissances supplémentaires afin de repartir sur de bon rail après la période d&#039;obscurantisme. C&#039;est également à cette époque où nous connaîtrons pleins de peintre comme Leonardo Da Vinci et Michel Ange.
+ 
+Le papier, transmis par les arabes en 751 grâce à une victoire contre les chinois qui l&#039;avaient découvert en l&#039;an 100, sera enfin utilisé de manière universelle. Ce papier sera d&#039;abord fait à base de pâte de bois obtenue en râpant le bois (pâte mécanique ou thermomécanique) avant que nos industries modernes utilisent la chimie.
+ 
+
+ 
+
+C&#039;est aussi à cette époque que l&#039;imprimerie fera son apparition (vers 1440) grâce aux recherches de Johannes Gutenberg ce qui donnera au papier une place privilégiée dans les premières industries de l&#039;image mobile et temporel (Le papier peut être déchiré, envoyé, plié, ... contrairement à une pierre, un vitrail, une poterie ou encore un dessin sur un mur !).
+ 
+
+Nous n&#039;allons pas nous attarder sur les différentes techniques d&#039;impression mais sachez que dès cette époque-là, le papier est LE support de l&#039;image le plus utilisé, notamment par les peintres, architectes, herboristes, ... Il s&#039;impose dans tous les domaines de l&#039;art à la science en passant par la religion car même la bible sera imprimée sur papier.
+
+
+Sources:
+
+
+
+sbetty. (2017, Mars 31). L&#039;évolution de l&#039;image.
+Récupéré sur intellego.fr: https://www.intellego.fr/soutien-scolaire-1ere-annee-cap/aide-scolaire-francais/l-evolution-de-l-image/51496
+
+
+
+Pierre-Michel, D. (2017, Mars 31). De l&#039;argile au papier,tous les supports de l&#039;écriture à travers le temps...
+Récupéré sur partagerdespratiques.be: http://www.partagerdespratiques.be/construireletemps/resources/Des-pratiques-pour-construire-le-temps/De_l_argile_au_papier.pdf
+
+
+lithographie-collection. (2017, Mars 31). Les techniques d&#8217;impression en détail.
+Récupéré sur lithographie-collection.com: https://lithographie-collection.com/techniques-impression-detail
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

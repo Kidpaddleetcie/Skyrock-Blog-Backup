@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Réflexion2Glin]Ne pas mettre de &quot;  ^^ &quot; ou de &quot;  ;)  &quot; dans un commentaire parlant de suicide! - Commentaires</title>
+  <description>En regardant les commentaires de la vidéo de Caljbeut 
+( https://www.youtube.com/watch?v=sI-XdzIXxK8 ) j&#039;ai été choqué par une discussion qui parlait du suicide de Alicia!
+ 
+Voici un petit screenshot: 
+ 
+Franchement,changer les &quot; ^^&quot; par un &quot;mouahahahahahaaaaaaa&quot; et les &quot; ;) &quot; par &quot;héhé&quot;!
+ 
+C&#039;est aussi glauque que voir Marc Dutrou dans une crèche...
+ 
+ 
+ 
+Voila,ça me semble être évident mais j&#039;aime que ça soit clair!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

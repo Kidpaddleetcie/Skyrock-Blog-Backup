@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Pourquoi?]Je n&#039;aime pas Cédric! - Commentaires</title>
+  <description>Vous savez que j&#039;adore Kid Paddle mais seulement les deux premiers albums et que j&#039;aime un peu les suivants? Bah Cédric,j&#039;aime pas alors que c&#039;est aussi l&#039;histoire d&#039;un gosse qui vit des péripéties avec ses amis! 
+ 
+ 
+
+
+Il y a plusieurs choses que je n&#039;aime pas dans Cédric et les voici déjà en sommaire!
+-Le manque d&#039;aventure
+-La non-évolution du personnage
+-Le manque de personnage pour habiller les fonds
+-Le centrisme sur Cédric!
+ 
+Le manque d&#039;aventure
+Je suis bien au courant que Cédric est une bande-dessiné à épisode où chaque épisode-histoire se joue en une à cinq planches mais l&#039;aspect &quot;aventure&quot; que j&#039;aurais aimé avoir est la confrontation avec des sujets durs comme la mort, le divorce, le harcèlement,...
+ 
+Bien sur, c&#039;est compliqué de parler de ce genre de chose dans une bande-dessiné destinée aux jeunes mais les seules fois où ces sujets sont mentionnés, c&#039;est juste les amis de Cédric ou encore des gens proches des amis de Cédric qui en sont victimes! Cédric n&#039;est que spectateur et jamais vraiment acteur des problèmes mentionnés!
+ 
+La non-évolution du personnage
+Oui,je sais, Cédric joue au jeux-vidéos,à la tablette ou à son smartphone MAIS IL A TOUJOURS LA MÊME TRONCHE ET IL A TOUJOURS DES EXCÈS D&#039;HUMEURS TOUTES LES QUATRE PLANCHES! 
+ 
+C&#039;est vraiment le fait qu&#039;il n&#039;apprend pas de ses précédentes &quot;aventures&quot; qui est irritant à mes yeux!
+ 
+Le manque de personnage pour habiller les fonds
+C&#039;est pas vraiment un soucis d&#039;écriture mais plus de détachement à l&#039;écriture! Quand un personnage est présent dans une case, il doit servir à quelque chose obligatoirement dans Cédric...ce qui fait que nous avons souvent des lieux publiques sans public sauf si il y a une animation/fête.
+ 
+Le centrisme sur Cédric
+Lorsque j&#039;ai lu une certaine planche de Cédric où on apprenait un peu plus sur la vie de son pépé du temps où il avait encore sa femme, j&#039;ai été choqué de par la jouissive cassure que l&#039;ambiance et la narration amenait! Les cases n&#039;étaient plus hyper-colorées, le personnage central était le pépé de Cédric,il y avait une narration, les personnages du passé ne parlait pas et l&#039;ambiance passait du triste au morbide en passant au macabre! 
+ 
+Cette histoire se trouve dans l&#039;album &quot;On se calme&quot; (album n°19) de la page 18 à la page 23 et elle se nomme &quot;le meilleur ami de l&#039;homme&quot;!
+ 
+Il y a aussi une autre histoire décentré de Cédric dans l&#039;album &quot;Cygne d&#039;étang&quot; (album n°11) de la page 43 à la page 46 et elle se nomme &quot;Homme à tout faire&quot;! Cette histoire possède la mère de Cédric en tant que narratrice et met en avant une différence entre le mari qu&#039;est le sien et le mari qu&#039;était le pépé de Cédric pour sa femme qui fût la mère de la mère de Cédric!
+ 
+J&#039;aime énormément ces cassures car ça amène des réflexions sur notre époque depuis les yeux du scénariste,qui va avoir 80 ans le 26 septembre 2018, RAOUL CAUVIN!
+ 
+J&#039;aimerais qu&#039;il mettent plus de ces moments où des personnages font des narrations de leurs jeunesses car Raoul Cauvin a de l&#039;expérience à re-vendre, probablement des souvenirs à raconté avec le personnage de pépé (il l&#039;a déjà d&#039;ailleurs, il peut donc continuer)!
+ 
+Voila, je termine donc ce &quot;[Pourquoi?]&quot; avec un simple &quot;Merci&quot; pour Raoul Cauvin et Laudec (ainsi que Leonardo, le coloriste) pour cette BD même si je ne suis probablement plus dans le public cible!
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Informatique]Créer une liste de valeurs en javascript - Commentaires</title>
+  <description>Quand on veut ne pas s&#039;embêter à noter toutes les valeurs que peut obtenir une variante, on peut utiliser le Array!
+https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/les-objets-et-les-tableaux
+ 
+Il m&#039;est impossible pour l&#039;instant de vous expliquer comment on fait vu qu&#039;il y a plusieurs notions à mettre en place pour lui trouver une utilité!
+ 
+Moi,pour ma part, je l&#039;ai employé pour donner la valeur de Pi en fonction de son ordre en décimal!
+ 
+En gros, je demande un chiffre entre 1 et 10 (1 et 10 inclus) et le programme se contente d&#039;aller voir à quel valeur de décimal de Pi ça correspond!
+
+&lt;!doctype html&gt;
+&lt;html&gt;
+&lt;meta charset = &quot;UTF-8&quot;&gt;
+&lt;title&gt;Tableau&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;script&gt;
+var decimals = new Array (1,4,1,5,9,2,6,5,3,5);
+var number= prompt (&quot;Entrez un nombre&quot;);
+while(number &gt;=1 &amp;&amp; number &lt;= 10){
+alert(decimals[number-1]);
+number = prompt (&quot;Entrez un nombre)&quot;);
+}
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+ 
+La notion en plus sont donc &quot;new Array&quot; qui sert à donner les réponses selon un ordre défini.
+Grâce à &quot;var number=prompt (&quot;Entrez un nombre&quot;);&quot; on demande à l&#039;utilisateur de taper le chiffre correspondant à la position d&#039;un chiffre dans la liste... un chiffre de position!
+ 
+Grâce à &quot; while (number &gt;=1 &amp;&amp; number &lt;=10){ &quot; ainsi que le fameux &quot; } &quot; , nous créons une boucle qui ne fonctionne que si l&#039;utilisateur introduit un chiffre compris entre 1 et 10 inclus!
+ 
+D&#039;ailleurs, dans la boucle se trouve ce script:
+------------------------------------------------------------------------------
+alert(decimals[number-1]);
+number = prompt (&quot;Entrez un nombre)&quot;);
+------------------------------------------------------------------------------
+Il sert à faire apparaître une boite de dialogue pour afficher la décimal de Pi par rapport la position donnée par l&#039;utilisateur.
+ 
+Voila, vous êtes censé avoir saisi comment fonctionne ce fameux principe avec le
+&quot;new Array&quot; mais n&#039;oublier pas un truc:
+Le programme commence par compter de &quot;0&quot; et non de &quot;1&quot; donc n&#039;oublier pas de commencer tout vos comptages par &quot;0&quot; quand vous utiliser le &quot;new Array&quot; !
+ 
+Indice         0                 1             2                3              4
+Donnée  Valeur 1     Valeur 2    Valeur 3   Valeur 4   Valeur 5</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

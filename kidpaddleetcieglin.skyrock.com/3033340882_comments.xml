@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> trois chansons wallone - Commentaires</title>
+  <description>
+ 
+
+ 
+Ell&#039; me l&#039;avait toudis promis
+En&#039; bell&#039; petit&#039; gayolle (bis)
+Ell&#039; me l&#039;avait toudis promis
+En&#039; bell&#039; petit&#039; gayolle
+Pou met&#039; &#039;m canari
+ 
+troulala troulala troulala troulalalère (bis)
+ 
+Quand l&#039; canari saura canter
+Il ira vir les filles (bis)
+Quand l&#039; canari saura canter
+Il ira vir les filles 
+Pour apprindr&#039; à danser
+
+troulala troulala troulala troulalalère (bis)
+
+parlé&#8230;
+ 
+
+En wallon :
+Refrain :
+C&#039;est d&#039;mwin li djoû di m&#039; mariadje
+Aprèstez, aprèstez tos vos bouquèts
+Nos lès mètrans au cwârsadje
+Dès bauchèles di nosse banquèt
+Mins c&#039;èst l&#039; mène li pus djolîye
+Ossi vraimint dji m&#039; rafîye
+Dè lî doner li bouquèt
+Êlle aurè li bia bouquèt.
+
+Ç&#039;a stî one saqwè d&#039; drole
+L&#039;ôte fîye dj&#039;aveûve one crole
+Tot-aspoûyî
+Dj&#039;alais sokî
+L&#039;amoûr vint m&#039; rèwèyi.
+Refrain
+
+Ç&#039;èsteuve mi p&#039;tite Marîye
+Come èlle èsteûve djolîye
+Quén-embaras
+Ç&#039;a stî ç&#039; djoû-là
+Qui dj&#039;a signé l&#039;contrat.
+Refrain
+
+Adiè totes mès folîyes
+Dj&#039;intère dins l&#039; confrérîye
+C&#039;è-st-à l&#039;auté
+Qui dj&#039; va djurer
+Amour, fidélité.
+Refrain
+
+Ç&#039;est d&#039;mwin qu&#039; dji m&#039; boute à pièce
+Adiè tote li djon.nèsse
+Po comincî
+Dji m&#039; va satchî
+Al&#039; cwade à tot spiyî.
+Refrain 
+ 
+ 
+ 
+ 
+ 
+ 
+Traduction française :
+Refrain
+C&#039;est demain le jour de mon mariage
+Apprêtez, apprêtez tous vos bouquets
+Vous les mettrez au corsage
+Des jeunes filles du banquet
+C&#039;est la mienne la plus jolie
+Aussi, je me réjouis
+De lui donner le bouquet
+Elle aura le plus beau bouquet.
+
+Ce fut une drôle de chose
+Aussi je vous en cause
+Tout appuyé
+J&#039;allais dormir
+L&#039;amour vint m&#039;réveiller.
+Refrain
+
+C&#039;était ma petite Marie
+Comme elle était jolie
+Quel embarras !
+Ce fut c&#039;jour là
+Quand j&#039;ai signé l&#039;contrat.
+Refrain
+
+Adieu toutes mes folies
+J&#039;entre dans la confrérie
+C&#039;est à l&#039;autel
+Que je vais jurer !
+Amour, fidélité.
+Refrain
+
+C&#039;est demain qu&#039;on se redresse
+Adieu toute la jeunesse
+Pour commencer
+Je vais tirer
+À la corde à tout casser.
+Refrain
+ 
+ 
+ 
+ 
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

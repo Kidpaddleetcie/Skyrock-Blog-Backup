@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Mon avis sur]Les vidéos en direct (LIVE)! - Commentaires</title>
+  <description>Bonjour cher lecteur,comme indiqué dans le titre,je vais te parler des vidéos filmées en direct!
+ 
+Tout d&#039;abord,il faut savoir que j&#039;ai déjà regarder des &quot;lives&quot; sur la production d&#039;une YouTube Poop ( de Yoonns ) et de Assassin&#039;s Creed Black Flag ( de Hooper mais la vidéo a été supprimée).
+ 
+Parlons de l&#039;ambiance:
+Le créateur du live passe généralement de 2 à 20 minutes pour attendre du public...c&#039;est désagréable pour ceux qui attende car il y a une autre étape après qui est encore plus chiante,c&#039;est l&#039;étape où il regarde si tout le monde l&#039;entend bien et si le visuel n&#039;est pas trop dégeu&#039; pour nous (ça peut prendre un bon quart d&#039;heure si les gens ne troll pas...avec un peu de chance)!
+ 
+Donc le créateur devient vite saoulant car il s&#039;occupe TROP de nous et c&#039;est aussi embêtant car si il fait les même actions en OffLine,ça lui prend 5 minutes alors qu&#039;il en prend 30 en Online!
+ 
+Le &quot;liver&quot; est lent,parle tout le temps et répond aux questions du live le plus souvent possible.
+ 
+Le public s&#039;adresse donc à la communauté dans le piti forum qui a tendance à ralentir quand une dizaine de personne poste des messages en même temps et que les gens s&#039;adresse autant au liver qu&#039;aux autres membres du forum ce qui complique le suivi de l&#039;action!
+ 
+Si le live dur trop longtemps (3h et plus),les gens se disconnect et d&#039;autres reste pour troller!
+ 
+Vous voyez bien que c&#039;est souvent la guerre!
+ 
+Parlons maintenant du contenu des lives:
+ 
+Ce que j&#039;aime (oui,car c&#039;est mon avis avant tout) dans les vidéos,c&#039;est le soucis du détail,le rythme,la dynamique et donc LE MONTAGE!!!!
+ 
+Pourtant,du montage dans un live...cela serait paradoxale!
+ 
+Pour que naquit un montage,il faut avoir une vidéo brute à montée...peut-on considéré un live comme une vidéo brute? OUI,C&#039;EST CELA LE PROBLÈME!!!!
+ 
+Mais le contenu varie selon le liver qui doit s&#039;organiser pour fournir des informations pertinentes et bien dosé ses allés-venus sur le forum pour répondre à des questions et se replonger dans son sujet. 
+ 
+Avantages d&#039;un live
+La &quot;proximité avec les membres de sa communauté&quot; peut &quot;permettre la participation de ceux-ci&quot; mais aussi &quot;leur apprendre des choses&quot; tout en leurs donnant &quot;la possibilité de poser des questions au moment le plus propice&quot;. 
+ 
+Le plus souvent,c&#039;est gratuit!
+ 
+Désavantage d&#039;un live
+La &quot;capture en temps réel&quot; peut &quot;faire stresser le liver&quot; ce qui &quot;peut entraîner une fuite de donnée personnelle&quot; et &quot;permettre une entrée dans un cercle de harcèlement au quotidien&quot;
+ 
+Pas le temps de faire pipi (c&#039;est un désavantage de l&#039;accaparement continu)!
+ 
+Avis général de Glin Kidpaddleetcie
+ 
+C&#039;est seulement chouette quand on sait gérer un timing et qu&#039;on a un sujet assez intéressent à exploiter!
+N&#039;oublier pas que vous êtes plus ouvert et du coup plus fragile lors d&#039;un live car vous ouvrez une faille entre votre PC et internet (les ordinateurs des autres quoi!) ce qui vous rends vulnérables durant toute la durée du live!
+ 
+Merci de m&#039;avoir lu et j&#039;espère que vous saurez faire des vidéos en direct comme des grands!
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

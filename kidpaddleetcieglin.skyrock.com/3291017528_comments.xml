@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Techniques de reproduction et de transmission des images]La température de couleur - Commentaires</title>
+  <description>La lumière varie selon son type (chaud ou froid). On a établi cette notion de température de couleur, on a utilisé le corps noir chauffé à une certaine température qui en kelvin va émettre un spectre de couleur qui sera établit avec sa valeur en kelvin.
+ 
+La mesure fût le Kelvin (0 kelvin se positionne à -273,15 degré) car c&#8217;est une unité de mesure physique.
+ 
+ 
+Quelques notions en kelvins :
+Le soleil est à 5 500 kelvin
+ 
+Un ciel nuageux est 6 500 kelvin
+ 
+La tv est à 9 000 kelvin
+ 
+La bougie est à 1 800 kelvin
+ 
+L&#8217;ampoule incandescente est à 2 500 kelvin
+ 
+La lampe allogène est à 3 400 kelvin
+ 
+L&#8217;écran du PC est à 7 000 kelvin
+ 
+ 
+Il y a trois notions de film de couleur  :
+
+
+Le B est créé d&#8217;abord pour un certain équilibre de couleur et donne un rendu bleu si mal utilisé.
+Le A est créé d&#8217;abord pour un certain équilibre de couleur et donne un rendu vert si mal utilisé.
+Le D est créé d&#8217;abord pour un certain équilibre de couleur et donne un rendu jaune si mal utilisé.
+ 
+On peut retenir l&#039;ordre d&#039;intensité des trois notions avec BAD (B=3 000, A=3 400, D=5 500)</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

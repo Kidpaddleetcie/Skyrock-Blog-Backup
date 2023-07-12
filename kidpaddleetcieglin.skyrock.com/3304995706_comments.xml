@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Idée2Glin]La génération de résultat de lancé de dé - Commentaires</title>
+  <description>Imaginez, je vous offre une page (oui,UNE PAGE) html qui sert à générer entre 1 et 1 000 chiffre entre 1 et 6!
+ 
+C&#039;est intéressant pour faire son petit RPG ou s&#039;amusez à trouver un ordre sans logique (donc un ordre sans ordre) d&#039;apparition d&#039;une entité!
+ 
+VOILA,je vous montre le code :
+
+ Bon...ok, c&#039;est illisible donc je vais voir si je tente un copier-coller
+
+&lt;!Doctype html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;script language=&quot;JavaScript&quot;&gt;
+var de=0,n=0,suite=&#039;&#039;,max=1000;
+function fixermax()
+{max=prompt(&quot;Combien de fois voulez vous lancer le dé ?&quot;,8)
+if (max&gt;1000){max=1000} lancer(max)
+}
+function lancer(n)
+{ for (i=1 , suite=&#039;&#039; ; i&lt;=n ; i++ )
+{
+de=Math.ceil(6*Math.random())
+suite=suite + de.toString() + &#039; . &#039;
+}
+document.monForm.monChamp.value=suite
+}
+&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;div style=&quot;background-color:lightgrey;&quot;&gt;&lt;h1 style=&quot;color:darkblue;box-shadow: 1px 1px 1px #aaa;&quot;&gt;Lançons un dé de 6&lt;/h1&gt; &lt;h3 style=&quot;color:darkblue;box-shadow: 1px 1px 1px #aaa;&quot; &gt;ça peut allez jusqu&#039;à 1 000 =D&lt;/h3&gt;&lt;/div&gt;&lt;/center&gt;
+
+&lt;form name=&quot;monForm&quot;&gt;
+&lt;input type=&quot;button&quot; value=&quot;Lancer 3 fois&quot; onClick=&quot;lancer(3)&quot; style=&quot;color:blue&quot;&gt;
+&lt;input type=&quot;button&quot; value=&quot;Choisis un nombre de fois&quot; onClick=&quot;fixermax()&quot; style=&quot;color:red&quot;&gt;
+&lt;form name=&quot;monForm&quot;&gt;
+&lt;br&gt;
+&lt;center&gt;&lt;textarea type=&quot;text&quot; name=&quot;monChamp&quot; rows=&quot;20&quot; cols=&quot;180&quot; style=&quot;margin:0px; height:346px; width:1290px; color:lightgreen; background-color:black;;box-shadow: 1px 1px 1px #aaa;&quot; placeholder=&quot;Hey =D ça sert à rien de mettre quelque chose ici!&quot;&gt;&lt;/textarea&gt;&lt;/center&gt;
+&lt;/form&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+Moui...c&#039;est encore un peu illisible quand même mais le code est là et vous pouvez le copier-coller dans votre logiciel d&#039;éditeur de texte afin de l&#039;enregistrer en .html !
+ 
+Voili,voualou!
+Kidpaddleetcie Glin
+
+
+
+
+
+
+
+
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

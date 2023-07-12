@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Système&amp;Réseau]Les types de mémoires - Commentaires</title>
+  <description>Critère de permanence
+ 
+ &#8211; La mémoire volatile = mémoire qui ne conserve pas ses données en l&#039;absence d&#039;alimentation électrique.
+&#8211; La mémoire non volatile = mémoire qui conserve ses données en l&#039;absence d&#039;alimentation électrique.
+ 
+Critère d&#039;accès
+ &#8211; La mémoire d&#039;accès aléatoire (random) = mémoire qui accède directement à toute case mémoire.
+&#8211; La mémoire d&#039;accès séquentiel : lecture/écriture en séquence (bande magnétique).
+ 
+La mémoire volatile
+
+
+La mémoire vive : RAM (random access memory) ou mémoire système
+Les familles des mémoires RAM :
+1. mémoire dynamique DRAM qui a besoin d&#039;être rafraichie (elle a tendance à s&#039;effacer)
+ 
+2. mémoire statique qui n&#039;a pas besoin d&#039;être rafraichie (SRAM DPRAM MRAM PRAM)
+Mémoire dynamique : DRAM qui a besoin d&#039;être rafraichie (elle a tendance à s&#039;effacer)
+
+
+&#8211; Rapide (+/- 10ns)
+&#8211; Pas chère (petite cellule)
+&#8211; Accès écriture et lecture
+ 
+ 
+Mémoire statique : Pas besoin d&#039;être rafraichie
+ 
+ 
+SRAM : Static Random Access Memory
+
+
+&#8211; rapide mais chère et volumineuse
+ 
+ &#8211;Mémoire des caches DPRAM : Dual Ported Random Access Memory
+ 
+&#8211; permet des accès entrés et sortie simultanée
+ 
+MRAM : Magnetic Random Access Memory
+
+
+&#8211; aussi rapide que la DRAM (+- 10 ns)
+ 
+&#8211; pas encore produite en masse
+ 
+La mémoire non volatile
+
+
+La mémoire morte : ROM (read only memory)
+ 
+&#8211; Le temps d&#039;accès à la mémoire morte est de l&#039;ordre de grandeur de 150 ns (&gt;&gt; 10 ns)
+ 
+&#8211; elle stocke les informations nécessaires au démarrage d&#039;un ordinateur
+La mémoire flash qui est réinscriptible
+ 
+Les différents types de mémoires mortes :
+ 
+&#8211; Les ROM (Read Only Memory) dont le contenu est défini lors de la fabrication.
+ 
+&#8211; Les PROM (Programmable Read Only Memory) sont programmables par l&#039;utilisateur, mais une seule fois
+ 
+&#8211; Les EPROM (Erasable Programmable Read Only Memory) sont effaçables et programmables
+ 
+&#8211; Les EEPROM (Electrically Erasable Programmable Read Only Memory) sont effaçables et programmables. Elles sont plus faciles à effacer que les EPROM car elles sont effaçables électriquement donc sans manipulations physiques.
+ 
+ 
+ 
+Les mémoires flash combinent réinscriptibilité et permanence (non volatile)
+&#8211; Deux technologies NAND et NOR
+&#8211; Vitesse élevée
+&#8211; Faible consommation MAIS nombre de cycles d&#039;écriture limité (+- 10000) et donc durée de vie limitée.
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

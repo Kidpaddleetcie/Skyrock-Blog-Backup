@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Projet2Glin]La 2 000ème vidéo sur YouTube (Projet FINI) - Commentaires</title>
+  <description>Afin de bien faire pour la 2 000ème vidéo sur YouTube, le projet sera simple et efficace pour fêter cet énorme nombre qu&#039;est le 2 000 tout en se fixant sur Glin!
+ 
+Je vais surtout répertorier dans cet article la liste des séquences, des idées et des nécessités (à produire ou à trouver)!
+ 
+Sachez que ce texte provient directement d&#039;un fichier &quot;.txt&quot; que j&#039;ai remplis en fonction des idées qui me passait par la tête mais je crois qu&#039;exposé tout cela en public (même si techniquement personne ne visite le blog à part les gens qui sont très curieux) soit une excellente chose pour faire comprendre le boulot qu&#039;à derrière une production amateur.
+ 
+C&#039;est partit!
+ 
+----------------Liste des séquences-------------------
+Glin se réveille de son lit et va sur son PC.
+Glin se rend compte qu&#039;il a atteint les 1999 vidéos.
+Glin saute de joie et dance.
+Glin sort de chez lui et rentre dans son carton.
+Glin vole vers le château du Roi.
+Glin regarde intensément Link.
+Glin se barre du château du Roi.
+Glin se rend chez FanYoshiBleu.
+Glin manque de se prendre une claque de FanYoshiBleu qui le traite de PD.
+Glin court dans une forêt.
+Glin trouve Yunko en train de jouer de la guitare.
+Glin tire une latte avec Yunko et la forêt brûle (et Yunko est mort).
+Glin va voir Diddy64Wii mais c&#039;est fermer.
+Glin va chez lui-même et prend un selfie.
+Glin a la visite de Mario Chat qui lui dit &quot;Miaou&quot;.
+Glin se rend dans sa chambre et lit Arthomo.
+Glin va pleurer aux toilettes et Fan&#039; récupère Arthomo.
+FIN
+-------------------Nécessite--------------------------
+--Visus--
+Une vidéo de Mario Chat sous fond vert (parce que ses yeux sont bleus)
+Une image de forêt
+Une image de maison pour Diddy64Wii
+Une image de maison pour FanYoshiBleu
+Une image de maison pour Glin
+L&#039;image du château du Roi
+Yunko,Link,Diddy64Wii,Glin et FanYoshiBleu
+--Audio--
+Une musique de course
+Une musique qui fait planer
+Une musique d&#039;intérieur
+Une musique de joie intense
+Une musique triste
+Un son pour suspense
+Une musique pour faire dodo
+Un son pour une grosse révélation
+Un son pour la fumette
+Un son pour un bruit de porte qui s&#039;ouvre
+Un son pour la claque
+Le son de l&#039;appareil photo Nintendo 3DS
+Le son des pages qui se tourne
+Le son du cheval
+
+FanYoshiBleu qui crie PD
+ 
+Je tiens à dire que depuis le Lundi 7 Août 2017, la liste des ressources nécessités n&#039;est vraiment,vraiment,vraiment plus à jour et ne peut être à jour car je me suis rendu compte que listé le moindre son, la moindre musique, la moindre image, la moindre vidéo-effet,... serait que pure folie surtout si la vidéo dure bien plus de 2 minutes et que l&#039;histoire à raconter demande des changements d&#039;ambiance, des interactions entre éléments, des techniques différentes de production afin de gagner en intérêts
+(je rappelle que c&#039;est ma 2 000 ème vidéo, c&#039;est comme une synthèse de mes capacités actuelles pour moi) et bien d&#039;autres éléments demandant un maximum de ressource nécessitées pour créé.
+ 
+Le résultat sera probablement excellent au rendu final mais j&#039;ai un peu peur pour le générique et la nomination de l&#039;ensemble de mes sources...lister et remercier c&#039;est comme avouer qu&#039;on n&#039;est qu&#039;un organisateur et pas un créateur! Et pourtant, organiser des images PNG, agencer, mettre en scène, synchroniser, retravailler l&#039;histoire, re-dessiner des images pour que la qualité soit au rendez-vous, améliorer l&#039;audio et se retaper 3 fois de suite la même séquence pour voir si les mouvements sont cohérents avec l&#039;espace et l&#039;état de l&#039;objet en mouvement, devoir chercher une musique pour accentuer l&#039;ambiance ou faire un effet de contraste lors de scène humoristique,... C&#039;EST TOUT UN ART ET JE REFUSE D&#039;ÊTRE CONSIDÉRÉ COMME UN SIMPLE &quot;ORGANISATEUR&quot;!
+
+Cet article va probablement évolué au fur et à mesure de l&#039;avancement du projet
+(surtout pour les noms des musiques) mais je pense qu&#039;on a déjà la structure de base de celui-ci.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Le projet est fini, vous pouvez admirer le résultat dans sa version sécurisée de toute suppression par la plate-forme gràce à Dailymotion:
+
+ 
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [PUB]Les logiciels de MAGIX! - Commentaires</title>
+  <description>
+
+Sur l&#039;ensemble des logiciels que vous pouvez retrouver sur internet, il existe une sélection ayant pour dénominateur commun la marque allemande MAGIX!
+ 
+Ce qui est bien avec cette sélection, c&#039;est que la plupart permettent d&#039;avoir 30 jours d&#039;essai! Ce détail est intéressant parce que... les prix ne sont pas vraiment accessibles!
+ 
+Le logiciel ayant une version d&#039;essai et qui se trouve être le plus différents des autres logiciels est MAGIX Game Control et je peux vous dire que c&#039;est un logiciel prometteur qui peut remplacer FRAPS mais... Magix n&#039;est pas aussi connu pour le domaine de la capture vidéo de sessions de jeux-vidéos!
+
+
+Magix est plutôt connu pour son logiciel de vidéo (Magix Video Deluxe) qu&#039;ils &quot;améliorent&quot; chaque année...je mets des guillemets à &quot;améliorent&quot; parce qu&#039;ils enlèvent des fonctionnalités intéressantes mais en perte de vitesse à chaque version! Ainsi, on a dit adieu aux fichiers .VIS (des fichiers visuels qui pouvait réagir en fonction de l&#039;audio comme les visualiseurs sur Windows Media Player) ou encore les .gif (qui permettaient de simplifier grandement les animations et pouvaient être étirer à l&#039;infinie).
+ 
+Chaque logiciel possède une version d&#039;essai, une version plus et une version prenium!
+Les version Prenium peuvent être considérées comme des versions lourdes mais complète à l&#039;instar des versions d&#039;essais tandis que la version plus n&#039;offre que des extensions supplémentaires par rapport à la version d&#039;essai...EN GROS,IL FAUT PRENDRE LA VERSION PRENIUM POUR AVOIR UN MAX DE CAPACITÉ SANS QUE DES BOUTONS SOIENT GRISÉS!
+ 
+
+ Ce qui est intéressant à mettre en avant est que même le logiciel gratuit à durée indéterminée &quot;Magix Music Maker&quot;  possède non seulement des versions plus et prenium mais aussi control et performer! Il a aussi des soundpools (des packs de boucles audio, pas la peine de s&#039;affoler) se différenciant par leurs thématiques ainsi que des plugins nommés &quot;instruments virtuels&quot; qui servent à traduire les fichiers .mid en son écoutable!
+ 
+Les produits les moins chers sont justement les soundpools au prix de 29€99 alors que le plus cher s&#039;avère être le Sequoia 14 à 2975€...mais...ce machin est juste un ensemble de logiciel de traitement audio...un pack de logiciel si vous préférez!
+
+ Je tiens à dire, pour terminer cet article, que Magix vend de tout dans la production audio-visuelle mais aussi dans le utilitaire (ils vendent des convertisseurs vidéo USB à 29€99 ainsi que des pré-amplificateur USB 2.0 à 59€99... c&#039;est pas hyper-utile).
+ 
+KidpaddleetcieGlin
+
+
+ 
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

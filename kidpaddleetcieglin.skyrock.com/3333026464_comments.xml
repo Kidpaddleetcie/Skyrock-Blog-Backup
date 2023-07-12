@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Théorie2Glin] Les générations des poopeurs ! - Commentaires</title>
+  <description>Comme vous le savez probablement, je suis poopeur depuis 2009 ( même si ce n&#039;était pas glorieux ) et j&#039;ai quelques connaissances dans le milieu ( wesh, t&#039;as vu, je connais des gens de la street, rhey ! ) !
+ 
+J&#039;ai pût moi-même, de mes propres yeux, voir l&#039;évolution des poopeurs et me faire des réflexions autour des influences et des périodes où on peut classer les tendances générationnelles ! 
+ 
+Ces fameuses influences résident surtout dans la démocratisation des logiciels de montage vidéo, des memes et des ras-le-bols !
+ 
+C&#039;est donc partit pour une synthèse !
+ 
+Génération 0 (2006-2008): Polluons pour la contestation
+Windows Movie Maker
+ 
+
+ 
+ 
+
+
+Les YTPs sont nées dans la lutte face à un YouTube très méchant qui n&#039;arrêtait pas de faire des changements et de mettre en tendance des vidéos nulles... Tu aimes les vidéos nulles YouTube ? Tu vas être servis !
+ 
+Si les premières YTPs sont américaines, quelques français et autres européens arriveront en 2007 pour poursuivre la mouvance !
+ 
+Les sources sont souvent des œuvres détestées ou moquées des internautes majoritairement Pro-Nintendo (d&#039;où les jeux CD-i et le dessin-animé SuperMarioBros.Show !) !
+ 
+Génération 1 (2008-2012): Finalement c&#039;est rigolo
+ Windows Movie Maker + Audacity + Paint
+
+ 
+ 
+ 
+ 
+
+Après avoir bien pollué, on s&#039;est rendu compte des merveilles des ear-rapes, du sentence-mixing ( trouvé par hasard par la répétition de séquence ), les effets nuls de Windows Movie Maker,... 
+ 
+On a commencé à en faire des constances, des techniques-signatures du genre qui seront popularisé comme une traîné de poudre et utilisé sur n&#039;importe quel source du moment que ça donne un truc marrant !
+ 
+Les premiers YTP Stories utiliseront Audacity pour améliorer le son (car Windows Movie Maker n&#039;est pas précis pour les cuts et ne donne aucun effet audio) et Paint pour éditer des frames !
+ 
+Génération 2 (2012-2016): Permettez-moi de débarquer avec AfterEffect
+Sony Vegas/After Effect + Photoshop/TheGimp
+
+ 
+ 
+ 
+
+Nous avons les bases, il est temps d&#039;aller plus loin dans le délire et innover parce que ça fait 4 ans qu&#039;on cuisine de la même manière !
+ 
+Sony Vegas arrive dans le milieu du YTP Game et avec lui, le monde merveilleux des incrustations et des keyframes,  on commence à avoir un traitement visuel qui se marie avec le sentence-mixing !
+ 
+Vers 2014, After Effect est enfin crackable et surtout accessible sur nos bécanes de pauvre pour le plus grand plaisir de tout ceux qui veulent impressionner du monde avec TROP de moyen ! 
+ 
+L&#039;image étant enfin détournée et les YTPMV publiées par grosse cargaison, cette génération marque au fer rouge la partie &quot;détournement&quot; des YTPs ! 
+ 
+D&#039;autres logiciels seront aussi utilisés mais ne seront pas aussi représentés que Sony Vegas et After Effect !
+ 
+Les YouTube Poop Stories seront aussi plus nombreuses vu la liberté obtenu sur les effets visuels et le traitement audio ! (on a plus de piste audio que sur Windows Movie Maker)
+ 
+Génération 3 (2016-...): Quelqu&#039;un à une idée ?
+[Logiciel de montage random tant que ça fait des incrustations et qui a plein de piste possible] +
+[Logiciel de traitement et création d&#039;image random tant que ça fait des PNG avec transparence] + 
+[Logiciel de traitement et création de modèle 3D random tant que ça fait des rendus]
+ 
+ 
+ 
+ 
+
+Les poopeurs ont conquit le visuel et l&#039;audio... que demander de plus ?
+ 
+Certains poopeurs s&#039;essayent à la 3D pour fournir des visuels encore plus originaux (ou rendre plus facile l&#039;élaboration d&#039;une intrigue),
+d&#039;autres s&#039;essayent à l&#039;auto-tune pour faire chanter leurs personnages en boostant le sentence-mixing et,enfin, d&#039;autres font de l&#039;animation en ré-animant à la main les sources... la génération du budget en soit !
+ 
+Nous ne pouvons pas vraiment dire ce que nous pouvons faire de plus et pourtant, c&#039;est quand même énorme tout ce qu&#039;on a parcourut ! On a eût des poopeurs qui ont créés des histoires, des runnings gags, des personnages complètement détournés,... On a un potentiel fou maintenant !
+ 
+Une YouTube Poop est une vidéo où on est libre d&#039;y mettre ce qu&#039;on veut pour peu que le montage soit une partie essentielle (principale) du résultat !
+ 
+Je dis, de temps en temps, que les YouTube Poop sont du dadaïsme en vidéo, juste qualifiable par un rejet de norme et une écriture automatique !
+Au gré de ses pensées, un poopeur poop une vidéo sans trop se casser la tête !
+ 
+ 
+Laissons l&#039;avenir des YTPs nous surprendre et restons bon spectateur au cas où un poopeur utilise une technologie ou un système améliorant sa liberté de création de YTP !
+ 
+KidpaddleetcieGlin
+ 
+ 
+ 
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

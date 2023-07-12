@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Synthèse]Biologie-L&#039;ADN et l&#039;ARN - Commentaires</title>
+  <description>Beaucoup de gens ne comprennent pas la différence entre l&#039;ADN et l&#039;ARN alors je poste une synthèse!
+ 
+
+ 
+Un petit peu de vocabulaire:
+
+
+La séquence en acide aminés des protéines:
+
+&#65279;&#65279;&#65279;La séquence en acide aminés des protéines est imposée pas l&#039;information génétique située dans la molécule d&#039;ADN.
+
+
+
+
+Un gêne:
+ 
+Un gêne est défini comme une séquence de nucléotide d&#039;un brin d&#039;ADN déterminant la synthèse d&#039;une protide donné.
+
+
+La molécule d&#039;ADN d&#039;un chromosome:
+
+
+La molécule d&#039;ADN d&#039;un chromosome est le support de très nombreux gêne.
+
+
+Les étapes de l&#039;expression de l&#039;information génétique:
+
+
+L&#039;expression de l&#039;information génétique se fait en deux étapes: la Transcription et la Traduction.
+
+
+1)La transcription
+
+
+Au cours de la transcription, un ARN messager complémentaire du brins transcrit de l&#039;ADN est copié.
+
+
+2)La traduction
+
+
+La traduction permet la synthèse de chaînes polypeptidiques.
+La traduction débute au codon (triplet de nucléotide) d&#039;AUG (Méthionine) et s&#039;arrête au codon UGA (Stop).
+
+
+ Le code génétique:
+
+
+Le code génétique est universel et redondant.
+
+
+
+
+Vous voulez avoir tout ça en synthèse sous Flash? EN VOICI UNE :
+http://www.snv.jussieu.fr/vie/dossiers/ADN_Prot/ADN_ARN/ADN_ARN2.html
+
+
+
+
+ POUR ALLER UN PEU PLUS LOIN:
+Je vous propose de consulter ces vidéos pour en savoir plus!
+
+
+
+
+ 
+Ces vidéos sont presque tous des pilotes de séries d&#039;explication du fonctionnement de l&#039;ADN donc n&#039;hésiter pas à consulter les recommandations de YouTube après le visionnement! </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3214329697_comment_1.html#c-20358715826" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3214329697_comment_1.html#c-20358621114" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3214329697_comment_1.html#c-20358715826">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3214329697_comment_1.html#c-20358715826</link>
+		<dc:date>2019-11-19T20:45:33+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Si vous avez des propositions de schéma pour améliorer le rendu de l&#039;article, allez-y ! ;)</description>
+		<content:encoded><![CDATA[
+			Si vous avez des propositions de schéma pour améliorer le rendu de l&#039;article, allez-y ! ;)
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3214329697_comment_1.html#c-20358621114">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3214329697_comment_1.html#c-20358621114</link>
+		<dc:date>2019-11-19T16:49:55+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>c pa trè b1 fé ton truc </description>
+		<content:encoded><![CDATA[
+			c pa trè b1 fé ton truc 
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

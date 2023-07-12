@@ -1,0 +1,12 @@
+﻿@font-face {
+  font-family: 'Allerta Stencil';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/allertastencil/v18/HTx0L209KT-LmIE9N7OR6eiycOe1_Dbz.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cabin Sketch';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/cabinsketch/v19/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj2.ttf) format('truetype');
+}

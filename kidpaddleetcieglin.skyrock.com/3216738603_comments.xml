@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Faire une vidéo! - Commentaires</title>
+  <description>Bonjour,bienvenue sur Kidpaddleetcie,
+aujourd&#039;hui,je vais vous parler de &quot;comment faire une vidéo&quot;.
+ 
+Tout d&#039;abord,il faut avoir un PC avec suffisamment de mémoire libre si vous voulez que votre programme fonctionne le plus rapidement possible sans qu&#039;il y demeure des changements d&#039;une quinzaine de minutes.Je vous conseille de le défragmenter après l&#039;avoir nettoyer!
+ 
+Pour commencer à créer une vidéo,il faut comprendre les outils principaux de montage,certes,mais il faut également avoir les ressources nécessaires comme une vidéo de base que vous avez créé en vous filmant avec une caméra;une image que vous avez télécharger sur internet ou une musique que vous avez extrait d&#039;un CD!
+ 
+Pour commencer le montage,il suffit de faire glisser les éléments sur la table de montage et pour modifier vos contenus ,il faut connaître les outils principaux:
+ 
+-Diviseur séquentiel: Permet de diviseur un élément en deux séquences,ce qui permet de mettre en évidence les séquences utile et inutile pour mener à bien votre projet!
+ 
+-Effets: Permet de mettre de l&#039;effet à vos images et vidéos.
+Attention à ne pas abuser de ce genre  d&#039;outils,il ne faut pas que votre projet sois un massacre anarchique.
+ 
+Ces deux outils sont différents de programmes en programmes.
+La précision du diviseur séquentiel variera entre les secondes,dixièmes de secondes et centièmes de secondes en fonction du programme ainsi que la quantité d&#039;effet disponible.
+ 
+Les vidéos sont,le plus souvent,enregistrer en &quot;.mp4&quot; mais certains programmes ne pouvant acquérir cette extension se contente du &quot;.wmv&quot;,Notamment,sur Windows Movie Maker,il est autant impossible de lire mais aussi d&#039;enregistrer en &quot;.mp4&quot;.
+ 
+Quand vous avez fini de créer votre vidéo,veuillez à garder le fichier du projet et ses ressources dans un dossier pour garder ce projet en cas de refus par dénonciation du droit d&#039;auteur sur les sites d&#039;hébergement de vidéos  comme YouTube,ça peut vous éviter bien des soucis.
+ 
+Voila,il n&#039;y a plus qu&#039;à uploader.
+ 
+Au revoir et à bientôt sur Kidpaddleetcie!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

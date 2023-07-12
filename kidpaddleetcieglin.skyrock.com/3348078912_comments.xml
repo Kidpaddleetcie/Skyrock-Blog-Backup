@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement] Le wiki des poopeurs francophone est là ! - Commentaires</title>
+  <description>
+ 
+Ce 11 Mars 2022, j&#039;ai créé le wiki-fandom &quot;French YouTube Poop Community&quot;.
+ 
+Ce wiki rassemble plusieurs types d&#039;articles :
+ 
+- Les poopeurs : On présente des poopeurs
+- Les techniques : On présente des techniques
+- L&#039;histoire : L&#039;histoire des YTPs est présentée
+- Autres : On parle de concept, de types, d&#039;élément intéressant,...
+ 
+Vous pouvez intervenir dans les commentaires pour corriger ou ajouter des éléments.
+ 
+Je suis conscient que sans AdBlock, ou autre bloqueur de PUB, la visibilité du Wiki est horrible (on a juste TROP de PUB ) mais je compense cette perte de visibilité avec des articles assez longs pour la plupart avec souvent des liens.
+ 
+Le but à terme est d&#039;avoir une bonne base d&#039;informations pour booster la commu&#039; en cas de nouvelle crise et permettre aux autres communautés de présenter la commu&#039;.
+ 
+KidpaddleetcieGlin
+
+Mise à jour du 15 Mai 2022
+Le Wiki a été clôturé pour une cause non-mentionnée sur la page.
+
+Tout ce que je sais en privé est que c&#039;est l&#039;article sur Yoonns qui a été modifié plusieurs fois en dernier par un inconnu en début avril... peut-être avait-il écrit des choses horribles qui ont amené la modération à croire qu&#039;il était juste de clôturé l&#039;ensemble du wiki... on ne saura jamais !
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

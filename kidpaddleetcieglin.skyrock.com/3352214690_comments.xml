@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ListeInspirante] Chaîne française parlant de jeux-vidéos - Commentaires</title>
+  <description>Joueur du Grenier : https://www.youtube.com/user/joueurdugrenier/videos
+Edward : https://www.youtube.com/c/EdwardRetroDecouverte/videos
+MisterFlech : https://www.youtube.com/c/MisterFlech/videos
+Trash Bandicoot : https://www.youtube.com/c/TrashLive/videos
+Conkerax : https://www.youtube.com/c/Conkerax/videos
+Iconoclaste : https://www.youtube.com/c/L-iconoclaste-chroniques/videos
+JujuBrothersTV : https://www.youtube.com/c/WTPDOSSIER/videos
+Sheshounet : https://www.youtube.com/c/Sheshounet/videos
+BOTCH : https://www.youtube.com/user/BOTCHvideos/videos
+Ascuns : https://www.youtube.com/c/AscunsYoutube/videos
+Développeuse Du Dimanche : https://www.youtube.com/c/D%C3%A9veloppeuseDuDimanche/videos
+MrMeeea : https://www.youtube.com/c/MrMeeea/videos
+PuNkY : https://www.youtube.com/c/PuNkYPSB/videos
+Savun : https://www.youtube.com/channel/UCmCLlnZfSe93AoSGc03l7eA/videos
+123Lunatic : https://youtube.com/playlist?list=PLvg_yzNrhk-1uX_Zk2Ev7KZwPMhsQIDgw
+UnDropDansLaMare : https://www.youtube.com/c/Undropdanslamare_plus/videos
+SuperRosel : https://www.youtube.com/c/SuperRosel/videos
+Bob Lennon : https://www.youtube.com/user/fantabobgames/videos
+Laupok : https://www.youtube.com/c/LaupokLaupocute/videos
+Ed Layton : https://www.youtube.com/c/EdLaytonLP/videos
+Trxns : https://www.youtube.com/c/MisterFlech/videos
+Les jeux de mon enfance PC Anna Crouze: https://www.youtube.com/channel/UCpT-zaVDYJV8QMwt-u8F45g/videos</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

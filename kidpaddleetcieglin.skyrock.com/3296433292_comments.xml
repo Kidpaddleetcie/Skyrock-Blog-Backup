@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ListeInspirante]Noms pour personnage farfelus - Commentaires</title>
+  <description>Voici une liste de noms pour créés des personnages de fiction ayant peut-être une utilité dans une histoire que vous créerez plus-tard! Une description vous aide à avoir une idée de ce que le personnage peut être!
+ 
+Hans Spïner : Inventeur d&#039;un outil permettant d&#039;occuper les autistes, il veut conquérir le monde et retrouver son hérisson.
+ 
+Docteur Von Pokoko : Le docteur le plus constipé du monde, toujours en colère et assez violent dans ses propos...ses ordonnances sont agrémentées de cassage de tâches d&#039;encre.
+ 
+Marc Deposay : Chef d&#039;entreprise d&#039;un musée de l&#039;horreur moderne, il est très cupide, impossible de lui demander quoi que ce soit qui lui appartient même pour un emprunt!.
+ 
+Glin Bleu: Un jeune homme qui vit dans son carton malgré sa richesse et ses pouvoirs incommensurable accumulés de part sa résistance et son absorption à toutes les formes de violence exercé à son égard...mais il n&#039;a pas d&#039;amis,il est moche, il est maladroit et n&#039;a pas conscience de ses grandes capacités.
+ 
+Jamel Gontrand: Un petit teigneux qui n&#039;aime pas qu&#039;on lui parle et qui vit sa vie au siège d&#039;une entreprise de téléphonie mobile.
+ 
+Victor Timothée : On ne sait jamais si son prénom c&#039;est Victor ou Timothée alors tout le monde l&#039;appelle &quot;Vic-Tim&quot; ce qui a tendance à le faire chialer. À part ça, il est banquier et jardinier à mi-temps à cause de son salaire de misère.
+ 
+Parissi Garmamoto : Une italienne d&#039;origine japonaise comme suggère son nom qui adore faire la cuisine...mi-italienne mi-japonaise...
+ 
+Adicho Kelvin : Un gars qui s&#039;occupe de la température des bassins dans un centre de relaxation pour femme.
+ 
+Cyprien Thavaud : Un grand podcasteur d&#039;un lointain pays où on pouvait s&#039;exprimer sans avoir des contraintes de l&#039;états et où il y avait des manifestations tout les 3 mois contre un gouvernement créés par la télévision et les banques.
+ 
+Julien Aperssé: Ancienne star des plateaux TV, il s&#039;est reconvertit en tant qu&#039;homme de ménage.
+ 
+ Professeur Donovan: C&#039;est un grand professeur qui a fait un doctorat sur la pédophilie et l&#039;homosexualité.Il dit même que l&#039;un empêche pas l&#039;autre mais qu&#039;il ne faut pas faire de confusion. Il défend aussi la thèse comme quoi les noires ne peuvent pas être pédophiles parce que ça ne rentre pas.
+ 
+Chloé Omur: Souvent à l&#039;ombre, elle adore la décoration mettant en valeur sa beauté
+(même si elle est moche en faîte!).
+ 
+Auldie Kaduc: Vieux raciste ambulant qui fait des podcasts dans sa vieille maison avec un vieux caméscope d&#039;une marque qui a subit une grande faillite.
+ 
+Krad Rodav : Le président des déchetteries,centre de récupération et des décharges de son pays. Il adore faire du basket avec les poubelles et ses déchets...d&#039;ailleurs, il n&#039;aime pas voir les gens dormir la bouche ouverte alors...ben...ça ne l&#039;empêche pas de marquer des paniers...hem...
+ 
+Jean-Jaque Woodman: Un forestier qui fait de la guitare et qui chante contre le consumérisme et le gaspillage. Son meilleur single fût &quot;les machins&quot;.
+ 
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

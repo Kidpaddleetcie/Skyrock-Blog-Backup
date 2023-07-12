@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement]Sortit du .PDF &quot;Autour de Glin&quot; ! - Commentaires</title>
+  <description>Afin de permettre à tout le monde de connaître l&#039;histoire de Glin et ses caractéristiques, je me suis permis de rassembler l&#039;ensemble des informations en format .PDF avec en prime une la base de la BD &quot;Glin le Souriant et la libération de la paix&quot;!
+ 
+Vous pouvez retrouver ce .PDF de 68.5 MB sur DeviantArt ici: 
+ 
+Téléchargement rapide: https://www.deviantart.com/download/751816493/autour_de_glin_by_kidpaddleetcie-dcfm1bh.pdf?token=be9b68f6db753826d66e702444ccae87f5c94420&amp;ts=1530170742</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

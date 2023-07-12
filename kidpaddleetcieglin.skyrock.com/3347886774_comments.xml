@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Dactylographie ] La disposition du bloc à la marge pour une lettre - Commentaires</title>
+  <description>
+ 
+ Image provenant de 
+https://yaoinformatique.be/ms-office/word/courrier-publipostage/
+ 
+ 
+En dactylographie, on tape des lettres et on les met en page.
+ 
+L&#039;outil qu&#039;on emploi sous Microsoft Word s&#039;appelle &quot;Alignement Vertical&quot; et doit être ajouté dans le bandeau des fonctionnalités du menu &quot;disposition&quot;.
+ 
+ Avant de faire votre lettre, il faut
+- Configurer votre Microsoft Word aux normes belges
+- modifier le style &quot;normal&quot; et créer le style &quot;0 PARAGRAPHE&quot;.
+ 
+Pour le style &quot;normal&quot;
+- Police d&#039;écriture : Times New Roman 
+- Taille : 12px
+- Alignement : gauche
+- Espacement : 0 avant, 0 après, interligne simple
+ 
+Pour le style &quot;0 PARAGRAPHE&quot;
+- Style basé sur aucun style
+- Style de paragraphe suivant : Normal
+- Police d&#039;écriture : Times New Roman 
+- Taille : 12px
+- Alignement : Justifié
+- Espacement : 12pt avant, 12pt après, interligne simple
+ 
+Maintenant que vous avez tout vos styles, il est temps de taper et de faire la disposition.
+
+Pour se faire, on a quelques règles de disposition: 
+- L&#039;adresse débute à 1,7 cm ( maximum 3,8 cm ) de la marge et est centré ( c&#039;est le premier élément visible ) ( style normal )
+- La date est à maximum 3,8 cm de la marge et est à gauche ( style normal )
+- La suscription est à +/- 5,5 cm de la marge et est à gauche ( style normal )
+
+
+Une suscription est composé ainsi:
+NOM DE LA SOCIÉTÉ
+Rue de la société n°x
+CODE POSTAL DE LA SOCIÉTÉ NOM DE LA VILLE DE LA SOCIÉTÉ
+ 
+Exemple :
+GLIN CORP
+Rue de la Révision 2
+0606 GLINCITY
+ 
+
+
+La suscription doit apparaître dans la fenêtre de l&#039;enveloppe.
+
+
+
+- Les références sont à 8,4 cm de la marge et sont à gauche ( style normal )
+ 
+On écrit deux références :
+- V/réf ( &quot;vos références&quot; )
+- N/réf ( &quot;nos références&quot; )
+ 
+La structure d&#039;une référence :
+V/réf. : Les initiales de la personne à qui on écrit ou la référence à la lettre à laquelle vous répondez.
+ 
+- L&#039;objet est à 10,5 cm en gras avec 24 points avant et 24 points après ( avec le menu &quot;disposition &gt; espacement&quot; ) à gauche ( style normal )
+
+
+- La vedette est entre 11,4 et 12,2 cm à gauche ( style normal )
+ 
+- Le corps de lettre suit juste la vedette en justifié ( Il est donc en style &quot;0 PARAGRAPHE &quot;)
+ 
+- Le souscripteur ( la personne qui a écrit la lettre ) se trouve après le corps de lettre entre 60 et 84 points ( avec le menu &quot;disposition &gt; espacement&quot; ) à gauche ( style normal )
+
+
+- La Mention de pièce-jointe se trouve à la dernière ligne de la lettre ( en bas de la page SANS ÊTRE CONSIDÉRÉ COMME UNE NOTE DE BAS DE PAGE ) ( style normal )
+ 
+ 
+ 
+ 
+Sources et infos supplémentaires :
+ 
+https://yaoinformatique.be/ms-office/word/courrier-publipostage/
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3347886774_comment_1.html#c-20638059824" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3347886774_comment_1.html#c-20637733812" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3347886774_comment_1.html#c-20638059824">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3347886774_comment_1.html#c-20638059824</link>
+		<dc:date>2022-08-27T22:01:40+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Techniquement, une lettre est censée aller à l&#039;essentiel donc il n&#039;est pas censé avoir de deuxième page.</description>
+		<content:encoded><![CDATA[
+			Techniquement, une lettre est censée aller à l&#039;essentiel donc il n&#039;est pas censé avoir de deuxième page.
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3347886774_comment_1.html#c-20637733812">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3347886774_comment_1.html#c-20637733812</link>
+		<dc:date>2022-08-26T10:25:35+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Bonjour, 
+
+Si le corps du texte continue sur la deuxième page, quelle doit être la hauteur de la première ligne ?</description>
+		<content:encoded><![CDATA[
+			Bonjour, <br />
+<br />
+Si le corps du texte continue sur la deuxième page, quelle doit être la hauteur de la première ligne ?
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Alphabet sur le thème de &quot;la musique&quot;! - Commentaires</title>
+  <description>
+Alphabet Musicale
+ 
+A: Armstrong:  (1901-1971) musicien americain de Jazz classique et
+fondateur de plusieurs orchestre. 
+ 
+B: Bechet:  (1887-1959) musicien americain de Jazz clarinnettiste,saxophoniste,
+compositeur et chef d&#039;orchestre,grand improvisateur. 
+ 
+C: Cordy : (1928-...) chanteuse et actrice belge,la plus vielle chanteuse de
+Belgique. 
+ 
+D: Dunker:  (1959-...) chanteur wallon qui a complétement rénové la chanson
+« toudi su&#039;l voye » dans les années 2000. 
+ 
+E: Enfoirés : Groupe d&#039;artiste francophone qui chante pour le profit des restos
+du coeur .
+ 
+F: Funk : Musique inventé par Eddie Bo,issu des bases du Jazz et du Soul. 
+ 
+ 
+G: Goya : (1942-...) actrice et chanteuse française détendeuse du record du
+plus grand nombre de rentré pour son spectacle au Palais des congrès .
+ 
+H: H: (1966-...) auteur,compositeur et interprète,fils de Nicole Courtois et de
+Jaque Higelin.
+ 
+I: instrument: Outil permettant d&#039;effectuer une opération,un travail.
+  
+ 
+J: Jaffrès:  (1984-...)Second chanteur de « la p&#039;tite Gayole » . 
+ 
+ 
+K: Khan : (1948-1997) chanteur pakistanais de musique soufie. 
+ 
+ 
+L: Lagaf:  (1959-...) chanteur,comédien,animteur télé et humoriste français,
+il est le chanteur de « bo le lavabo » et de « la Zoubida ». 
+ 
+ 
+M: Mondotek : Groupe allemand de tecktonik remixant les titres du groupe
+de Mondo. 
+ 
+N: Nouba: Musique de régiment des tirailleurs nord-africain 
+ 
+
+O: Obispo : (1965-...) auteur-compositeur français compositeur pour plusieurs
+
+chanteur de légende et pour les enfoirés. 
+
+ 
+
+ 
+
+P: Pagny:  (1961-...) chanteur et acteur français des plus actif et connu depuis
+
+l&#039;album « réaliste ». 
+
+ 
+
+ 
+
+Q: Qibaut: Instrument de percussion inventé par les inuits,il est de même
+
+héstétique que le Djembé mais il est plus petit et est fait de peau
+
+de Caribou.
+
+ 
+
+R: Refrain: Phrases qui sont répétées après chaque couplet d&#039;une chanson .
+
+ 
+
+ 
+
+S: Samba :Danse populaire du Brézil,le nom veut dire « nombril » en Bantou
+
+(la langue des esclaves).  
+
+ 
+
+ 
+
+T: Triangle : instrument de musique à percussion formé d&#039;une tige d&#039;acier replié
+
+en triangle non fermé,frappé avec une baguette en acier.  
+
+ 
+
+ 
+
+U: Ukulélé : instrument à cordes pincées traditionnel des îles Hawaï.
+
+ 
+
+ 
+
+ 
+
+V:Violon: instrument de musique à corde frottées constitué de 71 élements
+
+en bois,c&#039;est l&#039;instrument le plus fréquemment utilisée dans
+
+les orchestres.  
+
+ 
+
+W:Walkman&#8482;:Appareil de musique de petite taille diffusant dans un casque externe.  
+
+ 
+
+ 
+
+ 
+
+X: X-Zibit : (1974-...)Rappeur americain noir.  
+
+ 
+
+ 
+
+ 
+
+Y: Yéyé :  Appellation propre à décrire la chanson populaire française de 1959 à 1968.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Z: Zarbiste :Joueur de Zarb.  
+
+ 
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

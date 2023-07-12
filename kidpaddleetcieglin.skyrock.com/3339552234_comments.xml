@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Présentation ] Second Sight : Les OOBs ( Out Of Bounds ) - Commentaires</title>
+  <description>J&#039;avais déjà fait un article complet autour du jeu Second Sight: https://kidpaddleetcieglin.skyrock.com/3319320894-Critique2Glin-Second-Sight.html
+ 
+Aujourd&#039;hui, je me suis amusé, après le visionnement de ce speed-run, à faire des OOB ( Out Of Bound ).
+ 
+
+ 
+Mais qu&#039;est-ce qu&#039;un OOB ( Out Of Bound ) exactement et comment les reproduire en jeu ?
+ 
+Je m&#039;y suis essayé et je peux enfin vous présentez le système.
+ 
+Un OOB est une manipulation de l&#039;espace 3D où votre hitbox rentre en collision avec un mur et passe à travers.
+ 
+
+ 
+Ce qui est intéressant avec Second Sight, c&#039;est que si on martèle les touches Z et E et qu&#039;on maintien le bouton gauche de la souris tout près d&#039;un mur avec pouvoir &quot;impulsion psy&quot; , il est assez facile de faire un OOB.
+ 
+MAIS À QUOI SERT UN OOB AU JUSTE ?!
+ 
+En Speed-Run, il permet de se rendre plus rapidement à des lieux précis déjà charger dans le niveau ( souvent, c&#039;est juste la structure qui est chargé ce qui permet d&#039;éviter pleins d&#039;ennemis ).
+ 
+Des fois, quand un script permettant d&#039;ouvrir une porte ne s&#039;active pas parce que vous avez fait d&#039;autres formes de glitch, le OOB permet de les passer ces portes.
+ 
+Pour ma part, je vous fait un jeu de cache-cache !
+ 
+
+ 
+Si on s&#039;y prend bien, on peut même rendre des passages difficiles TRÈS FACILES parce que les ennemis ne peuvent pas tirer à travers les murs mais vous si !
+ 
+
+ 
+Dernière particularité de l&#039;OOB, du coup, c&#039;est que vous pouvez explorer les niveaux sans que tout soit charger dont les scripts qui permettent de justifier un mur invisible sur la carte. Cette porte est un mur invisible et c&#039;est pour ça qu&#039;on la ferme dans le scénario quand notre équipe arrive.
+
+ 
+Pour finir, gardez en tête que le jeu a été codé à l&#039;essentiel et que les salles cachées peuvent être atteintes sans OOB, juste avec la manipulation de l&#039;intelligence artificielle via votre placement ou votre comportement à un script clé !
+De cet état de fait en découle que tant qu&#039;on ne connaîtra pas la structure des cartes précisément, la pratique du OOB en speed-run se fera surtout à des endroits connus et ne permettra pas des skips de plusieurs minutes de jeu. Si vous essayez à l&#039;aveugle, vous le deviendrez parce que vous allez tomber de la carte dans un vide infini.
+
+ 
+Voila tout ce que je pouvais vous dire sur les OOBs dans Second Sight, j&#039;espère que si vous avez le jeu, vous allez vous amusez à jouer avec les murs en tapant successivement sur Z et E en maintenant le bouton gauche de la souris sans aller au bout de l&#039;attaque.
+ 
+KidpaddleetcieGlin
+
+
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

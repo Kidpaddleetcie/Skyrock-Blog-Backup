@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Phénoménologie]Les images perceptives - Commentaires</title>
+  <description>Pendant la Renaissance
+Albrecht Dürer en 1525 (pendant la Renaissance) a fait une gravure.
+
+ 
+On le voit avec un outil nommé intersecteur, un outil qu&#039;il a dû apprendre en Italie qui permet de gérer la perspective. Cette image est à but pédagogique et montre donc comment on se sert de l&#039;outil. On peut remarquer qu&#039;une lunette sert à sauvegarder le lieu où doit se trouver l&#039;œil ainsi qu&#039;une feuille vraisemblablement transparente vu qu&#039;il peint dessus la personne qui semble être un noble. C&#039;est un procédé qui essaye de représenter les choses tel qu&#039;on les voit.
+ 
+Dans la Renaissance, l&#039;observation tiré de la science est de retour après tant d&#039;année où cette même science a été voilé au profit de la religion.
+ 
+ 
+La pyramide visuelle est une forme de perspective inventé dans le temps de la Renaissance.
+
+ 
+La Renaissance commençant en 1420 en Italie mettra surtout en avant les productions d&#039;image à caractère scientifique.
+ 
+La mimésis arrivera donc et toute scène imaginée sera représenté selon des gestions de proportions. On est plus proche du réel. Pour définir la mimésis, on peut dire que c&#039;est le fait que l&#039;image représente une scène donnant des allures de réalités vives.
+ 
+La gestion de la perspective entre les italiens et les flamands (et Pays-Bas) est différente.
+L&#039;italien utilise une perspective centrale qui donne un effet de neutre (photographique). Le point de fuite se trouve en bas.
+ 
+Le flamand utilise une perspective à deux points centraux qui donne un effet d&#039;oppression. Le point de fuite se trouve en haut.
+ 
+Il y a trois grands hommes qui ont apporter leurs pierres à l&#039;édifice de l&#039;art au début de la Renaissance :
+Donatello : Un sculpteur réaliste (ses statues semble vivantes)
+Brunelleschi : L&#039;inventeur de la perspective
+Masaccio :  Peintre réaliste
+ 
+ 
+
+Le Saint-Georges de Donatello (1417), remarquer ses reliefs, ses illusions de tissus souples (oui la pierre donne une illusion de souple, de légèreté), le regard aussi est expressif, le corps est détendu, la tête est légèrement tournée et un léger déhanchement. Le costume a été recherché ! 
+ 
+Le bas-relief parle du contexte de combat de Saint-Georges contre le dragon.
+ 
+ 
+ 
+Léonard De Vinci : La Vierge L&#039;enfant Sainte Anne (1519) :
+
+ 
+On remarque sur cette peinture qu&#039;il y a des touches de haute lumière, il y a un respect des proportions humaines, les couleurs se veulent naturelles
+(beaucoup moins saturés qu&#039;au Moyen-Âge), il y a l&#039;utilisation de la technique « Sfumato »
+(technique qui estompe les contours afin de ne pas les rendre rigide), travail des textures, il y a une désaturation de l&#039;avant à l&#039;arrière-plan.
+ 
+
+Pendant le 17 ième siècle
+Au 17ème siècle, c&#039;est au tour d&#039;un paysagiste hollandais (Jan van Goyen) de nous montrer sa forme du réalisme.
+
+ 
+On peut y remarquer une meilleure notion des couleurs que Léonard De Vinci dans le sens où la couleur est plus proche de la réalité. Malheureusement, ce n&#039;est pas encore le résultat qu&#039;on aurait en sortant le jour d&#039;une journée venteuse.
+
+On a aussi une bonne gestion des plans (avant/second plan), c&#039;est un repoussoir (procédé qui est de mettre un objet souvent foncé en avant plan).
+ 
+La nature morte aussi fera partie de la représentation réaliste.
+ 
+Pendant le 20ième siècle 
+ 
+Stalline accède au pouvoir après la révolution communiste en 1930.Il fera une propagande pour que les artistes sèment les nouvelles idées révolutionnaires communistes.
+ 
+En peinture expressionniste, les couleurs froides (souvent utilisé dans les arrières plans) reculent tandis que les couleurs chaudes avancent (et sont plus utilisé pour les objets de premiers plan).
+ 
+On peut créer des effets de violence, de vulgarité en saturant les couleurs. Le contraste de saturation et de désaturation s&#039;appelle un contraste de qualité. Plus le contraste est grand, plus c&#039;est vulgaire !
+ 
+L&#039;art non-européen sera une grande inspiration pour les expressionnistes allemand et le cubisme français et italien.
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

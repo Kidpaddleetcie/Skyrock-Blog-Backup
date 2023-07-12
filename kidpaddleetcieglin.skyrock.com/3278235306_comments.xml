@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [La publicité]Le JEP (l&#039;organe d&#039;autodiscipline du secteur de la pub en Belgique) - Commentaires</title>
+  <description>Vous croyez que la publicité est partout et est un virus? En effet, c&#039;est le virus du capitalisme qui oserait violer votre vie privé ou vous mentir pour vous faire consommer des produits présentés comme révolutionnaires ou alors en discriminants les autres produits de la concurrence.
+ 
+
+http://www.jep.be/fr
+
+La JEP pour &quot;le Jury d&#039;Éthique Publicitaire&quot; est l&#039;organe d&#039;autodiscipline du secteur de la PUB en Belgique et sert à vérifier les messages publicitaires afin de voir si les règles de l&#039;éthique sont respectées en fonction des lois et des codes d&#039;autodisciplines qui existent pour la pub.
+ 
+Ses fonction sont simples:
+1.en collaboration avec des annonceurs, des agences et des médias, il est chargé d&#039;examiner les plaintes que les consommateurs ont sur un produit, un service,...
+ 
+2.S&#039;occuper des demandes d&#039;avis soumises de manière libre par ses collaborateurs (annonceurs, agences, médias).
+ 
+Remarquer que ce sont des fonctions d&#039;examen et traitement, du coup le système est rapide (au moins UN SYSTÈME RAPIDE EN BELGIQUE!!!)!
+ 
+ 
+ 
+Maintenant l&#039;exception que le JEP peut accepter est lorsque le Président du Jury de Première instance soumet un message publicitaire à l&#039;examen du JEP, suite à une initiative ou à la demande d&#039;un ou plusieurs membres de son Jury. 
+ 
+Les décisions prises par le JEP sont basées tant sur les dispositions légales (loi sur les pratiques de commerce, de législation par catégorie de produits et services,...) que sur les dispositions auto-disciplinaires (codes, règles, recommandations).
+ 
+ 
+Pour plus d&#039;information sur le JEP: http://www.jep.be/fr/faq/quest-ce-que-le-jep </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

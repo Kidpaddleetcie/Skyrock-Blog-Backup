@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Délire2Glin]La société de FanYoshiBleu et Glin! - Commentaires</title>
+  <description> Dans ce monde, il y a les maîtres et les élèves, les maîtres occupent les grandes places dans la société et les élèves sont derrières eux pour apprendre et servir.
+ 
+Glin Kidpaddleetcie, un maître d&#039;une société de production de logiciel artistique, est la personne qui va nous intéresser pour cette lecture. C&#039;est un jeune homme qui s&#039;occupe des phases de test dans la section « vidéo » et il adore son métier. Pas de problème avec les autres employés, pas de horaire précis, pas de caméra à part la sienne et la possibilité de manger au lieu de travail font que Glin s&#039;est épanouis et accepte son salaire qui lui donne la possibilité de se nourrir de viande, de pâtes, de sauce et de Gini® sans se soucier du poids de son portefeuille.
+ 
+Glin a comme supérieur hiérarchique sa sœur. FanYoshiBleu est une jeune femme portant une épaisse mèche sur l&#039;œil gauche avec des capacités intellectuelles développées (FanYoshiBleu, pas sa mèche)  et une connaissance gargantuesque de la belgo-économie  ainsi que la société Nintendo avec qui, FanYoshiBleu, a fait certain de ses logiciels en fonction des technologies proposées sur les consoles. Un logiciel de montage-vidéo sur WiiU et New3DS pour seulement 15€, c&#039;était le logiciel le plus vendu de la franchise, 6 millions de téléchargements, et ne faisait que commencer !
+ 
+Après la mort de la Playstation 4 après 3 ans d&#039;existence et l&#039;arrivé de Steam sur le marchés des consoles, Nintendo demanda de créer une version inédite de Super Mario Bros pour la WiiU. FanYoshiBleu qui participait à toutes les réunions marketing et de conception proposa un « Super Mario Bros Explorer Edition », un jeu où Mario partirai du château de la princesse Peach pour aller faire des photos du royaume champignon avec le gamepad de la WiiU. Le jeu fût une réussite car les joueurs partageaient leurs photos sur les réseaux sociaux et les vidéos parodies avaient toutes dépassés les 1000 vues sur YouTube, une PUB gratuite aussi influent que de la publicité excessive.
+
+ 
+FanYoshiBleu et Glin était heureux et leurs boulots les convenais parfaitement. La société de FanYoshiBleu  aidait les élèves à devenir des maîtres et Glin pouvait présenter des logiciels dans ses vidéos sur YouTube.
+ 
+Sony coula et FanYoshiBleu investit les ruines pour créer des parcs avec des toilettes publics, boulangeries, fontaines et terrasses.
+ 
+Nintendo y mît la main à la pâte en y mettant un réservoir de donné Street Pass pour les joueurs de la famille Nintendo 3DS.
+ 
+Fin</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

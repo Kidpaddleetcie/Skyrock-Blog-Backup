@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Géographique]Les plaques tectoniques - Commentaires</title>
+  <description>Répartition des différentes plaques tectoniques du globe terrestre:
+ 
+
+ 
+Mouvements des différentes plaques tectoniques du globe terrestre:
+
+
+
+ 
+Les trois types de mouvements:
+1)Collision
+
+
+En se rapprochant, des plaques tectoniques océaniques se rencontrent. La plus dense des deux (généralement la plus ancienne) s&#039;enfonce sous l&#039;autre et forme ainsi une zone de subduction. Si les deux plaques continentales entrent en collision, elles forment une chaîne de montagnes.
+ 
+Exemple: l&#039;Himalaya  
+ 
+2) Écartement
+
+
+
+
+En s&#039;écartant, les plaques tectoniques créent un rift par lequel du magma (lave) va sortir. En sortant, la lave va se refroidir et se solidifier pour former des îles, des volcans sous-marins ou des volcans continentaux... 
+ 
+Exemple : Islande,...
+ 
+3)Coulissement
+
+
+
+ 
+En coulissant, les plaques tectoniques se frottent les unes contres les autres. Ces frottements donnes naissances aux tremblement sans volcanisme.
+ 
+Exemple: Faille de San Andreas 
+
+Pour d&#039;avantages d&#039;informations:
+https://www.futura-sciences.com/planete/definitions/geologie-tectonique-plaques-970/
+
+https://fr.wikipedia.org/wiki/Tectonique_des_plaques
+
+https://education.francetv.fr/matiere/sciences-de-la-vie-et-de-la-terre/quatrieme/video/tectonique-des-plaques-et-tremblements-de-terre
+
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3126220647_comment_1.html#c-20622486434" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3126220647_comment_1.html#c-19007336293" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3126220647_comment_1.html#c-18998047709" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3126220647_comment_1.html#c-20622486434">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3126220647_comment_1.html#c-20622486434</link>
+		<dc:date>2022-06-09T20:05:23+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Wow Super Merci :) !</description>
+		<content:encoded><![CDATA[
+			Wow Super Merci :) !
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3126220647_comment_1.html#c-19007336293">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3126220647_comment_1.html#c-19007336293</link>
+		<dc:date>2013-12-07T18:39:19+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Dorien,je ne fais que mon boulot ^_^ ! Si tu veux,tu peux m&#039;aider à enrichir cet article.</description>
+		<content:encoded><![CDATA[
+			Dorien,je ne fais que mon boulot ^_^ ! Si tu veux,tu peux m&#039;aider à enrichir cet article.
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3126220647_comment_1.html#c-18998047709">
+		<title>Commentaire de Liall</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3126220647_comment_1.html#c-18998047709</link>
+		<dc:date>2013-11-30T12:44:27+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Liall</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Merci, ça m&#039;a aidé pour mon devoir de SVT :)</description>
+		<content:encoded><![CDATA[
+			Merci, ça m&#039;a aidé pour mon devoir de SVT :)
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

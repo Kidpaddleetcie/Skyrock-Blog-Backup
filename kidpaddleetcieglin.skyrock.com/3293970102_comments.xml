@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Système&amp;Réseau]les bus (partie 2) - Commentaires</title>
+  <description>PCI express : format
+&#8226; PCIe standard
+&#8226; PCIe Mini :
+interface compacte pour carte fille de mémoire, de connexions réseaux, GPS, ...
+ 
+
+ 
+parallel ATA (Advanced Technology Attachment) ou IDE remplacé par SATA
+Bus parallèle pour connecter les périphériques de stockage : disque, CD, ... 
+
+
+Connecteur de nappe :
+
+
+
+ 
+SATA (Serial Advanced Technology Attachment)
+Bus série dédié aux connexions des périphériques de stockage : HDD, SSD, DVD, ...
+
+
+
+ 
+ 
+SATA (Serial Advanced Technology Attachment) FORMATs
+eSATA (external SATA) : pour brancher les périphériques externes
+
+
+mSATA(mini SATA) : pour les ordinateurs portables proches du format mini-PCIe
+ 
+Micro-SATA : pour les disques durs 1.8&#039;&#039; , ultraportables et les tablettes
+
+
+ 
+
+
+SCSI (Small Computer System Interface)
+
+
+Bus doté d&#039;une interface de commande plus développée et moins dépendante de l&#039;unité centrale. =&gt; électronique plus chère
+ 
+Exemple : gestion des files de commandes dans le périphérique
+ 
+L&#039;interface SCSI peut gérer des périphériques internes et externes très variés, tels que disques durs, scanners, graveurs, unités de sauvegarde, etc.
+
+
+
+USB (Universal Serial Bus)
+Série de bus avec des fonctionnalités :
+&#8211; de connexion à chaud (plug and play)
+&#8211; d&#039;alimentation électrique (2A pour la puissance, 100mA mode normal)
+ 
+Bande passante des différentes versions
+
+
+
+
+
+Schéma de connexion arborescent à 5 niveaux
+
+ 
+Câble avec connecteurs A-B :
+A = host
+B = périphérique
+ 
+Les connecteurs :
+
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

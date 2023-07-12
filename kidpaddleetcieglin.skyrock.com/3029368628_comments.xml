@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> A-t-on des fans de Donkey Kong? - Commentaires</title>
+  <description>Biensur,il y a même une chanson qui fait le tour du Web sur ce sujet!
+ 
+
+
+Paroles:
+
+My favorite game game game game 
+Was one i played in the arcade cade cade cade 
+Those flaming barrells were a pain pain pain pain 
+The first is still my favorite stage stage stage stage 
+D.K. 
+
+And he lived on and on and on 
+It&#039;s the return of Donkey Kong 
+Yeah 
+
+I clap my hands up in the air sometimes 
+Thank you, Retro, and Nintendo 
+100 bananas for an extra life 
+Get on the Rhino, Diddy let&#039;s go! 
+
+Cuz we gon&#039; slap the ground 
+We gon&#039; throw head butts 
+We gon&#039; roll along 
+Like it&#039;s Donkey Kong 
+If you played it once, then you&#039;ll play it twice. 
+We gon&#039; roll along 
+
+Like it&#039;s Donkey Kong 
+Swing on this vine vine vine vine 
+I ride a mine cart through the mine mine mine mine 
+Over the trees i&#039;m gonna climb climb climb climb 
+Call Candy Kong for a good time time time time 
+D.K. 
+
+And we&#039;ll play on and on and on 
+It&#039;s the return of Donkey Kong 
+Yeah 
+
+I throw a barrel through the air sometimes 
+I love Shiguru Miyamoto 
+Find golden letters for an extra life 
+Swim with Orco, Diddy let&#039;s go! 
+
+Cuz we gon&#039; Cartwheel 
+Hum the game&#039;s theme song 
+We gon&#039; roll along 
+Like it&#039;s Donkey Kong 
+If you played it once, then you&#039;ll play it twice 
+We gon&#039; roll along 
+Like it&#039;s Donkey Kong
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

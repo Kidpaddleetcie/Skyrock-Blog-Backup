@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation2Glin] Le vilain petit canard - Commentaires</title>
+  <description>(Ceci est le script d&#039;une vidéo que j&#039;ai dû supprimer d&#039;internet et que vous ne verrez jamais, peut-être que je la referais un jour pour éviter les droits d&#039;auteur)
+ 
+Bonjour, bienvenue sur Kidpaddleetcie pour cette présentation de Glin sur le vilain petit canard, un conte pour enfants écrit par Hans Christian Andersen en 1842 !
+ 
+C&#8217;est un conte qui a pour inspiration la vie de l&#8217;auteur lui-même et on a tendance à se dire à chaque fois que le vilain petit canard s&#8217;en prend plein le bec à cause de ses frères et de la femme fatale que les canards sont des connards !
+ 
+Le vilain petit canard est donc une histoire où un canard noir doit faire face au racisme et à l&#8217;injustice envers les intellos ou encore plein de minorité qu&#8217;on peut encore déterminer tant le vilain petit canard est une métaphore non pas de la dissidence mais de l&#8217;innocence d&#8217;être en apparence méchant ! Car oui, vilain et méchant ne sont pas des synonymes car vilain est plus proche de moche que méchant est plus proche de mal-attentionné ! Vilain est un jugement sur l&#8217;apparence et méchant est un jugement sur les faits !
+ 
+Bref, vous aurez compris que le titre donne déjà 4 éléments sur le sujet de l&#8217;histoire :
+-Le « le » permet de savoir que le héros est unique et qu&#8217;il est seul sujet vivant intéressent pour le récit, c&#8217;est donc le centre !
+ 
+-Le « vilain » signifie qu&#8217;il est moche et donc qu&#8217;il est rejeté des beaux personnages puisqu&#8217;on appuie sur ce jugement d&#8217;apparence ! La dichotomie est fixée !
+ 
+-Le « petit » signifie qu&#8217;il va s&#8217;en prendre plein le bec car sa taille est proportionnelle à son niveau de pouvoir de contestation, je rappelle que l&#8217;histoire est une métaphore d&#8217;une vie vécue,
+ 
+-Le « canard » est juste là pour faire commun et surtout pour bien mettre un contraste entre la fin de l&#8217;histoire et son début ! On en reparle dans le spoil !
+ 
+Pour ma part, j&#8217;ai découvert ce conte grâce à son adaptation de 1996 en film d&#039;animation réalisé par Evelyne Fouché et V. Gontcharov et produit par Polygram Video et Millimages. 
+Ce film m&#8217;a fait mal au cœur et comme on me l&#8217;a passé quand j&#8217;étais vraiment petit sur une cassette VHS, on a pu me le montrer et me le remontrer beaucoup de fois tout comme le Roi Lion !
+ 
+Voilà, c&#8217;est la fin de la vidéo, au revoir et à bientôt sur Kidpaddleetcie, n&#8217;oubliez pas d&#8217;aller voir le film d&#8217;animation disponible sur YouTube et si vous voulez du spoile pour approfondir le sujet du conte, attendez la fin de la musique de fond que je vous laisse !
+ 
+ 
+ 
+C&#8217;est bon, nous voilà à la partie « spoile », dorénavant, la fin de l&#8217;histoire peut être évoquer et donc j&#8217;annonce que le vilain petit canard est juste un bébé cygne, un cygnet !
+ 
+Alors oui, au lieu de dire « cygnet » j&#8217;aurais pût dire cygneau ou cygnon mais pour vous ça s&#8217;appelle un poussin parce que vous pensez que ce nom générique qualifie bien TOUT les bébés des oiseaux ovipares MAIS j&#8217;appelle toujours mon chat par son nom et les présidents par un juron !
+ 
+Pour ceux qui se demande toujours, le vilain petit canard relate le parcours d&#8217;un artiste qui doit affronter l&#8217;amour, le rejet de la société, de génie incompris, de coup de pute de ses soi-disant potes, &#8230; c&#8217;est purement une histoire du 19ème siècle, le siècle de Charles Baudelaire, Victor Hugo, Alfred de Musset, Arthur Rimbaud, &#8230; !
+ 
+L&#8217;histoire est aussi dure comme les peintures de Claude Monet mais l&#8217;espoir fait son apparition souvent et permet au personnage principal de ne pas se renfermer sur lui-même&#8230;on peut dire que l&#8217;espoir arrive pile-poil au bon moment !
+ 
+ Bon, je pense qu&#8217;on peut arrêter le spoil et se dire au revoir sans qu&#8217;un sentiment de vide vous soit infligé ! Je me dois donc de vous demander de mettre en commentaire d&#8217;autres informations si j&#8217;ai oublié d&#8217;en mentionné certaine mais une analyse sémantique ou scénaristique de l&#8217;histoire n&#8217;est pas de mon ressort tellement je n&#8217;ai pas le courage de lire tous les bouquins ayant parlé de ce sujet avant moi !
+ 
+Au revoir et à bientôt sur Kidpaddleetcie !</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

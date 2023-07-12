@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Chanson2Glin]Glin à 123Lunatic ! - Commentaires</title>
+  <description>                               [EN CONSTRUCTION]                                    
+Je ne sais pas ce qui se passe depuis quelques temps,
+Depuis la fin de la saison 2 plus exactement,
+Tes animations sont moins dynamique, moins épique,
+Les personnages restent au centre et ne suivent que le rythme,
+Plus vraiment d&#039;accord avec les lyrics et leurs mythes,
+Les voix ne concordes plus vraiment aux personnages présentés,
+Je crois que t&#039;es en manque de partenaire pour t&#039;amélioré,
+Depuis que t&#039;as rendu ta veste de poopeur avec la fin de Paper Mario et la porte MDR,
+T&#039;es en galère pour te reconstruire un univers,
+Devant supporter le passage à Adobe Premiere,
+Tu es probablement en carence de repère...
+ 
+J&#039;imagine que ta zone de confort est brisée,
+Après toutes ces années à l&#039;agrandir grâce à l&#039;ajout de nouvelles capacités,
+T&#039;en a supportés des crises et des dégénérés,
+J&#039;espère que tu te remettras de celle qui est en train de te bloquer !
+ 
+Je ne peux haïr ce que tu fais depuis quelques années,
+Depuis ton Let&#039;s Play sur Pokémon Rouge Feu,
+Tu t&#039;es diversifié et c&#039;est génial,
+T&#039;as pris tes affaires et tu régales.
+ 
+Ton passé de poopeur te rajoute un certain charisme,
+T&#039;es issu du chaos comme moi mais ta plume a sût faire preuve de perfectionnisme,
+T&#039;as sût bien t&#039;entouré de gens talentueux ( surtout Stan Dusk &lt;3 ),
+Pour solutionner les tâches qui te sont difficultueux,
+Je te remercie pour la qualité que vous nous avez apportés et à la prochaine fois ( surtout les instrus de Stan Dusk &lt;3  ) !</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

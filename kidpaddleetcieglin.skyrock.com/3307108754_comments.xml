@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Avis2Glin]Le communisme méritocratique! - Commentaires</title>
+  <description>Ce qu&#039;on reproche souvent au communisme,c&#039;est de ne pas avoir d&#039;ascension sociale!
+Il est vrai que dans un principe d&#039;égalité et de partage équitable des richesses, on en oublie la notion de mérite!
+ 
+Imaginez, vous voulez gagner plus en travaillant plus mais ce n&#039;est pas possible dans les propriétés de base du communisme vu que vous voulez vous différencié dans une institution...est-ce une tentative de domination sur vos camarades? Comment osez-vous troubler l&#039;ordre publique, sale capitaliste?!
+ 
+ Donc la notion de mérite peut être rajouter et là, on peut mettre la notion de différenciation par les faits! Les notions d&#039;héritage reste (mérite familial) mais à ça s&#039;ajoute le mérite de la production (mérite productif) et le mérite social.
+ 
+En gros, imaginez que dans vos puces se trouvant dans la carte d&#039;identité se trouve un arbre du mérite qui résume les études que vous avez réussis, les biens que vous avez offert à l&#039;état, le nombre de gosse que vous avez générés et les sociétés auxquelles vous avez bosser!
+ 
+Chaque point de mérite acquis (donc, une partit d&#039;une branche de l&#039;arbre du mérite) vous offre une augmentation salariale ET CELA MÊME SI VOUS NE TRAVAILLEZ PAS,LE CHÔMAGE PEUT ÊTRE RENTABLE! On rentre donc dans l&#039;idée du &quot;salaire à vie&quot; ou de l&#039;&quot;allocation universelle&quot;!
+ 
+Contrairement à Fantomas qui veut faire un impot sur le droit de vivre à des riches,
+le communisme méritocratique pourrait amener un salaire à vie à tout le monde...oui, même ceux qui ne sont pas dans le besoin!
+ 
+ 
+Les notions de taxes sont toujours là MAIS l&#039;État donne aussi de l&#039;argent grâce à une caisse &quot;salaire&quot; qui fait partie de ces fameuses taxes! Comme cela, on peut re-distribuer les cartes du capital à tout le monde à chaque fin de mois ce qui en revient au principe fondamental du communisme: Le partage équitable des/de la richesse(s)!
+ 
+ 
+Ce qui signifie donc que tout le monde peut vivre sans craindre de devoir se serrer la ceinture pendant plus d&#039;un mois, à vous donc de devenir autonome et de profiter de la vie pour enchaîner les points de mérite...comme dans un jeu-vidéo!
+ 
+ 
+Oh, bien sur, pour qu&#039;un état communiste méritocratique fonctionne, il faut que des états capitalistes soient adjacents ou qu&#039;ils soient en relation commerciale avec eux car le communisme méritocratique permet à un état de fonctionné rapidement au niveau économique et commercial, ce qui stimule la consommation et la production...l&#039;exportation est donc primordiale pour une croissance optimum!
+ 
+ 
+Maintenant, on a un soucis: Qui gère un état communiste méritocratique?
+ 
+C&#039;est compliqué, un tuteur d&#039;état aurait très peu de pouvoir et il serait interchangeable donc il ne faut qu&#039;une seule personne soit l&#039;image de l&#039;état mais un groupe soudés et polyvalent! 
+ 
+Je pense que mettre des gens ayant déjà un énorme salaire serait intéressant dans l&#039;idée où ils sont censés connaître leur état dans son système et aussi l&#039;intérêt de ses citoyens!
+ 
+Maintenant, on peut aussi pensé qu&#039;un référendum pour savoir si il est possible de faire un état &quot;Communiste méritocratique démocratique&quot; serait possible même si ça fait beaucoup de &quot;-ocratique&quot; pour qualifié l&#039;idée que c&#039;est un état dirigé par des méritants élus par les citoyens!
+ 
+J&#039;aime bien l&#039;idée qu&#039;on puisse farmer le mérite comme dans un jeu-vidéo sans plafond de verre et sans de trop grandes prises de risque économique et sociale!
+La volonté et la santé seront les seuls freins à l&#039;émancipation du travail et de l&#039;ascension sociale de chacun!
+ 
+Sérieusement, ça me plairait d&#039;avoir un genre de &quot;score&quot; comme salaire et d&#039;être assuré qu&#039;il tombera tout les mois dans ma poche sans que j&#039;aille à le réclamer ou devoir faire des concessions à cause d&#039;un patron qui ne se sent plus!
+ 
+Directement après vos dix-huit ans, vous pouvez enchaîner les mérites et vous &quot;auto-thuné&quot; pour pouvoir aller aux bouts de vos projets!
+ 
+Voila, c&#039;est utopique aujourd&#039;hui avec la diabolisation du communisme mais c&#039;est beau quand même!
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

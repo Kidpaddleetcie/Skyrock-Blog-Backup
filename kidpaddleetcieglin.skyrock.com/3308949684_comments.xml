@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique2Glin]Belle et Sébastien 3: Le dernier chapitre! - Commentaires</title>
+  <description> 
+En ce 17 Février 2017,je suis aller voir &quot;Belle et Sébastien 3 &quot; en famille!
+Ma petite sœur et ma maman m&#039;avait déjà pitché sur les deux premiers épisodes et...je suis assez déçus que les films soient plus proche du livre que de l&#039;anime mais bon, l&#039;anime devait être une série et pas un film long et chiant donc le film n&#039;est pas long et chiant et clôture toutes les sous-intrigues qu&#039;on a pût avoir dans les deux premiers films que je n&#039;ai pas vu et ajoute un méchant s&#039;appelant Joseph, un ancien collabo avec les Boschs et avec un regard de roux...ça veut dire qu&#039;il n&#039;a pas d&#039;âme!
+  
+ Je vais juste reprocher à ce film ce qu&#039;il n&#039;est pas car il est tout simplement excellent même si il a des relents de film français de part sa structure mais bon...on ne casse pas des codes du cinéma avec des scénarios de vieux livres ayant eût son anime au siècle dernier! 
+ 
+Le point fort du film est quand même qu&#039;ils ne sont pas tombé dans la facilité et ont su rester réaliste avec une gamine qui s&#039;inquiète pour Sébastien MAIS qui est convenablement montrée comme une amie intime et pas comme une petite amie! L&#039;AMITIÉ HOMME-FEMME EST LÀ mais ce n&#039;est qu&#039;un détail! Le vrai point fort est le jeu d&#039;acteur qui savent nous faire déchirer le cœur et nous le faire bondir! C&#039;est pas un film qui se veut comique par contre!
+ 
+ Sachez que je ne vous ai rien spoilez jusque-là donc...la mère de Sébastien est morte à l&#039;accouchement! BAM,les deux première minutes du film avant le générique du début est spoilez et j&#039;ai été mal à l&#039;aise en apprenant cette nouvelle parce que la mère de Seb&#039; est vivante dans tout l&#039;anime et il veut la retrouver pendant la cinquantaine d&#039;épisodes!
+ 
+Franchement, je suis content de ne pas avoir lu le livre avant d&#039;avoir vu ce film parce que je me serais taillés les veines avec du papier-lettre en apprenant que c&#039;est un roman noir comme Rémi sans Famille! En plus Sebastien n&#039;a pas fait le tour de France, il n&#039;y a pas Poutchi, il n&#039;y a rien de l&#039;anime à part les personnages principaux dont une qui est morte!
+ 
+D&#039;ailleurs, je spoile, le méchant n&#039;est pas suffisamment développé pour qu&#039;on aille de l&#039;empathie pour lui...je vous laisse deviner ou admirer son sort!
+ 
+OH,il y a une référence au Seigneur des Anneaux dans ce film...et il n&#039;est pas discret du tout mais je ne vois pas comment ils auraient pût faire autrement pour que l&#039;actrice de la mère de Sébastien ne soit venu que pour 2 minutes de film xD (elle restera alors pour 5 minutes sur tout le film)! NE BAISSE PAS LES BRAS FRODON,si dans les ténèbres tout s&#039;obscurcit, ma lumière sera là pour t&#039;éclairer!
+ 
+J&#039;ai aimé ce film même si j&#039;étais perdu au début à cause de la découverte de l&#039;univers en contradiction avec l&#039;univers de l&#039;anime que je regardais de mes 4 à 15 ans chez ma mamie! 
+ 
+En tout cas, aller le voir et n&#039;oubliez pas de regarder les deux autres avant parce que je suis sûr qu&#039;il y a des sous-intrigues que j&#039;ai loupé et que les relations entre certains personnages me semble floues!
+ 
+Au revoir ,KidpaddleetcieGlin
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

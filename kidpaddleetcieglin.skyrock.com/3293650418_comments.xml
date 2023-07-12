@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide colorimétrie]Le profil IRC! - Commentaires</title>
+  <description>Sur Photoshop, on peut choisir son profil IRC (profil couleur) trouvable dans le menu
+&quot;édition&gt;couleur&quot;.
+ 
+IRC signifie &quot;Indice de Rendu de Couleur&quot;.
+( source: https://fr.wikipedia.org/wiki/Indice_de_rendu_de_couleur )
+
+Chaque profil modifie donc les paramètres de la couleur afin de répondre aux différents supports de l&#039;image et de leurs capacités en couleur. Photoshop simulera donc le gamut du profil du support choisi.
+ ( Plus d&#039;infos: https://www.guide-gestion-des-couleurs.com/preferences-couleurs-photoshop.html )
+
+Le SRGB est le plus petit dénominateur commun, tous les écrans arrivent à afficher ce gamut.
+ 
+
+L&#039;encre magenta n&#039;est pas le même en Europe qu&#039;en Amérique et le Japon. C&#039;est pour cela que des profils pour le Japon et l&#039;Amérique sont disponible sur Photoshop. Bien sûr, c&#039;est surtout dans l&#039;impression de l&#039;image qu&#039;on ressent cette différence, inutile de passer en RGBJapan si on veut envoyer sur internet pour les japonais une image Photoshop.
+ 
+Les niveaux de gris, RGB et CMJN peuvent être convertis entre eux MAIS le mieux est de s&#039;y prendre par soi-même pour garder le contrôle de l&#039;espace colorimétrique. Il y a une fonction qui vous demande à chaque non-concordance des profils si Photoshop doit garder le profil en place ou se convertir en le nouveau profil.
+ 
+On peut aussi modifier le format des pixels mais ça ne touche que de la vidéo.
+Quand on emploi Photoshop, il faut utiliser l&#039;Adobe RGB quand on ne connait pas l&#039;avenir de l&#039;emploi de l&#039;image.
+ 
+Si on veut passer du RGB à CMJN, on doit aller dans &quot;Edition&gt;Convertir un profil&quot;.
+Le Gamut Mapping a deux manières d&#039;être faîtes, il y a le perceptual (relative) et le colorimetric (colorimétrique). Le mieux est la relative !
+Le sRGB est suffisant pour le WEB dans l&#039;idée que tout les écrans doivent affiché le même résultat !
+ 
+
+
+Quand on imprime, on peut demander à Photoshop de gérer les couleurs ATTENTION À NE PAS UTILISER CETTE FONCTIONNALITÉ SUR UNE IMPRIMANTE D&#039;ÉPREUVAGE !
+L&#039;Hexachromie (6 couleurs) a un gamut plus ou moins égale à l&#039;Adobe RGB.
+
+ 
+Les imprimantes photos ayant six encres ne sont pas des imprimantes maîtrisant la Hexachromie car il y a 3 des encres faîtes pour les tons clairs. 
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

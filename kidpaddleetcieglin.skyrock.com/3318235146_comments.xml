@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Ressource]Un header avec un sommaire et une liste de site! - Commentaires</title>
+  <description>
+Lorsque que je me suis permis de créer les bases de mon site web, je me suis coincé par les codes et par la mise en place d&#039;un contenu adaptable sur mobile et PC (et aussi sur TV)!
+De ce fait, j&#039;ai pris le partit de commencer avec ce code qui permet de créer des sommaires qui se déploie en passant le curseur dessus :
+ sfHover = function() {
+var sfEls = document.getElementById(&quot;menu&quot;).getElementsByTagName(&quot;LI&quot;);
+for (var i=0; i&lt;sfEls.length; i++) {
+sfEls.onmouseover=function() {
+this.className+=&quot; sfhover&quot;;
+}
+sfEls.onmouseout=function() {
+this.className=this.className.replace(new RegExp(&quot; sfhover\\b&quot;), &quot;&quot;);
+}
+}
+}
+if (window.attachEvent) window.attachEvent(&quot;onload&quot;, sfHover);
+
+
+Et je vous offre tout le reste du code avec son résultat:
+https://codepen.io/kidpaddleetcie/pen/pQNOeB
+
+Pour le CSS, je m&#039;y suis pris comme ça:
+html{
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+width: 100%;
+height:100%
+}
+body {
+background-color: white;
+font-family: Verdana, sans-serif;
+font-size: 100%;
+}
+
+img .base {
+height: auto;
+min-width :133px;
+}
+
+ul {
+padding:0;
+margin:0;
+list-style-type:none;
+}
+
+
+#logo{
+margin-left: auto;
+margin-right: 370px;
+margin-top:-200px;
+padding-bottom:0px;
+padding-left:0px;
+padding-right:0px;
+padding-top:0px;
+}
+
+/* Pour le &quot;header&quot; qui se retrouve toujours tout en haut de la page */
+
+#menu, #menu ul
+/* Liste */
+{
+padding : 0;
+/* pas de marge intérieure */
+margin : 0;
+/* ni extérieure */
+list-style : none;
+/* on supprime le style par défaut de la liste */
+line-height : 21px;
+/* on définit une hauteur pour chaque élément */
+text-align : center;
+/* on centre le texte qui se trouve dans la liste */
+}
+
+#menu
+/* Ensemble du menu */
+{
+font-weight : bold;
+/* on met le texte en gras */
+font-family : Arial;
+/* on utilise Arial, c&#039;est plus beau ^^ */
+font-size : 12px;
+/* hauteur du texte : 12 pixels */
+}
+
+#menu a
+/* Contenu des listes */
+{
+color: black;
+text-decoration: none;
+background-color:lightblue;
+border-color: #696969 #DCDCDC #DCDCDC #696969;
+font-size: 95%;
+border-radius: 50px;
+display : block;
+/* on change le type d&#039;élément, les liens deviennent des balises de type block */
+padding : 0;
+/* aucune marge intérieure */
+width : 250px;
+/* largeur */
+}
+
+#menu li
+/* Elements des listes */
+{
+float : left;
+/* pour IE qui ne reconnaît pas &quot;transparent&quot; */
+border-right : 1px solid #fff;
+/* on met une bordure blanche à droite de chaque élément */
+}
+
+/* IE ne reconnaissant pas le sélecteur &quot;&gt;&quot; */
+html&gt;body #menu li
+{
+border-right: 1px solid transparent ;
+/* on met une bordure transparente à droite de chaque élément */
+}
+
+#menu li ul
+/* Sous-listes */
+{
+position: absolute;
+/* Position absolue */
+width: 200px;
+/* Largeur des sous-listes */
+left: -999em;
+/* Hop, on envoie loin du champ de vision */
+}
+
+
+#menu li ul li
+/* Éléments de sous-listes */
+{
+/* pour IE qui ne reconnaît pas &quot;transparent&quot; (comme précédemment) */
+border-top : 1px solid #fff;
+/* on met une bordure blanche en haut de chaque élément d&#039;une sous liste */
+}
+
+/* IE ne reconnaissant pas le sélecteur &quot;&gt;&quot; */
+html&gt;body #menu li ul li
+{
+border-top : 1px solid transparent;
+/* on met une bordure transparente en haut de chaque élément */
+}
+
+#menu li ul ul
+{
+margin: -22px 0 0 2px ;
+/* On décale les sous-sous-listes pour qu&#039;elles ne soient pas au dessus des sous-listes */
+/* pour IE qui ne reconnaît pas &quot;transparent&quot; (comme précédemment) */
+border-left: 1px solid #fff ;
+/* Petite bordure à gauche pour ne pas coller ... */
+}
+
+/* IE ne reconnaissant pas le sélecteur &quot;&gt;&quot; ... je me répète ;-) */
+html&gt;body #menu li ul ul
+{
+border-left: 1px solid transparent ;
+/* on met une bordure transparente sur la gauche de chaque élément */
+}
+
+#menu li:hover ul ul, #menu li.sfhover ul ul
+/* Sous-sous-listes lorsque la souris passe sur un élément de liste */
+{
+left: -999em;
+/* On expédie les sous-sous-listes hors du champ de vision */
+}
+
+#menu li:hover ul, #menu li li:hover ul, #menu li.sfhover ul, #menu li li.sfhover ul
+/* Sous-listes lorsque la souris passe sur un élément de liste ET sous-sous-lites lorsque la souris passe sur un élément de sous-liste */
+{
+left: auto;
+/* Repositionnement normal */
+min-height: 0;
+/* Corrige un bug sous IE */
+}
+
+#box{
+background-image:url(&#039;Images/box.png&#039;);background-repeat:no-repeat;
+}
+
+
+#Lien_Centré
+{
+display:block;
+text-align:center;
+}
+
+div #menugauche {
+border-top-color:rgb(0, 0, 254);
+border-top-style:none;
+border-top-width:0px;
+clear:left;
+color:rgb(0, 0, 254);
+display:block;
+float:left;
+font-family:&quot;Arial Black&quot;;
+font-size:9px;
+margin-bottom:0px;
+margin-left:0px;
+margin-right:8px;
+margin-top:0px;
+padding-bottom:0px;
+padding-left:0px;
+padding-right:0px;
+padding-top:0px;
+position:relative;
+text-align:left;
+}
+
+div #menudroite {
+border-top-color:rgb(0, 0, 254);
+border-top-style:none;
+border-top-width:0px;
+clear:right;
+display:block;
+float:right;
+font-family:&quot;Arial Black&quot;;
+font-size:9px;
+margin-bottom:0px;
+margin-left:0px;
+margin-right:8px;
+margin-top:0px;
+padding-bottom:0px;
+padding-left:0px;
+padding-right:0px;
+padding-top:0px;
+position:relative;
+text-align:right;
+}
+
+iframe #right {
+margin-left: auto;
+margin-right: auto;
+margin-top:auto;
+padding-bottom:0px;
+padding-left:0px;
+padding-right:0px;
+padding-top:0px;
+}
+
+/*Ici c&#039;est pour la vibration*/
+.shake-slow {
+display: display-block;
+transform-origin: center center; }
+
+.shake-freeze,
+.shake-constant.shake-constant--hover:hover,
+.shake-trigger:hover .shake-constant.shake-constant--hover {
+animation-play-state: paused; }
+
+.shake-freeze:hover,
+.shake-trigger:hover .shake-freeze, .shake-slow:hover,
+.shake-trigger:hover .shake-slow {
+animation-play-state: running; }
+
+@keyframes shake-slow {
+2% {
+transform: translate(0px, -3px) rotate(3.5deg); }
+4% {
+transform: translate(-9px, -3px) rotate(0.5deg); }
+6% {
+transform: translate(-7px, 4px) rotate(-0.5deg); }
+8% {
+transform: translate(7px, 5px) rotate(2.5deg); }
+10% {
+transform: translate(-1px, -3px) rotate(-1.5deg); }
+12% {
+transform: translate(-3px, 8px) rotate(1.5deg); }
+14% {
+transform: translate(9px, -7px) rotate(2.5deg); }
+16% {
+transform: translate(1px, -9px) rotate(3.5deg); }
+18% {
+transform: translate(-4px, 7px) rotate(-1.5deg); }
+20% {
+transform: translate(6px, 3px) rotate(0.5deg); }
+22% {
+transform: translate(4px, -2px) rotate(-1.5deg); }
+24% {
+transform: translate(-7px, -8px) rotate(3.5deg); }
+26% {
+transform: translate(-5px, 9px) rotate(2.5deg); }
+28% {
+transform: translate(0px, -2px) rotate(-1.5deg); }
+30% {
+transform: translate(5px, 9px) rotate(1.5deg); }
+32% {
+transform: translate(6px, 2px) rotate(-1.5deg); }
+34% {
+transform: translate(-9px, 9px) rotate(2.5deg); }
+36% {
+transform: translate(-8px, 10px) rotate(3.5deg); }
+38% {
+transform: translate(2px, -4px) rotate(-2.5deg); }
+40% {
+transform: translate(2px, 7px) rotate(-2.5deg); }
+42% {
+transform: translate(2px, 4px) rotate(3.5deg); }
+44% {
+transform: translate(-8px, -3px) rotate(2.5deg); }
+46% {
+transform: translate(5px, -3px) rotate(1.5deg); }
+48% {
+transform: translate(9px, 4px) rotate(3.5deg); }
+50% {
+transform: translate(-1px, 2px) rotate(-1.5deg); }
+52% {
+transform: translate(-9px, 4px) rotate(-1.5deg); }
+54% {
+transform: translate(-1px, -6px) rotate(-2.5deg); }
+56% {
+transform: translate(4px, -6px) rotate(0.5deg); }
+58% {
+transform: translate(-8px, 2px) rotate(2.5deg); }
+60% {
+transform: translate(2px, 10px) rotate(3.5deg); }
+62% {
+transform: translate(5px, 5px) rotate(1.5deg); }
+64% {
+transform: translate(5px, 7px) rotate(-0.5deg); }
+66% {
+transform: translate(-6px, 9px) rotate(-0.5deg); }
+68% {
+transform: translate(4px, -2px) rotate(0.5deg); }
+70% {
+transform: translate(-5px, -3px) rotate(3.5deg); }
+72% {
+transform: translate(2px, 5px) rotate(-0.5deg); }
+74% {
+transform: translate(-9px, 4px) rotate(3.5deg); }
+76% {
+transform: translate(3px, -7px) rotate(1.5deg); }
+78% {
+transform: translate(0px, 4px) rotate(2.5deg); }
+80% {
+transform: translate(-1px, 4px) rotate(1.5deg); }
+82% {
+transform: translate(8px, 2px) rotate(1.5deg); }
+84% {
+transform: translate(7px, -6px) rotate(-0.5deg); }
+86% {
+transform: translate(3px, 0px) rotate(0.5deg); }
+88% {
+transform: translate(7px, -9px) rotate(-1.5deg); }
+90% {
+transform: translate(1px, 3px) rotate(0.5deg); }
+92% {
+transform: translate(10px, 3px) rotate(-0.5deg); }
+94% {
+transform: translate(4px, 1px) rotate(1.5deg); }
+96% {
+transform: translate(3px, 9px) rotate(2.5deg); }
+98% {
+transform: translate(4px, -7px) rotate(0.5deg); }
+0%, 100% {
+transform: translate(0, 0) rotate(0); } }
+
+.shake-slow:hover,
+.shake-trigger:hover .shake-slow, .shake-slow.shake-freeze, .shake-slow.shake-constant {
+animation-name: shake-slow;
+animation-duration: 5s;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite; }
+
+.shake-horizontal {
+display: inline-block;
+transform-origin: center center; }
+
+.shake-freeze,
+.shake-constant.shake-constant--hover:hover,
+.shake-trigger:hover .shake-constant.shake-constant--hover {
+animation-play-state: paused; }
+
+.shake-freeze:hover,
+.shake-trigger:hover .shake-freeze, .shake-horizontal:hover,
+.shake-trigger:hover .shake-horizontal {
+animation-play-state: running; }
+
+@keyframes shake-horizontal {
+2% {
+transform: translate(-4px, 0) rotate(0); }
+4% {
+transform: translate(7px, 0) rotate(0); }
+6% {
+transform: translate(-3px, 0) rotate(0); }
+8% {
+transform: translate(-7px, 0) rotate(0); }
+10% {
+transform: translate(3px, 0) rotate(0); }
+12% {
+transform: translate(-9px, 0) rotate(0); }
+14% {
+transform: translate(-1px, 0) rotate(0); }
+16% {
+transform: translate(7px, 0) rotate(0); }
+18% {
+transform: translate(-3px, 0) rotate(0); }
+20% {
+transform: translate(10px, 0) rotate(0); }
+22% {
+transform: translate(8px, 0) rotate(0); }
+24% {
+transform: translate(7px, 0) rotate(0); }
+26% {
+transform: translate(4px, 0) rotate(0); }
+28% {
+transform: translate(7px, 0) rotate(0); }
+30% {
+transform: translate(9px, 0) rotate(0); }
+32% {
+transform: translate(4px, 0) rotate(0); }
+34% {
+transform: translate(2px, 0) rotate(0); }
+36% {
+transform: translate(-2px, 0) rotate(0); }
+38% {
+transform: translate(-2px, 0) rotate(0); }
+40% {
+transform: translate(0px, 0) rotate(0); }
+42% {
+transform: translate(-3px, 0) rotate(0); }
+44% {
+transform: translate(1px, 0) rotate(0); }
+46% {
+transform: translate(-4px, 0) rotate(0); }
+48% {
+transform: translate(-7px, 0) rotate(0); }
+50% {
+transform: translate(4px, 0) rotate(0); }
+52% {
+transform: translate(-5px, 0) rotate(0); }
+54% {
+transform: translate(-2px, 0) rotate(0); }
+56% {
+transform: translate(-6px, 0) rotate(0); }
+58% {
+transform: translate(7px, 0) rotate(0); }
+60% {
+transform: translate(2px, 0) rotate(0); }
+62% {
+transform: translate(10px, 0) rotate(0); }
+64% {
+transform: translate(-7px, 0) rotate(0); }
+66% {
+transform: translate(-6px, 0) rotate(0); }
+68% {
+transform: translate(2px, 0) rotate(0); }
+70% {
+transform: translate(2px, 0) rotate(0); }
+72% {
+transform: translate(5px, 0) rotate(0); }
+74% {
+transform: translate(-8px, 0) rotate(0); }
+76% {
+transform: translate(2px, 0) rotate(0); }
+78% {
+transform: translate(-1px, 0) rotate(0); }
+80% {
+transform: translate(-8px, 0) rotate(0); }
+82% {
+transform: translate(3px, 0) rotate(0); }
+84% {
+transform: translate(-8px, 0) rotate(0); }
+86% {
+transform: translate(6px, 0) rotate(0); }
+88% {
+transform: translate(5px, 0) rotate(0); }
+90% {
+transform: translate(5px, 0) rotate(0); }
+92% {
+transform: translate(-2px, 0) rotate(0); }
+94% {
+transform: translate(4px, 0) rotate(0); }
+96% {
+transform: translate(-2px, 0) rotate(0); }
+98% {
+transform: translate(-4px, 0) rotate(0); }
+0%, 100% {
+transform: translate(0, 0) rotate(0); } }
+
+.shake-horizontal:hover,
+.shake-trigger:hover .shake-horizontal, .shake-horizontal.shake-freeze, .shake-horizontal.shake-constant {
+animation-name: shake-horizontal;
+animation-duration: 100ms;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite; }
+ 
+ 
+Pour le HTML,c&#039;est ça que j&#039;ai fais:
+
+&lt;center&gt;
+&lt;table width=&quot;100%&quot; border=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;ul id=&quot;menu&quot; style=&quot;float:right&quot; width=&quot;33%&quot;&gt;
+&lt;li&gt;
+&lt;a href=&quot;#&quot;&gt;Sommaire&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;&lt;a href=&quot;_blank&quot;&gt;Mes photos&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;&lt;a href=&quot;_blank&quot;&gt;Mes sons&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;&lt;a href=&quot;_blank&quot;&gt;Mes découvertes&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;&lt;a href=&quot;_blank&quot;&gt;Mes jeux&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;center&gt;
+&lt;div class=&quot;shake-slow&quot;&gt;
+&lt;a href=&quot;_blank&quot; style=&quot;block:inline&quot;&gt;
+&lt;img src=&quot;https://pre00.deviantart.net/2302/th/pre/f/2018/289/f/6/glin_part_en_voyage_by_kidpaddleetcie-dcplmhk.png&quot;
+alt=&quot;Les idées de Glin&quot; 
+width=&quot;20%&quot;
+height=&quot;20%&quot;
+title=&quot;Vers l&#039;acceuil&quot;/&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;ul id=&quot;menu&quot; style=&quot;float:left&quot; width=&quot;33%&quot;&gt;
+&lt;li&gt;
+&lt;a href=&quot;#&quot;&gt;Réseau de Kidpaddleetcie Glin&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;https://kidpaddleetcie.deviantart.com/gallery/&quot;&gt;DeviantArt&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;https://soundcloud.com/kidpaddleetcie-glin&quot;&gt;Soundcloud&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;http://kidpaddleetcieglin.skyrock.com/&quot;&gt;Skyblog&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;http://www.dailymotion.com/Kidpaddleetcie&quot;&gt;Dailymotion&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;https://twitter.com/Kidpaddleetcie&quot;&gt;Twitter&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;https://www.wattpad.com/user/KidpaddleetcieGlin&quot;&gt;Wattpad&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;https://sketchfab.com/KidpaddleetcieGlin/models&quot;&gt;Sketchfab&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;https://github.com/Kidpaddleetcie&quot;&gt;Github&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;https://fr.pinterest.com/Kidpaddleetcie/&quot;&gt;Pinterest&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;https://www.memecenter.com/kidpaddleetcie/&quot;&gt;Meme Center&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt; &lt;div class=&quot;shake-horizontal&quot;&gt;
+&lt;a href=&quot;https://www.sudomemo.net/user/95C3EE50E113B7C8@DSi&quot;&gt;Sudomemo&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/center&gt;</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3318235146_comment_1.html#c-20271184980" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3318235146_comment_1.html#c-20271184980">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3318235146_comment_1.html#c-20271184980</link>
+		<dc:date>2019-02-07T14:44:40+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Alors...le problème de mon header est que j&#039;emplois des balises &lt;center&gt; et des balises &lt;table&gt; !
+Il faudra l&#039;optimiser avec le framework Bootstrap!</description>
+		<content:encoded><![CDATA[
+			Alors...le problème de mon header est que j&#039;emplois des balises &lt;center&gt; et des balises &lt;table&gt; !<br />
+Il faudra l&#039;optimiser avec le framework Bootstrap!
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

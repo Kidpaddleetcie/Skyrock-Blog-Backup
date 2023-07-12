@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Ressources2Glin]Les journalistes VS YouTubeurs - Commentaires</title>
+  <description>Après avoir fait cette vidéo:
+
+ 
+Je me permet de vous partagez les différents tableaux/illustrations récapitulatifs que j&#039;ai mis en incrustation afin d&#039;améliorer la compréhension de mes arguments principaux qui mettent en avant la notion de mérite, de popularité et de la liberté!
+ 
+
+ 
+
+ 
+
+ 
+Je vous fais aussi une grande compilation de la plupart de mes sources:
+ 
+Les CVs de la team JoueurDuGrenier: http://www.joueurdugrenier.fr/phpBB3/viewtopic.php?f=68&amp;t=6845
+ 
+L&#039;interview de Karim Debbache: http://castelmore.fantasyblog.fr/2017/11/02/guide-des-youtubersdecouvrez-linterview-de-karim-debbache/
+ 
+CV d&#039;Amixem: https://dirigeants.bfmtv.com/Maxime-CHABROUD-6475588/
+ 
+Description du métier de journaliste ainsi que les formations: https://www.cidj.com/metiers/journaliste
+ 
+Plus d&#039;infos sur le métier de journaliste:
+http://www.ihecs-academy.be/nos-formations/journalisme-d-investigation-et-ressources-numeriques-avril-2018.htm?lng=fr
+ 
+Qui possède quoi dans les médias français:
+https://www.monde-diplomatique.fr/cartes/PPA
+ 
+Qui possède les médias français:
+http://www.informaction.info/image-problematique-sociale-qui-possede-les-medias-francais
+ 
+Webedia à la télévision:
+http://fr.webedia-group.com/article/es1-la-premiere-chaine-de-television-francaise-dediee-a-l-esport_a507/1
+ 
+Webedia à la TV et au cinéma:
+https://www.lesechos.fr/tech-medias/medias/0211404904526-international-production-tv-cinema-webedia-voit-grand-pour-ses-talents-2036105.php
+ 
+Wikipédia d&#039;Antoine Daniel:
+https://fr.wikipedia.org/wiki/Antoine_Daniel
+ 
+Les heures de travail des journalistes:
+http://vianney-feraud-avocat.blogspot.com/2014/04/heures-supplementaires-des-journalistes.html
+ 
+Les devoirs et les droits des journalistes:
+http://mapage.noos.fr/moulinhg02/educ.civique/medias/journalistes.droits.devoir.html
+ 
+Fiche technique du métier des YouTubeurs:
+http://etudiant.aujourdhui.fr/etudiant/metiers/fiche-metier/youtuber.html
+ 
+Les différents types de journaliste:
+https://www.letudiant.fr/metiers/secteur/journalisme.html
+ 
+Fiche technique très complète du métier de journaliste:
+http://metiers.siep.be/metier/journaliste/
+ 
+Infos sur l&#039;impacte de l&#039;audimat sur le prix des publicités:
+https://fr.answers.yahoo.com/question/index?qid=20101029123531AASyesn&amp;guccounter=1
+ 
+Wikipédia sur le WEB:
+https://fr.wikipedia.org/wiki/World_Wide_Web
+ 
+Jean-Luc Mélenchon a effectivement été journaliste:
+https://anniversaire-celebrite.com/jean-luc-melenchon-c2791.html
+ 
+La TV n&#039;a pas d&#039;anus, juste une bouche:
+https://books.google.be/books?id=ESRVAwAAQBAJ&amp;pg=PA84&amp;dq=la+t%C3%A9l%C3%A9vision+juste+une+bouche+pas+d%27anus&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwjvtfnmy5zdAhVJbFAKHSCLDosQ6AEIKDAA#v=onepage&amp;q&amp;f=false
+ 
+Le Tweet d&#039;Emmanuel Macron:
+https://twitter.com/EmmanuelMacron/status/1035156955537580032
+ 
+La chaîne YouTube de France Télévision:
+https://www.youtube.com/user/myFrancetv
+ 
+Excedés ils quittent le plateau!:
+https://youtu.be/VeoGmq29CP8
+ 
+Top 30 des youtubers français &#8211; Janvier 2016:
+http://www.youtuberlink.com/top-30-des-youtubers-francais-janvier-2016/
+ 
+CV de Laurent Cardon:
+https://be.linkedin.com/in/laurentcardon
+ 
+Ganondorf Dance:
+https://www.youtube.com/watch?v=CIt8URLvxYA
+ 
+Voila!
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

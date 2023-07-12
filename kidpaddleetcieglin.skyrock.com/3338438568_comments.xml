@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Community Manager ] Scoop.it! - Commentaires</title>
+  <description>
+ 
+N&#039;avez-vous jamais voulu publié sur Twitter, Facebook, LinkedIn , Tumblr et votre site web en WordPress le même article en même temps ? Genre, une fois la rédaction terminé, appuyé sur un bouton et POUF, le partage est fait ! Avec https://www.scoop.it/ c&#039;est possible !
+ 
+En faîtes, Scoop.it est intéressant pour:
+- Partager des articles, photos, pages web, document PDF et vidéos
+- Faire des veilles ( des collectes d&#039;information pour mener à bien des projets en entreprise )
+- Augmenter sa visibilité 
+ 
+Malgré une interface transpirant le WordPress basique ( fond blanc, délimitation des différents modules avec un margin supérieur à 5px, tricolométrie,... ), le système de création de topic est pratique pour, en tout bon outil de création de veille, réunir les informations autour d&#039;un sujet donné.
+ 
+Il existe une version gratuite, une version Pro ( à 12€50 par mois ), une version Plus ( à 55€ par mois ) et une version pour entreprise en démonstration.
+Les versions payantes peuvent être essayé dans une période de 7 jours.
+ 
+Quand on prend la version gratuite, on peut:
+- Faire qu&#039;une page de topic ( un seul sujet peut être traité donc une seul veille )
+- Être administré par une seule personne 
+- Suivre d&#039;autres membres de Scoop.it
+- Publier n&#039;importe quel lien
+ 
+Avec la version Pro, on obtient les pouvoirs de:
+- Personnalisé nos pages
+- Linker 5 de nos réseaux sociaux et y partager nos articles directement
+- Intégrer nos articles sur notre site web
+- Avoir accès aux statistiques et à un support en ligne
+ 
+Il va sans dire que la version gratuite n&#039;a pas beaucoup d&#039;intérêt puisqu&#039;on ne peut pas employer la particularité de linker nos réseaux sociaux.
+ 
+Avec la version Plus, on obtient les pouvoirs de:
+- Faire 5 pages de topic ( donc traité 5 sujets de veille )
+- Linker 10 de nos réseaux sociaux et y partager nos articles directement
+- Intégrer les pages de topic dans des sites web ( pas seulement les articles )
+- Syndiquer le contenu ( pouvoir utiliser un flux RSS sur vos topics )
+- Planifier la mise en ligne du contenu
+- Avoir un suivit avec Google Analytics
+ 
+La version Entreprise met en avant, notamment, la charge des documents vidéo, PDF,... donc VOUS NE POUVEZ PAS AVEC LA VERSION GRATUITE,PRO ET PLUS PUBLIÉ DES PDFs ET DES VIDÉOS , il va falloir utiliser des liens.
+ 
+Pour plus d&#039;information : https://www.scoop.it/pricing</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

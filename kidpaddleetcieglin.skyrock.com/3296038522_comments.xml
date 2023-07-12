@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Conseils2Glin]Faire des YouTube Poop travaillées! - Commentaires</title>
+  <description>Depuis 2007,un utilisateur francophone peut faire de YouTube Poop mais ce n&#039;est que depuis 2009/2010 qu&#039;il peut utiliser des logiciels plus puissant que Windows Movie Maker afin de pouvoir créer plus que des ear-rapes, des effets de colorisation cyclique, des effets de vieux film, des ralentis de moité ou des accélérations x2!
+ 
+Si il n&#039;y a pas de recette magique pour faire en sorte qu&#039;une YTP atteignent des sommets à part la connaissance de son (ses) logiciel(s) de production vidéo (audio et image), on peut quand même relever quelque conseil pour tout ceux qui font des YTPs qui n&#039;ont pas comme but de polluer YouTube mais faire de l&#039;humour avec des corrélations de vidéos se trouvant sur la plate-forme (oui,on peut résumer les bonnes YTPs à ça).
+ 
+Cette liste de conseil n&#039;est pas une liste d&#039;obligation car l&#039;humour se fait aussi par l&#039;ajout de contraste et donc de changement de niveau de qualité voir même de perte de cohérence absolue (ça, c&#039;est ce que j&#039;appelle &quot;DarkPoopMoment&quot;):
+ 
+ 
+CONSEILS DE RENDU
+1.N&#039;abusez pas sur les sources SAUF en cas de référence à caler,
+ 
+2.Eviter de chercher à faire du sentence mixing isolant des &quot;r&quot; et &quot;x&quot;, il faut que ça reste audible ET fluide,
+ 
+3.Justifier le ear-rape afin de ne pas subir les représailles disant que vous abusez,
+ 
+4.Un petit SUUS,JAAJ,CHAACH,... de temps en temps,
+ 
+5.Inspirez-vous de la fan-fiction ainsi que la théorie du complot.
+ 
+CONSEIL D&#039;ORGANISATION
+ 
+1.Afin de ne pas finir par faire des rendus de 3h pour deux minutes, veillez à mettre votre fichier de projet au même endroit que vos sources,
+ 
+2.Pour améliorer le sentence mixing,créer un dossier où vous avez isoler un abécédaire d&#039;un personnage en particulier par dossier,
+ 
+3.Préférer les sources de moins de 10 minutes, c&#039;est moins long à importer et à travailler,
+ 
+4.Ailler plusieurs logiciels afin d&#039;optimiser vos idées (chaque logiciel a ses défauts et ses qualités),
+ 
+5.Prenez le temps de bien vous renseignez sur la voix de votre &quot;personnage&quot; si il est extrait d&#039;un dessin-animé (un contraste est possible),
+ 
+6.Ecouter,ré-écouter,ré-ré-écouter vos sources pour ne pas vous perdre lors des phases de sentence-mixing,
+ 
+7.L&#039;emplois d&#039;un fichier texte avec dedans un éventuel scénario n&#039;est jamais super-flue dans un soucis d&#039;organisation lorsque la YTP prend des mois de travail.
+ 
+ 
+Voila, avec ces 12 conseils, vous pouvez vous faire un nom dans le YTPGame et ne pas vous faire lyncher pour abus ou incompétence!
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [PUB]La chaîne Poopulaire ! - Commentaires</title>
+  <description>
+
+ 
+Depuis Juin 2018, il existe la chaîne YouTube &quot;Poopulaire&quot;, une chaîne communautaire où plusieurs poopeurs y postent des YouTube Poop de manière assez random !
+ 
+Parmi ces poopeurs, on peut citer:
+-Suimoco squidfox,
+-GeNesiS YTP,
+-Speculoos YTP,
+-Glin,
+-Streetbugs,
+-SkyCoffee,
+-Gbasire,
+-Pikafeu
+-...
+
+
+Le fonctionnement de la communauté est simple: YOLO !
+ 
+Il y a des projets entre-eux mais personne n&#039;est obligé de participer et c&#039;est cela qui est chouette : AUCUNE OBLIGATION !
+ 
+Comme tout le monde est différent en terme de qualité, de gags, de rythme et de maîtrise de son logiciel de montage, les YTPs qui sortent ne sont pas égales et c&#039;est souvent une bonne surprise !
+ 
+ 
+L&#039;ensemble de l&#039;organisation se fait sur un serveur Discord et les deux grands poopeurs qui l&#039;administre sont SpeculoosYTP et SkyCoffee!
+ 
+Tout les poopeurs de la commu&#039; discutent, s&#039;entraide et jouent de temps en temps à &quot;skribbl.io&quot; pour renforcer les liens !
+ 
+Voila, allez-y faire un tour pour voir avec quel poopeur vous avez des coups de cœur ! 
+ 
+ 
+ KidpaddleetcieGlin
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

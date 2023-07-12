@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Phénoménologie]La privation sensorielle - Commentaires</title>
+  <description>Il existe des centres qui offre la possibilité de louer des caissons à privation sensorielle pendant  +/- 1 heure qui sert à se relaxer.
+ 
+Nous allons parler du terme de la privation sensorielle dans le cadre d&#039;un contexte cognitif et politique.
+ 
+Cognitif signifie tout ce qui rentre dans le domaine de la connaissance. C&#039;est plutôt en psychologie qu&#039;on utilise ce mot (en philosophie, c&#039;est la connaissance).
+ 
+La cognition : Ce sont les procédures mis en œuvre par un sujet pour construire de la connaissance. Donc, études de ces processus (On parle de psychologie cognitive).
+ 
+Contexte politique, des scientifiques entendent parler (pendant les années 50/60) de la dictature chinoise dans le lequel on fait subir une privation sensorielle à des détenus politique en prévision du lavage de cerveau. Il s&#039;agit de construire un dispositif qui fait en sorte que l&#039;individu occupant ce dispositif soit privé de stimulation sensorielle. C&#039;est donc un processus artificiel dans le cadre d&#039;une expérience afin de démontrer en éliminant tous les parasites pendant l&#039;expérience.
+ 
+Éliminer toute les stimulations sensorielles semblent difficiles, impossible, c&#039;est pour ça qu&#039;on tend vers cette idée.
+ 
+Il y a eu deux expérimentateurs : Heron (1956) et Vernom (1960)
+ 
+Vernom a perfectionné l&#039;expérience de Heron. Il a demandé dans l&#039;université où il travaillait à des élèves volontaires de participer à l&#039;expérience. Comme ils étaient déjà cultivés, ils ont permis à Vernom d&#039;obtenir plus d&#039;informations que Heron. En plus, la structure de Vernom sera complètement insonorisée, dans le noir total. Et il y a un lit où on demande au sujet d&#039;y rester immobile (coucher) et de ne pas faire de bruit. L&#039;objectif est de tenir le plus longtemps possible et les volontaires sont au courant de tout.
+ 
+Cette expérience a quand même réussi à faire dormir plus de 24h ses volontaires,
+augmentation des capacités cognitives (mémoire, concentration, attention),
+détente des volontaires.
+ 
+Après ces 2 phases, il y a une dégradation physique (problème d&#039;équilibre, disparition du sommeil)
+et psychique (perte de compréhension du temps et de l&#039;espace) au bout de 2 jours.
+La quatrième phase est l&#039;hallucination, il y en a qui crût voir des points lumineux, des formes géométriques ou encore des petites scènes.
+ 
+On comprend que la perception sensorielle est nécessaire à la bonne santé (physique et mentale).</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

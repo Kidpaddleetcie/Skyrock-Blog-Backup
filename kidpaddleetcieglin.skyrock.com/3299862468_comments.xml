@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement]Mon premier strike! - Commentaires</title>
+  <description>Bonjour bienvenue sur Kidpaddleetcie,
+ 
+Aujourd&#039;hui, je fais une vidéo sur le strike qui m&#039;a été décernée par la chaîne de la Secte Phonétik.
+ 
+Bien sûr, je ne leur en veux pas pour avoir supprimer la vidéo car ils sont dans leur droit, l&#039;instrumental n&#039;est pas de moi après tout ! Mais j&#039;estime qu&#039;il y a quelques remarques pertinentes à faire au sujet de la manière de signaler !
+ 
+
+
+Il faut savoir que la vidéo a été signaler le 25 Août 2017 et qu&#039;avant ce signalement, la chaîne a laissé un ultimatum qui me proposait aussi de la reposter sur leur chaîne avec crédit pour une petite PUB !
+ 
+Alors, premièrement, le commentaire m&#039;a été envoyé sur la messagerie privée de YouTube, l&#039;endroit privé qu&#039;absolument aucun YouTubeur va regarder tellement YouTube s&#039;en bat les chocobons, je n&#039;ai reçu aucune notification et comme Twitter, ma boite mail et les commentaires de mes vidéos servent à ça, je ne pouvais pas avoir accès à l&#039;ultimatum !
+ 
+Deuxièmement, le délai qu&#039;y a eût entre le message privé me mettant en garde (23 Août 2017) et le signalement (25 Août 2017) fût de 2 jours ! Je sais que c&#039;est un peu dire que la Secte Phonétik sont des méchants mais là n&#039;est pas le but car il est probable qu&#039;ils pensaient que j&#039;allais lire le message dans ce délai !
+ 
+Troisièmement, je ne sais pas s&#039;ils ont la vidéo mais s&#039;ils l&#039;ont, j&#039;espère qui la re-posteront parce que ça me ferait bien chier de me dire qu&#039;une vidéo ayant pris une semaine de recherche et montage sur la configuration que j&#039;avais en fin 2016 a été supprimée à jamais, j&#039;aurais bien les boules !
+ 
+Quatrièmement, rien ne vous empêchait de monétiser la vidéo à votre compte comme font tous les ayants droits en ce moment sur YouTube ! Un strike c&#039;est comparable à une balle dans le pied, veuillez économiser vos balles à l&#039;avenir parce que sinon, un site vous traitant de « nazis néo-capitalistes qui mentent sur leurs convictions quand ça leurs arrangent » vous sera dédié !
+ 
+Cinquièmement, CECI N&#039;EST PAS UN DRAMA ! je fais cette vidéo pour pas que ces erreurs précédemment énoncées soient de nouvelles commises autant par vous que par d&#039;autres ayants droits ne comprenant pas qu&#039;ils portent atteintes à leurs images, à leurs communautés et à leurs œuvres en jouant la carte de la censure sans discussion préliminaire ou temps d&#039;exécution de la censure plus longue ! 
+ 
+Voilà, j&#039;espère que le message est clair, partager en copiant cette vidéo sur votre chaîne YouTube, si vous désirez plus d&#039;information sur la responsabilité du ayant-droits quand il strike, l&#039;espace commentaire a un intérêt commun avec vous et n&#039;oublier pas le pouce bleu qui permet à la vidéo d&#039;être référencée pour qu&#039;un jour elle atteigne les yeux des ayants-droits irresponsables ou ignorants !
+ 
+Au revoir et à bientôt sur Kidpaddleetcie !</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

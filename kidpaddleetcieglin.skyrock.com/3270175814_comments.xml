@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Sciences Sociales]Les différents types de publicités - Commentaires</title>
+  <description>Comparative (Rationnelle):
+Forme de publicité qui vise à convaincre la cible à l&#039;aide d&#039;arguments rationnels.
+ 
+Cette forme de création considère l&#039;individu comme un être raisonnable qui aspire à maximiser sa satisfaction à l&#039;aide de choix réfléchis.
+ 
+
+
+Mécaniste (Publicité basé sur le mécanisme):
+Forme de publicité qui vise à provoquer chez l&#039;individu des réactions automatiques indépendantes de son conscient.
+ 
+Cette forme de création considère l&#039;individu comme un être irrationnel,réceptif au conditionnement,capable de seuls automatismes.
+ 
+L&#039;efficacité de ce type de technique passe par l&#039;omniprésence et la répétition du message.
+
+
+
+ 
+ 
+
+Intégrative ou projective:
+Forme de publicité qui confère au produit et au consommateur les valeurs et les normes d&#039;un groupe de référence valorisant.
+ 
+Cette forme de création est d&#039;autant plus efficace que le produit est impliquant ou personnel.
+
+
+
+Suggestive (qui suggère):
+Forme de publicité dont l&#039;efficacité repose sur au moins une évocation propre à stimuler le sens de l&#039;individu.
+ 
+Cette forme de création conduit l&#039;individu à éprouver des sensations diverses: La liberté,la jeunesse,la beauté,la fraîcheur,...
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Source: Les principales formes de publicité,promarket consulté le 16 décembre 2014.
+URL: http://www.promarket.fr/Files/dossier_principales_formes_de_publicite.swf</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Chanson2Glin]Nous sommes tous des super-héros - Commentaires</title>
+  <description>Depuis tout petit,
+On se simule une deuxième vie,
+Entre l&#039;exagération et la modestie,
+Mais quand on grandit,
+C&#039;est une toute autre psychologie!
+ 
+Déjà, il y a l&#039;hypocrisie,
+Conséquence de la conscience d&#039;être redevable et soumis,
+On ne porte pas le meêm discours à son patron qu&#039;à ses amis,
+On mène systématiquement une double vie,
+Une double identité qui s&#039;adapte aux toux de sympathie!
+ 
+Un grand pouvoir implique de grandes responsabilités,
+Mais les grands pouvoirs sont nocifs pour notre société,
+Les combats de Titan s&#039;enchaînent dans des combats de communautés,
+Choisissez entre la sécurité et la liberté,
+La richesse discriminante et la pauvreté discriminée,
+Choisissez vos pouvoir de salarié syndicalisé,
+Mais sachez que vous serez toujours méprisé!
+ 
+&quot;L&#039;union fait la force&quot; mais la devise de la Belgique n&#039;est que théorique,
+Le hic c&#039;est qu&#039;on ne peut être unis de manière systématique,
+Dans un monde où l&#039;émancipation de l&#039;individualité est dogmatique!
+ 
+Tous des héros mais tous entre la création et le chaos,
+On s&#039;enfuit vers nos fantasmes de monde qui charme nos égos,
+On est des lâches se rêvant être des héros!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

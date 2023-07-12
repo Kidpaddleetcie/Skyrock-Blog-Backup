@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Système&amp;Réseau]Les réalisations de la RAM - Commentaires</title>
+  <description>DDR SDRAM Double Data Rate SDRAM
+ Ce sont les barrettes de mémoire :
+
+&#8211; Doublent le débit de données
+&#8211; Largeur du bus 64 bits = 8 octets
+&#8211; Type ECC (Error Correction Coding) : avec correction d&#039;erreur
+ 
+ 
+ 
+ 
+ 
+Appellation commerciale : PCxxxx
+Débit : 2 x 8 Octets x freq (Hz) = xxxx
+Exemple : PC2100 : 2 x 8 x 133.106 = 2128 =&gt; 2100
+ 
+ 
+ 
+ 
+ 
+Les utilisations de la ROM (Mémorisation permanente des firmwares)
+Le firmware (« micrologiciel ou microcode ou logiciel embarqué » en français)
+Définition : couche de programme de bas niveau généralement située dans une mémoire non volatile qui pilote directement le hardware.
+
+Mémoire : ROM, FLASH
+Avantages :
+&#8211; Plus grande flexibilité du dispositif : mise à jour, évolution des fonctionnalités
+&#8211; Évite la modification du hardware
+ 
+Le firmware est présent dans :
+Les ordinateurs : BIOS, EFI
+Périphériques d&#039;ordinateur : disque, modem, SSD, clé USB, ....  
+Les appareils grand public : lave-linge, appareil photo, voitures, feu de circulation, ...
+ 
+Le firmware on le modifie soit par :
+&#8211; Changement du circuit de mémoire ou de la carte que le contient.
+&#8211; Mise à jour (flashing) : au moyen d&#039;un logiciel spécifique.
+ 
+Une mise à jour défectueuse bloque le dispositif : on dit qu&#039;il est « bricked ».
+ 
+Qui maîtrise le firmware maîtrise l&#039;appareil (c&#039;est la couche de logiciel qui contrôle le hardware).
+ 
+Le firmware peut être colonisé par des logiciels malveillants : prise de contrôle, espionnage exemples : clé USB, routeur réseau, téléphone portable, ...
+Solution : le firmware « open source ».
+ 
+ 
+La mémoire shadow
+La mémoire morte (ROM) fonctionne moins rapidement que la mémoire vive (RAM)
+=&gt; La rapidité de la machine peut être améliorée en copiant le code de la ROM en RAM</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

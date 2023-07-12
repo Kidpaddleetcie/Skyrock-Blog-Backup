@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Dactylographie ] Les Calcul de vitesse et de la précision de frappe - Commentaires</title>
+  <description>Puisqu&#039;en dactylographie le but est d&#039;avoir une bonne vitesse de frappe mais aussi une bonne précision, les professeurs emploient ces calculs pour les évaluer.
+ 
+Le calcul de la vitesse :
+[(Nombre de frappes &#8211; (nombre de fautes * 6)]/ Temps*6 = nombre de mots par minutes
+
+
+Le &quot;nombre de frappe&quot; est le nombres de caractères ( espace compris ) inscris dans le document.
+
+
+Le calcul de la précision :
+(Nombre de fautes * 100) / Nombre de frappes = pourcentage d&#039;erreurs
+
+
+
+
+Remarquez que c&#039;est dans les textes courts que le &quot;pourcentage d&#039;erreurs&quot; peut très vite s&#039;élevé et le &quot;nombre de mots par minute&quot; s&#039;amoindrir.
+Il faut donc bien plus se concentrer lors des évaluations.
+ 
+ 
+ 
+Sources:   
+https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&amp;-manuels-informatiques/cours-dactylographie-secretariat/Theorie+sur+la+vitesse+dactylographique.pdf
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

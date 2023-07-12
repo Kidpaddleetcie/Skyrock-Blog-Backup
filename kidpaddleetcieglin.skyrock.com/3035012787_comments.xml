@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Le joueur du grenier en a parlée:Viens boire un p&#039;tit coup à la maison - Commentaires</title>
+  <description>
+ 
+Viens boire un p&#039;tit coup à la maison est une chanson dite « à boire », sortie en 1986 en France par le groupe Licence IV, écrite et omposée par Francis Vacher, Olivier Guillot et Jean-Jacques Lafon (Sous le pseudonyme de J Falon). 
+  La chanson est restée treize semaines en tête du Top 50 en 1987.        Paroles:    Allez viens boire un p&#039;tit coup à la maison 
+Y a du blanc, y a du rouge du saucisson 
+Et Gillou avec son p&#039;tit accordéon 
+Vive les bouteilles et les copains et les chansons -  Pour pouvoir écrire l&#039;premier couplet 
+On avait des crêpes au Grand Marnier 
+Les crêpes étaient bonnes mais trop salées 
+On s&#039;est forcés on a tout bu et on n&#039;a rien mangé -  Faut faire la cuisine sans être bourré 
+Et cette fois y a pas d&#039;premier couplet 
+Pas s&#039;marrer et se mettre à chanter 
+Y a pas le vin y a pas le pain si y a pas les copains -  Nous on aime bien les chansons à boire 
+Mais c&#039;qui nous rendit un peu d&#039;espoir 
+C&#039;est qu&#039;ten avais pas fini d&#039;la poire 
+Qu&#039;on s&#039;est forcés on a tout bu et on a rien mangé -  On a tous fini complet&#039;ment noirs 
+C&#039;était pas la fin de nos déboires 
+J&#039;arrive pas à mettre une suite à cette histoire 
+Y a pas le vin, y a pas le temps si y a pas les copains -  Tout ça se serait bien terminé 
+Si nos bonnes femmes n&#039;étaient pas rentrées 
+Elles ont mis le Pernod sous clé 
+Et on s&#039;est fait virer. 
+      
+ 
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

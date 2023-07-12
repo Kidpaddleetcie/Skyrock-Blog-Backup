@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [LesPloucs]La première BD! - Commentaires</title>
+  <description>Je suis heureux d&#039;avoir eût suffisamment de ressource pour commencer à faire des BD sur les Ploucs!
+
+Ce seront des BD mettant en scène en une page des situations improbables où les protagonistes sont Boredguy,Yunko Blakguitar, FanYoshiBleu,Glin et le Doc.
+Bien sur, d&#039;autres personnages peuvent se manifester pour une planche ou l&#039;autre mais je diversifierais le contenu pour éviter les répétitions et donc les idées!
+ 
+N&#039;oubliez pas que je fais ça de manière indépendante et qu&#039;il se peut qu&#039;il y aille des erreurs comme des fautes d&#039;orthographes... c&#039;est pour ça qu&#039;il faut commenter et proposer des idées! ;)
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

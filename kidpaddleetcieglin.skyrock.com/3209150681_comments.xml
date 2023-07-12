@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Ma vision]Nintendo - Commentaires</title>
+  <description>&quot;Nintendo&quot;,ce nom vient du japonais &quot;Ninten&quot; -&gt;  &quot;Paradis&quot;  et &quot;Dou&quot; -&gt;  &quot;Confier&quot; .
+
+
+&quot;Nintendou&quot; signifie,en état de nom, &quot;Confession paradisiaque&quot;.
+
+
+
+
+Nintendo est une marque venant de l&#039;industrie ludique japonaise.
+Au tout début,ils faisaient des cartes à jouer,ces cartes fient leur premier succès.
+
+
+Nintendo s&#039;agrandit pour faire plus de jeux et lorsque les américains changèrent les paysages japonais,Nintendo entra dans le jeux-vidéo pour rester dans le coup.
+
+
+Nintendo fît des jeux sur arcade puis sur console de tiers et enfin sur leurs propres consoles après le krash du jeu-vidéo en 1981.
+
+
+
+
+Nintendo développa plusieurs capacités techniques pour ses manettes et ses jeux-vidéos:
+
+
+-Dans &quot;Donkey Kong&quot; premier du nom sur arcade,nous pouvions voir les premières cinématique de l&#039;histoire vidéo-ludique,
+
+
+ -Dans le Game&amp;Watch &quot;Donkey Kong&quot;,nous pouvions apprécié la première croix directionnelle,
+ 
+-Sur la manette de la Super-Nintendo (SNes),nous pouvions jouer avec les boutons pour index,&quot;R1&quot; et &quot;L1&quot;,
+ 
+ -Dans &quot;SuperMarioBros&quot; sur Nintendo (Nes),nous avons le scrolling horizontal pour une révolution de plus,
+ 
+-Dans &quot;Star Fox&quot; sur Super-Nintendo,nous avons les premiers graphismes en 3D,de la vrai 3D!
+
+
+-Une extension pour la manette de la Nintendo 64 (N64) permettait de créer des vibrations!
+
+
+-La Nintendo (Nes) avait un microphone...UNE PREMIÈRE SUR LES CONSOLES!
+
+
+
+
+Bon,il y en a plein de petite révolution que Nintendo a implanter dans ses consoles et je tiens à défendre Nintendo grâce à ce genre de Super-Information!
+
+
+Mes sources: http://fr.wikipedia.org/wiki/Manette_de_jeu
+http://fr.wikipedia.org/wiki/Nintendo
+http://fr.wikipedia.org/wiki/Shigeru_Miyamoto
+L&#039;histoire complète de Nintendo http://www.nintendo.be/fr/Societe/L-Histoire-de-Nintendo/L-Histoire-Nintendo-625945.html</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

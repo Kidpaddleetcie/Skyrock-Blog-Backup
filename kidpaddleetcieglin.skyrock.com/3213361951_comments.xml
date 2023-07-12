@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Toutes les licences de type &quot;Creative Commons&quot;! - Commentaires</title>
+  <description>
+
+
+
+
+Attribution License
+Cette licence permet aux autres de distribuer vos créations, de les remixer, de les modifier légèrement et de les utiliser pour en créer de nouvelles, y compris à des fins commerciales, à condition que votre crédit soit mentionné pour la réalisation originale. C&#039;est la licence la plus arrangeante qui soit. Elle est recommandée pour une diffusion et une utilisation optimales des œuvres sous licence.
+
+
+[Copier-coller de http://vimeo.com/creativecommons/by]
+
+
+ 
+Attribution Share Alike
+Cette licence permet aux autres de remixer vos créations, de les modifier légèrement et de les utiliser pour en créer de nouvelles, y compris pour des fins commerciales, à condition que votre crédit soit mentionné et que ces créations soient placées sous une licence identique à la vôtre. Cette licence est souvent comparée aux licences « copyleft » gratuites des logiciels libres. Toutes les nouvelles œuvres basées sur votre travail porteront la même licence, par conséquent leurs dérivés autoriseront aussi une utilisation commerciale. Cette licence est utilisée par Wikipedia, et elle est recommandée pour les supports qui bénéficieraient d&#039;une incorporation de contenu Wikipedia et de projets sous licence similaires.
+
+
+[Copier-coller de http://vimeo.com/creativecommons/by-sa]
+ 
+ 
+Attribution No Derivatives
+Cette licence autorise la redistribution à des fins commerciales et non commerciales, dans la mesure ou l&#039;objet n&#039;est pas modifié et est transmis en intégralité et dans la mesure où il est fait mention de votre personne.
+
+
+[Copier-coller de http://vimeo.com/creativecommons/by-nd]
+
+
+
+
+Attribution Non-Commercial
+Cette licence permet aux autres utilisateurs de faire un remix, d&#039;adapter et de développer vos œuvres à des fins non commerciales, et bien que leurs nouvelles créations doivent vous mentionner et ne doivent pas servir à des fins commerciales, ils n&#039;ont pas l&#039;obligation d&#039;établir une licence selon les mêmes termes concernant leurs œuvres dérivées.
+
+
+[Copier-coller de http://vimeo.com/creativecommons/by-nc]
+ 
+ 
+Non-Commercial Share Alike
+Cette licence permet aux autres utilisateurs de faire un remix, d&#039;adapter et de développer vos œuvres à des fins non commerciales, tant qu&#039;ils vous mentionnent et établissent une licence pour leurs nouvelles créations avec des termes identiques.
+
+
+[Copier-coller de http://vimeo.com/creativecommons/by-nc-sa]
+
+
+
+
+ 
+Non-Commercial No Derivatives 
+Cette licence est la plus restrictive de nos six licences principales car elle permet seulement aux autres utilisateurs de télécharger vos œuvres et de les partager avec d&#039;autres personnes tant qu&#039;ils vous mentionnent mais ils ne peuvent en aucun cas les modifier ou les utiliser à des fins commerciales.
+
+
+[Copier-coller de http://vimeo.com/creativecommons/by-nc-nd]
+
+
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

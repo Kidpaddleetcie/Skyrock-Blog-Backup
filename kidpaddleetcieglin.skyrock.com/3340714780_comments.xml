@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Infos ] Les sortilèges dans Dungeon Keeper en français - Commentaires</title>
+  <description>
+
+ 
+Il est fort probable que ça soit Richard Ridings ( le conseiller/narrateur de la version anglaise de Dungeon Keeper ) qui a fait ces performances. Mais une source ( https://keeperklan.com/threads/1457-Keeper-Spell-Speeches ) prétend plutôt que c&#039;est Dene Carter .
+
+ 
+ 
+Possession : 
+&quot; Cranium Internum&#039; &quot;
+ 
+&#128168; &quot;Dans le crâne&quot;
+
+Création de lutin :
+&quot; Impus natum&#039; &quot;
+ 
+&#128168; &quot;Naissance d&#039;un lutin&quot;
+
+Œil du diable :
+&quot; Oculus Diabolus&#039; &quot;
+ 
+&#128168; &quot;Œil du diable&quot;
+
+ 
+Accélération :
+&quot; Acceleratæ&#039; &quot;
+
+
+&#128168; &quot;Dépêcher&quot;
+
+ 
+Obéissance : 
+&quot; Slave&#039; &quot;
+
+
+&#128168; &quot;Trimer&quot;
+
+Ralliement :
+&quot; Aggressum attractus&#039; &quot;
+
+
+&#128168; &quot;Attiré par l&#039;attaque&quot;
+
+Camouflage :
+&quot; Vapos&#039; &quot;
+ 
+&#128168; &quot;Vapeur&quot; ou &quot;Fumée&quot;
+
+Capteur de foule :
+&quot; Culinare&#039; &quot;
+
+
+&#128168;&quot;Cuisine&quot;
+
+Effondrement :
+&quot; Antrum Deus&#039; &quot;
+
+
+&#128168;&quot;Dieu de l&#039;antre/grotte&quot;
+
+Guérison :
+&quot; Vitæ&#039; &quot;
+
+
+&#128168; &quot;Vie&quot;
+
+Foudre : 
+&quot; Electro Deus&#039; &quot;
+
+
+&#128168; &quot;Dieu de l&#039;électricité&quot;
+ 
+Protection :
+&quot; Saeptus&#039; &quot;
+
+
+&#128168;&quot;Blindé&quot;
+ 
+Galinamorphose :
+&quot; Tikka&#039; &quot;
+
+
+&#128168; Référence au plat indien à base de poulet &quot;tikka massala&quot;
+ 
+Épidémie :
+&quot; Mortis&#039; &quot;
+
+
+&#128168; &quot;Va mourir&quot;
+ 
+Armageddon :
+&quot; Apocolatæ &quot;
+
+
+&#128168; &quot;Apocalypse&quot;
+ 
+Défortification :
+&quot; Penitenziagite&#039; &quot;
+
+
+&#128168; &quot;Faites pénitence&quot;
+La pénitenziagite est le cri de ralliement du mouvement religieux chrétien &quot;Les Dolciniens&quot; qui disaient merde aux richesses et prônaient la pauvreté matérielle absolue au profit de l&#039;amour avec les êtres humains et les animaux.
+&quot;Pénitenziagite&quot; est dérivé du latin &quot;agite Poenitentiam&quot;, qui signifie la même chose.)
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

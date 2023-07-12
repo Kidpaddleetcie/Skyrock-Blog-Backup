@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Constatation]Idée de l&#039;Oculus Rift dans Kid Paddle! - Commentaires</title>
+  <description>Vous vous souvenez de l&#039;Oculus Rift?
+
+ 
+Hé bien j&#039;ai retrouvé ce concept dans ma BD préféré:
+
+
+En page 8 et 9 de &quot;JEUX DE VILAIN&quot; (tome 1),nous avons carrément ça:
+ 
+
+ 
+ 
+
+ 
+Pourtant,d&#039;après les références du livre (voir photo d&#039;après) c&#039;est vers 1996 que l&#039;idée est dans la tête de Midam (surtout avant 1996 vu que la planche a certainement été créé avant la publication du livre...par logique)!
+ 
+
+ 
+ 
+Hallucinant,il a fallut (2012 (année du lancement du projet &quot;Oculus Rift) -1996) 16 ans pour que le projet soit réalisé!
+ 
+Tout simplement hallucinant O_o
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

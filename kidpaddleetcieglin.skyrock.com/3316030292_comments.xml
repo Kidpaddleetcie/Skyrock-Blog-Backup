@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Améliorer son PaintDotNet! - Commentaires</title>
+  <description>Lorsqu&#039;on désire faire des montages de qualité et abréger des étapes tout en gardant une main mise sur ses images, on doit améliorer son logiciel avec des plugins, scripts et/ou brosses et formes!
+ 
+Si j&#039;ai choisis de vous présenter la manière pour améliorer votre PaintDotNet (téléchargeable ici: https://www.getpaint.net/download.html ), c&#039;est parce que PHOTOSHOP EST PAYANT ET SES MEILLEURS PLUGIN AUSSI! Donc, PaintDotNet étant un des meilleurs logiciels de retouches et de création d&#039;image avec Photoshop et TheGimp (et comme je n&#039;emplois pas TheGimp), je vous montre la démarche pour PaintDotNet!
+ 
+D&#039;abord, il faut se rendre sur https://forums.getpaint.net/forum/7-plugins-publishing-only/ car c&#039;est ici où vous pourrez choisir vos extensions! 
+ 
+Ensuite, appuyez s&#65279;&#65279;ur le lien de téléchargement en pièce-jointe de l&#039;article sur la présentation du plugin!
+ 
+ 
+Peu après, une fenêtre s&#039;ouvre...cliquer sur &quot;Enregistrer&quot;!
+
+ Maintenant que vous avez un .zip dans un dossier de votre ordinateur, ouvrez-le en cliquant dessus et admirer le contenu!
+
+ 
+Vous voyez les fichiers &quot;.dll&quot; et &quot;.dlc&quot;, et bien ils vont devoir être sélectionner et glisser dans le dossier &quot;C:\Program Files\paint.net\Effects&quot; de votre ordinateur!
+
+ 
+Et voila...c&#039;est juste ça qu&#039;il faut faire,n&#039;oublier pas de confirmer que vous voulez bien les installer en cliquant sur &quot;Continuer&quot;!
+
+ 
+Allons voir comment se porte notre effet tout neuf:
+
+ 
+Là, on voit qu&#039;il a bien été implanter dans le logiciel mais fonctionne-t&#039;il vraiment?
+
+ 
+OUI! IL FONCTIONNE,IL EST VIVANNNNNNNNNNNNNNT!!!!
+
+ 
+ 
+C&#039;est tout, on n&#039;a plus qu&#039;à l&#039;utiliser et vous pouvez répéter le tuto autant de fois que vous voulez pour offrir divers nouvelles fonctionnalités à votre PaintDotNet...vous pourrez même faire de la vidéo, de la 3D, des gifs animés, des exportations en .Obj, en .PSD ou encore en .MP4,... le logiciel peut tout faire contrairement à Photoshop qui pourrait bien le faire si il n&#039;avait pas une communauté qui veut plus de pognon que de reconnaissance sociale en brillant sur les forums! 
+ 
+Voila!
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3316030292_comment_1.html#c-20230289196" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3316030292_comment_1.html#c-20229454042" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3316030292_comment_1.html#c-20229339166" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3316030292_comment_1.html#c-20230289196">
+		<title>Commentaire de Imas69</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3316030292_comment_1.html#c-20230289196</link>
+		<dc:date>2018-10-06T00:02:18+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Imas69</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Héhé. Merci, c&#039;est sympa l&#039;easter egg :)</description>
+		<content:encoded><![CDATA[
+			Héhé. Merci, c&#039;est sympa l&#039;easter egg :)
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3316030292_comment_1.html#c-20229454042">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3316030292_comment_1.html#c-20229454042</link>
+		<dc:date>2018-10-03T14:14:27+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;est toujours les petits Easter Egg que je laisse dans mes tutos :p c&#039;est facile à faire et c&#039;est assez discret!</description>
+		<content:encoded><![CDATA[
+			C&#039;est toujours les petits Easter Egg que je laisse dans mes tutos :p c&#039;est facile à faire et c&#039;est assez discret!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3316030292_comment_1.html#c-20229339166">
+		<title>Commentaire de Imas69</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3316030292_comment_1.html#c-20229339166</link>
+		<dc:date>2018-10-03T00:43:54+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Imas69</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Ça fait plaisir d&#039;avoir son nom dans un article :)</description>
+		<content:encoded><![CDATA[
+			Ça fait plaisir d&#039;avoir son nom dans un article :)
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

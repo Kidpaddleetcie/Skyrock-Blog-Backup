@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Événement ] Les 150 abonnés sur la chaîne &quot;LesYTPs2Glin&quot; ! - Commentaires</title>
+  <description>Ce 30 Juin 2022, soit 4 mois et 24 jours après le cap des 100 abonnés,  la chaîne &quot;LesYTPs2Glin&quot; a dépassé le palier symbolique des 150 abonnés.
+ 
+À cet occasion, j&#039;avais promis une YouTube Poop sur le Radis Irradié et elle est sortie 3 jours plus tard, la voici :
+
+ 
+Du coup, revenons sur l&#039;histoire de cette YouTube Poop qui a été une première fois exportée le &#8206;7 &#8206;mars &#8206;2021 et finalisée le  &#8206;6 &#8206;février &#8206;2022 ( 336 jours soit 10 mois et 30 jours de production ).
+
+
+Origine de l&#039;idée
+ 
+Lorsque j&#039;ai commencé à me poser la question des sources que j&#039;allais poopé pour les paliers d&#039;abonnés en 2021, j&#039;ai regardé les chaînes YouTube que je regardais beaucoup ainsi que les dessins-animés.
+ 
+La chaîne du Radis Irradié me faisait de l&#039;œil de part le sentence-mixing possible à faire de part le concept même de ses vidéos qui est de narrer des faits.
+ 
+Ayant déjà fait un modèle 3D de son avatar le 26 Avril 2018, j&#039;ai profité de l&#039;occasion pour me lancer dans la YTP avec déjà l&#039;idée qu&#039;il raconterait une histoire avec son avatar.
+
+ 
+Création de la YTP
+
+Au début, je me suis dis &quot;Tiens, vu que je suis aussi fan du travail du RoiDesRats, pourquoi ne pas tenter de reproduire l&#039;intro des &#039;Le Monde part en Couille&#039;.&quot;.
+ 
+Je commença donc par l&#039;intro afin de déjà être sûr que la YTP soit attrayante au début.
+J&#039;avais aussi tenté de faire l&#039;intro de Psyko_Sauce mais c&#039;était pas super.
+ 
+Pour faire l&#039;intro façons &#039;Le Monde part en Couille&#039; du RoiDesRats , j&#039;avais besoin de plans où on avait la personne physique du Radis Irradié qui bougeait. Donc j&#039;ai choisis la vidéo
+&quot;JERY, &quot;CHASSEUR DE FANTÔMES&quot; ? (Non, de buzz)&quot; car l&#039;introduction avait des plans correspondant à ma recherche.
+ 
+
+
+
+Une fois l&#039;intro terminée le 5 Mars 2021, je me suis occupé du plat de résistance : L&#039;histoire.
+ 
+Je voulais que ça soit drôle dès le début donc l&#039;idée de l&#039;émoji pèche et aubergine fût trouvé assez rapidement.
+ 
+Pour cette partie, j&#039;ai utilisé les vidéos &quot;JMAMY #3: Les Défis &quot;Culinaires&quot;.&quot; et &quot;JMAMY #4: Vos Droits et Obligations.&quot; car je les connaissait déjà par-cœur tellement elles sont biens écrites et que la diction du Radis Irradié est suffisamment agréable pour que j&#039;y passe des heures à trouver les bonnes syllabes et les bons phonèmes.
+ 
+Je commence donc par réécouter les vidéos et j&#039;entame vite les bases de l&#039;histoire :
+L&#039;aubergine frappe la pèche,
+la pèche se met avec la saucisse,
+l&#039;aubergine est jalouse de la saucisse,
+l&#039;aubergine tente de tuer la saucisse,
+le Radis Irradié arrive pour sauver la saucisse.
+ 
+J&#039;ai donc passé des heures à trouver les meilleures tournures de phrases pour avoir ce schéma respecté.
+Le sentence-mixing terminé, je n&#039;avais plus qu&#039;à animé les émojis, la saucisse et le Radis Irradié.
+ 
+Malheureusement, la YTP faisait à peine 30 secondes et je me refuse de sortir une YTP aussi courte pour un palier d&#039;abonné. J&#039;ai donc rajouté l&#039;attention de Clash of Jacky provenant de la vidéo &quot;CLASH OF JACKY - ÉPISODE 21 ( MADEMOISELLE GLORIA )&quot; et utiliser l&#039;intro de &quot;JMAMY #3: Les Défis &quot;Culinaires&quot;.&quot; pour remettre un coup de rythme et une outro.
+ 
+Toutes les parties de la YTP furent donc présentes le &#8206;14 &#8206;juillet &#8206;2021 ( 4 mois et 7 jours après son commencement ) mais elle nécessitait quelques effets et autre peaufinages pour compenser sa courte durée d&#039;une minute quarante.
+ 
+C&#039;est donc le 6 &#8206;février &#8206;2022 que je la finalise en ajoutant le visuel de &quot;livre&quot; à la partie principale et quelques effets de shakycam pour l&#039;intro.
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

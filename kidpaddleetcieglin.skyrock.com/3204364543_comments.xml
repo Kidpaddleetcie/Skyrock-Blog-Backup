@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Stromae - House&#039;llelujah - Commentaires</title>
+  <description>Je cherchais une bonne musique dans le répertoire de Stromae (il y en avais plein!!!).
+J&#039;ai donc choisis &quot;House&#039;llelujah&quot; parce qu&#039;elle me parle!
+
+
+
+Voici les paroles:
+
+Au nom du rythme,et du chant, 
+je crie House&#039;llelujah , House&#039;llelujah ! 
+Bénie soit la musique et House&#039;llelujah , House&#039;llelujah ! 
+
+House&#039;llelujah x4 
+
+J&#039;ai prié dieu pendant des heures, 
+On m&#039;a dit qu&#039;il était trop vieux pour tout nos pleurs, 
+Qu&#039;il est trop riche pour écouté nos pauvres cœurs , 
+Qu&#039;il est trop pris,qu&#039;il est femme,qu&#039;il est homme, 
+Qu&#039;il est hétéro,qu&#039;il est gay, 
+Qu&#039;il est chanteur,qu&#039;il est DJ, 
+Qu&#039;il est mort et qu&#039;il est né, 
+Qu&#039;il est même musulman ou juif, 
+Qu&#039;il est bouddhiste et athée. 
+
+Au nom du rythme et des gens, 
+je crie House&#039;llelujah , House&#039;llelujah ! 
+Bénie soit la musique et House&#039;llelujah , House&#039;llelujah ! 
+
+Refrain: 
+House&#039;llelujah ... 
+
+C&#039;est c&#039;que je prie durant la nuit, 
+House&#039;llelujah ... 
+Lorsque j&#039;élève mes mains au ciel, 
+House&#039;llelujah ... 
+Lorsque je saute et que je crie, 
+House&#039;llelujah ... 
+C&#039;est l&#039;éternel qui me le dit ! 
+House&#039;llelujah x8 
+
+J&#039;entends des voix, 
+Des voix de gens que je ne vois, 
+Si toi aussi tu les perçoit, 
+C&#039;est qu&#039;tu avais perdu la foi ! 
+C&#039;est c&#039;que je prie durant la nuit, 
+Lorsque j&#039;élève mes mains au ciel, 
+Lorsque je saute et que je crie, 
+C&#039;est l&#039;éternel qui me le dit ! 
+
+Refrain: 
+House&#039;llelujah ... 
+C&#039;est c&#039;que je prie durant la nuit, 
+House&#039;llelujah ... 
+Lorsque j&#039;élève mes mains au ciel, 
+House&#039;llelujah ... 
+Lorsque je saute et que je crie, 
+House&#039;llelujah ... 
+C&#039;est l&#039;éternel qui me le dit ! 
+House&#039;llelujah x4
+
+
+(Copier-coller de http://www.paroles-musique.com/paroles-Stromae-Housellelujah-lyrics,p88978) 
+ 
+ Cette chanson traite comme sujet les religions,les orientations sexuelles et les statuts sociaux-économiques-artistiques.   </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

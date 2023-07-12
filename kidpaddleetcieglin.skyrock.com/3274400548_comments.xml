@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Sciences]Physique Nucléaire (Première Partie: de &quot;Introduction&quot; à &quot;Uranium: Fission et isotopes&quot; ) - Commentaires</title>
+  <description>Introduction
+L&#039;énergie nucléaire est un sujet d&#039;actualité en Belgique tout en étant un sujet controversé que ce soit en tant qu&#039;énergie proprement dite, mais aussi de son combustible comme de ses déchets. Etre mieux informé permet certainement de mieux débattre de ce sujet.
+
+1/La centrale nucléaire
+
+
+
+ 
+
+
+Fonctionnement d&#039;une centrale nucléaire:
+ 
+On constate 2 circuits dans lesquels circulent de l&#039;eau: Primaire et Secondaire
+ 
+Le circuit primaire:
+La chaleur est produite par le combustible et plus précisément par la réaction de fission qui produit une grande quantité d&#039;énergie transférée à l&#039;eau qui atteint des T° de l&#039;ordre de 300°C et qui est maintenue liquide par pression.
+
+
+La circuit secondaire:
+Par échange thermique,l&#039;eau très chaude du circuit primaire communique sa chaleur à l&#039;eau du circuit secondaire qui devient alors vapeur surchauffée sous pression et alimente les turbines.Le condensateur du circuit tertiaire permet de maintenir une forte différence de pression par sa source d&#039;eau froide.
+Par transformation d&#039;énergie,l&#039;énergie thermique se transforme alors en énergie cinétique et ensuite en énergie électrique via l&#039;alternateur relié au transformateur.
+ PS: - Le condensateur du circuit tertiaire permet de maintenir une forte différence de pression par sa source d&#039;eau froide
+       -Une partie de l&#039;énergie produite est absorbée par la source froide d&#039;eau et on estime à 40% le rendement de l&#039;énergie
+ La fumée de la tour de refroidissement est en fait de la vapeur d&#039;eau ,c&#039;est-à-dire de l&#039;eau que l&#039;on refroidit avant de la réinjecté dans la nature. 
+ 
+
+Conclusion,la chaîne des transformations d&#039;énergie dans une centrale:
+ 
+1.Énergie nucléaire/chimique (FISSION DE L&#039;URANIUM)
+
+ 
+2.Énergie Thermique (CHALEUR)
+
+
+3.Énergie mécanique/cinétique (ROTATION DES TURBINES)
+
+
+4.Énergie électrique (PRODUCTION ÉLECTRIQUE)
+
+2/L&#039;Uranium: fission et isotopes
+L&#039;exploitation de l&#039;énergie nucléaire est actuellement  basée sur l&#039;uranium.
+Il existe plusieurs isotopes de l&#039;uranium mais seul l&#039;isotope 235 convient pour les centrales nucléaires.
+A)Rappel: Les isotopes
+
+
+Définition: Un isotope c&#039;est un élément atomique qui diffère par son nombre de neutrons.
+
+
+Dans la nature,on retrouve l&#039;Uranium 238 et 235.
+
+
+L&#039;uranium utilisé pour la réaction nucléaire est U 235 car il est beaucoup moins stable.
+Malheureusement,dans la nature, on trouve principalement du U 238 (présent à 99,3% par rapport au U 235) .
+
+
+B)La fission de l&#039;Uranium et sa réaction en chaîne:
+La propriété particulière de l&#039;U 235 est sa capacité à subir une réaction nucléaire par fission.
+
+
+La réaction en chaîne se passe comme suit:
+
+
+On bombarde un noyau d&#039;Uranium avec un neutron qui casse le noyau en deux parties,de cette fissions,deux ou trois neutrons sont à leurs tours bombardés sur d&#039;autre noyau d&#039;uranium situé à proximité et la réaction s&#039;entretien d&#039;elle-même d&#039;où la réaction en chaîne.
+
+
+
+La réaction nucléaire de l&#039;uranium peut-être décrite par une équation nucléaire:
+
+ 
+Les produits de fission qui sont dans le dernier exemple donné: La Baryum 141 et le Krypton 92 ne sont pas les seuls possibles car une quarantaine de fissions semblables peuvent avoir lui donnant cependant toujours des noyaux dont le nombre de masse est compris entre 80 et 150. 
+ 
+L&#039;uranium dans un réacteur nucléaire se présente sous forme de pastilles enfilées sous forme de barre d&#039;Uranium.
+Pour ne pas que la réaction ne deviennent incontrôlable, on installe des barres de contrôle:
+ 
+Si la réaction libérer 2 à 3 neutrons à chaque fission il faut faut contrôler pour qu&#039;il n&#039;y en est qu&#039;un qui bombarde. Les neutrons excédentaires produit par la fission sont capturés par des barres en U238 ou en Cadmium qui ont la propriété de retenir ou d&#039;absorber des neutrons.
+ 
+
+ C)Comment obtenir l&#039;U235?
+ 
+L&#039;Uranium combinée à d&#039;autres roches, se situe dans l&#039;écorce terrestre,principalement dans les couches granitiques et sédimentaires.
+ 
+Le minerai le plus riche en uranium est le pechblende.
+
+
+(Pour la culture générale, c&#039;est en partie une de ces pierres qui est responsable de la mort de Marie Sk&#322;odowska-Curie )
+
+ 
+Pour obtenir l&#039;Uranium sous forme de combustible utilisable,il faut plusieurs étapes:
+ 
+1. Extraction : On extrait environ 5 kg d&#039;Uranium par tonne de minerai extrait.
+ 
+2. Concentration: Les roches sont broyés et par procédés chimiques,l&#039;Uranium est extrait.
+ 
+3. L&#039;enrichissement de l&#039;Uranium: Pour pouvoir obtenir une proportion d&#039;Uranium 235 plus importante. Cela se fait grâce à des procédés de centrifugation.
+ 
+4. Transformation: En pastilles (1 cm, 7g) puis en gaines de 4 m de long appelés crayons de combustibles.
+ 
+5.Assemblage: Pour une centrale,environ 40 000 crayons sont assemblés en fagots de 264 crayons.
+ 
+ 
+Suite du cours ici: http://kidpaddleetcieglin.skyrock.com/3274860582-Aide-Sciences-Physique-Nucleaire-Deuxieme-partie-de-Defaut-de-masse-et.html
+ 
+(LIEN VERS LA VERSION PROPRE EN .PDF ICI http://www.4shared.com/office/J5z06l3Bba/Le_nuclaire.html )</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

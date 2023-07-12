@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Créer un gif animé propre! - Commentaires</title>
+  <description> 
+Au début, il vous faut une source de type &quot;vidéo&quot; que vous aurez obtenu au format .MP4!
+ (Télécharger une vidéo avec:  https://www.telechargerunevideo.com/fr/
+Convertir une vidéo en .MP4 avec: https://cloudconvert.com/anything-to-mp4 )
+ 
+
+Ensuite, vous ouvrez Photoshop et, au lieu d&#039;appuyez sur &quot;Ouvrir&quot;, vous cliquer sur &quot;Importation&quot; et après &quot;Images vidéo dans des calques...&quot;
+
+ 
+Sélectionner la vidéo précédemment obtenue et cocher &quot;Créer animation d&#039;image&quot; ainsi que &quot;Du début à la fin&quot; pour obtenir votre vidéo en animation d&#039;image.
+
+(ATTENTION,IL Y A UNE LIMITE DE 500 IMAGES DONC PAS PLUS DE 20 SECONDES POUR UNE VIDÉO EN 24 FPS)
+ 
+ 
+ 
+ 
+ 
+Aller dans fenêtre-&gt; Montage  
+
+ 
+Tout en appuyant sur MAJ, chercher dans la partie &quot;Montage&quot; l&#039;image qui se trouve avant la première image de l&#039;animation souhaitée. Vous cliquerez dessus et vous obtiendrez une sélection de l&#039;image 1 à l&#039;image précédent la première image de votre animation.
+Vous pouvez donc appuyez sur la poubelle pour y mettre toutes ces images inutiles.
+
+ 
+Maintenant qu&#039;on a le début, on doit faire la fin en sélectionnant la dernière image de la table de montage et l&#039;image se trouvant à droite de la dernière image de votre animation tout en maintenant MAJ enfoncé! 
+
+ 
+Vous aurez donc finit votre animation et il ne reste plus qu&#039;à l&#039;enregistrer au format .GIF en allant dans Fichier-Enregistrer pour le Web...
+
+
+ 
+Nous sommes donc rendu sur une fenêtre où nous allons reproduire ce paramétrage:
+Gif{
+Perception
+Diffusion
+Pas de transparence
+Pas entrelacé
+256 couleurs
+Tramage 100%
+Convertir en sRVB
+Sans métadonnée}
+ 
+N&#039;oubliez pas d&#039;éviter une résolution trop grande...mais si votre vidéo est en 720p, ça passe crème!
+
+ 
+ 
+
+On peut donc appuyez sur &quot;Enregistrer...&quot; et terminer en nommant le gif animé avant d&#039;appuyez sur ENTRÉE!
+ 
+Voila, vous avez un rendu proche de la vidéo en gif animé!
+ 
+KidpaddleetcieGlin
+ 
+Pour d&#039;autres manières: 
+Tutoriel Photoshop - Créer un Gif Animé avec Photoshop de Elliot Bth
+https://www.youtube.com/watch?v=VymogTFgo0E
+ 
+ 
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

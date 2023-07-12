@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ParodieDesPloucs]Nicky Larson en Doc&#039;! - Commentaires</title>
+  <description>
+[Docteur Mario]
+[Docteur Mario]
+
+Une ombre file dans la nuit
+C&#039;est un pédophile qui s&#039;enfuit
+Et comme un sale rat il sourit
+Son crime restera impuni
+
+Une ambulance qui surgit
+Un coup de rein, des pneus qui crient
+Un coup de feu qui retentit
+La justice s&#039;appelle Doc-kiki
+
+Dans la chaleur
+De la nuit
+Le mâle est toujours ready
+
+Aucun PD ne l&#039;impressionne
+Les coups durs il les affectionne
+Et la justice le passionne
+Docteur Mario ne craint personne
+
+Lorsque les coups de feu résonnent
+Comme un éclair elle tourbillonne
+Surtout si la fille est trop bonne
+Docteur Mario ne craint personne
+
+Comme un violeur il suit sa proie
+Pour que la justice et le droit
+Triomphent, il est prêt à donner
+Toute sa vie sans hésiter
+
+Quand sa silhouette apparaît
+Les brigands se mettent à trembler
+Ils savent qu&#039;ils ne pourront jamais
+Echapper à sa pine en acier
+
+Dans la chaleur
+De la nuit
+Le mâle est toujours ready
+
+Aucun PD ne l&#039;impressionne
+Les coups durs il les affectionne
+Et la justice le passionne
+Docteur Mario ne craint personne
+
+Lorsque les coups de feu résonnent
+Comme un éclair elle tourbillonne
+Surtout si la fille est trop bonne
+Docteur Mario ne craint personne</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

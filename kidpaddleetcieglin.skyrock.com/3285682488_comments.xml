@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Informatique]L&#039;épreuve du FizzBuzz en javascript - Commentaires</title>
+  <description>L&#039;épreuve du Fizzbuzz consiste à afficher &quot;Fizz&quot; lors des multiples de 3, &quot;Buzz&quot; lors des multiples de 5 et enfin &quot;FizzBuzz&quot; pour les multiple de 5 et 3! Pour mon cas, je vais aller de 1 à 199!
+ 
+voici le code javascript (avec les couleurs de Notepad++):
+ 
+ &lt;!doctype html&gt;
+&lt;html&gt;
+&lt;meta charset = &quot;UTF-8&quot;&gt;
+&lt;title&gt; Fizzbuzz&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;script&gt;
+for (let number = 1; number &lt;= 199; number++) {
+   if (number % 3 == 0 &amp;&amp; number % 5 == 0) {
+       console.log( number + &quot; = &quot; + &quot;FizzBuzz&quot;);
+   }else if (number % 3 == 0) {
+       console.log( number + &quot; = &quot; + &quot;Fizz&quot;);
+   }else if (number % 5 == 0) {
+       console.log( number + &quot; = &quot; + &quot;Buzz&quot;);
+   }else {
+       console.log(number);
+   }
+}
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+ 
+ 
+ 
+En gros, au début il faut dire que sa variable (&quot;number&quot; dans mon code) se situe entre 1 et 199 et qu&#039;on atteint 199 depuis 1 en rajoutant 1 à chaque fois... vous êtes perdu? Décortiquons!
+ 
+Au début nous avons:
+
+ &lt;!doctype html&gt;
+&lt;html&gt;
+&lt;meta charset = &quot;UTF-8&quot;&gt;
+&lt;title&gt; Fizzbuzz&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;script&gt;
+ 
+C&#039;est l&#039;intro du code qui permet juste de dire qu&#039;on va scripter mais aussi qu&#039;on va être en un Universal Character Set (Charset) égale à UTF-8 (il permet les accents dans les phrases) et,pour terminer sur cette partie, annonce le titre de l&#039;onglet &quot;Fizzbuzz&quot;!
+
+for (let number = 1; number &lt;= 199; number++) {
+ 
+Ma première ligne de script permet d&#039;annoncer une variable dont je précise 4 choses:
+1.Le &quot;for&quot; sert à mettre en avant le début d&#039;une utilisation de cette variable avec des &quot;if&quot; et des &quot;else&quot;.
+ 
+2.le &quot;let number&quot; sert à annoncer le nom de la variable (number) et sa valeur avec l&#039;ajout du &quot; = 1&quot;.
+ 
+3.Le &quot;number &lt;=199&quot; sert à dire que number vaut autant ou moins que 199.
+ 
+4. le &quot;number++&quot; sert à faire savoir au programme que la variable nombre va devoir aller de 1 à 199 par ajout d&#039;une unité  ( &quot;++&quot; peut aussi se présenter par &quot;+1&quot;).
+ 
+C&#039;est partit pour l&#039;entrée dans le jeu de l&#039;épreuve du FizzBuzz!
+
+   if (number % 3 == 0 &amp;&amp; number % 5 == 0) {
+       console.log( number + &quot; = &quot; + &quot;FizzBuzz&quot;);
+   }else if (number % 3 == 0) {
+       console.log( number + &quot; = &quot; + &quot;Fizz&quot;);
+   }else if (number % 5 == 0) {
+       console.log( number + &quot; = &quot; + &quot;Buzz&quot;);
+   }else {
+       console.log(number);
+   }
+}
+
+ Vous voyez ces &quot;if&quot; , ces &quot;else if&quot; et ces &quot;else&quot;? Ce sont des conditions!
+On peut traduire ces termes comme suit:
+ 
+if = si
+else if = sinon (prenant en compte la première condition)
+else = sinon (ne prenant pas en compte la première condition)
+ 
+ 
+Donc le code se traduit comme ça en français mais avec la même structure:
+ 
+si (la variable &quot;nombre&quot; est divisible par 5 et par 3){
+afficher dans la Console Web (&quot;nombre&quot;= FizzBuzz);
+sinon (la variable &quot;nombre&quot; est divisible par 3){
+afficher dans la Console Web (&quot;nombre&quot;= Fizz);
+sinon (la variable &quot;nombre&quot; est divisible par 5){
+afficher dans la Console Web (&quot;nombre&quot;= Buzz);
+}sinon {
+afficher dans la Console Web (&quot;nombre&quot;);
+}
+}
+
+
+Les { } (les accolades) servent à signifier le début et la fin d&#039;une boucle de programmation, le fait qu&#039;une boucle commence à &quot;if&quot; et se finit sur un &quot;else&quot; permet au programme de passer en revu certain condition dans un ordre particulier de manière automatique sans rentrer en conflit avec une autre condition.
+
+
+Le code permet donc d&#039;afficher les résultats dans ce fameux &quot;console.log&quot; (Console Web) mais où se trouve-t&#039;il? La démarche à suivre est la suivante:
+ 
+1.Ouvrer votre fichier .HTML (contenant le code du FizzBuzz, bien évidemment) dans un navigateur Web (Google Chrome,Mozilla Firefox, Microsoft Edge,...).
+ 
+2.Regarder si le nom de votre onglet se nomme bien &quot;FizzBuzz&quot; et faîtes un clic droit dans la page pour sélectionner ensuite &quot;inspecter&quot;.
+
+ 
+ 
+3.Une fois dans l&#039;outil des développeurs (où vous pouvez admirer le code), cliquer sur l&#039;onglet &quot;console&quot; à droite de l&#039;onglet &quot;élément&quot;.
+
+ 
+4.Vous voila face au résultat du code! Vous êtes arrivé!
+C&#039;est sur cette image de résultat que nous nous quittons dans ces explications de l&#039;épreuve de FizzBuzz.
+ 
+Sachez que vous pouvez trouver la majorité de mes informations qui m&#039;ont permis de construire cet article se trouvent parmi les liens ci-dessous et je vous quitte donc par leur présence, merci de m&#039;avoir lu jusqu&#039;au bout:
+ 
+ http://kidpaddleetcieglin.skyrock.com/3284083546-Aide-informatique-Dictionnaire-du-francais-au-javascript.html 
+(un petit dictionnaire pour m&#039;aider dans les math en javascript)
+ 
+http://www.jeuweb.org/showthread.php?tid=6596 
+(un échange de code pour le FizzBuzz)
+ 
+http://www.jeux-anniversaire.net/Fizz-buzz 
+(le jeu du FizzBuzz originel)
+ 
+http://wiki.c2.com/?FizzBuzzTest 
+(On apprend que le codage du FizzBuzz est une épreuve à passer pour l&#039;embauchement en tant que codeur. 99,5% des embaucheurs le font passé ET IL EST POSSIBLE DE OBTENIR CE RÉSULTAT DANS  D&#039;AUTRE FORMAT DE CODAGE, ça vaut le détour cette page en anglais :3 )
+ 
+http://sametmax.com/fizzbuzz-en-python/
+(C&#039;est à cette page où on apprend que ceux qui code en Python ont autant la vie dur avec cette épreuve vu que 90% des gens qui ont passé le test ont échoué...MAIS C&#039;EST DU PYTHON,c&#039;est plus compilé que du javascript et il ne suffit pas que de la base en anglais pour saisir l&#039;intérêt de certaine commande comme &quot;elif&quot; (le &quot;else if&quot; du Python) ou &quot;xrange&quot;.)
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3285682488_comment_1.html#c-20378235570" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3285682488_comment_1.html#c-20378235570">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3285682488_comment_1.html#c-20378235570</link>
+		<dc:date>2020-01-26T11:03:46+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Au top :)</description>
+		<content:encoded><![CDATA[
+			Au top :)
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

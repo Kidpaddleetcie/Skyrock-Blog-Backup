@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Phénoménologie]L&#039;hallucination - Commentaires</title>
+  <description>
+L&#039;hallucination est une image mentale qui a plusieurs caractéristiques :
+ 
+-La manière dont l&#039;individu va vivre cette expérience :
+Il l&#039;a vie comme un perception.
+Il en a une conviction absolue dans le contenu perçus. Il en a pas de distance critique. Aucun doute.
+ 
+-Phénomène envisagé peut être suivi des yeux, observer, attentivement.
+ 
+-Ne peut pas être produit intentionnellement par le sujet.
+ 
+-Le sujet ne peut y mettre fin volontairement.
+ 
+-Semble parfaitement réaliste.
+
+ 
+Par contre, l&#039;hallucination n&#039;est pas :
+
+-Un rêve
+ 
+-Une illusion (perception erronée de la réalité)
+ 
+-L&#039;hallucinose (représentation mentale fausse par rapport à la réalité sans délire, avec conscience, à cause de dysfonctionnement cérébraux, physiologiques)
+ 
+Les causes des hallucinations :
+-La prise de drogue dur hallucinogène (LSD par exemple)
+ 
+-Associé à certaines maladies psychiatriques notamment certaines liés à certains épisodes de la schizophrénie, ce qu&#039;on appelle le délire.
+ 
+ 
+ 
+Le délire est l&#039;opposition entre psychose et névrose. « Nous sommes tous des névrosés ».
+
+Les Troubles Obsessionnels Compulsifs sont des névroses et ce sont des gestes qui ne servent à rien. La personne a totalement conscience de l&#039;inutilité de son action et de son caractère inadéquat par rapport à la société.
+
+Les manies sont aussi des névroses.
+
+Dans la psychose, la personne est enfermée dans ses représentations, un enferment dans la réalité psychique.
+
+Les mécanismes du délire varient en fonction de l&#039;organisation de la pensée organisée. C&#039;est fermé et systématique.
+
+Types d&#039;hallucination :
+-Chaque hallucination peut être ressentit par chacun des sens :
+Hallucination visuelle (percevoir des formes monstrueuses),
+Hallucination auditive (entendre une voix),
+Hallucination gustative (goût de poisson),
+Hallucination olfactif (odeur de gaz),
+Hallucination tactile (piqure dans la main).
+ 
+-Hallucination Interne : Ressentir un courant électrique par exemple
+ 
+Ce sont des expériences anxiogènes. L&#039;hallucination auditive est la plus courante.
+
+Il y a deux grandes catégories d&#039;Hallucination :
+-Les psychosensorielles qui sont relié à notre sensorialité, on ressent avec les sens.
+ 
+-Les psychiques qui est lié à une impression d&#039;intériorité, on vit ça dans notre pensée.
+Des idées qui s&#039;imposent à l&#039;esprit. Une voix qui répète, commente, ... la pensée.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

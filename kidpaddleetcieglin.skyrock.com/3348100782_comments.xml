@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Dactylographie ] Ergonomie du bureau - Commentaires</title>
+  <description>Rester assis sur une chaise de bureau pendant des heures n&#039;est pas une chose naturelle.
+Afin d&#039;éviter de vous déformer et faire partie des gens souffrant de douleurs dorsales ( arthrose , fractures par tassement vertébral, rupture ou hernie discale, ... ) voici comment les quelques points à prendre en compte lors du choix du fauteuil de bureau ( oui, on peut dire un &quot;fauteuil&quot; au lieu d&#039;une &quot;chaise&quot;) :
+
+ image provenant de https://osteo15.com/2015/02/05/L%27ergonomie-au-bureau/
+
+image provenant de https://www.postureassise.com/content/12-comment-choisir-un-fauteuil-ergonomique
+
+
+Soutien lombaire
+Vous voyez la partie bombé en bas du dossier ? C&#039;est pour le bas du dos !
+
+Hauteur réglable
+Toujours avoir les pieds sur le sol à plat et les jambes pliées à 90°. C&#039;est une position vous donnant des appuies tout en étant une position de repos.
+
+Largeur adaptée
+Si vous déborder du siège, vous allez avoir mal au popotin.
+
+Dossier réglable
+Il faut que votre dos soit totalement sur le siège en position de repos (enfoncé dans le siège).
+
+Profondeur du siège ajustable ou réglable
+Il faut que vous puissiez avoir le siège dans le creux de vos jambes, idéalement.
+
+Appuie-bras amovibles ou réglables
+Les repose-bras sont importants pour reposer les bras... je ne vous apprend rien. Ils doivent être à la hauteur du bassin.
+
+Muni de 5 pattes
+Avec ou sans roulette, c&#039;est tout de même une garantit d&#039;équilibre.
+
+Tissu qui respire ou perméable à l&#039;air
+Le vieux cuir ou caoutchouc qui brule quand il y a la canicule ? JAMAIS !
+
+Bien ajusté petit, moyen ou grand
+Évidemment.
+
+
+
+Supplément d&#039;information : La surface de travail
+
+
+image provenant de https://www.cchst.ca/oshanswers/ergonomics/standing/standing_basic.html
+ 
+
+Il y a 3 niveaux de surface du plus éloigné de vous jusqu&#039;au plus près :
+1. La surface hors de l&#039;aire de travail ( accessible seulement à bout de bras )
+2. La surface de travail occasionnel ( accessible à partir de vos avant-bras )
+3. La surface de travail habituel ( accessible sans difficulté )
+ 
+ 
+Gardez donc en tête que l&#039;essentiel doit être à porté de main, la posture doit être confortable et on limite les rotations.
+
+image provenant de http://it-itnews.blogspot.com/2017/12/au-bureau-bonne-posture-par-rapport.html
+
+
+Sources et informations supplémentaires :
+https://www.postureassise.com/content/12-comment-choisir-un-fauteuil-ergonomique
+
+https://osteo15.com/2015/02/05/L%27ergonomie-au-bureau/
+https://www.cchst.ca/oshanswers/ergonomics/standing/standing_basic.html
+http://it-itnews.blogspot.com/2017/12/au-bureau-bonne-posture-par-rapport.html
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

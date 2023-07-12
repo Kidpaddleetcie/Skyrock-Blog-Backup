@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Avis2Glin]Assassination Classroom - Commentaires</title>
+  <description>
+ En ce premier janvier 2018, j&#039;ai enfin pût regarder les 10 épisodes qui manquait à ma dégustation de ce met délicieux qu&#039;est ce manga dans sa version animée...je l&#039;ai même regardé en famille, plus plaisant que de rire comme un attardé ou pleurer comme une madeleine devant le gamepad de sa WiiU tout en étant affalé dans le divan avec les autres qui s&#039;occupe de bien d&#039;autres tâche chacun de son coté...
+ 
+J&#039;ai aimé cet anime, apprécié cette manière de raconter et ses gimmicks d&#039;anime que j&#039;ai déjà vu dans Inazuma Eleven, Inazuma Eleven Go, Pokemon saison 1 et peut-être encore d&#039;autre...je ne suis pas vraiment un friand d&#039;anime de part mes premières pré-occupations à la création plutôt qu&#039;à la consommation...et je m&#039;en excuse si cela peut choquer certains!
+ 
+Assassination Classroom est un manga/anime ayant hérité de tout ce qui fait que l&#039;animation japonaise et les mangas ont de bons et de bien installés autant au Japon qu&#039;en Occident:
+
+Les phases de psychologie (Tempête de FlashBack et de réflexion) où le temps semble s&#039;écouler lentement,
+
+l&#039;humour basé sur les contrastes entre réalité et fiction ainsi que les désirs humains (voir... bestiales),
+
+la dynamique des animés d&#039;aujourd&#039;hui n&#039;utilisant plus abusivement des speedlines et des hors-champs,
+
+les dialogues vraiment utiles à l&#039;intrigue et à l&#039;émotion ( au passage, la V.F. est mieux que la version anglais...désolé à ceux qui ont été impatient et qui se sont spoiler avec la V.A. sans émotions),
+ 
+La lisibilité des combats permettant à chacun de saisir l&#039;émotion en permettant de mettre en valeur les visages émotifs, les mains sur les armes et le mouvement/ la trajectoire des coups
+ 
+et il y en a certainement d&#039;autres de détails comme ça mais n&#039;étant qu&#039;un organisme vivant, je ne peux pas vous rendre une analyse suffisamment complète des qualités de ce manga/anime !
+ 
+
+L&#039;anime est aussi prenant que le manga et ça me permet de dire que peu importe vos &quot;a priori&quot; sur ce genre de contenu, vous pouvez en consommer sans vous demander si c&#039;est vraiment gratifiant puisque...ça l&#039;est...pour moi,c&#039;est magnifique!
+ 
+Il y a un point que je m&#039;obstine de ne pas révéler dans mon jugement positif mais comme il l&#039;est pour moi,je me dois de mettre ce détail à jour, vous vous doutez bien que le manga de base a été fait par une seule et unique personne qu&#039;est Y&#363;sei Matsui !
+Ce gars a réussi à créer de l&#039;émotion en étant autant scénariste que dessinateur, deux gros métiers dont on oublie ce qui se cache derrière! ALORS LAISSEZ-MOI VOUS DRESSER UNE LISTE DE CE QUE YÛSEI MATSUI A ÉTÉ POUR LE MANGA DE BASE:
+ 
+-Metteur en scène (storyboarder),
+-Éclairagiste,
+-Dialoguiste,
+-Accessoiriste,
+-Illustrateur,
+-Planificateur,
+-Designer,
+-...
+ 
+On parle quand même du mec qui a créé un passé et une personnalité pour chaque personnage principaux ET ON PARLE D&#039;UNE HISTOIRE METTANT UNE CLASSE D&#039;ÉLÈVE! VOUS IMAGINEZ COMMENT IL A SOUFFERT POUR LE CHARACTER DESIGN?!
+ 
+Je n&#039;ai pas réussi à trouver un défaut dans le manga et aujourd&#039;hui je me pose encore des questions pour attaquer l&#039;anime mais... j&#039;ai pas envie...c&#039;est pas de la flemme mais disons qu&#039;une fois terminé, t&#039;as pas envie de recommencer à t&#039;y plonger car cet anime se vit d&#039;une traite et son effet est permanent!
+ 
+Je tiens à mettre le point d&#039;honneur sur ça pour terminer cet article: Le character design est tellement bien ficelé que même si il y a des personnages qui sortent de l&#039;ordinaire de part leurs talents, aucun n&#039;est LE héro principal car ils sont tous héroïques mais aussi humains!
+ 
+En faites, la seule créature humaine qui a fait un boulot monstre...c&#039;est le mangaka qui est derrière tout le contenu du manga et qui a constitué le fondamental (ligne directrice) de l&#039;anime! Merci Y&#363;sei Matsui !
+ 
+Kidpaddleetcie Glin
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Justin Bieber prend en otage Selena Gomez dans la camionnette rouge! - Commentaires</title>
+  <description>
+ 
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3069026649_comment_1.html#c-17800191011" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3069026649_comment_1.html#c-17796430537" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3069026649_comment_1.html#c-17800191011">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3069026649_comment_1.html#c-17800191011</link>
+		<dc:date>2012-03-30T17:48:07+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Rectification de la fan (et non de sa fan):
+
+C&#039;est drôle alors continuer!</description>
+		<content:encoded><![CDATA[
+			Rectification de la fan (et non de sa fan):<br />
+<br />
+C&#039;est drôle alors continuer!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3069026649_comment_1.html#c-17796430537">
+		<title>Commentaire de sa fan</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3069026649_comment_1.html#c-17796430537</link>
+		<dc:date>2012-03-28T18:15:53+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>sa fan</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>c&#039;est pas drôle alors arreter</description>
+		<content:encoded><![CDATA[
+			c&#039;est pas drôle alors arreter
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

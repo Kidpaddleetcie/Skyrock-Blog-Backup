@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Informatique]Le BASH Script ! - Commentaires</title>
+  <description>
+
+ 
+L&#039;extension du BashScript sous Linux est le &quot; .sh &quot; (en réalité, c&#039;est du &quot;Shell&quot; mais le Bash est un interpréteur-compilateur) et sert, tout comme les fichier &quot; .bat &quot; sur Windows, de créer des scripts dans le terminal de Linux !
+ 
+Ces scripts servent souvent à abrégé les lignes de commande à taper vu qu&#039;on les imbriques dans un fichier de script à exécuter !
+ 
+Ainsi, voici les différentes type de lignes que vous pouvez avoir:
+ 
+read variable  =&gt; On demande à l&#039;utilisateur du terminal de rentré une donnée qu&#039;on stock dans une variable nommée &quot;variable&quot;
+ 
+echo &quot;vous avez rentré $variable&quot;  =&gt; Tout comme avec le PHP, &quot;echo&quot; sert à afficher le texte et nous pouvons remarquer qu&#039;on utilise les variables précédemment déclaré avec le symbole &quot; $ &quot; !
+ 
+for ((ii=0;ii&lt;10;ii++))do echo &quot;Test&quot;; done =&gt; Tout comme en Javascript ou PHP (et certainement plein d&#039;autres langage de programmation) on peut créer une boucle avec un début,une condition de fin et une méthode MAIS la particularité de notre Bash est de ne pas utiliser des accolades mais les termes &quot;do&quot; pour débuter et &quot;done&quot; pour fermer !
+ 
+for Test in &#039;result1&#039; &#039;result2&#039; &#039;result3&#039; do echo&quot;$Test &quot;done =&gt; Et oui, on peut aussi faire une boucle &quot;for&quot; qui permet de charger une valeur différente à chaque tour dans une variable jusqu&#039;à ce qu&#039;il n&#039;y aille plus de valeur à entrer (dans l&#039;exemple, il y en a 3)
+ 
+if opérations  fi =&gt; Pour les if, c&#039;est la même histoire sauf que cette fois-ci, nullement besoin de mettre &quot;do&quot; avant une opération ! Il suffit juste de préciser la fin du traitement par condition qui est &quot;if&quot; à l&#039;envers !
+ 
+while  do echo&quot;Test&quot; done =&gt; Pour les while, c&#039;est la même chose qu&#039;une boucle for mais avec une condition à la manière d&#039;un if... comme dans le Javascript !
+
+Tiens, parlons un peu des comparateurs dans les conditions, contrairement à ce qu&#039;on pourrait croire, nous n&#039;utiliserons pas les symboles de comparateur que les conventions des langages de programmation de logiciels et de pages web dynamique ! 
+Les opérateurs sont donc sous forme de fonctions:
+ 
+-eq  =&gt; Égale à
+ 
+-ne =&gt; Pas Égale à
+ 
+-gt =&gt; Plus grand que
+ 
+-ge =&gt; Plus grand que ou égale à
+ 
+-lt =&gt; Plus petit que
+ 
+-le =&gt; Plus petit que  ou égale à
+ 
+-z =&gt; Égale à null
+ 
+
+Puisque ce n&#039;est pas un langage de programmation dépendant d&#039;un serveur (comme PHP) ou de l&#039;HTML/AfterEffect (comme Javascript) mais plutôt du Terminal, vous pouvez scripter des commandes à rentré, comme je l&#039;ai écris plus haut, et donc, pour rappel et pour vous faire baver sur les capacités du Bash, je vous offre un gros récapitulatif des commandes possibles à intégrer dans un script Bash:
+https://ss64.com/bash/  (petit lien mais un sacré glossaire complet énorme)
+ 
+ Je vous propose un script simple:
+for((ii=0;ii&lt;10;ii++))
+do
+rm /dossier/fichier$ii
+done
+ 
+ 
+En gros, pour ce script simple, je demande de supprimer les fichiers portant les noms &quot;fichier1&quot;,&quot;fichier2&quot;,... et &quot;fichier10&quot; dans le dossier nommé &quot;dossier&quot; ! L&#039;intérêt de Bash prend tout son sens  dans la gestion des fichiers comme ça !
+Malheureusement, ce code supprime définitivement sans demander votre avis ! Donc, il faut ajouter &quot; -i &quot; après rm pour obtenir  une demande de confirmation !
+ 
+ 
+Lorsque vous tapez beaucoup de code avec des termes de plus en plus complexe, il est normal de commenter son code ! Contrairement au Javascript où on commente après avoir fait &quot; // &quot;, dans le Bash, nous utilisons &quot; # &quot; !
+ 
+Par-contre, pour exécuter un fichier en .sh dans le terminal, il faut l&#039;appeler avec &quot; bash NOMDUFICHIER.sh &quot; !
+ 
+Du coup, pour montrer TOUTE LA CAPACITÉ DE BASH ( MOUAHAHAHAHAHAAAAAAAaaaahh), je vous propose ce code à mettre dans un fichier en .sh :
+ 
+mkdir assets
+mkdir assets/css
+mkdir assets/js
+cat &lt;&lt;EOF &gt;index.html
+&lt;!DOCTYPE html&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;title&gt;Index&lt;/title&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/css/style.css&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;/body&gt;
+EOF
+cd assets
+
+cat &lt;&lt;EOF &gt;css/style.css
+body{ margin:0;}
+EOF
+
+cat &lt;&lt;EOF &gt;js/index.js
+EOF
+
+
+Ce code permet de créer un site web de base (en gros, les fichiers index.html,style.css et index.js dans les dossiers correspondants ! ) car OUI, on peut non seulement demander la création d&#039;un fichier MAIS ON PEUT AUSSI ÉCRIRE DANS LE FICHIER ET CRÉER DES DOSSIERS !!! (le contrôle est total)
+
+
+
+Pour une bien plus grande synthèse: https://devhints.io/bash
+
+Sources:
+ 
+Les boucles: https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/43464-les-boucles
+Les commandes de base du shell Bash: http://lexo.free.fr/docs/mdkuserguide/node50.html
+How to Create and Use Bash Scripts:  https://www.taniarascia.com/how-to-create-and-use-bash-scripts/
+Pour vraiment aller loin avec Linux: http://www.lmd.jussieu.fr/~flott/polytechnique/mec583_08/linux_vi_f77.pdf
+Une liste de base des commandes pour le .bat (Windows): http://www.progmatique.fr/article-48-Batch-liste-commandes-MsDos.html</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3323835236_comment_1.html#c-20349471776" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3323835236_comment_1.html#c-20349471776">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3323835236_comment_1.html#c-20349471776</link>
+		<dc:date>2019-10-19T21:30:05+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>crer un fichier log
+</description>
+		<content:encoded><![CDATA[
+			crer un fichier log<br />
+
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

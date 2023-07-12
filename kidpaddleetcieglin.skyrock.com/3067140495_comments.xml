@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Kidpaddleetcie LaBrute/Shakes and Fidget : le fight! - Commentaires</title>
+  <description>^^,un an et deux mois pour faire ce montage!        Il était une fois,dans un royaume très lointain,un guerrier de 15 ans nommé Glin.   Ce guerrier est le plus jeune de tout le pays car la loi ne désire pas avoir des adolescents en danger de mort suite au bataille de cette guerre 14-18!     Glin a donc une capacité d&#8217;invincibilité ou de immortalité?   Pas vraiment,il était geek il y a encore 98 ans mais un jour,un fait spectaculaire évènement arriva dans son village pour l&#039;union contre les allemands,l&#039;arriver de Nintendo! 
+ 
+ Nintendo demande au Kidpaddleetcien de réunir les ados du village pour leur transmettre des pouvoirs venant de jeux-vidéos! 
+ Glin a les pouvoirs de Mario mais ,soudain, un éclair passa dans cette longue  soirée d&#039;orage du 5 juillet 1915.   Glin reste dans le rayon avec son transmetteur-vidéo-ludique.   Notre électrifier reste sept jours dans le coma...Mais quand il se réveille,il compris qu&#039;il était plus le même!   Soucieux d&#8217;avoir perdu ses capacités d&#039;équilibre et de gestion de force,il se lève et fait quelques pas dans la chambre!     Glin se fait prendre d&#039;étourdissement et se vautre sur la moquette à demi-conscient!   Il rêve d&#039;aventure à la place de Mario,Link,Donkey Kong,Kilik,Simon Belmont, Liu Kang,Yoshimitsu et Rayman!   Il s&#039;éveille avec les cheveux en hélicoptère,des muscles dépassant certainement le tour moyen d&#039;un ados de 15 ans et une voix complètement nouvelle,une voix d&#039;homme!     Il sort de sa chambre de repos et entendit des enchaînements rapides de coups de feu,une mitraillette!   Glin prend ses vêtements et s&#039;habille vite et sort en suivant le bruit,on mitraille les gens de la réception!   Glin charge vers l&#8217;assassin et crie:   -You must die!   Glin inflige un uppercut,poursuit avec un crochet de droit et...une boule de feu!   Glin se demande comment il a pût réussir se prodigue mais une chose est sûr, l&#8217;assassin est hors d&#039;état de nuire!     C&#039;est le premier héros qu&#039;il a pût imiter : &quot;Liu Kang&quot;   Liu Kang: Disciple et descendant de Kung Lao, ce moine Shaolin de 24 ans appartenant au Lotus Blanc avait été entrainé par Bo&#039; Rai Cho. Il s&#039;illustra en battant Shang Tsung lors du premier tournoi en utilisant le &quot;flying kick&quot; ou coup de pied volant. Ses techniques ont été inspirées de celles de Bruce Lee. 
+ Style:  Jun Fan
+Pao Chui
+Jeet Kune Do
+Choy Lay Fut
+Monkey
+Dragon 
+ 
+ 
+ !!Bientôt la suite des aventures de Glin!!       </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

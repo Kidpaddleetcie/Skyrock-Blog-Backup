@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [PUB]RosaireTV - Commentaires</title>
+  <description>En cet article, je vous présente la chaîne YouTube RosaireTV (https://www.youtube.com/channel/UCWr_C9DsX_Rx_3g_IxTaQ1g) qui est une chaîne de Micro-Trottoirs et de vidéos aléatoires !
+ 
+Les points forts:
+- La chaîne s&#039;améliore au fur et à mesure au niveau de la qualité visuelle
+- Le présentateur est charismatique et son léger zozotement le rend drôle
+- Certaines vidéos traitent d&#039;actualité et font participer d&#039;autres personnes (Micro-trottoirs)
+- Il y a un respect du viewers et une demande de participation
+ 
+Les points faibles:
+- Des vidéos de type &quot;LES PIRES...&quot;,&quot;LE PIRE...&quot;,&quot;DÉFI...&quot;,...  caractéristiques des chaînes &quot;cancers&quot;
+- De temps en temps de l&#039;immaturité/des scènes mettant mal à l&#039;aise pour des pudiques
+- Des titres en majuscule
+ 
+ 
+Le passé de la chaîne:
+Avant de faire la chaîne &quot;RosaireTV&quot;, le vidéaste a fait 2 chaînes YouTube (et probablement d&#039;autres... mais c&#039;est pas facile à trouver) :
+
+1. MaNguYTV (2012-2015): https://www.youtube.com/user/MaNguYTV/videos
+ 
+Une chaîne où se trouve quelques vidéos de Kidpaddleetcie ( oui... je suis un pote du vidéaste... mais mon avis n&#039;est pas tronqué !), des courts-métrages et du shitpost ! 
+ 
+Cette chaîne YouTube nous donne déjà une certaine idée du chemin parcourut par le vidéaste car les courts-métrages sont pas vraiment dégeu&#039; pour des vidéos faîtes par des pré-ados ! La caméra ne bouge pas trop et les plans respirent pour laisser place au jeu d&#039;acteur tout en composant avec celui-ci quand il brise le quatrième mur !
+ 
+2. RosarioFaitSonCinéma (2013) : https://www.youtube.com/user/RosarioFaitSonCinema/videos
+ 
+Une chaîne où se trouve très peu de vidéo...  mais elle contient une parodie de clip (très gênant...), un court-métrage au son dégueulasse, un sketch en face-cam, et quelques vidéos qui n&#039;ont rien à voir avec du contenu travaillé !
+ 
+On sent déjà une certaine envie de se rapprocher de ses viewers, faire du contenu pour les autres et non pas seulement pour s&#039;amuser !
+ 
+ 
+Maintenant, pour vous donner envie de voir ces productions, voici, selon moi, ses meilleurs réalisations sur la chaîne RosaireTV (https://www.youtube.com/channel/UCWr_C9DsX_Rx_3g_IxTaQ1g)
+ 
+
+ Pour terminé cet article (et pour un peu me la pété tout en donnant un contenu qui est monté par moi) je vous propose une YTP sur l&#039;ancien contenu ET le nouveau contenu du vidéaste derrière RosaireTV !
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

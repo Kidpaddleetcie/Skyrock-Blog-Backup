@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Esthétique]Édouard Manet avant l&#039;impressionnisme - Commentaires</title>
+  <description>Les sources principales d&#039;inspiration de Édouard Manet :
+Il fût influencé par :
+Diego Velázquez (Peintre Baroque qui faisait principalement de la Peinture Espagnole),la photographie car elle lui a permit de faire ses portraits,Francisco Goya et Gustave Courbet pour ses influences réalistes.Les peintres qu&#039;il apprécie particulièrement sont Diego Vélasquez et Francisco Goya pour son style réaliste espagnole.
+ 
+Les thèmes que privilégie Manet sont la peinture espagnole, la nudité,...
+ 
+Les caractéristiques du travail de Manet partent du principe d&#039;une représentation réaliste mais où des traits ont été caricaturé (dans le sens de parodier) pour faire sensation. Sa composition reste réaliste, la gestion de la lumière n&#039;est pas prise en compte, il a employé des pastels, la gravure, l&#039;huile,l&#039;encre autographique... et expérimenter des techniques tel que la mine de plomb et le lavis à l&#039;encre de chine.
+Il met toujours son sujet au centre de l&#039;illustration et le nomme dans le titre.
+ 
+Sa relation avec Emile Zola et Charles Baudelaire est amicale mais aussi d&#039;intérêt de courant. En effet, les trois partagent des idées modernes et sont aussi en conflit avec les artistes peintres et littéraires de l&#039;époque.
+ 
+
+ 
+Dans &quot;Olympia&quot; de 1863, on y retrouve la structure de Manet où le sujet est centré. On y retrouve une parodie d&#039;une représentation de la Vénus d&#039;Urbino où sa nudité est insolente pour l&#039;époque et où la présence du chat fait un décalage humoristique avec le chien d&#039;Urbino.
+
+ 
+C&#039;est en 1863 que Manet fera une grande exposition de ses œuvres pendant l&#039;organisation du Salon Officiel mais c&#039;est lors de cette exposition que Manet va pouvoir sortir de l&#039;ombre et divisé le public avec une minorité d&#039;amateurs qui s&#039;en inspireront.
+
+
+Sources:
+1.  https://fr.wikipedia.org/wiki/%C3%89douard_Manet
+2. http://www.larousse.fr/encyclopedie/personnage/%C3%89douard_Manet/131480</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

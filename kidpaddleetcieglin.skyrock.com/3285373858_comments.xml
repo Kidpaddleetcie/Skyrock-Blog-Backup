@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Esthétique]La photographie - Commentaires</title>
+  <description>La photographie dans l&#039;histoire de l&#039;art a permit à tout à chacun de reproduire la réalité.
+ 
+Les origines de la photographie se trouve dans la &quot;camera obscura&quot; et
+la &quot;lanterne magique&quot; (principes remontant à l&#039;Antiquité) ainsi que le &quot;physionotrace&quot;.
+ 
+Chacune de ces technologies (technique) ne permettait pas de fixer l&#039;image das un support fixe. Il a fallut attendre Nicéphore Niepce par son utilisation du bitume de Judée et de l&#039;essence de lavande pour avoir une première photographie en 1826.
+ 
+Le procédé sera plus concret en 1839 quand celui-ci aura réussit à réduire le temps d&#039;exposition. L&#039;utilisation de boite ayant dedans une plaque de cuivre enduit de sels d&#039;argent a permis d&#039;avoir une oeuvre d&#039;être plus nette et ayant une exposition d&#039;une demie heure.C&#039;est ce qu&#039;on nommera la Daguerréotype. C&#039;est d&#039;ailleurs en 1839 que le procédé sera achetable dans le commerce afin de photographier ce qu&#039;on a devant les yeux.
+ 
+Ainsi, tout les domaines dès les années 1850 emploient cet appareil.
+
+ 
+ C&#039;est grâce à l&#039;amélioration de ce principe que le temps de pause fût amoindrit (diaphragme réglable), la netteté augmentée, le support copiable (passage de la plaque de métal au papier),...
+ 
+Le photographe le plus connu est Nadar (Félix Tournachon) pour ses portraits des bourgeois de son époque ainsi que de la photographie aérienne.
+ 
+Gustave Le Gray (ancien peintre)fera surtout des photographies de paysage.Il fera passé des sentiments  en truquant/montant ses photographies.
+ 
+La photographie aidera aussi les peintres à composer leurs tableaux pour éviter un temps de pause trop long et gagner en précision.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

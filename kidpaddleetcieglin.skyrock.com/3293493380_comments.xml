@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation2Glin]L&#039;évolution du support de l&#039;image(partie 2:L&#039;Antiquité)! - Commentaires</title>
+  <description>L&#039;Antiquité : Les débuts des codes, de la gravure sur pierre et sur céramique
+
+
+Pendant toute la préhistoire, les supports tel que la poterie ont aussi été inventés mais rien ne se représentaient dessus. Il a fallu attendre l&#039;époque Grec (Xième siècle avant J.-C.) pour que la poterie sert de support pour conter des légendes, porter des illustrations souvent faits en formes remplies et en dominance de noir.
+
+
+
+ 
+ 
+ 
+ 
+Les supports vont aussi se diversifier avec le papyrus trouvé et utilisé en tant que parchemin par les Egyptiens il y a 5 000 ans. L&#039;avantage du papyrus est donc qu&#039;il peut être envoyé en tant que parchemins à des scribes initiés à l&#039;écriture et à la lecture des hiéroglyphes.
+La pierre de Rosette (une pierre en granite noir) nous aura d&#039;ailleurs servi à un peu traduire ces fameux hiéroglyphes (tout en haut) au 19ème siècle grâce à la présence de Grec ancien (en bas).
+ 
+
+Sources:
+ 
+Grégor, I. (2017, Mars 31). Du papyrus à la tablette tactile.
+Récupéré sur herodote: https://www.herodote.net/L_ecriture-synthese-1810.php
+
+
+cosmovisions.com. (2017, Mars 31). L&#039;art dans l&#039;Antiquité.
+Récupéré sur cosmovisions.com: http://www.cosmovisions.com/artGRChrono.htm
+
+
+The British Museum. (2017, Mars 31). The Rosetta Stone.
+Récupéré sur http://www.britishmuseum.org: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=117631&amp;partId=1
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Critique2Jeu ] Harry Potter à l&#039;école des sorciers (PC) - Commentaires</title>
+  <description>
+ 
+Durant la première moitié du mois de Novembre 2020, j&#039;ai découvert que le premier Harry Potter sur PC est sur Abandonware-France : https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=3016
+ 
+Aussitôt la découverte faîtes, je me suis empressé de télécharger et de jouer à ce jeu en l&#039;espace d&#039;une nuit ( +/- 5h de jeu ).
+ 
+Avant de vous faire un avis critique en revenant sur les différents points habituels d&#039;un testeur de jeu-vidéo amateur avec des yeux de 2020, je tiens à mettre en avant plusieurs trucs:
+ 
+1. Dans ma jeunesse, j&#039;ai pût jouer et terminer plusieurs fois la suite, Harry Potter et la chambre des secrets toujours sur PC ! Je suis donc en mesure de me remettre dans les conditions d&#039;époque en situant le jeu et même savoir ce qui a été amélioré et donc ce qui fait défaut dans le premier.
+ 
+2. J&#039;ai joué avec toutes les options graphique au maximum de leurs capacités donc je ne peux pas dire si le jeu était moche dans les setups démocratisés de l&#039;époque.
+ 
+Ces deux précisions faîtes, c&#039;est partit pour aborder le point du gameplay !
+
+Comme sa suite, le gameplay est rudement simple et intuitif ! 
+On saute avec le clic droit, on lance des sorts automatiques avec le clic gauche et on déplace Harry Potter avec les touches fléchées du clavier. 
+ 
+5 touches pour 5h de plaisir ? Presque !
+ 
+- Le jeu ne permet pas de passer les cinématiques déjà visionnées après une mort ( la touche &quot;Esc&quot; ou &quot;Echap&quot; ne sert qu&#039;à afficher la pause...même pendant les cinématiques ). 
+
+- Le combat contre Voldemort est frustrant tellement le système de lock du miroir est imprécis et semble ne pas avoir de marge d&#039;erreur suffisamment grande.
+ 
+- Harry Potter ne peut pas faire évoluer sa barre de vie ou boire une potion Wiggenweld pour régénérer sa santé malgré que le Professeur Rogue en fait mention lors de son cours et qu&#039;on récupère les différents éléments pour la confectionner.
+ 
+- Le jeu est très dirigiste et Poudlard ne semble pas être encore un monde ouvert comme dans la suite.
+ 
+- On peut s&#039;amuser à faire sauter Harry avec notre bon vouloir mais bon ... ça ne sert à rien vu que le jeu permet les sauts automatiques qui sont bien plus précis et évite donc de mourir à cause de la camera qui se rapproche de la tête d&#039;Harry pour rien à chaque clic droit.
+ 
+Au cours de l&#039;aventure, on apprendra plusieurs sorts qui n&#039;auront pas nécessairement les mêmes effets dans &quot;Harry Potter et la chambre des secrets&quot; du PC:
+ 
+- Flipendo: Permet de pousser, attaquer et activer des mécanismes. C&#039;est un grand coup de vent.
+ 
+- Alohomora : Permet d&#039;ouvrir pleins de trucs ... même caché !
+ 
+- Wingardium Leviosa : Permet de faire léviter des blocs... il n&#039;aura servit qu&#039;à ça.
+
+
+- Incendio : Permet de se débarrer des plantes. Il sera remplacé par CrackBadaboum dans la suite après un réapprentissage pour servir à faire les toiles d&#039;araignées !
+
+
+
+- Lumos: Permet, avec l&#039;aide d&#039;une gargouille, de faire des plateformes dégelasses représenté par un amas de particule de lumière jaune pisse et de révéler, pendant la mission d&#039;Hagrid, certains endroits secrets. Heureusement, il sera amélioré dans la suite pour être utilisé beaucoup plus souvent et avoir une vrai forme de plateforme.
+ 
+Les parties de Quidditch sont assez hasardeux et le fait que la vie ne remonte pas entre deux cinématiques fait que j&#039;ai dû me taper Serdaigle avec un point de vie. J&#039;ai dû m&#039;y reprendre à plusieurs fois. 
+ 
+Tiens, j&#039;ai appris en écrivant cet article que les développeurs aurait utilisé le moteur de jeu Unreal... c&#039;est un très bon choix pour l&#039;époque mais le jeu ne pouvait pas être parfait quand même.
+ 
+Voila, ça, c&#039;est le gameplay mais le scénario est tout aussi intéressant à traiter en détail !
+ 
+Sachant que le jeu est sortit en fin 2001, développé par KnowWonder et que le film est sortit aussi en 2001. On peut supposer que le jeu n&#039;a pas eût beaucoup de temps pour se faire.
+ 
+Le scénario est construit par un schéma de nouveau sort-scénario-nouveau sort-scénario-... Ce n&#039;est pas un défaut, c&#039;est une structure, un cycle permettant au joueur de séquencé son apprentissage du gameplay ... même si les séquences de &quot;nouveau sort&quot; sont des gros tutoriels qui ne serviront qu&#039;à de rares occasions.
+ 
+J&#039;aime bien l&#039;idée qu&#039;ils ont gardés plusieurs éléments du bouquin au lieu de juste reprendre des scènes du film et de les illustrées, je vous en cite 2:
+
+1. C&#039;est nous qui amenons le Troll dans les toilettes des filles
+( même si Ron prétendait avant qu&#039;on l&#039;amène qu&#039;il y était déjà... KnowWonder ont voulu combiner le film et le roman, c&#039;était bien essayé )
+ 
+2. Hermione a sa propre épreuve dans le chemin de croix vers Voldemort, une épreuve de potion dont Harry réussi à trouver la seule potion bonne parmi pleins d&#039;autres.
+ 
+ 
+Maintenant, tellement ils sont pressés par le temps, le jeu se compose de 29 scènes qui valent entre 2 et 15 minutes de jeu pour entre 40 secondes et 2 minutes de cinématiques se présentant soit comme des illustrations dessinées avec un narrateur, soit avec le moteur de jeu. Pour plus de précision dans la structure du jeu, je vous recommande vivement de consulter le Wiki Fandom qui est très complet:
+https://harrypotter.fandom.com/fr/wiki/Harry_Potter_%C3%A0_l%27%C3%A9cole_des_sorciers_(PC)#Th.C3.A9orie
+ 
+ 
+Le scénario n&#039;est pas vraiment chiant à cause des doubleurs dans le rôle et de la mise en scène simple et souvent un peu ridicule mais le manque de dynamisme de la narration sur les illustrations dessinées cassent le rythme et on ne peut pas les passées. Vraiment, le bouquin est mieux !
+ 
+ 
+PAR CONTRE, je trouve ça triste de ne pas pouvoir se promener dans Poudlard après la fin du jeu. Je trouve ça frustrant d&#039;avoir juste comme récompense une cinématique facile à obtenir ( la quête des dragées de Bertie Crochue ) même si voir Rogue s&#039;en prendre plein la tronche est marrant.
+Il y a juste moyen de livrer un nouveau match de Quidditch dans le menu du jeu mais c&#039;est tout et ça donne pas envie.
+ 
+ 
+Parlons maintenant de la musique !
+ 
+Autant vous le dire de manière simple: Jeremy Soule !
+ 
+Le gars derrière les musiques de Skyrim, Dungeon Siege et pleins d&#039;autres jeu traitant de sujet nécessitant un orchestre a fait du très bon boulot !
+ 
+Voici mon top 3 :
+ 
+
+
+
+
+ Chacune est retrouvable dans la suite mais d&#039;après ce que je lis, il n&#039;y avait pas que Jeremy Soul pour composé ! Il faut aussi rendre hommage à Justin Scharvona et Karin Griffin qui ont tenté de faire tout aussi bien sur la première Playstation.
+ 
+Concluons donc !
+ 
+Le jeu nous fait bien vivre une aventure malgré sa linéarité et beaucoup d&#039;erreur qui seront corrigés dans sa suite en 2002. Disons que ce jeu aura été une très bonne base pour déterminer ce que deviendra la série de jeux-vidéos estampillé &quot;Harry Potter&quot; sur les consoles de salon et PC ! 
+
+
+Maintenant, je tiens à remercier quelques personnes pour ce jeu:
+ 
+Dan Elenbaas : C&#039;est le gars qui a joué des coudes pour obtenir le droit de faire ce jeu VIA sa boite de développement KnowWonder mais aussi de pouvoir se faire éditer par Electronic Arts. C&#039;est grâce à son sa boite que les jeux Harry Potter sont aussi bons en 3D avant qu&#039;EA Games se charge de les remplacer par des jeux se voulant très beaux graphiquement en étant proche du visuel des films mais avec moins de fun
+(Notamment la coupe de feu qui est le premier jeu Harry Potter développé pour toutes les plateformes pouvant supporter la 3D en temps réel en 2005 !).
+ 
+Jeremy Soule : Quand on sait créer des ambiances qui collent parfaitement à l&#039;univers, c&#039;est qu&#039;on a bien son travail.
+ 
+Clivelaw : L&#039;internaute qui a mit la ROM sur Abandonware-France !
+ 
+ Merci d&#039;avoir permis à ce jeu d&#039;ouvrir la voie vers des suites presque tout aussi parfaites et de nous permettre de visiter et vivre à Poudlard dans la peau d&#039;Harry Potter, le survivant ! AH ET NIQUE EA GAMES ET EA BRIGHT LIGHT POUR AVOIR GACHÉ LES SUITES DU PRISONNIER D&#039;AZKABAN ! LES GRAPHISMES NE SONT PAS CENSÉS ÊTRE UNE PRIORITÉ QUAND LE GAMEPLAY EST LOURD ET LENT ! 
+
+KidpaddleetcieGlin
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

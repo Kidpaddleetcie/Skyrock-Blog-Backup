@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Mathématique]La logique des propositions (PARTIE 1/3) - Commentaires</title>
+  <description>Exemple
+Les hommes sont mortels.
+Sujet (être ou objets) : Les hommes
+Verbe copule : sont (verbe être)
+Prédicat (propriété) : Mortels
+ 
+Autres exemples :
+-La fleur est rouge
+-Les oiseaux sifflent (ont sifflés)
+ 
+Attention, une proposition ne peut pas être :
+-Optative (exprimant un souhait)
+-Interrogative (Interrogeant)
+-Impérative (exprimant un ordre)
+ 
+Remarque : ça signifie que la proposition est une affirmation.
+ 
+Les principes à respecter dans les propositions :
+
+Principe du tiers exclu :
+Toute proposition doit être vrai ou fausse.
+
+Principe de non-contradiction :
+Une proposition ne peut être à la fois vraie et fausse.
+ 
+Les symboles utilisés
+Les lettres propositionnelles représentant les propositions simples : p,q,r,...
+ 
+Exemples :
+H représente « les hommes sont mortels »,
+P représente « il pleut ».
+ 
+Définition :
+La valeur de vérité = La valeur que peuvent prendre les propositions et formules logiques.
+Faux= 0=False
+Vrai= 1 =True
+ 
+Les opérateurs logiques
+
+L&#039;opérateur unaire (annuité=1)
+
+ 
+ 
+Les opérateurs binaires (annuité= 2)
+
+
+ 
+ 
+ 
+ 
+Exemples
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Remarque : l&#039;annuité d&#039;un opérateur est son nombre d&#039;argument.
+ 
+Règles des formules dans leurs formations
+1)      Les lettres propositionnelles sont des formules.
+2)      Si A est une formule, alors non(A) est une formule.
+3)      Si A et B sont des formules, alors (A et B), (A ou B) sont des formules.
+ 
+Exemples : 
+
+
+ 
+ 
+ 
+Remarque :
+Les parenthèses servent à préciser et modifier l&#039;ordre d&#039;exécution des opérateurs dans une formule.
+
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

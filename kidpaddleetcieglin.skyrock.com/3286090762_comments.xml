@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Anatomie]Les muscles et os de la tête - Commentaires</title>
+  <description>N&#039;oublier pas que le but est de savoir comment dessiner une tête, un crane, en respectant les proportions mais aussi en sachant où se trouve quel partie du crane.
+
+ 
+
+ 
+ 
+Source: http://www.forum-dessine.fr/index.php?id=06070
+
+ 
+ 
+Tout est un ensemble d&#039;os, il n&#039;y a que la mâchoire qui bouge donc la partie maxillaire inféireure.
+ 
+La partie du nez se retrouve dans la partie maxillaire supérieure.
+
+Le pariétale est une écaille, une protection. 
+ 
+Dans le temporal, on retrouve l&#039;oreille:
+ 
+Au niveau des oreilles, il y a trois os:
+-le marteau (au nombre de deux, droit et gauche),
+-l&#039;enclume (au nombre de deux,droit et gauche),
+-l&#039;étrier (au nombre de deux,droit et gauche).
+ 
+
+ On retrouve la tempe dans le sphénoïde.
+ 
+On retrouve le trapèze raccroché à l&#039;occipital, c&#039;est d&#039;ailleurs grâce à cette jonction que le cervelet peut communiquer avec le reste du corps.
+ 
+Voici 2 modèles 3D provenant du site &quot;Sketchfab&quot; pour voir une tête sous sa forme squelettique (un crane donc) : 
+et une autre tête ayant juste les différents muscles à observer:
+
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

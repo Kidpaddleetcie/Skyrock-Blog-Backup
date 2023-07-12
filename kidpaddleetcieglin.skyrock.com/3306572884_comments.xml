@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Mettre un texte en ligne! - Commentaires</title>
+  <description>
+Il existe plusieurs sites qui permettent de mettre vos textes en valeur sous différentes mise en forme!
+ 
+https://pastebin.com/ permet de mettre sous différent format (langage) votre texte comme le CSS, le C++, Javascript, Python,Ajax...  et pouvoir le rendre accessible en ligne avec  un aperçus de ses effets! Vous pouvez même une date d&#039;expiration!
+ 
+https://www.wattpad.com/ permet de présenter votre texte sur une façons de lire avec chapitrage! C&#039;est plutôt pratique pour les textes scénaristiques, analytiques et plus personnels mais pour ce dernier,je vous conseille plutôt un blog!
+ 
+ http://www.skyrock.com/ permet de créer un blog rapidement...et un blog, c&#039;est comme un journal sauf qu&#039;il est automatiquement accessible sur PC,TV,Smartphone et console de jeux-vidéos sans devoir réclamé des droits! C&#039;est d&#039;ailleurs sur le blog que vous pourrez vous exercez à la mise en page contrairement à Wattpad!
+ 
+https://www.bookonlive.com/ permet aussi de publier des histoires sauf qu&#039;on peut y mettre un prix et faire une meilleur mise en page que sur Wattpad en jouant avec les tailles de caractère,mettre une image d&#039;arrière-plan dans la page,... En plus, on peut gérer un forum pour chaque livre créé! Mais comme Wattpad existe, ce site est un peu mort depuis 2014!
+ 
+ 
+https://www.fanfictions.fr/ permet de poster...hé ben...c&#039;est écrit dans le lien...
+des fan-fictions! Des contenus utilisant le domaine de la parodie, du pastiche et la caricature! Au niveau légale, on est bien!
+(voici un lien vers une analyse de la légalité des fan-fictions: http://alixe75.livejournal.com/36942.html )
+ 
+
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

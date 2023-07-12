@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Découverte2Glin]Les applications sur les navigateurs web de la Nintendo 3DS et la DSi ! - Commentaires</title>
+  <description>
+En me baladant sur le web en quête d&#039;un moyen pour voir des vidéos de Dailymotion (j&#039;arrive à voir tout les contenus que je veux en mode &quot;mobile&quot; mais pas les vidéos de Dailymotion parce qu&#039;ils ont retirés leur Adobe Flash Player pour passer à du HTML5 pur),
+j&#039;ai trouvé sur un forum un site qui permet de tirer partit des limitations de la 3DS et même de la DSi!
+ 
+Pour la 3DS: http://3dspaint.com/
+ 
+Pour la DSi: http://dsipaint.com/
+ 
+En faîtes, ce sont des applications créés avec du vieux javascript dans un format très minime...certaines applications sont tout simplement indignes d&#039;intérêt tandis que d&#039;autres sont buggés!
+ 
+Par exemple, 3DSpaint (l&#039;application la plus mises en valeur à mon avis vu qu&#039;il est le titre du site) est buggé par le fait que si le stylet s&#039;écarte de l&#039;écran et se pose à un endroit plus éloigné que la position précédemment quittée, une ligne droite est créée...le soucis est qu&#039;on ne peut pas créés de dessin à particule indépendante ce qui entraîne l&#039;impossibilité de créé des personnages, des décors, des effets,...
+ 
+Même soucis rencontrés sur la version DSi, le navigateur web ne prend vraiment pas bien en charge les imputs entre les coups de stylet, ce qui entraîne des limitations avec l&#039;écran tactile!
+ 
+Ces applications m&#039;ont rappelé le bon vieux temps où on croyait que les vidéos sur YouTube pourront être vu sur Nintendo DSi avec une mise à jour...c&#039;était vers 2009 qu&#039;on y croyait mais encore aujourd&#039;hui, on sait que ce n&#039;est pas possible et que la Nintendo DSi n&#039;était que la version 0.5 de la Nintendo 3DS qui était elle-même la version 0.5 de la Nintendo Switch avec la WiiU!
+ 
+Nintendo n&#039;a jamais vraiment voulu rentabilisé les possibilités du navigateur web de ses consoles, c&#039;est un fait! Nintendo n&#039;a pas vraiment envie d&#039;offrir ses jeux sur navigateur et encore moins permettre aux gens de profiter de jeux gratuits sans passer pas leur e-shop!
+ 
+Les navigateurs Web des consoles sont là pour permettre à chacun de se renseigner, de lire, de regarder les soluces et partager sur les réseaux sociaux les moments de jeux...C&#039;EST TOUT! C&#039;est juste une application pour améliorer l&#039;expérience de jeu VIA des possibilités d&#039;interaction accrus dans le social mais aussi dans l&#039;économique!
+ 
+ J&#039;ai appris aussi une chose sur l&#039;auteur de ces sites! C&#039;est HullBreach Studios qui est derrière et ils ont vraiment bossé avec Nintendo depuis 2009 pour faire des applications web qui sont censé fonctionné pour la 3DS,la DSi mais aussi la WiiU!
+Je remarque aussi qu&#039;ils ont fait une version IOs https://itunes.apple.com/us/app/sdk-community/id610350357?ls=1&amp;mt=8 comme quoi, Nintendo et Apple se ressemble!
+ 
+KidpaddleetcieGlin
+  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

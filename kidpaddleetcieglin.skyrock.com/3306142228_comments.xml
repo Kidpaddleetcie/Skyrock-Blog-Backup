@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique2Glin]Coco - Commentaires</title>
+  <description>
+Je ne spoilerais pas mais sachez que j&#039;en garde déjà de très bon souvenir pour ce film. Les modèles 3D sont bien géré (aucun personnage qui bug en vue xD) et les jeux de lumière sont magnifique...bon, c&#039;est ce que j&#039;ai déjà dit dans ma critique de Ballerina en décembre 2016 mais c&#039;est important de ne pas spoiler et de dire qu&#039;on n&#039;a rencontré aucune difficulté pour apprécié l&#039;oeuvre!
+ 
+ Le personnage principal est Miguel et son rêve est de devenir musicien. Il a une famille qui se transmet l&#039;art de cirer et créer des chaussures et il est Mexicain!
+ 
+Sa famille déteste la musique à cause de l&#039;arrière-arrière-arrière grand-père de Miguel qui aurait disparût pour vivre sa grande aventure musicale pour chanter à tout le monde en sacrifiant sa famille!
+ 
+VOILA,le synopsis que je peux vous faire sans spoiler les premiers cassages de détails misent en place par l&#039;intro!
+ 
+Bien sur, l&#039;affiche montre qu&#039;on va aller dans le monde des ancêtres avec Miguel mais je ne vous dirais pas comment ni pourquoi même si vous visez juste en pensant que c&#039;est pour faire aimer la musique à sa famille!
+
+Passons donc sur les points forts du film:
+-La 3D est vraiment pas dégueulasse (en même temps,c&#039;est un Pixar...c&#039;est leur truc la 3D),
+
+-La morale n&#039;est pas &quot;c&#039;est méchant d&#039;être méchant, c&#039;est gentil d&#039;être gentil&quot;,
+
+-Il n&#039;y a pas de Deus Ex Machina juste improbable, tout à un lien,
+
+-On n&#039;hésite pas à lancer des piques à Skrillex et tout les musiciens numériques,
+
+-Les phrases peuvent avoir des double sens mais c&#039;est surtout dans les dialogues donc pas de 4ème mur brisé,
+ 
+-Il y a un chat à la toute fin,
+ 
+-Il n&#039;y a pas de référence à Donald Trump alors qu&#039;on parle d&#039;une fête mexicaine,
+ 
+-Les musiques rendent bien pour une V.F.!
+ 
+
+ Les points faibles du film
+-La cohérence au niveau des squelettes...ils ont mal oui ou non?
+ 
+-Miguel pouvait s&#039;appeler Peter Parker ou être acrobate chinois...sa souplesse en épatera plus d&#039;un!
+ 
+-Les gros plans fixes sur les visages tristes avec un flou autour...ouai,c&#039;est un point faible du film car c&#039;est surfait à coté des plans dynamiques avec plein de travellings, zooms et plein de vie,
+ 
+-Le titre...il n&#039;y a qu&#039;à la fin qu&#039;on comprend son sens...et on se sent un peu déçu de part cette idée... snif!
+ 
+ 
+Conclusion
+Il m&#039;a fait pleurer ce film, c&#039;était beau et il y avait une prise de risque pour la cohérence de la 3D et du scénario! Je ne pouvais prévoir ce que le personnage allait avoir comme révélation et pourtant,tout parait logique une fois qu&#039;on a toute les pièces du puzzle!
+ 
+ 
+Merci d&#039;avoir lu ma critique, aller voir au cinéma ce film ou procurez-le vous de manière légale et ... bahhhh, procurez-le vous, c&#039;est tout ce que j&#039;ai à dire en faîtes :p avec un peu de chance, il sera disponible sur la plateforme de streaming de Disney mais aussi en Blue-Ray/DvD !
+  Kidpaddleetcie Glin  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

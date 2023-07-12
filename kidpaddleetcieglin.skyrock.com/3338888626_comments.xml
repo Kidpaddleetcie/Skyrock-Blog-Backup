@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Présentation ] Les sortilèges dans Harry Potter - Commentaires</title>
+  <description>
+Dans Harry Potter ( les films et les jeux-vidéos, pas les bouquins ), on a plusieurs sortilèges qui sont évoqués/utilisés.
+ 
+J&#039;ai créé une liste à partir de celle présente ici: http://www.lombardf.com/~olivia/sorts-hp.html
+ 
+
+Accio:
+- Attirer quelque chose de non-rattaché à une entité massive comme un mur
+- Si un objet précis doit être attirer vers la baguette, il doit être mentionner juste après le sort. &quot;Accio Éclair de feu&quot; dans &quot;Harry Potter et la coupe de feu&quot; !
+ 
+Allohomora
+- Ouvrir une porte/un coffre verrouillée par un simple verrou
+ 
+Amplificatum
+- Grossir un objet
+ 
+Avada kedavra
+- Tuer quelqu&#039;un (sort interdit; dit impardonnable)
+
+Collaporta
+- Sceller une porte/un coffre
+ 
+Crac badaboum
+- Casser un objet ( des toiles d&#039;araignée dans &quot;Harry Potter et la chambre des secrets&quot; sur PC )
+ 
+Crache limace
+- Faire cracher des limaces à quelqu&#039;un
+ 
+Croque cheville
+- Attacher les chevilles ensemble
+ 
+Destructum
+- détruire quelque chose
+ 
+Diffinito
+- Couper quelque chose
+ 
+Dissensium
+- Ouvrir un passage secret
+ 
+Ectoplasmus
+- Décoller quelque chose ( notamment de l&#039;ectoplasme )
+ 
+Elasticus
+- Sauter très haut depuis un tapis ensorcelé ( utilisé dans &quot;Harry Potter et la chambre des secrets&quot; sur PC )
+
+Endoloris
+- Faire très mal (sort interdit; dit impardonnable)
+ 
+Enervatum
+- Enerver quelqu&#039;un
+ 
+Evanesco
+- Faire disparaitre ( rendre invisible mais toujours physiquement présent ) quelque chose
+ 
+Expelliarmus
+- Renvoyer quel que chose ou faire éjecter une ou plusieurs baguettes magiques ( en gros, c&#039;est une onde de choc )
+ 
+Failamal
+- Ranger des affaires dans une male
+ 
+Fera verta
+- Transformer un animal en verre à pied ( cours de Mc Gonagall dans &quot;Harry Potter et la chambre des secrets&quot; dans le film )
+ 
+Finite
+- Arrêter (dans le sens &quot;interrompre&quot; ) un sort
+ 
+Flambois
+- Faire un signe en feu
+ 
+Flipendo
+- Pétrifier quelqu&#039;un pendant 3 secondes
+- Envoyer une impulsion
+ 
+Impédimenta
+- Faire tomber quelqu&#039;un ( l&#039;arrêter ou le ralentir )
+ 
+Imperium
+- Se faire obéir par quelqu&#039;un (sort interdit; dit impardonnable)
+ 
+Incarcerem
+- Faire sortir des cordes de sa baguette magique
+ 
+Incendio
+- Casser une plante ( dans &quot; Harry Potter à l&#039;école des sorciers&quot; sur PC)
+- Mettre le feu
+ 
+ 
+Imobilis
+- Immobiliser quelqu&#039;un ou un groupe ( Hermione arrive à immobiliser une dizaine de lutins de Cornouailles dans &quot; Harry Potter et la chambres des secrets &quot; )
+ 
+Légilimens
+- Pénétrer dans l&#039;esprit d&#039;un humain
+ 
+Locomotor barda
+- Lever et faire avancer un objet ou quelqu&#039;un à quelques centimètres du sol
+ 
+Lumos
+- Illuminer au bout de sa baguette
+- Activer une statue de gargouille pour révéler des passages et plateformes secrets dans la zone ( utilisé dans les deux premiers jeux sur PC )
+ 
+Lumus solem
+- Illuminer une pièce
+ 
+Mobilicorpus
+- Neutraliser un sort d&#039;immobilisation
+ 
+Morsmordre
+- Donner l&#039;impression de mordre son adversaire
+ 
+Mutismus
+- Faire bégayer quelqu&#039;un
+ 
+Nox
+- Eteindre le bout de la baguette magique ( annule donc Lumos )
+ 
+Oubliette
+- Faire tout oublier à quelqu&#039;un excepté sauf ce qui faut pour qu&#039;il vive
+ 
+Oqulus reparo
+- Réparer des lunettes
+- Reparo tout seul sert à réparer les entités brisées dans les derniers jeux sur console.
+ 
+Petrificus totalus
+- Pétrifier quelqu&#039;un
+ 
+Portus
+- Fabriquer un portoloin
+
+Prior incanta
+- Refaire le sort qu&#039;on à fait en dernier
+ 
+Protego
+- Se protéger de n&#039;importe quel sort d&#039;attaque ( un protego par sortilège )
+ 
+Que ce vert d&#039;eau se change en vert de rhum
+- Changer un vert d&#039;eau en vert de rhum ... on ne peut être plus précis
+ 
+Recurvite
+- Nettoyer quel que chose
+ 
+Reducto
+- Réduire un objet
+ 
+Ridiculuce
+- Ridiculiser un épouvantard
+
+Rictuscempra
+- Renverser un objet ( Notamment présent dans &quot;Harry Potter et la chambre des secrets&quot; sur PC.
+- Faire la même chose que Expelliarmus et Everte Statum à savoir : Envoyer valdinguer son adversaire
+ 
+Serpentasortia
+- Créer un serpent
+
+Silencio
+- Faire perdre la voix à quelqu&#039;un
+ 
+Soleil jonquille mimosa que ce vilain rat en jaune soit colorié de la tête au pied
+- Transformer un rat gris en rat jaune ( quand ça fonctionne )
+
+Sonorus
+- Rendre sa voix plus puissante
+ 
+Sourdinam
+- Rendre quelqu&#039;un sourd
+
+Spero patronum
+- Créer un patronus servant à se défendre des détraqueurs 
+ 
+Stupefix
+- Stupéfier quelqu&#039;un ( l&#039;immobiliser un court instant et lui faire mal )
+ 
+Tarrentallegra
+- Faire danser les jambes de quelqu&#039;un
+ 
+waddiwasi
+- Décoincer un objet avec force et l&#039;envoyer à un endroit précis
+ 
+Wingardium leviosa
+- Lever un objet ( le faire léviter )
+ 
+ 
+ 
+ Voici une vidéo compilant les sorts des films
+ 
+N&#039;oublier pas que le Wikia existe: https://harrypotter.fandom.com/fr/wiki/Portail:Sorts
+ 
+ 
+ 
+Maintenant, il y a quand même des questions qu&#039;on peut se poser:
+ 
+1. Pourquoi le tonton de Harry, Sirus Black, ne se défendait pas avec un patronus contre les détraqueurs. Il était pourtant en possession de la baguette de Severus .
+ 
+2. Incendio n&#039;est pas un sort interdit .
+ 
+3. Sachant que Finite interrompt un sort lancé, pourquoi Nox est à utiliser pour contrer son Lumos ?! </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

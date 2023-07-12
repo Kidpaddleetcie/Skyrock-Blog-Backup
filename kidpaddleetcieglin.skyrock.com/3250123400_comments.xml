@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Guide]Comment BIEN débuter sur internet pour produire des oeuvres et avoir la paix! - Commentaires</title>
+  <description>Vous débutez à peine sur internet,vous avez déjà créer une adresse e-mail et vous rechercher des astuces pour commencer sur YouTube/Skyrock/Facebook/Twitter/... cet article est fait pour vous!
+ 
+Commençons par vous mettre au courant sur les dangers d&#039;internet:
+ 
+Internet est un média à accès multiple (même les téléphones de merde peuvent se connecter à internet depuis 2007) et il est donc important de prendre conscience que chacun peuvent avoir accès à ce que vous mettez publiquement sur internet.
+Les pédophiles,les gosses,les pompiers,les homosexuelles et d&#039;autres types de personne peuvent se rencontrer sous le couvert de l&#039;anonymat sur internet,il est donc primordiale de ne pas se faire identifier IRL!
+ 
+IRL signifie In Real Life (Dans la vie réel)!
+ 
+Enchaînons avec les astuces:
+ 
+1.Ne pas montrez sa bouille (visage) quand on est un enfant (de moins de 12 ans),
+ 
+2.Ne pas divulguer son vrai prénom et son vrai nom (sinon,ça fuite et vous perdez votre liberté d&#039;être qui vous voulez),
+ 
+3.Ne pas plagier les autres pour le buzz (vous voulez la paix...vous l&#039;aurez ;) ),
+ 
+4.Ne pas clasher les autres pour le buzz (vous voulez la paix...eux aussi),
+ 
+5.Créer ses œuvres et mettre un petit logo en plein milieu (comme ça,pas de vol de vos production),
+ 
+6.Ne pas faire une communauté avec des amis IRL (un malheur peut vite arriver et le suicide est la fatalité),
+ 
+7.Ne pas utiliser une même adresse e-mail pour tout vos sites de production (ne jetez pas l&#039;eau du bain avec le bébé...ne mettez tout vos chocolats dans le même panier),
+ 
+8.Toujours flouter votre famille si vous en faîtes des photos/vidéos...ils doivent être protégés!
+ 
+9.Ne pas oublié que absolument TOUT sur internet est accessible...même votre Facebook peut être vue par tout le monde,un simple &quot;inspecter l&#039;élément&quot; avec Google Chrome peut nous en permettre des choses!
+ 
+ 
+Voila,passons aux programmes pour les débutants:
+ 
+Vidéo: Windows Movie Maker
+Image: Paint
+Son: Audacity
+Texte: OpenOffice.org
+Navigateur: Internet Explorer
+ 
+Mes programmes à moi sont (parce que ça peut être intéressent):
+Vidéo: Magix Video Deluxe 2014 Prenium
+Image: Paint.net
+Son: Audacity
+Texte: Word 2013
+Navigateur: Google Chrome
+ 
+ 
+Voila,vous avez l&#039;essentiel pour débuter avec des bonnes bases et je vous quittes avec cette célèbre phrase:
+&quot;Pour vivre heureux,vivons cachés&quot;
+
+
+KidpaddleetcieGlin2015
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

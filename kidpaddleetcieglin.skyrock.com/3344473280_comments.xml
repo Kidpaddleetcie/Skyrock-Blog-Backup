@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ LePointGlin ] Début septembre 2021 - Commentaires</title>
+  <description>Comme vous pouvez le constater, il y a 4 niveaux de productions sur le réseaux &quot;KidpaddleetcieGlin&quot; :
+1. Les spontanés ( Délires2Glin et les tweets )
+2. Les collaborations ( MissEmmy et les YTP+/YTP feat )
+3. Les articles de fond ( gros podcasts ou article d&#039;enquête )
+4. Les histoires ( YTPS et écriture sur le Wattpad )
+ 
+Je me permet de faire les points sur ces 4 axes en ce 9 septembre 2021 après un été pas terrible.
+ 
+1. Les spontanés
+ 
+Twitter avance bien de mon coté.
+Je découvre beaucoup de gens mettant en avant leurs capacités en dessins/illustrations et qui en font une source de revenu financière. Je les aide en partageant sur Discord et Twitter leurs tableaux des prix.
+ 
+La chaîne &quot;Délires2Glin&quot; est TRÈS ( trop ) utilisés ces derniers temps. Il s&#039;agirait de ralentir mais sa présence dans les &quot;short&quot; permet aux autres chaînes et vidéos partageant les même mots-clés de gagner en visibilité. Je me dois donc de continuer mais d&#039;un peu ralentir.
+ 
+ 
+2. Les collaborations
+ 
+Je prépare la vidéo d&#039;anniversaire de Miss Emmy pour le 24 Septembre 2021. Je suis en collaboration avec Marianne Lavoisier pour quelques illustrations et une vue sur le projet afin de ne pas faire un rendu qui ne plait qu&#039;à moi.
+ 
+Pour ce qui est des collaborations poopesques, à part le remake ( de qualité mitigée vu que le poopeur a tout simplement fait des coupes de dernière minute... j&#039;ai bossé 40 heures pour que seulement 15 soit vraiment utilisées ) de Creepermanolo que j&#039;ai terminé 25 Août 2021. 
+
+ 
+3. Les articles de fond
+ 
+Je ne fais rien. Je ne trouve pas de sujet intéressant sur le blog pour le moment.
+ 
+Pour Wattpad, j&#039;essaye de trouver le temps de terminer l&#039;écriture du &quot; La Vie Des Poopeurs &quot; sur RangerSpatial8 mais ce dernier ne daigne pas donner signe de vie donc je suis coincé.
+ 
+4. Les histoires
+ 
+&quot; Professeur Layton combat le grand capital partie 3 &quot; ( oui , c&#039;est très long ! ) avance à 2 minutes par tranche de 2 semaines. C&#039;est donc assez lent mais l&#039;histoire est bonne.
+
+ 
+
+Le gros soucis quand on créé une YTPsaga c&#039;est le manque de documentation autour des ressorts scénaristiques possibles avec le genre ( vu que techniquement, je suis le premier à tenter une série de + de 10 épisodes sur une YouTube Poop Serie. C&#039;est pour ça que j&#039;appelle ça une YouTube Poop Saga ).
+ 
+Actuellement, je galère sur un raccord champs et contre-champs par un dialogue. 
+ 
+La fin est déjà bien en tête, des séquences ont déjà été montée d&#039;ailleurs, mais le défi est de tout faire coller sans que le visuel ou l&#039;audio se casse la gueule. 
+ 
+Peu importe si la YTP dure 40 minutes ou 1 heure 30, je veux raconter une histoire et je ne vais pas me limiter à &quot; au pire, j&#039;abrège ! &quot;. 
+Je suis LIBRE , ça m&#039;est ÉGAL , FRÈRE !
+( Liberté, Égalité, Fraternité )
+ 
+ 
+Voila, maintenant, vous êtes au courant et j&#039;ai pût mettre pleins de liens cliquables pour les plus curieux !
+ 
+KidpaddleetcieGlin
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide informatique]Les bases du Javascript! - Commentaires</title>
+  <description>Le javascript (à ne pas confondre avec le Java) est un langage de programmation qui, contrairement au CSS et HTML, permet le changement dans un code.
+ 
+Il s&#039;exprime avec des &quot;&lt;...&gt;&quot;  qui se nomme &quot;balise&quot;.
+ 
+Il y a trois genre de balise:
+ 
+&lt;balise&gt;   --&gt; balise ouvrante
+&lt;/balise&gt; --&gt; balise fermante
+&lt;balise/&gt; --&gt; balise auto-fermante
+ 
+Il ne faut pas oublier que le javascript et le HTML sont dépendant de l&#039;un et de l&#039;autre, d&#039;où le fait que le javascript se trouve dans les page internet qui sont rédigés de base en HTML!
+ 
+Le visuel de base d&#039;un code HTML où va se trouver du javascript prend cette apparence:
+------------------------------------------------------------------------------------------------------------------------------------------------------
+&lt;!Doctype HTML&gt;
+&lt;HTML&gt;
+&lt;head&gt;
+&lt;Meta charset= &quot;UTF-8&quot;&gt;
+&lt;title&gt;Nom de la page qui se trouve dans l&#039;onglet et dans l&#039;en-tête de la page&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;script&gt;
+//C&#039;est ici où on va raconter en javascript les actions d&#039;affichage, les calcules, etc sur la page à l&#039;aide de formule tel que &quot;var&quot; ou encore &quot;alert&quot;!
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+N&#039;oublier pas que javascript, contrairement à l&#039;HTML, est sensible à la casse. Ce qui signifie qu&#039;une simple majuscule est une erreur. Tout les codes se font en minuscule excepté les variables suivant le code &quot;var&quot; et les textes entre guillemets et parenthèses!
+ 
+Le &quot;UTF-8&quot; signifie que les accents dans les textes vont être affiché (si on ne précise pas &quot;UTF-8&quot; les &quot;é&quot; deviendront des &quot;Ã©&quot; par exemple)!
+
+
+Si vous mettez &quot;//&quot; avant un texte, il sera visible que dans le code et n&#039;influencera pas le bon déroulement de votre code. On s&#039;en sert donc pour mettre des commentaires dans le code afin de mieux comprendre l&#039;effet désiré ou la démarche employée.
+ 
+Javascript connait les constantes et les fonctions mathématiques simples grâce à des formules tel que &quot;Math.PI&quot; qui permet de faire appelle à pi (3,14...) ou encore &quot;Math.pow&quot; qui permet d&#039;utiliser une puissance de cette manière:
+ 
+Math.pow (rayon, 2) 
+ 
+qui donne donc la puissance 2 à un rayon, on peut calculer la surface d&#039;un cercle de cette manière:
+ 
+surface= 2*Math.PI*Math.pow (rayon,2)
+ 
+Soit: 2Pi*rayon² = 2 x 3,14 x rayon²
+ 
+N&#039;oublier pas d&#8217;annoncer la variable &quot;rayon&quot; en la demandant à l&#039;utilisateur avec le code
+var rayon = prompt (&quot;Quel est la longueur de votre rayon?&quot;);
+ 
+ 
+Voila, c&#039;est tout pour les bases!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

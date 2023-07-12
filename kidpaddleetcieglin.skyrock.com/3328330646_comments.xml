@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ENG][How?]Download a Flipnote on sudomemo.net ! - Commentaires</title>
+  <description>[ It&#039;s a english version of this french article:  https://kidpaddleetcieglin.skyrock.com/3321166794-Comment-Telecharger-une-Flipnote-sur-sudomemo-net.html ]
+ 
+
+STEP 1:
+
+
+Come to page whre you want to download the Flipnote...like this page:
+https://www.sudomemo.net/watch/13B7C8_11EA7188C6EC9_000#=_=
+ 
+Tips:
+A page where you can see the Flipnote on Sudomemo begin with &quot;https://www.sudomemo.net/watch/&quot; and continue with 4 user&#039;characters !
+
+
+If you have a &quot;@DSi&quot; link like this: &quot;https://www.sudomemo.net/user/95C3EE50E113B7C8@DSi&quot;, 4 user&#039;characters are to end before the &quot;@&quot; symbole !
+ 
+____________________________________________________________________________________________________
+STEP 2:
+ 
+Do a right-click on a side of the player (there is a enable-right-click script on the player zone... Austin Burk doesn&#039;t want you download Flipnotes ) and go to &quot;inspect element&quot; !
+
+
+STEP 3:
+
+
+Go to the video tag who has the Flipnote&#039;source...a .mp4 file !
+
+
+
+ 
+ 
+OR
+
+
+Just go to the &quot;application&quot; tab and click on the video&#039;player to run the Flipnote !
+Go down, click on the &quot;Media&quot; tab who spawned between &quot;Scripts&quot; and &quot;Images&quot; tabs !
+In the &quot;Media&quot; tab, do a double-click on the file with the .mp4 extension !
+ 
+
+____________________________________________________________________________________________________
+STEP 4:
+
+
+Do a &#65279;right-click on the link/file and click on &quot;open in a new tab&quot; !
+
+STEP 5:
+
+
+Now, you are on the video&#039;player from your internet&#039;browser ! You can now download the video easily with just a right click on the video&#039;player !
+
+
+SAVE AS and... THE FLIPNOTE IS IN YOUR COMPUTER !!!!
+
+
+Voila !
+KidpaddleetcieGlin
+
+
+For a another version of this tutorial, you can see this on DeviantArt:
+https://www.deviantart.com/kidpaddleetcie/art/How-download-a-Flipnote-in-mp4-on-Sudomemo-net-788221590 
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

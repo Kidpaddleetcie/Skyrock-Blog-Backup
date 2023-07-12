@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Synthèse Anglaise]TOUS LES TEMPS EN ANGLAIS !!! - Commentaires</title>
+  <description>Je sais que beaucoup de gens ont des problèmes avec la langue de 
+William Shakespeare,je vous propose une synthèse à télécharger!
+
+
+http://www.4shared.com/file/4S4wJINIba/Tous_les_temps_en_anglais.html
+
+
+Vous voulez peut-être l&#039;aperçus avant de télécharger? Le voici:
+ 
+
+ 
+Voici aussi une version textuelle:
+==========================================================================
+LE PRÉSENT
+
+Present simple ( Sujet + Verbe ) :
+Action qui arrive régulièrement.
+ 
+Present continuous (Sujet + am/are/&#039;s + verbe-ing):
+Action qui arrive en ce moment, est en train d&#039;arriver.
+ 
+LE PASSÉ 
+
+Past simple (Sujet + verbe-ed):
+Action passée et datée.
+ 
+Past continuous (Sujet+was+verbe-ing):
+Action d&#039;une certaine durée qui s&#039;est passée.
+ 
+Present perfect (Sujet+ have/had +verbe-ed):
+Action qui vient de se produire à l&#039;instant.
+ 
+Present perfect continuous (Sujet+have/had+been+verbe-ing):
+Action qui a commencé dans le passé et qui continue dans le présent.
+ 
+Past perfect (Sujet+have/had+verbe-ed):
+Les 2 actions sont liées,l&#039;une finissant quand l&#039;autre commence.
+ 
+Past perfect continuous (Sujet+have/had+been+verbe-ing):
+Les 2 actions sont liées,l&#039;une finissant quand l&#039;autre commence pendant une certaine durée.
+ 
+LE FUTUR OU L&#039;HABITUDE
+ 
+Will future (Sujet + will +verbe):
+C&#039;est une prédiction, il se peut que l&#039;action soit réalisée.
+ 
+Going to future (Sujet+am/are/is+going+verbe):
+C&#039;est un projet, c&#039;est partit pour le faire.
+ 
+Future continuous (Sujet + will + be + verbe-ing ):
+Action future et habituelle.
+ 
+Future perfect (Sujet + will + have/had +verbe-ed ):
+Action accomplie d&#039;ici demain.
+ 
+LES CONDITIONNELS ( en gros, c&#039;est pour parler de probabilité)
+
+Conditional simple (Sujet + would + verbe):
+Action probable.
+ 
+Conditional continuous (Sujet + would+ verbe-ing):
+Action probable en insistant sur la durée.
+ 
+Conditional perfect ( Sujet + would + have/had + verbe-ed):
+Action future avec notion de probabilité.
+ 
+Conditional perfect continuous (Sujet + would + have/had + been +verbe-ing):
+Action future avec notion de probabilité en insistant sur la durée.
+ 
+
+ ==========================================================================
+
+Sachez qu&#039;il y a aussi cette page d&#039;anglaisfacile.com pour avoir encore plus de précision dans une synthèse et de petits exercices : https://www.anglaisfacile.com/exercices/exercice-anglais-2/exercice-anglais-2876.php </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

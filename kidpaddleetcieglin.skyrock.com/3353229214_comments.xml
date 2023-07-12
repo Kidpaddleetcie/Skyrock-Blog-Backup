@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Comment ? ] Un épisode de &quot;Joueur du Grenier&quot; est produit ! - Commentaires</title>
+  <description>À l&#039;aide de Web Archive et du site web &quot;joueurdugrenier.fr&quot; qui a disparu après la vidéo sur Mission Impossible, j&#039;ai pût récupérer les 6 étapes de production d&#039;un épisode de Joueur du Grenier comme écrit sur le site web. 
+ 
+Phase de test
+On sort les consoles, les manettes, on s&#039;énerve, on rigole, on pleure et on devient fou.
+ 
+Phase d&#039;écriture
+On essaye difficilement de transformer les conneries, délires et autres crises de nerfs en un script à peu près potable.
+ 
+Phase de tournage
+On prend la caméra et on filme toutes les parties où on me voit apparaître en vrai ! Ainsi que les plans sur fond vert pour effets spéciaux.
+ 
+Phase de montage
+C&#039;est le boulot de Fred ! Montage de la vidéo dans sa longueur, modification de la vidéo si nécessaire. Bref, je bosse sur ce que vous verrez !
+
+Phase de Post-production
+C&#039;est le boulot de Seb ! Travail sur tous les effets spéciaux de la vidéo, tout ce qui a été tourné sur fond vert c&#039;est pour sa pomme !
+
+Phase d&#039;assemblage
+On compile les effets spéciaux de Seb avec le montage de Fred, on emboîte les deux pour faire la vidéo finale !
+ 
+ 
+Bien sur, le crédit reviens à Joueur du Grenier :
+ 
+La chaîne YouTube : https://www.youtube.com/@joueurdugrenier/videos
+Le Twitter : https://twitter.com/Frederic_Molas
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

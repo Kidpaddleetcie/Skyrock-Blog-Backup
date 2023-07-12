@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Refaire son logo en 3D rapidement ! - Commentaires</title>
+  <description>Lorsqu&#039;on veut faire des vidéos avec de la 3D pour des boites de production ou juste pour le plaisir, il arrive qu&#039;on veuille mettre un peu de profondeur à ce logo en 2D que vous avez fait sur Adobe Illustrator PARCE QUE FAIRE UN LOGO SUR PAINT N&#039;EST PAS PRATIQUE POUR LES UTILISATIONS SUR PLUSIEURS DIMENSIONS, IL Y A UNE PERTE DE QUALITÉ !
+ 
+Sachez que si vous exportez votre logo en .ai mais avec la compression &quot;Adobe Illustrator 2003&quot;, vous pouvez importer votre fichier dans 3DSmax !
+ 
+Sur 3DSmax, vous aurez juste les lignes (donc, pas les couleurs) de votre logo mais pas de panique, un logo n&#039;est pas censé avoir une dizaine de couleur non plus donc il faudra les rajouter à la main une fois que vous aurez vos surfaces !
+ 
+Pour un premier temps, analyser un peu toutes vos lignes et attacher ensemble les lignes qui représente des formes complexes ( le cercle dans le &quot;O&quot; par exemple pour éviter de devoir jouer avec deux surface pour faire le &quot;O&quot; ) et ainsi réduire drastiquement le nombre d&#039;objet à l&#039;intérieur du projet !
+ 
+Une fois les graphes attachés et donc les formes définies, il ne reste plus qu&#039;à faire sur l&#039;ensemble &quot;Convert to editable poly&quot; et jouer avec votre logo (rajouter les couleurs, faire les extensions, déformations) pour obtenir ce pourquoi vous avez suivit ce tutoriel !
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

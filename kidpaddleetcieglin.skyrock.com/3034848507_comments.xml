@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> On s&#039;en souviendra toujours de ce clip ^^ !   Priscilla - Mission Kim Possible - Commentaires</title>
+  <description>
+
+ 
+A Tokio,Paris,New York
+Quoi qu&#039;il arrive je l&#039;emporte
+Rien ne stoppe ici bas
+KIM POSSIBLE
+Mes missions j&#039;les mènent à bout
+Dans le plus grands secret
+Quand le monde est en danger
+Je fais toujours face aux problèmes
+Je contrôle
+C&#039;est pour ça qu&#039;on m&#039;appelle 
+Kim Possible.
+
+Refrain:
+Compris ? Saisis ? Quelque soit le défi
+Quand le bip retentit c&#039;est Ok
+T&#039;a juste à m&#039;appeller
+Je suis prête à décoller
+Je cours tous les risques à chaque fois
+Quelque soit le moment ou l&#039;endroit
+Je suis la seule qui peut t&#039;aider
+Compris? Saisis ? Quelque soit le défi.
+
+Ici Kim.Quelle est la mission?
+
+Mister Hide ou Dr. Jekil
+Je joue tous mes atouts
+Guerrière et fleur bleue à tour de rôle
+(C&#039;est Kim Possible)
+Etudiante l&#039;après midi
+Agent très spécial à minuit
+En élève très appliquée
+(et très impliquée)
+Je fait toujours face aux problèmes
+Je contrôle 
+C&#039;est pour ça qu&#039;on m&#039;appelle 
+
+Refrain:Compris ? Saisis ? Quelque soit le défi
+Quand le bip retentit c&#039;est ok 
+T&#039;as juste à m&#039;appeller 
+Je suis prête à décoller
+Je cours tous les risques à chaque fois 
+Quelque soit le moment ou l&#039;endroit
+Je suis la seule qui peut t&#039;aider
+Compris ? Saisis ? Quelque soit le défi
+(kim a tous saisi kim a la clé)
+
+Pour sauver la terre 
+Ou une vie humaine
+J&#039;en fais mon affaire
+Tout ça c&#039;est mon domaine
+Panthère de haut vol
+La meilleure de l&#039;école 
+Tu connais bien mon nom de code 
+KIM POSSIBLE
+
+
+Refrain:
+Compris ? Saisis ? Quelque soit le défi
+Quand le bip retentit c&#039;est Ok 
+T&#039;as juste à m&#039;appeller 
+Je suis prête à décoller
+Je cours tous les risques à chaque fois 
+Quelque soit le moment ou l&#039;endroit
+Je suis la seule qui peut... Je suis la seule qui peut t&#039;aider
+Compris ? Saisis ? Quelque soit le défi
+Quand le bip retentit c&#039;est ok 
+T&#039;as juste à m&#039;appeller 
+Je suis prête à décoller
+Je cours tous les risques à chaque fois 
+Quelque soit le moment ou l&#039;endroit
+Je suis la seule qui peut t&#039;aider
+Compris ? Saisis ? Quelque soit le défi.
+ 
+ 
+ 
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

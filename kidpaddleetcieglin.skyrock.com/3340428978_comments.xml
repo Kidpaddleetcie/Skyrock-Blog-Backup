@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Infos ] Dungeon Keeper de 1997 - Commentaires</title>
+  <description>J&#039;ai pût me procurer le manuel du jeu et le dézipper avec WinZip ( parce que c&#039;est une extension .7z et WinRar n&#039;a pas cette extension en stock ) :  https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=964&amp;fic=liens
+ 
+Vous pouvez le télécharger en .pdf ici : https://www.4shared.com/s/fD85H4TA3iq
+
+
+ 
+En faisant des recherches sur le jeu, je ne trouvais pas certaines informations françaises donc je vais les inscrire ici !
+ 
+Le doubleur principale du jeu ( le conseiller/ Narrateur ) est Pierre Prévost mais il partage le travail avec Denis Savignat.
+ 
+Dans les pensées des créatures, ils peuvent avoir différents états:
+- Quartier Général : La créature rejoint un groupe d&#039;autres créatures dans la salle prévue à cet effet
+ 
+- Bataille : La créature se rend à ou engage un combat
+ 
+- Ralliement : La créature se rend au point de ralliement qu&#039;on a placé
+ 
+- Fuite : La créature court pour sa vie
+ 
+- Garde : La créature est à un poste de garde et il y restera pour faire le guet
+ 
+- Antre : La créature va faire dodo
+ 
+- Faim : La créature va se faire deux-trois poulets
+ 
+- Départ : La créature va bien se faire foutre en quittant votre donjon
+ 
+- Prison : La créature est en taule
+ 
+- Psychopathe : Le grand cornu est affamé donc il détruit TOUT sur son passage
+ 
+- Recherches : La créature bouquine dans l&#039;espoir de faire une découverte
+ 
+- Convertie/ En train de se faire convertir : La créature tente de persuader une créature ennemi de rejoindre son camps dans la salle d&#039;enrôlement
+ 
+- Sommeil : La créature dort ( ça arrive donc après l&#039;état &quot;Antre&quot; )
+ 
+- Bouderie : La créature est contrarié et peut potentiellement passé à l&#039;état &quot;Départ&quot; 
+ 
+- Torture : La créature se fait torturer
+ 
+- Entrainement : La créature s&#039;entraine
+ 
+- Gages : La créature se rend dans la salle du trésor pour collecter son salaire
+ 
+- Atelier : La créature fabrique des objets dans l&#039;atelier
+ 
+ 
+ 
+ Les héros sont assez différents les uns des autres:
+ 
+- Piocheur : C&#039;est un héro qui peut creuser comme les Lutins... d&#039;ailleurs il a la même caractéristique de ne pas faire énormément de dégâts.
+ 
+- Voleur : Il sait voler l&#039;or
+ 
+- Archer : Un des plus difficile à approcher à cause de sa longue portée
+ 
+- Nain : Non seulement il est bon en combat rapproché mais il vole l&#039;or aussi
+ 
+- Barbare : Redoutable au corps-à-corps
+ 
+- Mage : Ils attaquent à distance, se soignent et peuvent se battre entre eux
+ 
+- Sorcière : Même chose qu&#039;un mage sauf qu&#039;elles ont peur des vampires
+ 
+- Géant : Lent mais très bon au corps-à-corps
+ 
+- Samouraï : Rapide et très bon au corps-à-corps
+ 
+- Moine : Soigne tout les héros dont lui et il est bon combattant
+ 
+- Fée : Fais très mal mais a peu de points de vie et une faible cadence de tir
+ 
+- Grand seigneur : Très très bon au combat rapproché, le Grand Cornu et lui s&#039;attirent mutuellement pour se battre à mort
+ 
+- Avatar : Même pouvoir que nous, le gardien, sauf qu&#039;il apparait physiquement avec des pouvoirs de mages
+ 
+ 
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

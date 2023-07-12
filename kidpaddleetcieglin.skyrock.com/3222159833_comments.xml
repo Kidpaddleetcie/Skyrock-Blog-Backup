@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment]Créer son poney avec le style &quot;My Little Pony&quot;! - Commentaires</title>
+  <description>ATTENTION, MISE À JOUR JUILLET 2021 Adobe Flash ne fonctionnant plus, de nouveaux logiciels doivent être créé ! Pour l&#039;instant, renseignez-vous pour télécharger et exécuter les applications en Flash sur votre PC : https://www.justgeek.fr/ruffle-emulateur-flash-player-73588/ 
+
+Voici le site:http://www.dolldivine.com/mlp-fim-pony-creator.php
+ 
+Vous n&#039;aurez besoin que de votre imagination et votre curiosité!
+ 
+Voici le mien:
+
+ 
+Sinon, le site officiel de My Little Pony vous offre aussi un générateur qui fonctionne étape par étape mais c&#039;est BEAUCOUP plus limité! https://create.mylittlepony.movie/
+ 
+Sinon, il y a la version 3D: http://ponylumen.net/games/3d-pony-creator/
+
+ 
+C&#039;est creepy mais c&#039;est encore plus complet même si on s&#039;est éloigné de la 2D en profondeur... hé hé hé!
+ 
+ 
+ En beaucoup plus simpliste mais intuitif (et il y a une aide intégrée) vous pouvez utiliser ce flash game de DeviantArt: https://www.deviantart.com/generalzoi/art/Pony-Creator-v3-545889253 </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20638504428" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20638233462" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20637231202" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20637170984" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20553321264" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20553291376" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-19929378924" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20638504428">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20638504428</link>
+		<dc:date>2022-08-29T22:04:33+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Adobe Flash Player n&#039;est plus disponible sur les navigateurs web !</description>
+		<content:encoded><![CDATA[
+			Adobe Flash Player n&#039;est plus disponible sur les navigateurs web !
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20638233462">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20638233462</link>
+		<dc:date>2022-08-28T19:20:08+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>salut ca ne marche pasquelquun peu  m&#039;explique?</description>
+		<content:encoded><![CDATA[
+			salut ca ne marche pasquelquun peu  m&#039;explique?
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20637231202">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20637231202</link>
+		<dc:date>2022-08-23T21:06:35+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Salut !</description>
+		<content:encoded><![CDATA[
+			Salut !
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20637170984">
+		<title>Commentaire de Océ</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20637170984</link>
+		<dc:date>2022-08-23T16:49:44+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Océ</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Salut 
+</description>
+		<content:encoded><![CDATA[
+			Salut <br />
+
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20553321264">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20553321264</link>
+		<dc:date>2021-07-13T15:52:30+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Adobe Flash Player n&#039;est plus !</description>
+		<content:encoded><![CDATA[
+			Adobe Flash Player n&#039;est plus !
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20553291376">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-20553291376</link>
+		<dc:date>2021-07-13T13:15:29+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>J&#039;imagine que j&#039;arrive trop tard vu que aucun de ses liens ne marchent
+</description>
+		<content:encoded><![CDATA[
+			J&#039;imagine que j&#039;arrive trop tard vu que aucun de ses liens ne marchent<br />
+
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-19929378924">
+		<title>Commentaire de Luna</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3222159833_comment_1.html#c-19929378924</link>
+		<dc:date>2016-11-12T14:20:03+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Luna</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>ce jeu est cool</description>
+		<content:encoded><![CDATA[
+			ce jeu est cool
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Jeu-vidéo]E.T.&#8482; L&#039;Extra-Terrestre-L&#039;aventure pour les petits(PC 2002) - Commentaires</title>
+  <description>Mon let&#039;s play intégral:
+
+ 
+Le CD
+ 
+ 
+
+ 
+
+
+
+
+
+Le mode d&#039;emplois
+
+Cliquer sur ce lien provenant de Twitter pour avoir l&#039;image dans une qualité suffisamment grande pour faire un bon zoom qui vous permettra de consulter l&#039;intégralité du texte se trouvant sur cette image!
+
+
+ 
+PS: J&#039;ai le boitier et je l&#039;ai obtenu à l&#039;époque grâce à la maison d&#039;édition PANINI de Belgique!
+ 
+PS+: Le jeu fonctionne bien sur Windows10 excepté pour les cinématiques (vidéos) sauf pour les rendus in-game! 
+ 
+PS++ : Le jeu nous prends tellement par la main qu&#039;il fait tout le temps parler ses 3 personnages qui sont Eliott,Gertie et E.T.!
+ 
+PS+++: E.T. réagit en fonction de l&#039;échec,de la réussite et de l&#039;interaction apportant un changement de direction à un objet ET IL FAIT PEUR À CHAQUE FOIS snif snif snif !!!!!!
+ 
+PS++++:Le jeu est très facile si vous êtes adulte...je m&#039;en suis rendu compte 15 ans après ma première fois avec ce jeu...donc, pas besoin de se remémorer grand chose ou d&#039;avoir des réflexes de fou furieux pour ce jeu!
+ 
+
+KidpaddleetcieGlin
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3307807730_comment_1.html#c-20419855278" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3307807730_comment_1.html#c-20419687386" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3307807730_comment_1.html#c-20419855278">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3307807730_comment_1.html#c-20419855278</link>
+		<dc:date>2020-04-29T19:40:36+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Malheureusement, avec la perte de la chaîne &quot;Kidpaddleetcie&quot;, j&#039;ai perdu mes vidéos et donc les screens possibles du jeu :/</description>
+		<content:encoded><![CDATA[
+			Malheureusement, avec la perte de la chaîne &quot;Kidpaddleetcie&quot;, j&#039;ai perdu mes vidéos et donc les screens possibles du jeu :/
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3307807730_comment_1.html#c-20419687386">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3307807730_comment_1.html#c-20419687386</link>
+		<dc:date>2020-04-29T16:00:42+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Hello Tu as des screen du jeux, ou le lien de ton let&#039;s play PV. Je croit que c&#039;est un jeux que je cherche depuis Loooooooontemps</description>
+		<content:encoded><![CDATA[
+			Hello Tu as des screen du jeux, ou le lien de ton let&#039;s play PV. Je croit que c&#039;est un jeux que je cherche depuis Loooooooontemps
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

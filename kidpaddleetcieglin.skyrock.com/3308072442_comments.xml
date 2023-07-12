@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Ouvrir et éditer n&#039;importe quel fichier! - Commentaires</title>
+  <description>
+En recherchant un moyen d&#039;ouvrir un fichier .ai fait sur une version plus récente de Adobe Illustrator, j&#039;ai trouvé un site https://rollmyfile.com/ !
+ 
+En gros, c&#039;est un site qui permet d&#039;ouvrir, éditer et exporter des fichiers de votre PC à Dropbox,Google Drive et autre plateforme d&#039;enregistrement de fichier en ligne!
+ 
+Ce qui est bien c&#039;est que la fenêtre d&#039;édition est un logiciel complet entre Photoshop pour l&#039;interface et les outils proposés et PaintDotNet pour les rendus et les autres outils qui ont la même importance que des plugins (en tout cas, quand on ouvre un fichier image ou un fichier projet d&#039;Illustrator)
+ 
+Le seul truc un peu nul du site est qu&#039;il utilise une fenêtre pop-up au lieu de directement ouvrir un nouvel onglet!
+ 
+Voila,c&#039;est important comme site quand on travail sur plusieurs logiciels demandant à chacun un type de fichier différent!
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

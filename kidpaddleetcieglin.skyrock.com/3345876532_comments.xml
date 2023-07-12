@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide Gestion ] Les différents types de comptabilités - Commentaires</title>
+  <description>
+image provenant de : https://www.facebook.com/100424944689726/photos/a.102066011192286/170966017635618/
+ 
+Ils existes 3 types de comptabilités :
+ 
+La comptabilité générale ( l&#039;obligatoire ), la comptabilité analytique ( pas obligatoire ) et la comptabilité budgétaire ( pas obligatoire non plus )
+ 
+Dans mes notes, nous ne verront QUE la comptabilité générale mais on peut parler des 2 autres.
+ 
+La comptabilité analytique : 
+Elle n&#039;est plus comparable, elle n&#039;est pas obligatoire.
+Il y a les destination ( elle répond à &quot;pour qui&quot; et &quot;pourquoi&quot; ).
+Elle reste une comptabilité qui donne que des faits passés.
+ 
+CE N&#039;EST PAS UN OUTIL MANAGARIALE 
+ 
+ 
+La comptabilité budgétaire :
+ 
+Elle se base sur un calendrier.
+ 
+Étape 1 : Le pré-budget
+Fait 4 mois avant le début de l&#039;année
+=&gt; On prévoit mois par mois l&#039;activité de l&#039;entreprise : L&#039;ensemble des dépenses et des recettes que l&#039;activité nécessite. ( On appelle ça le travail de &quot;pré-budget&quot; )
+Elle donne des prévisions. C&#039;est un outil de gestion et donc de management.
+ 
+Étape 2 : le budget
+Une fois le pré-budget effectué, on y met deux colonnes :
+- Le budget
+- Une colonne vierge ( C&#039;est le budget )
+La colonne budget sera rempli en fonction des réalités ( nouvelles données ) économiques à jours au bout des 4 mois.
+ 
+C&#039;est la meilleure prévision qu&#039;on puisse faire vu qu&#039;on est beaucoup plus proche du début d&#039;année.
+ 
+Étape 3 : Première révision du budget
+ 
+Sur le premier trimestre, on ne prend en copte que ce qui s&#039;est passé et on reprogramme d&#039;avril à décembre le budget ( donc la révision ).
+ 
+Étape 4 : Deuxième et dernière révision du budget
+ 
+En Août, on refait une révision pour le restant de l&#039;année.
+Ça deviendra le pré-budget de l&#039;année prochaine.
+ 
+ 
+DONC JE RÉSUME SUR UN AN :
+ 
+Septembre A : Pré-budget ( étape 1 )
+Décembre A : Budget ( étape 2 )
+Mars A+1 : Révision 1 ( étape 3 )
+Août A+1 : Révision 2 ( étape 4 )
+ 
+ 
+ 
+Infos et sources:  
+http://finances-budget.brussels/difference-entre-comptabilite-budgetaire-et-comptabilite-generale
+https://1819.brussels/infotheque/assurances-fiscalite-comptabilite/independant-entrepreneur-tout-savoir-sur-la
+https://www.legalplace.fr/guides/comptabilite-budgetaire/</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

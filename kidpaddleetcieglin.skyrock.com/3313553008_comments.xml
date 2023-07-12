@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Avis2Glin]La MaJ de Juin 2018 sur YouTube - Commentaires</title>
+  <description>
+
+
+
+Soyons sérieux, cette mise à jour arrive juste après la grosse vague de contenu hyper-pourris sur YouTube comme les vidéos réactions, les vidéos où on utilise les enfants,les vidéos volées et les pranks!
+ 
+Avec la lois pour limiter l&#039;internet aux moins de 16 ans, YouTube prends juste en compte le fait que la majorité du public est mineur et très influençable (en faîtes, ils le savaient déjà mais rien de dangereux pour eux ne les froissait suffisamment pour mettre une opposition à l&#039;emplois d&#039;enfant pour faire des vues). L&#039;&quot;influence&quot; est le mot le plus mis en avant depuis que les médias ont commencer à mettre les YouTubeurs en avant bien plus régulièrement que les autres années...et puis, il y a aussi l&#039;accumulation de leurs présences à la TV,à la radio et dans les produits dérivés (livres, CDs, pochettes, cartables,...) qui fait qu&#039;on les prennent VRAIMENT pour des célébrités hollywoodiennes.
+ 
+Une star d&#039;Hollywood ne peut pas avoir un avis qui va à l&#039;encontre de la bien-pensance de ses sponsors/publics et,de ce fait, des limites lui sont attribués pour éviter toutes fuites...est-ce que vous voyez où je veux en venir?
+ 
+Les YouTubeurs ont voulus être des stars, c&#039;est chose faîtes et ils peuvent bien pleurer maintenant que la lois pour les mineurs est passée et que YouTube s&#039;est adapté!
+ 
+Vous n&#039;auriez jamais dû sortir de votre chambre pour remplacer la TV...vous subirez les mêmes normes maintenant et vous appartiendrez à vos sociétés de production que vous appelez &quot;Network&quot;!
+ 
+ 
+Y-a-t&#039;il un moyen de sortir de ce mauvais pas? Laissez aux consommateurs le temps de s&#039;habituer et de se lasser pour qu&#039;ils puissent s&#039;emmerder et trouver une solution qui permettra de palier à cette perte d&#039;un espace de liberté où la culture et l&#039;humour a pût proliférer sans échange matérielle.
+ 
+Peut-être qu&#039;un jour...nous serons tous des pirates en soif de savoir pour prévoir les coups de chaque institution prônant la sécurité et empiétant sur la liberté...ou pas, on créera un réseau fermé sous le manteau et on partagera des clés USB pour s&#039;échanger des vidéos, des musiques, des photos, des modèles 3D,... le vide devra être remplit,c&#039;est les lois naturelles ma bonne dame!
+ 
+Glin Kidpaddleetcie
+
+(Pour en savoir d&#039;avantage sur les droits d&#039;auteur sur YouTube: https://creatoracademy.youtube.com/page/lesson/copyright-usage?cid=copyright&amp;hl=fr ) </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [PUB]Musiquedepub.tv - Commentaires</title>
+  <description>N&#039;avez-vous jamais voulu retrouver le nom de la musique qu&#039;on a lier à un produit que vous ne pourrez jamais consommer à cause de la crise?
+N&#039;avez-vous jamais voulu faire des parodies de PUB?
+Emmerder vos contemporains avec des musiques de PUB ayant un gimmick tellement simple qu&#039;ils rentrent dans la tête et empêchent les victimes de se concentrer pendant plus de 24h? 
+ 
+Voici le lien vers ce site:http://www.musiquedepub.tv/
+ 
+Le gros bon point avec ce site est qu&#039;il a un moteur de recherche et que les résultats sont souvent très complets!
+ 
+Pour ma part, j&#039;ai tapé &quot;Nintendo&quot; et j&#039;ai obtenu ces résultats: http://www.musiquedepub.tv/recherche/Nintendo
+
+ 
+Vous remarquerez qu&#039;une description de la publicité est légendé afin d&#039;encore mieux s&#039;y retrouver.
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

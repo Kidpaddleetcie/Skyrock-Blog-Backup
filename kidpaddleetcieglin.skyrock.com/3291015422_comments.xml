@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Techniques de reproduction et de transmission des images]Les 5 systèmes de couleurs principaux - Commentaires</title>
+  <description>Il y a 5 systèmes de couleurs principaux:
+ 
+RVB/RGB =&gt; Ecran/C&#8217;est le format de capture. (Synthèse additive)
+C&#8217;est 3 photophores (Rouge Vert Bleu) combiné qui vont selon leur intensité créée d&#8217;autres couleurs.
+
+ 
+ 
+ 
+ 
+ 
+CMJN/CMYK=&gt; Pigment/C&#8217;est le format d&#8217;impression (Quadrichromie-Synthèse soustractive)
+
+C&#8217;est 4 pigments (Cyan, Magenta, Jaune et Noire) combiné qui vont selon leur intensité créée d&#8217;autres couleurs.
+ 
+ 
+ 
+Tons Direct =&gt; Solide/C&#8217;est une alternative pour l&#8217;impression
+Quadrichromie =&gt; À l&#8217;écran, c&#8217;est toujours un peu plus clair que les tons directs au format papier !
+(Pantone est la marque ayant créé le nuancier PMS, le nuancier le plus complet du monde)
+Hexachromie =&gt; Plus chère que les autres systèmes, sa qualité est bien plus grande que les autres !
+
+
+
+
+
+
+
+
+
+TSL/HSL =&gt; C&#8217;est un modèle tridimensionnel perceptuel qui utilise la teinte, la luminosité et la saturation. Il est imparfait
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+LAB =&gt; C&#8217;est l&#8217;évolution du TSL/HSL qui se rapproche beaucoup plus de la perception humaine.
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

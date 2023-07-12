@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Dead On YouTube]StateAlchemist: Suppression de la série abrégée &quot;Les chevaliers du zodiaque&quot; et des Marvels Comiques! - Commentaires</title>
+  <description>
+CDZA: https://www.youtube.com/channel/UCkk6lEIsfz2q-y13tsaOCeA
+ 
+Marvel Comique: https://www.youtube.com/channel/UCGprtO4bU3WYiYA9rZG3GUA
+ 
+Sur YouTube depuis plus de 5 ans et grand homme à l&#039;origine des séries abrégés dans le monde francophone, State Alchemist aura été un homme aux plusieurs voix et talents autant au niveau du détournement graphique et de l&#039;écriture!
+ 
+Son humour très référencé ayant fait sa légende restera dans la mémoire de ses gens qui l&#039;ont admirer pendant toutes années avec patience car le contenu n&#039;était pas régulier et était très énergivore et chronophage pour l&#039;auteur!
+ 
+Il aura collaboré avec le Joueur Du Grenier et permis de créé des passions à pleins de gens autour de Saint Seiya et des licences de Marvel!
+ 
+C&#039;est dur de voir les pages de chaîne YouTube supprimées pour cause de droit d&#039;auteur car le talent, la finesse et la passion ne font pas le poids fasses à l&#039;argent et la malhonnêteté intellectuelle!
+ 
+N&#039;ayant pas voulu créer de Twitter, ni de Facebook ni de nouvelle chaîne YouTube, un fan s&#039;est chargé de reposter en qualité de merde les épisodes des &quot;Chevaliers Du Zodiaque, la série abrégé&quot;: https://www.youtube.com/channel/UCAJZ1btzAXjMcq7XMM1Qccw
+ 
+Le dailymotion officiel ne contient aucune vidéo alors qu&#039;il  y a un lien vers le blog officiel : http://www.dailymotion.com/CDZAOfficiel
+
+ 
+Senscritique.com a plein de témoignage au sujet de la série abrégé:
+
+C&#039;était un peu une des séries faisant partie de notre patrimoine et qui aura bercé notre jeunesse de 2009 au 26 Avril 2014 ! VOILA!
+ 
+
+ 
+ Comme d&#039;habitude, honte aux patrons et fuck copyrights ! Espérons que le phénix renaît de ses cendres!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

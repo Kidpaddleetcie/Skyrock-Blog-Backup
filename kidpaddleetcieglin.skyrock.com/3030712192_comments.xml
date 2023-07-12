@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Mes testeurs - Commentaires</title>
+  <description>1.villou87
+
+ 
+2.joueurdugrenier
+
+ 
+3.Hooper
+ 
+4.MrMeeea
+ 
+5.RealMyope
+ 
+(les chiffres à cotés de chaque sont inutiles car ils sont  très différents)
+ 
+ 
+Qui est Villou87?
+ 
+Un testeur qui touche à tout,il est autant Hooper que Méa!
+ 
+Qui est le Joueur Du Grenier?
+
+
+Un Retro-Gamer qui teste des jeux merdique et fait des hors-série sur les dessins-animés!
+ 
+Qui est Hooper?
+ 
+C&#039;est...Dieu...on a jamais vue son visage...à part en MII dans la review de Pilotwings sur 3DS!
+ 
+C&#039;est le premier testeur des 5!
+
+
+Bon...c&#039;est le 9 novembre 2016, dans son &quot;putain 10 ans&quot; qu&#039;il montre pour la toute première fois son visage!
+(Un vrai papa ours!)
+ 
+ 
+Qui est MrMeeea!
+ 
+Un Retro-Gamer qui teste des jeux de toute sorte:les merdiques,
+les légendaires,...!
+
+ 
+Je trouve qu&#039;il s&#039;est inspirer de Villou87 qui est plus vieux de 2 ans par rapport à lui!
+ 
+ 
+Qui est RealMyope?
+ 
+Un Retro-Gamer (comme ont a l&#039;habitude avec moi) qui fait la présentation de SpeedRun (dans l&#039;émission &quot;88 Milles à l&#039;heure&quot; et plus tard dans &quot;Speed-Game&quot;)!
+ 
+Ce n&#039;est pas vraiment un testeur mais un joueur expert dans ce qui est du &quot;trouvaille de glitches,astuces et idées d&#039;illustration&quot;!
+ 
+ 
+ 
+ 
+Voila
+ 
+C&#039;étais KidpaddleetcieGlin qui prévoit aussi,un jour,à être un testeur même si ça fait 10 ans en 2017 qu&#039;il se le dit! </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ANA JDG] Les chevaliers du zodiaque : La Légende d&#039;Or  -  NES (2/4) - Commentaires</title>
+  <description>
+Texte de l&#039;analyse
+ 
+== 4. Le visage de Seiya en mode action/déplacement est inexistant ==
+
+Il n&#039;a pas de visage, mais on n&#039;a pas non plus besoin de le voir en combat.
+
+
+== 5. Le système de combat au tour par tour est incompréhensible ==
+
+En faîtes, il faut consulter le livret du jeu pour savoir comment il se joue à cause des initiales de chaque paramètre.
+
+- On a en tout 6 caractéristiques dans les phases de combat qu&#039;on peut améliorer avec les points d&#039;expériences dans le menu SELECT dans Données.
+
+Les points de Cosmos servent à attaquer ou se défendre, assez similaire à Pokémon, il limite les actions en étant une donnée consommable. On peut en récupérer en parlant aux gens ou sacrifiant de la vie... comme dans l&#039;animée.
+
+Les points nommés &quot;points&quot; servent de points de vie. Dans la version originale on appelait cette donnée &quot;damage&quot; donc c&#039;est un peu plus compréhensible en français même si &quot;P.V.&quot; aurait été plus clair ou même juste &quot;vie&quot; qui est un mot plus court que &quot;points&quot;. On peut aller jusqu&#039;à 20 points de vie de base et si on tombe à zéro, on est téléporté à l&#039;hôpital dans le même état qu&#039;avant le combat, comme une savestate.
+
+Pour les 4 autres caractéristiques en combat sont divisibles en deux catégories :
+Les 2 attributs offensifs, PO signifiant &quot;Pouvoir Offensif&quot; et PA signifiant &quot;Puissance de l&#039;Action&quot; et les 2 attributs défensifs, PD signifiant &quot;Point défensif&quot; et PC signifiant &quot;Point de concentration&quot;. Chacun de ces attributs peut être doser en Cosmos de 10 crans chacun.
+
+Si vous désirez attaquer, vous devez charger le PO pour doser la puissance de l&#039;attaque. PA sert à gérer la priorité pour avoir votre tour en premier.
+
+Si vous désirez vous défendre, vous devez charger PD pour doser le nombre à soustraire aux dégâts de l&#039;adversaire. PC sert à gérer la fonctionnalité de la parole permettant de demander à l&#039;adversaire de révéler ses points de vie et ses points de Cosmos actuels.
+
+Comme dans Pokémon, tout les ennemis que nous croiseront auront des statistiques définies en combat mais il y a encore 3 caractéristiques qu&#039;on ne peut pas amélioré en plein combat :
+
+V.A. pour &quot;Vitesse de l&#039;Attaque&quot;, P.S. pour &quot;Puissance du Saut&quot; et F.A. pour &quot;Force de l&#039;Armure&quot;.
+
+VA et PS n&#039;ont pas vraiment de répercussion dans les combats au tour par tour mais une fois en mode Beat&#039;Em&#039;All, c&#039;est ce qui peut faire passer notre jeu tout lent en jeu bien plus rapide et rendre les phases de plateforme bien moins chiants.
+
+D&#039;ailleurs, n&#039;oubliez pas de mettre l&#039;amure avant les combats pour diminuer les dégâts de vos adversaires ou mettez l&#039;armure en mode Beat&#039;Em&#039;All pour obtenir un boost de vitesse et de saut.
+
+Les niveaux qu&#039;on donne à nos caractéristiques sont des multiplicateurs. Ainsi, un cran peut avoir la même dose de Cosmos mais pas la même efficacité. Même prix mais qualité supérieur.
+
+
+== 6. L&#039;ennuie de la partie RPG ==
+
+Il est vrai que le jeu peut être ennuyeux avec ses aller-retour.
+On revient 3 fois dans le manoir Kido, 4 fois au Colisée, on doit se promener en ville 2 fois puis aller au Mont Fudji pour se taper pleins de grottes. Chaque fois qu&#039;on perd, qu&#039;on rencontre un personnage ou qu&#039;on appuie sur SELECT, on a une boite de dialogue. Le jeu est très bavard et répétitif, ça le rend barbant quand on n&#039;a pas les joies d&#039;un émulateur qui accélère le jeu.
+
+Si on pouvait juste avoir des dialogues plus rapides et des musiques supplémentaires, ça aurait été un peu moins ennuyant.
+
+Fred, par le biais de Seb qui a joué au jeu, met également en avant que les ennemis qui apparaissent qui nous sont aussi complices pour accumuler de l&#039;ennuie. Personnellement, je trouve que c&#039;est pinailler car ces ennemis tuables lors des phases de Beat&#039;Em&#039;All servent à récupérer des points d&#039;expérience à l&#039;infinie comme pour les ennemis dans les Metroids qui sont faciles à vaincre en boucle.
+
+Par contre, oui, l&#039;existence de ces ennemis à vaincre en boucle est une preuve que le jeu propose du levelling. Un ennemi vaincu rapporte 1 point d&#039;expérience et il en faut 5 pour améliorer une première fois une caractéristique. On peut donc y passer des heures pour avoir un Seiyar qui va vaincre des Chevaliers d&#039;Or en 1 coup.
+
+
+
+
+
+Sources de l&#039;analyse
+&#128073;&quot;Saint Seiya - Episode 1 (VF) | ADN&quot; : https://www.youtube.com/watch?v=F0mNI6k5acI&amp;ab_channel=ADN-AnimationDigitalNetwork
+&#128073; Le livret du jeu : http://www.jenesuis.net/fichiers/manuels/nes/pdf/Chevaliers%20du%20zodiaque.pdf
+&#128073; &quot;Saint Seiya 1 La legende dOr : La soluce (Partie 1)&quot; : https://www.jeuxmangas.com/soluces-et-astuces/36-saint-seiya-1-la-legende-dor-la-soluce-partie-1
+&#128073; &quot;Les Chevaliers du Zodiaque La Légende d&#039;or (Mission Complète) NINTENDO NES&quot;: https://www.youtube.com/watch?v=cSfZE70fecU&amp;ab_channel=AiorosGaming%26Nostalgie
+&#128073; &quot;Les Chevaliers du Zodiaque - La légende d&#039;Or (NES)&quot; : https://mangamugen.forumactif.com/t103p15-les-chevaliers-du-zodiaque-la-legende-d-or-nes
+&#128073;&quot;How to play and finish Soluce Saint Seiya Chevaliers Du Zodiaque Nes La Legende D&#039;Or Part. 1&quot; de  @DrSakenomi  : https://www.youtube.com/watch?v=xjwQML1wpMs&amp;ab_channel=DrSakenomi
+ 
+ 
+ 
+https://discord.gg/2pbTe7uSWg
+
+
+
+&#128072;La partie d&#039;avant                                                                        La Suite&#128073; 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

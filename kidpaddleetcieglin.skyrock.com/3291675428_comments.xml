@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Techniques de reproduction et de transmission des images]Les procédés d&#039;impressions - Commentaires</title>
+  <description>De la peinture sur les parois des grottes afin de parler de la chasse à la gravure
+(écriture cunéiforme) sur argile (-3500 avant J.C.) ne servant qu&#039;à des activités économiques (héritage, bilan de récolte,...) en passant par les hiéroglyphes égyptiens
+(de -4000 au 4ème siècle) composé de 9000 signes composés de trois formes de signes (Phonétique, déterminatif et mot), les Mayas
+(Vers -2 600 à 1 520 après J.C) auront aussi leurs hiéroglyphes avec leurs propres alphabets, après ce fût l&#039;ère du Cyperus papyrus
+(de 3500 avant J.C. jusqu&#039;à le 12ème siècle). 
+Le plus ancien alphabet est phénicien (en - 1 400) en Syrie.
+L&#039;alphabet latin (en - 300) arrive après s&#039;être inspiré de l&#039;alphabet truste qui est lui-même inspiré l&#039;alphabet grec, l&#039;alphabet latin passera de 20 (latin archaïque) à 23 lettres
+au premier siècle après J.C
+(on rajoutera le G, le Y et le Z) et on passera à 26 lettres (latin moderne), il manquait donc le U (apparait au 12ème/13ème siècle), le W (14ème /15ème siècle) et
+le V (15ème / 16ème siècle).
+
+Les moines copistes auront la vie dure car après le 16ème siècle, les majuscules, les accents et les points de ponctuation arrivent. En l&#039;an 100, les chinois inventent le papier.
+Les chinois perdront en 751 lors d&#039;une bataille contre les arabes, les chinois perdent la recette du papier. Les arabes auront tôt fait de partager cette connaissance avec toute l&#039;Europe mais ce n&#039;est qu&#039;au 15ème siècle que le papier sera utilisé de manière universelle.
+C&#039;est en 1798 qu&#039;un français (Louis Nicolas Robert) invente le papier industriel.
+ 
+Entre 300 et 1 400, les chinois inventent la xylographie (un procédé de reproduction multiple d&#039;une image sur un support plan, papier ou tissu, en utilisant la technique de la gravure sur bois, ou xylogravure, comme empreinte pouvant être reproduite par impression, à meilleur prix que le travail réalisé à la main par des copistes.). Ils inventeront l&#039;imprimerie dans la ligné de cette technique mais ils s&#039;éloigneront du bois.
+ 
+C&#039;est au 15ème siècle que l&#039;Occident découvre la xylographie et permet de créer des ateliers privés qui vont remplacer les moines copistes qui ne suivent plus. Mais l&#039;alphabet latin ne permet pas d&#039;utiliser la xylographie à cause des petits traits à faire. Il a fallu attendre l&#039;allemand Johannes Gutenberg (1434) pour qu&#039;on grave dans le fer au lieu du bois. Il a gravé chaque lettre à la main dans une tige d&#039;acier, avec une feuille de letton qu&#039;il a frappé avec sa lettre, il a fait des creux de la forme des lettres (c&#039;est donc des moules) où il coulait un mélange (alliage) de plomb, de zinc et d&#039;antimoine afin de refaire ces lettres. Il placera ses lettres dans une casse afin de faire la différence entre minuscule et majuscule. Bien sûr, l&#039;encre ne sera pas aqueuse mais grasse qui sera appliqué par la presse
+(inspiré d&#039;une presse à raisin). L&#039;invention est surtout faîtes pour la typographie.
+ 
+ 
+En 1450, c&#039;est la Taille-Douce qui apparaît à Florence (procédés de gravure en creux sur une plaque de métal. Elle s&#039;oppose à la taille d&#039;épargne. Dans la première, l&#039;encre se dépose dans les creux, tandis que dans la seconde, l&#039;encre est appliquée en surface. L&#039;impression de la plaque de métal se fait sur une presse à taille-douce.). L&#039;invention est surtout faîtes pour l&#039;illustration. Le désavantage avec la pointe sèche (la gravure) est qu&#039;à force d&#039;être pressé, on perd énormément de qualité.
+On pensera plus tard à inventer l&#039;Eau-Forte qui est la même chose mais cette fois-ci on emplois un vernis et un acide afin de préserver la qualité et retirer les excédents. Les billets de banque et les timbres postes sont toujours imprimés avec cette méthode. L&#039;avantage de l&#039;Eau-Forte, par rapport à sa méthode d&#039;origine qui est la Taille-Douce, est sa conservation et donc sa non-perte de qualité.
+ 
+À Prague en 1796, Senefelder va mettre au point un procédé nommé Lithographie. C&#039;est un procédé qui demande une pierre calcaire polie (parfaitement plane) où nous allons dessiner avec un crayon gras en miroir gauche-droite. Il faudra enduire cette pierre de gomme arabique qui va réagir avec la pierre qui va créer du sel hydrophile, qui vont se retrouver là où on n&#039;a pas dessiné. Pour enlever, on aura besoin d&#039;essence de térébenthine car c&#039;est un dégraissant, le crayon gras s&#039;en va, le dessin s&#039;efface. Pour imprimer, il faut passer par un mouillage et après par un rouleau d&#039;encre. Il faudra mettre la pierre sous une presse lithographique où on va y poser un papier qui, pressé, sera mouillé et encrer.
+ 
+En 1885, à Baltimore (USA) Mergenthaler va inventer la linotype afin d&#039;améliorer le journal. C&#039;est une machine qui créer un alliage pour une ligne de caractère. C&#039;est donc le même principe que Gutenberg mais en plus rapide car un automatisme est créé et la présence du clavier. Par contre, on ne peut pas corriger une erreur de frappe, il faut recommencer sa ligne de texte.
+ 
+1887, Lanston invente la monotype qui est moins toxique que la linotype car il y a des vapeurs de plomb. C&#039;est la séparation entre la composition et la fondue. Les caractères seront créés individuellement ce qui permet de corriger les lettres défectueuses, les erreurs de frappe. Il est beaucoup plus rapide que la linotype grâce à sa séparation qui permet de passer une fois à la fondue contrairement à la linotype. Le clavier est d&#039;ailleurs plus riche au niveau des caractères. La monotype ne remplacera pas la linotype.
+ 
+Les procédés d&#039;impression
+Pendant 5 siècles, de 1450 jusqu&#039;au année 60, on a utilisé la typographie. Il y a trois formes de presses typographiques :
+- Celle à pédale (presse à platine) qui permet de garder les deux mains libres. C&#039;est plan contre plan.
+-Celle à cylindre. C&#039;est plan contre cylindre.
+-Celle à deux cylindres. C&#039;est cylindre contre cylindre. C&#039;est la presse rotative.
+ 
+On peut aussi parler d&#039;alimentation :
+-On pose la feuille
+-On utilise un rouleau de feuille
+
+
+La composition peut se faire deux manières :
+-Composition manuelle (on pose les lettres à la main)
+-Composition mécanique (on tape le texte sur un clavier et c&#039;est automatique)
+On peut mettre des illustrations mais il faut utiliser un photograveur qui va s&#039;occuper de graver dans du zinc le cliché. 
+ 
+ 
+L&#8217;offset ne va pas remplacer directement la typographie, on continuait à faire des petits tirages  (à cause du prix de l&#8217;offset). C&#8217;est l&#8217;impression numérique qui la remplacera.
+ 
+ 
+Les différentes techniques de la presse typographique :
+-Le format découpe aussi avait des soucis mais c&#8217;était surtout lors de la production de rond car un manque de précision humaine les ratait souvent. Aujourd&#8217;hui, ce sont des robots de découpe qui s&#8217;en occupe.
+-Le gaufrage sert à embosser, donner du relief, au papier. Il y a un creux au verso.
+-La perforation (les coupons) qui servent à faire les zones à retirer d&#8217;une feuille, un genre de pointillé à trou fait avec des couteaux fins qui vont piquer dans un certain rythme.
+-Le renage c&#8217;est marquer le pli.
+-La dorure à chaud est un film très fin qui va être appliquer sur le papier. Il faut chauffer le film.
+-L&#8217;impression au relief, c&#8217;est une technique qui emplois une encre grasse qui sera saupoudrer par une poudre gonflante qui sera éliminer au-delà de l&#8217;encre grasse et qui sera chauffé à l&#8217;infrarouge.  
+ 
+L&#8217;offset (inventé par l&#039;imprimeur américain, Ira Washington Rubel, en 1903) est peu dérivé de la lithographie mais l&#8217;eau et l&#8217;encre grasse vont être utilisé avec la rotocalcographie qui va utiliser une plaque caoutchoutée et 3 cylindres : Un porte-plaque
+(où met la plaque à imprimer), une plaque qui retient la plaque de caoutchouc et un cylindre pour tout pressé. Ce procédé aura son succès car il est rapide mais il a un problème, la mise en train, qui prend du temps.
+
+La couleur arrivera plus tard avant la première guerre mondiale mais son utilisation se fera après celle-ci. Le magazine Timelife sera le premier magazine à utiliser la couleur et avoir son petit succès.
+
+Bien sûr, on a commencé avec la bichromie et après la première guerre mondiale en quadrichromie.
+
+L&#8217;image vient d&#8217;un film positif qui sera placé sur une plaque qui sera exposé aux ultra-violets et qui sera révélé par l&#8217;eau sur la plaque. Chaque plaque veut une couleur au début. C&#8217;est pour ça que l&#8217;offset coûte cher.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Paroles]Bienvenue en Belgique-Uman - Commentaires</title>
+  <description>J&#039;ai trouvé le résumé ultime de tout les défauts de la Belgique :) TOUT Y EST
+(mais il faut pas croire qu&#039;il n&#039;y a que des défauts :) ):
+ 
+
+Paroles:
+Yeah, original Uman,
+
+Bienvenue en Belgique,
+C&#039;est la quatrième dimension,
+Le bordel intégral on est au bord de l&#039;implosion,
+
+Bienvenue en Belgique,
+Le compromis à la con,
+Terre de pions et de bouffons qui n&#039;ont aucune opinion,
+
+Bienvenue en Belgique,
+C&#039;est le grand cirque médiatique,
+La file des spécialistes qui prédisent une fin dramatique,
+
+Bienvenue en Belgique,
+Le pays des p&#039;tites biques,
+Grand flou démocratique et querelles linguistiques,
+
+Bienvenue en Belgique,
+Si t&#039;est cool t&#039;auras pas de blèmes,
+Tu trouveras tout ce qu&#039;il faut, il y a de la weed, il y a de la cem,
+
+Bienvenue en Belgique,
+Ici il n&#039;y a que les vrais qui tiennent,
+Car il faut bien le dire, y a pas grand chose qui tienne,
+
+Bienvenue en Belgique,
+Terre de sound-system,
+De MC, de culture anti-système,
+
+Bienvenue en Belgique,
+Eh yo Uman come again,
+Ici le Hip-Hop et le dance hall résistent quand-même,
+
+Bienvenue en Belgique,
+
+Bienvenue en Belgique,
+Quand Leterme chante la Marseillaise,
+Il y a moyen de rigoler mais il y a comme en malaise,
+
+Bienvenue en Belgique,
+Le cul entre deux chaises,
+Pays à deux vitesses a l&#039;aise pour ceux qui &quot;pèze&quot;,
+
+Bienvenue en Belgique,
+Monarchie de pacotille,
+Résidu des colonies,
+Et amie de l&#039;Opus Dei,
+
+Bienvenue en Belgique,
+Bienvenue aux portes de la folie,
+Ministre alcoolique et église à l&#039;agonie,
+
+Bienvenue en Belgique,
+Tu verras les gens sont cool,
+Ils ne se prennent pas la tête du moment que ça roule,
+
+Bienvenue en Belgique,
+Si t&#039;aimes les frites et les moules,
+Si tu connais la bière ici c&#039;est comme ça qu&#039;on se saoule,
+
+Bienvenue en Belgique,
+Mais viens plutôt au printemps,
+L&#039;hiver c&#039;est dur, les gens tirent la gueule tout le temps,
+
+Bienvenue en Belgique,
+Il y a souvent du mouvement,
+Des crises, des faits divers, des hold-up des déraillements,
+
+
+Bienvenue en Belgique,
+ 
+Bienvenue en Belgique,
+La jeunesse est au chômage,
+Dans les quartiers ça sent l&#039;orage,
+
+Bienvenue en Belgique,
+Il y a des drogués de tous les âges,
+Et c&#039;est la même chose pour les braquages,
+
+Bienvenue en Belgique,
+Terre de transit et de trafic,
+Le crime ne connait pas la crise économique,
+
+Bienvenue en Belgique,
+Des armes on en fabrique,
+On est jamais loin quand la guerre rapplique,
+
+Bienvenue en Belgique ,
+On a tous les mains sales,
+
+Bienvenue en Belgique ,
+Petit royaume à scandales,
+
+Bienvenue en Belgique,
+Mais mets un gilet pare-balles,
+
+Bienvenue en Belgique,
+Bienvenue au carnaval,
+
+
+Bienvenue en Belgique!
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

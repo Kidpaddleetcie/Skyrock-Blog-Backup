@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Avis2Glin] Les trucs à améliorer sur Skyrock au niveau des blogs - Commentaires</title>
+  <description>
+ 
+Bonjour à toutes et tous et bienvenue dans un article assez important.
+ 
+Vous l&#039;aurez certainement remarqué, depuis une décennie, les Skyblogs n&#039;ont plus vraiment la côte chez les jeunes et les blogs sont délaissés aux profits du micro-blogging (Twitter, Facebook,...) et autres réseaux sociaux mettant en avant des vidéos fait maison comme Instagram, Twitch, TikTok,...
+ 
+C&#039;est donc dans le but de nous procurer une liste de chose à améliorer pour redonner du pep&#039;s à cette société française qu&#039;est Telefun que cet article est là... c&#039;est partit !
+ 
+1. La modération &#127825;&#127814;&#128286;
+&#65279;
+Dans chaque article de blog dépassant les 1 000 vues par mois (oui, c&#039;est encore possible), on retrouve pleins de commentaire du genre 
+&quot;Grosse chienne fatiguée veut qu&#039;on s&#039;occupe d&#039;elle avec une saucisse.
+http://www.cesitenaihabsolumentpachelou.ae
+BBQ CHIENNE BALANCOIRE PLOMBERIE ADOLESCENTE VIDEOS&quot;
+ 
+La modération n&#039;est pas présente pour retirer ces commentaires voulant qu&#039;on visite des sites web dégueulasses et pleins de malwares, spywares et autres virus.
+ 
+Ne serait-ce que bannir les mots les plus crût en anglais serait déjà une sacré avancée.
+ 
+2. Les PUBs sur mobile &#128226;&#128241;
+
+Ce serait agréable de lire des articles de blog sur son smartphone s&#039;il n&#039;y avait pas une PUB intrusive tout le temps à des endroits différents.
+ 
+Sur PC, la PUB se trouve en haut du blog et c&#039;est tout ! Elle change tout le temps mais les ralentissements des chargements ne se ressent pas pendant qu&#039;on lit donc c&#039;est bien.
+
+ 
+Il faudrait généraliser le placement à cet endroit.
+ 
+3. L&#039;intégration de médias &#128451;&#65039;&#128193;
+
+Je suis d&#039;accord que mettre maximum 8 médias par article est une bonne limite mais... pourquoi devoir charger dans la base de donnée de Skyrock chaque image ? C&#039;est pas intéressant pour le référencement et c&#039;est comme si on volait les images.
+ 
+Il faudrait qu&#039;on puisse juste intégrer les images avec une balise prenant le lien en compte.
+ 
+4. Intégration d&#039;article&#128391;&#65039;&#128065;&#65039;&#8205;&#128488;&#65039;
+
+Sur Twitter, LinkedIn, Facebook,... on peut montrer un post sur un autre site web en l&#039;intégrant via une balise bloquote ou iframe proposé dans un menu en haut, à droite de de la publication.
+ 
+Il serait intéressant de permettre la consommation d&#039;échantillon d&#039;article ainsi sur les réseaux sociaux.
+ 
+5. Amélioration de l&#039;éditeur &#9000;&#65039;&#128104;&#8205;&#128187;
+
+La dernière fois que l&#039;éditeur a eût des améliorations, c&#039;était en 2011 avec le mode expert qui nous a permis de faire des dégradés de couleurs configurables facilement autant au niveau du texte que du fond.
+ 
+C&#039;était une bonne idée mais il est toujours possible d&#039;ajouter des trucs et des machins en plus pour les copywriters et les journalistes du dimanche: 
+- La notion de titre ( h1,h2,h3,... ) permettant à Google de référencer les articles en fonction de leurs sujets,
+- La sauvegarde de mise en forme (des blocks éditables),
+- L&#039;intégration de tableaux,
+- L&#039;intégration d&#039;une balise annulant les autres balises comme  ou .
+- L&#039;intégration de Tenor pour l&#039;intégration de gif animé de réaction,
+- Mettre à jour le menu des smileys,
+- La notion de la mise en forme de bouton pour les liens.
+ 
+6. La gestion à plusieurs &#128209;&#128101;
+&#65279;
+Si on veut qu&#039;un blog soit gérer par plusieurs membres d&#039;une même équipe comme un petit journal d&#039;école sans devoir refiler à pleins de monde l&#039;adresse e-mail et le mot de passe du blog, ce serait intéressant de faire une fonctionnalité de collaboration.
+ 
+On aurait un espace de discussion dédié entre membre d&#039;une même équipe, des modérateurs,... bref, un mini-Discord ou un mini-Ryver pour gérer les permissions et les discussions.
+ 
+Les articles auront ainsi en bas la liste des contributeurs comme signature en lien avec leurs blogs ou leurs profils.
+ 
+Voila déjà une bonne liste bien fournie qui, j&#039;espère, aura des propositions prises en compte ou juste réalisée.
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

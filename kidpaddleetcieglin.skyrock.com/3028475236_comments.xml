@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Peach and Bowseur Dispute for last Kidnapping - Commentaires</title>
+  <description>Il était une fois,dans un monde assez proche de celui des Télétubbies, une princesse qui se fait kidnapper.  
+Peach:Laissez-moi sortir,sa pue et c&#039;est pas assez confortable!
+ 
+Bowser:Ferme-la!Je mets le GPS direction mon chateau,j&#039;ai refais la déco depuis votre dernière visite!
+ 
+Peach:Une visite?Bowser,je te reconnais,pourquoi sur plus de cent princesse,tu en kidnappe qu&#039;une?
+ 
+Bowser:Parce que Zelda est moche et que Sonic et Donkey Kong sont puceaux!
+ 
+Peach:Zelda est évidemment plus moche que moi mais c&#039;est une raison ,et puis, sache que Donkey est ton cousin!
+ 
+Bowser:Qu&#039;est-ce que j&#039;en ai a foutre,c&#039;est même pas prouvé!
+ 
+Peach:En tout cas,vous vous êtes donnez mots par mots les même projets!
+ 
+Bowser:C&#039;est pas parce qu&#039;il se tape Pauline et moi toi qu&#039;on est cousin!
+ 
+Peach:...
+ 
+Bowser:Cassé!
+ 
+Peach:Je comprends pourquoi Mario ne me désir pas dans son lit,il est avec Pauline!
+ 
+Bowser:Si tu veux,je suis libre!
+ 
+Peach:Tu n&#039;es pas mon genre de mec!
+ 
+Bowser:Tu aimes mieux les moustachus?
+ 
+Peach:Pas nécessairement!
+ 
+Bowser:Ceux avec une salopette?
+ 
+Peach:Non!
+ 
+Bowser:Les plombiers?
+ 
+Peach:Nonnnn,les beaux musclés...!
+ 
+Bowser:Mais...Je suis musclé!
+ 
+Peach:...Et aventurier!
+ 
+Bowser:Si t&#039;as envie,on peut se faire un aventure ensemble!
+ 
+Peach:Je savais que tu voulais me violer mais là c&#039;est la goutte d&#039;eau qui fait déborder le vase!
+ 
+Bowser:Et ben,j&#039;ai bien fait de te foutre dans un sac à patate!
+ 
+Peach:Je savais bien que ce canif me servirait un jour!
+ 
+Peach fait un trou dans le sac et bondit en criant:  
+Peach:&quot;Girl Power&quot;!
+ 
+ 
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

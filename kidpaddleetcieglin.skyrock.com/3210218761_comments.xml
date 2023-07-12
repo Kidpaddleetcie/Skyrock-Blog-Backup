@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Casseurs Flowters - La mort du disque - Commentaires</title>
+  <description>
+ (J&#039;ai pris la version &quot;Vimeo&quot; car on peut la télécharger :p)  
+ Paroles:
+[Intro : Orelsan]
+Comment c&#039;est nul ! Ah, l&#039;enculé, il s&#039;est foutu d&#039;notre gueule avec son album de merde ! Attends, attends, fais voir le disque...
+
+
+[Couplet 1 : Orelsan]
+Est-ce que tu peux m&#039;prêter ta batte ? On va lui péter la boîte
+Empêche cet enculé d&#039;bouger pendant qu&#039;j&#039;lui mets des patates
+Pas besoin d&#039;écouter, j&#039;sais qu&#039;il est nul à chier rien qu&#039;avec le tracklist
+On vient en studio effacer chaque piste, on va péter les doigts d&#039;ton graphiste
+Ta pochette : on la brûle, on arrache les pages une par une, une par une ?
+Une par une ! On fait des tons-car&#039;, on la fume
+J&#039;mets ton album dans la voiture et j&#039;vais la crasher contre un mur
+Donne moi ta maquette après l&#039;concert, elle finit sous les roues du tour-bus
+Ton album de fils de pute, j&#039;lance une bombe atomique dessus
+J&#039;le télécharge illégalement et j&#039;fais sauter mon disque dur
+On va voler ton CD, on va cogner ton CD
+J&#039;mettrai ma bite dans la rondelle et on va violer ton CD
+On va violer ton CD, on va violer ton CD !
+ 
+ 
+ 
+[Couplet 2 : Gringe]
+J&#039;enfile des Doc Martens coquées, j&#039;mets un pointard dans sa tête
+J&#039;m&#039;entraîne à danser des claquettes sur sa sale face de tapette
+J&#039;le tartine sur du pain, j&#039;le mange et j&#039;vomis sur la jaquette
+On va faire du frisbee avec, le rentrer dans un lecteur cassettes
+Bâtard ! J&#039;vais lui faire un joli gommage avec du verre pilé
+L&#039;brûler vivant, t&#039;ramener les cendres et te l&#039;faire sniffer
+On va planter ton CD, l&#039;attacher et l&#039;torturer ton CD
+On va lui éplucher la peau et râper des citrons sur ton CD
+Tu veux savoir qu&#039;est-c&#039;qu&#039;j&#039;en pense ? Il va pleuvoir d&#039;la merde cette automne
+Pourquoi ? Parce que c&#039;est d&#039;la merde en branche, j&#039;ai envie d&#039;m&#039;en couper une comme Van Gogh
+On avorte sa descendance, on lui brûle ses trompes de Fallope
+On va lui péter ses dents blanches, coup d&#039;coude sur sa tronche de salope !
+ 
+[Refrain x4 : Orelsan &amp; Gringe]
+On va buter ton CD ! On va buter ton CD !
+Ton CD ! Ton CD ! On va buter ton CD !
+(Source:http://rapgenius.com/Casseurs-flowters-19h26-la-mort-du-disque-lyrics)</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

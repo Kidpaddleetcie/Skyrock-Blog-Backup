@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique2Glin]Détective Pikachu - Commentaires</title>
+  <description>C&#039;est partit pour &quot;Pokémon: Détective Pikachu&quot;, un film que j&#039;ai vu ce 30 Mai 2019 avec FanYoshiBleu !
+
+ 
+Je ne veux pas spoiler mais je vais commencer par vous dire que le scénario est digne des jeux et dessin-animés Pokémon avec comme ajout l&#039;existence d&#039;un père pour le personnage principal !
+ 
+Pour ce qui est du visuel, c&#039;est un peu hétérogène au début mais à force d&#039;en voir partout de ces Pokémons fluffy ou lisse (Grosse mention à Dracaufeu et sa peau très...réaliste) avec pleins d&#039;interactions avec le décor et les personnages, on finit par rentrer dans l&#039;illusion que c&#039;est tout ça est homogène !  Sinon, quelques fois, les effets de floue sont un peu aléatoires (les plans dans les foules et la scène du bureau) mais je pense que c&#039;est un peu pour amélioré le focus du visionneur !
+ 
+Pour ce qui est du choix de tourner en live action comme Disney fait (et comme Paramount Pictures fait pour Sonic le Hérisson), nous ne sommes pas trop dérangés parce que le film commence par des plans larges et lents pour nous faire adhérer à ses visuels ! 
+
+
+En ce qui est des personnages, ils ne sont pas mort intérieurement et savent où il faut regarder quand le Pokémon bouge ou le bouscule... LES ACTEURS SONT TALENTUEUX (ou les gens qui les diriges le sont... c&#039;est à méditer !) ! Certains personnages sont éclipser (mères,potes,...) mais c&#039;est parce qu&#039;ils restent très secondaires et que l&#039;histoire se focus sur 3 points de vue (Personnage principal, Pikachu du père du personnage principal et LoveInterest), il n&#039;était donc pas nécessaire de développer d&#039;avantages les personnages qui n&#039;ont qu&#039;un petit rôle dans l&#039;intrigue !
+ 
+Pour ce qui est des voix en VF, je trouve juste la voix de Pikachu pas assez aigu et donc trop grave... Oh, ça ne se ressent que dans la seule chaîne où il chante tout seul ! J&#039;aurais préféré la voix de Professeur Layton mais ça ne collerait pas avec le plot twist final !
+ 
+Pour ce qui est des musiques, elles savent se faire discrète et laisser les spectateurs admirer le talent des acteurs et des infographistes... sauf pour les scènes de combat où on passe de Pokémon à un film Mavel ce qui n&#039;est pas un défaut mais qui est un peu &quot;réveillant&quot; quand ça arrive à un jump-cut !
+ 
+ 
+Pour ce qui est du respect de la licence, on est plus proche du dessin-animé et du jeu Détective Pikachu que du jeu d&#039;origine MAIS on met avant un monde bien plus logique de part les différents emprunts aux films de super-héros et d&#039;enquête... IMAGINEZ TINTIN AVEC DES EXPLOSIONS,DU TERRORISME ET DE LA SCIENCE... et que Milou parle mais il est amnésique !
+ 
+Voila, vous avez envie de voir ce film ? Allez-y, c&#039;est génial et en plus, on peut tenter de retrouver son Pokémon préféré dedans car il semblerait que toutes les générations de Pokémon soient présentes... J&#039;AI RETROUVÉ MON MAGICARPE !!!
+(La fin du film étant une fin fermée, je ne pense pas qu&#039;il y aura une suite !)
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

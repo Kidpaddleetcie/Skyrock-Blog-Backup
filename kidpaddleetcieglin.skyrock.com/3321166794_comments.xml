@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Télécharger une Flipnote sur sudomemo.net ! - Commentaires</title>
+  <description>[ If you want consult the english version of this article, you can click on this link: 
+https://kidpaddleetcieglin.skyrock.com/3328330646-ENG-How-Download-a-Flipnote-on-sudomemo-net.html ]
+
+
+ETAPE 1
+Rendez-vous sur la page où on peut voir votre flipnote, comme celle-ci:
+https://www.sudomemo.net/watch/13B7C8_11EA7188C6EC9_000
+ 
+Petite explication de la composition du lien:
+Ces pages commencent toutes par &quot;https://www.sudomemo.net/watch/&quot; et enchaînent par les 4 derniers caractères de l&#039;identifiant à l&#039;utilisateur !
+ 
+Par exemple, ma page utilisateur est:
+https://www.sudomemo.net/user/95C3EE50E113B7C8@DSi
+ 
+Vous remarquer mon &quot;13B7C8&quot; dans les deux liens ?
+https://www.sudomemo.net/watch/13B7C8_11EA7188C6EC9_000
+https://www.sudomemo.net/user/95C3EE50E113B7C8@DSi
+ 
+Le reste du lien reste assez aléatoire mais il y a également un &quot;_11&quot; qui revient souvent sur les pages avec le player ! 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ETAPE 2 
+
+Cliquer sur la partie gauche de la page (il y a un &quot;anti-clic-droit&quot; sur le player) et rendez-vous sur &quot;inspecter l&#039;élément&quot; !
+
+ETAPE 3
+
+Rendez-vous à la balise video qui a comme source la fameuse vidéo en .mp4 !
+ 
+Pour se faire,il faut aller ici:
+
+ 
+OU
+Rendez-vous dans l&#039;onglet &quot;Application&quot;  et cliquer sur le lecteur pour lancer la vidéo !
+Un onglet &quot;Media&quot;  apparaîtra parmi &quot;Fonts&quot;,&quot;Images&quot;,&quot;Scripts&quot; et &quot;Stylesheets&quot;!
+Cliquer sur cet onglet et vous pourrez double-cliquer sur le lien de la vidéo en .mp4 !
+
+
+
+
+
+ETAPE 4
+
+Faites un clic-droit sur le lien et cliquer sur &quot;open in a new tab&quot; !
+
+ETAPE 5
+Une fois sur la nouvelle page avec le lecteur natif de votre navigateur web, vous pouvez appuyez sur les trois petits points pour cliquer sur &quot;TÉLÉCHARGER&quot; et... donnez un nom à votre Flipnote ainsi que lui trouver un dossier pour enfin l&#039;enregistrer !
+
+
+VOILA !
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3321166794_comment_1.html#c-20700879236" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3321166794_comment_1.html#c-20463174668" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3321166794_comment_1.html#c-20700879236">
+		<title>Commentaire de Juhasch FR</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3321166794_comment_1.html#c-20700879236</link>
+		<dc:date>2023-06-02T07:56:52+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Juhasch FR</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Wow Glin je suis émerveillé par cette technique... OwO</description>
+		<content:encoded><![CDATA[
+			Wow Glin je suis émerveillé par cette technique... OwO
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3321166794_comment_1.html#c-20463174668">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3321166794_comment_1.html#c-20463174668</link>
+		<dc:date>2020-08-19T14:02:52+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Salut Glin c Redwan 
+Merci beaucoup </description>
+		<content:encoded><![CDATA[
+			Salut Glin c Redwan <br />
+Merci beaucoup 
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

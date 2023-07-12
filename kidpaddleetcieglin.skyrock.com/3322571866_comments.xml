@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Charger des vidéos de plus de 2 minutes sur Discord ! - Commentaires</title>
+  <description>Comme vous le savez, Discord met une limite de 8 mégabytes (8 MB ou 8Mo,8 Mégaoctets, chez nous) et c&#039;est assez compliqué d&#039;enregistrer une bonne vidéo étant sous cette limite !
+ 
+Il existe pourtant une astuce que tout développeur de site web qui utilise des vidéos connait: L&#039;utilisation du WebM !
+ 
+Lorsque vous avez exporter votre vidéo, vous devez la convertir en WebM avec un logiciel comme Format Factory (disponible ici: https://formatfactory.fr.uptodown.com/windows/telecharger ) ou Konvertor ( https://www.logipole.com/konvertor-en.htm )! La conversion est souvent lennnnnnnnnnnnnnnteuuuuuhhhh mais c&#039;est le prix à payer pour poster une vidéo sur Discord qui est plus longue que les 20 secondes qu&#039;on peut atteindre en moyenne (d&#039;après mon propre vécût) avec un fichier en .mp4 !
+ 
+ Vous pouvez aussi convertir en ligne: 
+Cloudconvert: https://cloudconvert.com/mp4-to-webm
+Convertio: https://convertio.co/fr/mp4-webm/
+video online convert : https://video.online-convert.com/fr/convertir-en-webm
+video2edit: https://www.video2edit.com/fr/convertir-en-webm
+FreeConvert: https://www.freeconvert.com/mp4-to-webm
+Media.io : https://www.media.io/convert/mp4-to-webm.html
+
+ 
+Voila, sachez que des logiciels comme Panzoid (disponible ici: https://panzoid.com/tools/videoeditor ) permettent l&#039;exportation directe en .webm !
+ 
+N&#039;oubliez pas que rien n&#039;est miraculeux donc n&#039;espérer pas charger une vidéo en 1080p 60fps sur Discord... privilégier un bon vieux 480p25fps pour vos vidéos de 2 minutes !
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20531893694" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20531803406" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20513163198" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20513038442" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20531893694">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20531893694</link>
+		<dc:date>2021-04-13T18:29:20+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Petite chose à ne pas oublier : Ne pas mettre une vidéo en 1080p ! Discord n&#039;aime pas cette résolution !</description>
+		<content:encoded><![CDATA[
+			Petite chose à ne pas oublier : Ne pas mettre une vidéo en 1080p ! Discord n&#039;aime pas cette résolution !
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20531803406">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20531803406</link>
+		<dc:date>2021-04-13T13:15:53+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Le même truc je ne sais pas le régler 
+</description>
+		<content:encoded><![CDATA[
+			Le même truc je ne sais pas le régler <br />
+
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20513163198">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20513163198</link>
+		<dc:date>2021-02-05T15:47:35+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Qui êtes-vous ? Que voulez-vous ? Comment êtes-vous arriver ici ? Pourquoi êtes-vous ici ? </description>
+		<content:encoded><![CDATA[
+			Qui êtes-vous ? Que voulez-vous ? Comment êtes-vous arriver ici ? Pourquoi êtes-vous ici ? 
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20513038442">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3322571866_comment_1.html#c-20513038442</link>
+		<dc:date>2021-02-05T02:14:40+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Hello</description>
+		<content:encoded><![CDATA[
+			Hello
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

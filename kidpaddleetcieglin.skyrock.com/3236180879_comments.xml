@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Cours de Sciences Sociales]La légitimité de la loi - Commentaires</title>
+  <description>1. La légitimité formelle A)Origine Implicite
+Certaines règles (normes) n&#8217;ont jamais été vraiment décidées, ni discutées. Elles peuvent être considérées comme juste parce qu&#8217;elles s&#8217;imposent plutôt d&#8217;elles-mêmes, elles apparaissent normales, évidentes aux yeux des membres d&#8217;un groupe.
+B)Autorité Supérieure
+Certaines règles ou lois peuvent être considéré comme juste  parce que l&#8217;autorité qui les a décidées apparait comme supérieure, supérieur normalement ou intellectuellement.
+Cela suppose une croyance en une inégalité, inégalité entre celui qui fait la loi et ceux qui doivent l&#8217;appliquer.
+(La supériorité doit être incontestable)
+C) L&#8217;Assemblée délibérative directe
+Cette règle ou lois est considéré comme juste parce qu&#8217;elle a été prise par ceux-là même à qui elle s&#8217;applique. On parle alors de démocratie directe parce que tous les intéressés ont eût l&#8217;occasion de participé aux débuts et prendre positions.
+D) L&#8217;Assemblée délibérative représentative
+Certaine règle ou lois peuvent être considérées comme juste parce qu&#8217;elles ont été prise par des représentants élus par ceux-là même à qui elle s&#8217;applique. On parle alors de démocratie indirecte parce que tous les intéressés n&#8217;ont pas eût l&#8217;occasion de participer au débat et de prendre position, mais parce que ces intéressés ont eût au paravent l&#8217;occasion de choisir et d&#8217;élire leurs représentants.
+E) L&#8217;autorité reconnue et limitée
+Certaine règle ou lois peuvent être considéré comme juste parce qu&#8217;elles sont prises par une autorité communément admise dans un cadre légal, précis et restreinte pourvus que cette autorité justifie ou puisse justifier sa décision en référence à l&#8217;ensemble des lois existantes.
+Légitimé formelle + légitimé substantielle = Loi juste  
+2. La légitimité substantielle (valeurs) A) Valeurs supra-personnelles
+Les valeurs modernes, liées à la démocratie, et constitutives des droit de l&#8217;homme sont toutes humanistes c&#8217;est-à-dire qu&#8217;elles considèrent comme fins en sois l&#8217;Homme lui-même égale en dignité à toutes autres personnes. Seront considérés ici comme valeurs non humanistes, comme valeurs supra-personnelles toutes valeurs qui remettent en cause ce principe d&#8217;égale dignité et qui justifie au nom de principe supérieur à la personne humaine des actes contre les personnes, contre leurs dignités.
+B) Les valeurs liées au principe d&#8217;égalité
+ L&#8217;un des deux premiers de la démocratie et des droits de l&#8217;homme concernent l&#8217;égalité entre tous les hommes : l&#8217;égalité de naissance, en dignité et en droit.
+C) Les valeurs liées au principe de liberté
+ L&#8217;un des premiers principes des droits de l&#8217;homme concerne la liberté fondamentale de chaque individus, liberté d&#8217;expression, de religion, de réunion pacifique.
+ D) Le principe d&#8217;efficacité
+En parallèle aux principes d&#8217;égalité et de liberté, un autre principe doit également réagir le droit, servir de principe doit également régir le droit, servir de principe aux lois : c&#8217;est le principe d&#8217;efficacité. En effet, à quoi servirait les droits fondamentaux, égalité et liberté, dans une société où l&#8217;on mourait de faim par manque de moyens. Par exemple, le règlement de travail dans une entreprise ou dans une école contient principalement des règles assurant l&#8217;efficacité de l&#8217;organisation : horaire de travail ou de productivité.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

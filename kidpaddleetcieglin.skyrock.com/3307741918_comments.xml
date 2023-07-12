@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Poster de la 3D sur le Web! - Commentaires</title>
+  <description>Techniquement, il est possible d&#039;importer un modèle 3D dans une page web de votre site web avec un script provenant de https://threejs.org/ ...mais les modèles 3D étant souvent lourd et dépendant de plusieurs fichiers images de texture et de script d&#039;animation, le mieux est de passer par un site d&#039;hébergement vous permettant de ne pas devoir systématiquement laisser votre serveur .php ouvert pour avoir accès à ces fichiers!
+ 
+Donc, il existe https://p3d.in/ et https://sketchfab.com/ mais je vous recommande Sketchfab parce qu&#039;il est plus avancé et permissif...surtout si votre but est de partager plutôt que de le mettre en privé votre modèle 3D!
+ 
+D&#039;ailleurs, sachez que ces sites d&#039;hébergement sont assez utiles pour ceux qui veulent faire des vidéos de Gmod ou des court-métrages avec des marionnettes en 3D!
+Rien que pour faire un peu de PUB à ce vidéaste génial voici la chaîne de SMG4:
+
+ 
+ 
+Son utilisation des modèles 3D me fait toujours des sensations fortes et son univers
+d&#039;auto-référence et de mèmes me rappelle un peu Diddy64Wii mais avec bien plus d&#039;humour américain alors qu&#039;il est Australien!
+ 
+Voila, j&#039;espère que vous avez trouver votre bonheur dans ces infos!
+  KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

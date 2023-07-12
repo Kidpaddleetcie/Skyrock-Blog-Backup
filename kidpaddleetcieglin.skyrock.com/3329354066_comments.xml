@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ENG][Infos]What is my Buckingham Palace guard&#039;s salary? - Commentaires</title>
+  <description>[ FRENCH VERSION HERE :https://kidpaddleetcieglin.skyrock.com/3247647836-Infos-Combien-gagne-mon-garde-du-Buckingham-Palace.html ]
+After a trip to London, I wanted to know something who Internet only can answer to my questions... I guess, I think it&#039;s possible to find the answer in a London&#039;newspaper !
+ 
+What is the salary for a this standing guy in front of the door of Buckingham Palace ?
+
+ 
+No matter how hard I hit &quot;Rénumération&quot;, &quot;Garde&quot; and &quot;Buckingham Palace&quot;, I don&#039;t find any table or post who say clearly a salary ! (29/03/2019)
+
+I should search more but...what&#039;s a Buckingham Palace&#039;guard ?
+
+1.Know what&#039;s the guard
+https://en.wikipedia.org/wiki/Welsh_Guards#=_=
+
+2.Know what&#039;s his salary !
+ 
+...why...WHY MY GUARD IS GREY ?! IT&#039;S NOT CLASSIC ! I don&#039;t think he is official...
+ 
+I search &quot;Garde&quot;,&quot;gris&quot; and &quot;Buckingham Palace&quot; and I find this
+http://www.monnuage.fr/point-d-interet/buckingham-palace-a29825
+who explains it&#039;s just because it was winter it was gray... huh ! Fine,nothing wrong here !
+
+But it&#039;s not help me for find his salary, I search so:
+&quot;Salaire&quot;, &quot;Buckingham Palace&quot; and &quot;Garde&quot; !
+
+I find this http://reims-chalons.weemove.com/accueil.aspx/Comment_devenir_garde_de_la_reine_a_Buckingham_Palace_-Autre-forum_messages-23208-0-0-1.aspx but it&#039;s not help and I constat what the page is lost in 2019 November !
+
+I regulary search &quot;Welsh Guards&quot; but nothing say me what my guard receives as salary... 
+He is paid yes or no ?
+
+I don&#039;t want jokking about them (They are pay to standing in hours... 
+there are only those who have gamer friends who do not pass the controller who do this kind of activity...),I just want to know how he lives, do some kind of economic study !
+
+I want to know if my guard in the picture lives well, is it bad ?
+( I&#039;ll be back one day, I do a break with this inquiry !)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

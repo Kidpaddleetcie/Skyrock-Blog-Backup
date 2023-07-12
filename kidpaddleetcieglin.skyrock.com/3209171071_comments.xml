@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title>  [Version Corrigé]Kidpaddleetcie Glin-Never The End With Nintendo  §CC 2014§  - Commentaires</title>
+  <description>C&#039;est des bons jeux-vidéos,
+Tous créés par Nintendo,
+Tous créés par Shigeru Myamoto,
+Zelda,Donkey Kong et Mario.
+ 
+Le gameplay n&#039;est pas lourd pour ce gros,
+Et ce graphisme est beau,
+ça c&#039;est du jeu-vidéo,
+En plus Nintendo est le moins cher du trio,
+Entre Sony et Microsoft choisis Nintendo,
+Allez vas-y économisé tes euros.
+ 
+Quand tu joues à Mario,tu es le boss,
+Lorsque tu joues à Super Mario Bros,
+Mario est pour les vieux,pour les ados et les gosses,
+Saute sur les plateformes,les ennemis et les amis,
+Nourris bien ton Yoshi,
+Mange des items pour ta survie.
+ 
+C&#039;est Big N qui fait les bons prix,
+Mario c&#039;est la folie,
+Allez sauter mes amis.
+ 
+Nintendo c&#039;est jamais la fin,
+Parce que Nintendo c&#039;est bien.
+ 
+Never the end with Nintendo.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

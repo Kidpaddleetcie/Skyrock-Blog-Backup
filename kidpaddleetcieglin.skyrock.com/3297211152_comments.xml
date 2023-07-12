@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement]Le créateur de Kidpaddleetcie a 21 ans! - Commentaires</title>
+  <description>Bon, j&#039;ai enfin 21 ans et je me retrouve à me poser la question: Quels sont mes nouvelles résolutions?
+ 
+J&#039;ai envie d&#039;écrire des trucs et des machins pour faire des vidéos et des scénarios de BD...c&#039;est réalisable et ça peut se faire assez facilement donc je vais prendre ça comme résolution!
+ 
+Je vais aussi penser à me servir un peu plus de mon DeviantArt pour montrer mes progrès en photographie! On ne sait jamais, ça peut servir pour me faire bien voir au près de potentiel personne ayant besoin d&#039;un photographe!
+ 
+Je vais probablement me mettre à créer un site web mais il ne sera pas en ligne avant un bon bout de temps vu que je vais devoir d&#039;abord penser à tout bien préparer pour le rendre accessible sur mobile et PC!
+ 
+Voila, maintenant, je peux aussi vous dire qu&#039;aujourd&#039;hui je vais bien et que je m&#039;amuse à faire des vidéos et des photos comme d&#039;habitude même si je commence à fatiguer à cause de l&#039;excès de temps libre et donc de choix de technique!
+ 
+Merci quand même de me suivre sur les différents sites où je me trouve, ce serait tellement bien que je trouve un(e) partenaire qui pourrait m&#039;aider pour les pack effets et autre vidéos à but communautaire!
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

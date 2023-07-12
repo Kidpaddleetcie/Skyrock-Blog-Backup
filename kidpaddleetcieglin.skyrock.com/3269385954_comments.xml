@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Histoire] L&#039;occupation - Commentaires</title>
+  <description>L&#039;occupation allemande commence le jour de l&#039;invasion (10 mai 1940) et se termine entre 44 et 45,le temps que le pays soit totalement libéré après la contre-attaque allemande.Les civils belges se souviennent de l&#039;occupation de 14-18 et s&#039;enfuient en France.Ces dizaines de millier de gens vont bloquer les routes aux troupes françaises et anglaises qui sont censées stopper l&#039;avancée des allemands.Cette période s&#039;appelle &quot;l&#039;exode&quot; et se termine lorsque la France s&#039;avoue vaincue (22 juin).Les belges retrouvent chez eux et vont vivre quatre années d&#039;occupations allemands.Les soldats belges fais prisonniers iront quant à eux en Allemagne et seront répartit dans des endroit où manque la main d&#039;oeuvre.
+ 
+La main d&#039;oeuvre allemande est si insuffisante que les nazis vont proposer des place dans leurs usines aux belges.Rare sont les civils qui accepte.Les nazis imposent donc le S.T.O. (Service de Travail Obligatoire).Les belges qualifiés sont les plus recherchés,certains d&#039;entre eux essayeront de se cacher.Certaines personnes seront persécuter par la police secrète d&#039;État (Gestapo): Les communistes,les socialistes,les homosexuelles,les Tziganes,les handicapés et les juifs.
+ 
+Les plus dangereux selon les allemands sont les résistants mais la résistance évolue avec le conflit.Lorsque l&#039;Axe domine et vient de conquérir un pays,les résistants sont de peu nombreux.Les résistants communistes ne peuvent rien tenter avant que le pacte de non-agression-germano-soviétique ne soit annulé.Au fur et à mesure que l&#039;Axe perdra du terrain,les rangs de la résistance grossiront.La collaboration évoluera inversement et sera l&#039;appui à partir duquel les nazis pourront pleinement maîtriser la situation.Le parti REX et la VNV fourniront même des hommes aux allemands (Légion Wallonne et légion Langemarck).
+ 
+Tout civil peut-être soumis aux réquisitions allemandes et doit suivre le rationnement en ce qui concerne le commerce.Le salaire était verser en ticket mais le rationnement au cours de la guerre est rapidement tombé en-dessous du minimum vital.Cela a forcé la création d&#039;un &quot;marché noire&quot; où n&#039;importe qui ferait du commerce clandestinement.Les denrées les moins nécessaires étaient les plus cher.Les personnes qui vont osées cachés les cibles du régimes auront la vie difficile et seront appelé &quot;Juste après la guerre&quot;.
+ 
+Un sujet va diviser la Belgique en deux à la fin de la guerre,c&#039;est la &quot;question royale&quot;.Le Roi Léopold III a désobéit au parlement en 1940 car il a refusé de les accompagné à Londres pour vivre la guerre avec ses soldats.Les allemands l&#039;enferment dans une prison dorée et lorsque la Belgique est libérée,la question est posé: &quot;Voulez-vous le retour du Roi ?&quot;.
+Les Flamands répondront majoritairement &quot;oui&quot; et la Wallonie a répondu majoritairement &quot;non&quot;.
+ 
+La consultation populaire amènera un &quot;oui&quot; légèrement majoritaire mais les grèves et les émeutes du parti socialiste vont empêcher que Léopold III revienne.Le compromis a été de faire passer Baudouin Ier avant la mort de son père.
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

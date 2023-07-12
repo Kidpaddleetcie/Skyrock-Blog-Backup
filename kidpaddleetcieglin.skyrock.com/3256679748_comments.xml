@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Histoire]La mort de Boredguy! - Commentaires</title>
+  <description>Avant propos: Boredguy est un personnage un peu handicapé car il n&#039;a pas vraiment une joie de vivre et ne tente pas de s&#039;élever parce que son créateur l&#039;a créé sans conviction...juste pour se sentir intégré à un groupe !
+
+
+Notre récit commence là où tout les récits des Ploucs commencent,au Royaume Champignon.
+
+
+FanYoshiBleu préparait le jeu &quot;Ploucs Quest&quot; pendant que Glin préparait ses fan-arts de légendes alors que Pokémon_Master était la main dans son slip en train de chercher ses clés pour ouvrir la porte de sa maison.Le Doc&#039; regardait un reportage sur la NES et Boredguy parlait tout seul dans son coin.
+
+
+Fan&#039; rassemble les Ploucs et le Doc&#039; pour demander si les persos leurs plaisent ce que tout le monde affirmèrent...tous sauf Bored&#039; qui n&#039;aimait pas son perso. Fan&#039;,un peu troublé par cette révélation retourna faire les sprites de Boredguy et y passa 5 jours avant de le re-présenté à Bored&#039; qui n&#039;y trouva toujours pas son compte.
+
+
+Fan&#039; y repassa encore et encore du temps dessus et enfin Bored&#039; l&#039;accepta.
+
+
+Fan&#039; posa une nouvelle question aux Ploucs et au Doc&#039;,l&#039;histoire de leurs personnages.
+L&#039;exercice était simple,écrire une histoire pour introduire le personnage dans l&#039;univers des Ploucs,pour savoir d&#039;où proviennent ses pouvoirs et sa personnalité.Tout le monde créèrent des histoires plus ou moins longues avec plein de détails marrants ou même intelligent et donc assez complexe...mais Boredguy fait une nouvelle foi preuve de insolence,un manque de respect que FanYoshiBleu ne s&#039;en remettra jamais.
+Cet acte odieux fût de n&#039;avoir écrit que quatre lignes qui disait en gros:
+&quot;Boredguy c&#039;est un mec qui,un jour, se leva et trouva une cravate.Maintenant partez,vous avec mieux à faire que de lire mon histoire!&quot;.
+
+
+Fan&#039; avait la rage,la diarrhée (ça fait super chier!) et cela n&#039;allait pas s&#039;arranger.
+
+
+Fan&#039;, pour se venger,écrivit la fin de Boredguy,actuellement pas encore dans le jeu
+&quot;Ploucs Quest&quot; si ce jeu voit le jour car elle est seul à y travailler vu que le Doc&#039; habite en France,Pokémon_Master a désormais les deux là où vous le pensez,Boredguy déprime et Glin est un simplet ayant deux mains gauches.
+
+
+La fin de Boredguy se passe ainsi: &quot;Les Ploucs passent dans un chemin pleins de cailloux et Boredguy glisse sur une pierre,tombe et se fracasse la tête sur le sol...FIN&quot;.
+ 
+Voila,c&#039;est ça la fin de Boredguy!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Quel programme utilises-tu pour télécharger une vidéo sur YouTube? - Commentaires</title>
+  <description>
+
+ 
+Avec Ilivid (cliquer sur le mot en orange pour aller sur le site de ilivid) vous pouvez télécharger une vidéo en toute sécurité,rapidement et gratuitement!
+ 
+Mon reproche avec ce programme:
+ 
+Pouvons-nous télécharger des vidéos à une résolution de 720p ou 1080p parce que la majorité des vidéos que je télécharge se voient perdre en qualité lors du traitement?
+ 
+ 
+Des fonctionnalités extraordinaires qui vous offre toujours plus
+Le gestionnaire de téléchargement iLivid regroupe une multitude de fonctionnalités puissantes pour vous permettre de télécharger les fichiers hébergés le plus facilement et le plus rapidement possible. iLivid inclut des modules d&#039;extension XBMC qui vous permettent de lire presque tous les formats audio et vidéo les plus populaires, peu importe le protocole et le type de média : streaming, CD, DVD, RAR et fichiers archivés depuis votre disque dur.
+Lecture instantanée depuis n&#039;importe quelle source
+ 
+ 
+Le meilleur moyen pour télécharger vos films
+iLivid vous offre une meilleure expérience en matière de téléchargement grâce à ces fonctionnalités extraordinaires : </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Pourquoi?]YouTube devient comme la télévision! - Commentaires</title>
+  <description>
+Bonjour, bienvenue sur Kidpaddleetcie,
+Lorsqu&#039;on parle de télévision avec des gens nés après 1990, on a souvent le discourt comme quoi la TV est dépassée et même pourrie par des émissions de télé-réalité en tout genre !
+
+Les journalistes sont des faux-culs sans cœur qui se prennent pour des stars et qui prennent le téléspectateur de haut ainsi que les personnes qu&#039;ils interviewent... la TV, c&#039;est ça aujourd&#039;hui !
+ 
+Bien sûr, s&#039;il y a un « aujourd&#039;hui », c&#039;est qu&#039;il y a eu un « hier » et donc un état moins complexe de la TV ! Souvenez-vous du Club Dorothée, des présentations assez amateurs, du ridicule de certaine émissions et des sujets très décomplexer comme la pédophilie avec le témoignage à l&#039;heure de grande écoute d&#039;un pédophile !
+
+ 
+De 2006 à 2010, YouTube a connu sa période décomplexée où la majorité des gens connus sont arrivés comme Joueur Du Grenier, Hooper, Cyprien, Norman, Mister V, State Alchimist, LinksTheSun, ...  L&#039;amateurisme et le culte de la personnalité à amener l&#039;engouement pendant tout ce temps-là !
+ 
+Mais si YouTube ressemble de plus en plus à la télévision, c&#039;est surtout parce qu&#039;on a eut une démocratisation du contenu et une mise en avant par les médias. La TV s&#039;est installée avec ses adeptes !
+ 
+Ces adeptes ne regardent que ce qu&#039;ils connaissent et du contenu putaclic, ce sont les pigeons du système qui légitimise les journalistes comme Morandini et Hanouna !
+Ces adeptes sont vos grand parents à qui vous avez offert un smartphone dont vous avez bien expliquer comment aller sur YouTube,
+ce sont vos parents à qui vous avez partager des vidéos par mail ou sur Facebook,
+ce sont les enfants qui ont des parents fragiles irresponsables qui ont offert une tablette ou un smartphone suite à un caprice du sale gosse !
+ 
+Ils sont la masse qui rapportent pleins de vues aux chaînes de plagieurs, de voleurs, de putaclic et de rediffusion d&#039;émissions télévisuelles !
+ 
+Je pense que vous avez compris d&#039;où vient et où je trouve la cause du problème donc maintenant, terminons par une liste de conséquence !
+ 
+1)      Complexification du contenu
+ 
+a)       Ambiances humoristiques systématiques,
+b)      Présentateurs sur-jouant,
+c)        Sujets économiques, politiques et juridiques mis sous silence,
+d)      Multiplication des vidéos de type « vlog » apportant un culte de la personnalité et donc un attachement artificiel envers le Youtubeur.
+ 
+ 
+2)      Mise en place de nouvelles règles :
+ 
+a)       Ajout de contraintes contre l&#039;honnêteté de chacun,
+b)      Favorisation de contenu infantile, rigolo et surtout purement divertissant,
+c)       Suppression exponentielle de l&#039;ancien contenu en ne prenant pas en compte le niveau d&#039;ancienneté,
+d)      Dépression de la part des plus ambitieux,
+e)      Mise en avant des chaînes VEVO et chaînes de télévision au détriment des amateurs !
+ 
+ 
+Voila, on est foutu, au revoir et à bientôt sur Kidpaddleetcie !
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

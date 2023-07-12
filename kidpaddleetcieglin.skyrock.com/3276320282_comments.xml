@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Histoire]Histoire des colonisations! - Commentaires</title>
+  <description>Vers le 21ème Siècle La décolonisation
+Depuis la fin du 15ème siècle l&#8217;Europe est devenue le foyer des principales puissances coloniales du monde. L&#8217;importance des empires à varier en fonction du temps.
+L&#8217;Europe a dominé le monde en premier mais elle a été dépassée au 17ème siècle par l&#8217;Angleterre. Le Royaume-Unis est un véritable empire jusqu&#8217;au 20ème siècle.
+Au 18ème siècle, la première vague de décolonisation concerne les 13 colonies anglaises qui vont se constituer les États-Unis.
+La deuxième vague de décolonisation se situe au 19ème siècle et va voir immerger les pays indépendants d&#8217;Amérique du Sud.
+La troisième vague de décolonisation est celle de l&#8217;Afrique en majorité mais concerne aussi l&#8217;Asie. Après les années 60, il n&#8217;y a quasis plus de colonies.  La colonisation est donc finie au niveau littéral mais des liens d&#8217;influence sont conservées. Certaines sont discrets tandis que d&#8217;autres sont affichés.
+Le common weath et une union de solidarité qui s&#8217;étend au niveau économique (et parfois politique) entre l&#8217;Angleterre et certaines de ses anciennes colonies. Pour les pays du common weath, ils ont l&#8217;indépendance mais ils ont comme chez le souverain d&#8217;Angleterre (chef d&#8217;état).
+Les motifs d&#8217;indépendance
+Dans les colonies d&#8217;Afrique, les populations indigènes subissent la ségrégation (un type de racisme ne les met pas dans un état d&#8217;esclavage mais d&#8217;infériorité et divise les deux populations dans tous les domaines). La guerre 14-18 a fait appel aux forces coloniales, ce qui a permis aux indigènes de découvrir l&#8217;Europe dans ses avantages et ses inconvénients. Ils vont découvrir une vision négative de l&#8217;Europe et vont sentir une injustice quand on les renverra dans la colonie de manière ingrate.
+ En 1917, Lénine installe un régime communiste en Russie et 1919, le Kominterm va diffuser les idées communistes. L&#8217;idée d&#8217;égalité plait aux colonies mais très peu d&#8217;information s&#8217;infiltrerons.
+La seconde guerre mondiale va frustrer aussi les colonisés car non-seulement ils vont devoir se sacrifiés aux combats et en plus ils subissent les conséquences économiques. En effet l&#8217;effort de guerre réduit leurs salaires (à la limite du travail forcé) mais en plus les prix augmentent.
+En 1948 est créé l&#8217;O.N.U. dont la charte des Nations-Unis spécifient que les hommes sont égaux et que les peuples doivent disposer d&#8217;aux-même.</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

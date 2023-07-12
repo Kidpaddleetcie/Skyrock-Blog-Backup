@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Critique] du roman « Histoire d&#039;un bonheur » de Geneviève Damas - Commentaires</title>
+  <description>&#65279;
+1.Premiers aperçus :
+
+ 
+ 
+Première de couverture : C&#039;est du basique et ça m&#039;a semblé très vieux !
+ 
+Taille du roman : Le roman ne parait pas être une énorme bible ce qui m&#039;encourage de l&#039;ouvrir...il a la taille d&#039;un Bescherelle à titre de comparaison !
+ 
+Premières lignes : Les premières lignes nous font déjà rentrer dans un personnage nommé Anita Beauthier qui est une femme quinquagénaire vivant dans la bourgeoisie ayant deux enfants et un mari pas souvent là ! L&#039;histoire nous immerge directement avec un personnage comme narrateur ...la narration interne est vraiment bien géré car on ressent bien les émotions des différents personnages à travers leurs pensées et leurs perceptions de l&#039;instant !
+ 
+Après Lecture :
+Intrigue : Tous les personnages se sont rencontrés au moins deux fois dans le roman, ce sont des personnages attachants (à cause de la narration interne) et leurs histoires sont intéressantes !
+ 
+Descriptions des personnages :
+Anita Beauthier : Une femme quinquagénaire bourgeoise ayant une hygiène de vie très bonne (fait du sport, organise des rencontres, aide ses amies,...), son fils est homosexuelle et sa fille est une rebelle garçon-manquée !
+Elle connait Noureddine à cause d&#039;une amie qu&#039;elle a dût remplacer à l&#039;école des devoirs ;
+Elle connait Simon parce que c&#039;est son beau-frère ;
+Elle connait Nathalie parce que c&#039;est sa voisine ;
+ 
+Noureddine : élève en décrochage dans un collège de la ville vivant dans un HLM, il est passionné de Napoléon grâce à Anita. Son père s&#039;est pendu.
+Il connait Anita à cause de l&#039;école des devoirs ;
+Il connait Simon parce que c&#039;est le pion de son collège ;
+Il connait Nathalie parce qu&#039;elle est rentré chez Anita quand Noureddine s&#039;y trouvait.
+ 
+Simon : beau-frère d&#039;Anita et homme solitaire taciturne travaillant dans un collège en tant que pion.
+Il connait Anita parce que c&#039;est sa belle-sœur ;
+Il connait Noureddine parce qu&#039;il est son pion ;
+Il connait Nathalie parce qu&#039;ils se sont rencontré quand Anita a fait un malaise dû
+à un manque de régularité dans ses médocs.
+ 
+Nathalie : La voisine d&#039;Anita, elle a perdu son mari après s&#039;être rendu compte qu&#039;il la trompait avec une journaliste, ses enfants sont turbulents et très malpolis d&#039;après Anita.
+Elle connait Anita parce que c&#039;est sa voisine ;
+Elle connait Noureddine parce qu&#039;elle est tombé nez-à-nez avec lui quand elle est venu chez Anita pour chercher du réconfort après le départ de son mari ;
+Elle connait Simon parce qu&#039;elle l&#039;a vu dans la chambre d&#039;Anita lors de son malaise
+ 
+Avis personnel :
+La fin (que je n&#039;ai pas gâché en vous n&#039;y touchant aucun mot) est tout à fait adorable...voila, je vous dis juste que c&#039;est un Happy Ending bien amener et que vous n&#039;allez pas être dégoûté !
+ 
+En ce qui est du rythme de l&#039;histoire, les premiers chapitres sont longs et les derniers sont très courts !
+Les personnages évoluent en fonctions de leurs rencontres avec les autres ce qui me plait encore une fois parce qu&#039;il y a une dynamique poussé dans la personnalité des personnages qui prend tout son sens lors de leurs rencontres !
+ 
+KidpaddleetcieGlin2015© </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

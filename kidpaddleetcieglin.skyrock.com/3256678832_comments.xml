@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Jeu-Vidéo]Le succès de certaine entreprise - Commentaires</title>
+  <description>
+Sony : Le fait d&#8217;avoir réussi à créer des appareils qui sont sur le marché pendant longtemps en mettant la priorité sur l&#8217;innovation et l&#8217;anticipation des changements dans l&#8217;environnement de l&#8217;appareil/logiciel.
+ 
+
+ 
+Microsoft : Avoir créer Windows et l&#8217;avoir installer par défaut sur les PC ce qui fait qu&#8217;à l&#8217;explosion des ordinateurs personnels, tout le monde a pût bénéficier de Windows.
+À préciser que Apple tentait de concurrencer mais les PC d&#8217;IBM munit de Windows coûtait bien moins chère qu&#8217;un Macintosh !
+ 
+
+ 
+Nintendo : Avoir créé plein de licence et s&#8217;être inspirer de ce qui existait dans d&#8217;autres médias/appareils pour l&#8217;adapter dans l&#8217;univers vidéo-ludique.
+ 
+
+
+
+SEGA : Le fait d&#8217;avoir été complémentaire à Nintendo ce qui permettait une grande diversité dans le marché vidéo-ludique tout en permettant de faire progresser des technologies comme le motion-capture, internet,&#8230; avec des consoles à l&#8217;image des
+jeux-vidéos proposés, de plus en plus exigeant et libre !
+ 
+
+ 
+Atari : Le fait d&#8217;avoir été pendant les premières années le seul constructeur de console de jeu-vidéo qui vend ses produits sur différents marchés. C&#8217;est aussi due au fait que les jeux-vidéos créés n&#8217;avait aucune censure, aucun contrôle sur la qualité et donc que la ludothèque était gigantesque et composé essentiellement de jeu basé sur des licences à succès !</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

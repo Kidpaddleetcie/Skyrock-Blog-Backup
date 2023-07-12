@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Ressources2Glin]Eventuel suite de &quot;posséder par un autiste&quot; - Commentaires</title>
+  <description>Bien sur, je fais genre que je connais bien le monde,
+Mais n&#8217;ayant pas encore été employé,
+Je ne peux être conscient de son état immonde,
+Moi qui est toujours crût aux égalités,
+Les SDFs et les étrangers sont toujours mis de côté !
+ 
+Je n&#8217;ai jamais participé à une manifestation,
+Je n&#8217;en crois que ce que dit la TV,
+Mon jugement est donc biaisé,
+Mais s&#8217;il y a mécontentement, il y a dénonciation.                     
+ 
+On était probablement prêt pour la mondialisation,
+Mais les grandes sociétés aussi l&#8217;étaient,
+Des industries américaines vendant des produits chinois en Europe,
+On a du mal a dénoncé les marques dans le rap, la pop et le hip-hop,
+Les réglementations sont toujours remaniées,
+C&#8217;est un phénomène de l&#8217;industrialisation et de l&#8217;aliénation.
+ 
+Bon sang de peuple manipulé,
+L&#8217;archipel du goulag a eût raison du communisme,
+Ça fait 30 ans qu&#8217;on creuse nos tombes dans le capitalisme,
+Et par le manque d&#8217;alternative rien ne peut changer !
+ 
+L&#8217;économique prône sur l&#8217;éthique,
+L&#8217;argent passe avant les gens,
+Préférons le licenciement aux remises en question,
+Vous désirez une nouvelle preuve de l&#8217;effet néfaste de la capitalisation.
+ 
+ 
+ 
+La technologie avance de plus en plus,
+On comprend nos systèmes de moins en moins,
+Les grandes sociétés s&#8217;entre-suce,
+On n&#8217;est plus vraiment maîtres de nos destins.
+ 
+J&#8217;en tire la conclusion qu&#8217;on est des autistes,
+À ne pas s&#8217;ouvrir et s&#8217;unir contre cette vie triste,
+Faire plus œuvre d&#8217;altruisme,
+Accepter le communisme,
+Arrêter de faire preuve d&#8217;égoïsme,
+Mettre fin aux oligarchies,
+Pour que le terrain démocratique soit défraichi,
+Qu&#8217;on puisse enfin semer l&#8217;avenir sans lobbys !
+ 
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

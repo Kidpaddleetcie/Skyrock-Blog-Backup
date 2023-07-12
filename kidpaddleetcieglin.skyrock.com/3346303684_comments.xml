@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Critiques2Glin ] Dailymotion peut être bien mieux - Commentaires</title>
+  <description>Dailymotion, c&#039;est une des nombreuses initiatives modernes françaises à s&#039;être fait détrôner par un service américain.
+ 
+J&#039;ai connu Dailymotion en 2007 car ce fût le premier service de streaming employé en France pour publier nos vidéos sur les blogs Skyrock mais aujourd&#039;hui, il n&#039;est plus du tout comme avant.
+ 
+En effet, son absent aujourd&#039;hui de la plateforme :
+
+- Les annotations ;
+- Les commentaires ;
+- Les étoiles/favoris ;
+- Les widgets ;
+- Les groupes ;
+ 
+La plateforme a surtout perdu de son aspect &quot;communautaire&quot; pour devenir une plateforme de VOD ( Video On Demand ) qui sert, notamment, aux sites webs d&#039;informations en France ( même s&#039;il y a une migration sur YouTube depuis 2017 de plus en plus forte ).
+ 
+ 
+Fort bien, son aspect communautaire n&#039;était pas déjà énorme à l&#039;époque à cause des blogs donc c&#039;est un mouvement assez logique de la part de Papymotion mais dans ce cas, il y a plusieurs défauts sur la plateforme qui n&#039;aide pas à la visibilité. Le petit Glin, jeune dev, va vous en parler :
+ 
+ 
+La visibilité des vues
+ 
+Que Dailymotion ne soit qu&#039;une plateforme de passage, je veux bien MAIS ça n&#039;empêche que quand je recherche une vidéo sur la plateforme et plus précisément sur une chaîne, j&#039;aimerais savoir lesquelles font le plus de vues.
+ 
+La notion de temps est intéressante pour montrer l&#039;abandon de la plateforme mais c&#039;est trop triste de ne pas voir ce qui a fonctionné chez les autres pour aider à relancer.
+ 
+
+ 
+ 
+Le mode sombre absent
+ 
+Que ça soit dans la section &quot;partenaire&quot; ( où on publie les vidéos ) ou juste dans la navigation principale du site web, il n&#039;y a pas de mode sombre.
+ 
+Je sais qu&#039;on peut employer une extension sur son navigateur pour avoir un mode sombre/nuit mais l&#039;idéal est que le site web adapte son esthétique en fonction de l&#039;utilisateur, pas l&#039;inverse.
+ 
+Le &quot;background-color: #fff;&quot; est à proscrire pour la santé de nos yeux en 2021 ! On est sur PC, Tablette, Smartphone, TV,... autant de jour comme de nuit donc le confort de l&#039;utilisateur est primordial. 
+ 
+
+ 
+ 
+La publication de vidéo
+ 
+On a le minimum légal pour la publication de vidéo :
+
+- Le titre
+- La description
+- Les mots-clés
+- La limite d&#039;âge
+- La langue
+- La catégorie de vidéo
+- La confidentialité
+- ( Dans les options avancée ) les limites géographiques
+- ( Dans les options avancée ) les sous-titres
+ 
+ 
+Même la miniature on doit la faire à partir de la vidéo et pas importer une image de notre ordinateur ! Avant, on pouvait mais maintenant c&#039;est juste la frame.
+ 
+Ce qui manque/devrait être ajouter selon moi :
+
+- Les vignettes ( miniatures ) personnalisées
+- Les langues alternatives ( pour les sous-titres, titres et descriptions )
+- Le système des 3 hashtags permettant de donner 3 mots-clés de recherche précis
+- Les annotations/fiches pour proposer d&#039;approfondir les sujets mentionnés dans les vidéos VIA des liens vers d&#039;autres vidéos ou des sites webs
+- Un système de traitement de texte pour la description ( pour structurer un peu, comme un billet de blog )
+- La fonction pour publier la notification sur Twitter/Facebook/...
+- La création de chapitre pour segmenter la vidéo en plusieurs parties nommées
+  
+
+ PAR CONTRE L&#039;UPLOAD EST BEAUCOUP PLUS RAPIDE QUE SUR YOUTUBE !!!
+mais on est limité à 10 vidéos par jour...
+  
+
+ 
+  
+L&#039;intégration du lecteur
+ 
+Vu que c&#039;est l&#039;outil le plus utilisé de la plateforme, il est normal que c&#039;est lui qui a bénéficié du plus fonction de personnalisation.
+  
+On peut personnalisé :
+ 
+- L&#039;identifiant du player ( et donc, pouvoir jouer avec le javascript une fois intégrer à notre site web )
+- L&#039;autostart 
+- Picture-in-Picture ( le fait que la vidéo s&#039;affiche en petit en bas à droite de la page quand vous scroller en-dehors de sa zone allouée )
+- L&#039;aspect ratio ( les dimensions de base du lecteur, pas de la vidéo en elle-même)
+- La couleur de la barre de défilement
+- L&#039;affichage des boutons du lecteur et ses relations ( logo Dailymotion, informations de la vidéos, lien de la chaîne,... )
+- Génération du code d&#039;intégration en EmbedScript, LibraryScript et Iframe.
+  
+ 
+C&#039;est fou comment cette section est très complète et que le seul reproche que je puisse faire est qu&#039;il soit avec un fond blanc... et que les conseils/indications sont en anglais et pas en français comme le reste de la page !
+ 
+
+
+  
+Je me permet de saluer grandement cette fonctionnalité parce qu&#039;elle est beaucoup plus complète que son équivalent de YouTube !
+  
+Le fait de pouvoir &quot;display:none&quot; le logo de Dailymotion, avoir une adaptation de la taille du lecteur en fonction de si on est sur mobile ou sur PC est vraiment quelque chose de bien.
+ 
+
+Dailymotion maîtrise le responsive design sur son intégrateur et est beaucoup plus permissif que celui de YouTube.
+ 
+Dailymotion Analytics 
+ 
+Bon... ça s&#039;appelle juste &quot;Statistiques&quot; et on a qu&#039;un seul sous-menu à l&#039;onglet qui s&#039;appelle &quot;Vue d&#039;ensemble&quot;. Je ne sais pas pourquoi ils n&#039;ont pas directement fait un bouton au lieu d&#039;un onglet mais passons...
+ 
+Cette page est vraiment bien dynamique, les données sont faciles à lire et on a même... TOUT DE YOUTUBE ! 
+ 
+Vraiment, c&#039;est juste YouTube Analytics mais avec la sobriété de Dailymotion. 
+Personne partage mes vidéos sur Discord mais quelques ont cliquent dessus sur des résultats de recherche Google, Dailymotion, Bing, Facebook,... 
+ 
+C&#039;est fou mais c&#039;est archi-complet, détaillés, dynamique et N&#039;OUVRE PAS UNE FENÊTRE POP-UP POUR AVORI DES VUES D&#039;ENSEMBLE COMME SUR LA PLATEFORME DE STREAMING DE GOOGLE !
+ 
+Vraiment, à part le fait que ça met bien en avant l&#039;échec de Dailymotion avec des chiffres à l&#039;appuie sur un fond blanc qui me pète les yeux, je félicite les développeurs pour le design et les informations données.
+ 
+
+
+
+Les pages de visionnement
+ 
+Pfouuuuu... c&#039;est chaud !
+ 
+Déjà, il faut que la vidéo charge sinon le reste de la page ne charge pas...
+ 
+Genre, on ne peut pas attendre que la vidéo se charge en lisant la description à défaut des commentaires qui ont disparu à jamais.
+ 
+Je trouve que c&#039;est horrible les miniatures en-dessous pendant qu&#039;on regarde la vidéo. Par contre, quand on regarde sur TV depuis un cast ou qu&#039;on regarde en plein-écran, le lecteur est moins gênant que sur YouTube car beaucoup plus fin.
+ 
+Vous vous rendez compte que Dailymotion a le premier avantage, par rapport à YouTube, de se faire oublier ? C&#039;est triste et intelligent à la fois.
+ 
+
+Les descriptions ne prennent pas les hashtags mais les liens sont bien là !
+
+ 
+Les choses qu&#039;on peut faire sur la page :
+ 
+- Regarder la vidéo
+- Liker la vidéo
+- Mettre la vidéo dans la playlist &quot;à regarder pour plus tard&quot;
+- Partager la vidéo sur Facebook, Twitter, en lien abrégé ou en vidéo intégré Iframe
+- Ajouter la vidéo à une playlist créée au préalable
+- Signaler la vidéo
+- Aller voir une autre vidéo 
+-...
+ 
+Alors... plusieurs choses intéressantes, à remarquer :
+ 
+- &quot;Liker la vidéo&quot; et &quot;Á regarder pour plus tard&quot; font comme sur YouTube en mettant les vidéos dans deux playlists distinctes
+- Il n&#039;y a pas beaucoup de réseaux sociaux/applications sociaux dans les options de partages
+- Quand on signale une vidéo, on peut préciser la partie qu&#039;on signale ou toute la vidéo
+- On peut lire la description entièrement sans quitter la vidéo des yeux. Le scroll se fait uniquement dans la zone de la description
+- Le lecteur est beaucoup plus rapide que celui de YouTube
+
+ 
+Maintenant ,je tiens à relativisé toutes ces bonnes choses par le fait qu&#039;on n&#039;a pas à s&#039;encombrer d&#039;une zone &quot;commentaires&quot; et des fonctionnalités fiches/annotations/écrans de fin.
+ 
+
+ 
+
+Conclusion
+ 
+Dailymotion a amélioré son intégration afin que son lecteur soit maniable pour l&#039;ensemble des services d&#039;informations en ligne.
+ 
+Cette amélioration a été faîtes au détriment des fonctionnalités communautaires mais la plateforme reste vivable de part ses fonctionnalités de gestion administratives/statistiques.
+ 
+Selon moi, la priorité est de revoir l&#039;affichage au niveau couleur de fond ( assombrir le fond ) et la place de la vidéo sur les pages de visionnement ( descendre les miniatures, agrandir la place de la vidéo et de la description ).
+ 
+Ce que j&#039;aimerais en plus c&#039;est qu&#039;on aille des fonctionnalités de personnalisation bien plus avancées ( éditeur de texte pour la description , importation de miniature , ... ).
+ 
+Dailymotion n&#039;est pas mort, il a juste fait peau neuve et changer de type de service.
+ 
+KidpaddleetcieGlin
+
+
+Mon Dailymotion:  https://www.dailymotion.com/Kidpaddleetcie
+
+
+
+
+AJOUT DU 12 DÉCEMBRE 2021
+
+
+
+&#65279;&#65279;J&#039;ai découvert que Dailymotion avait encore des filtres pour les playlists ! Chose que YouTube a retiré de ses fonctionnalités.
+
+
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

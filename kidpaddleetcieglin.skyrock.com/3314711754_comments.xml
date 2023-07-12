@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Idées2Glin]Artwitch! - Commentaires</title>
+  <description>
+J&#039;aime bien ma théorie comme quoi chaque vents d&#039;inspirations artistiques provient d&#039;un contraste entre un désir du public et de son parfait contraire!
+ 
+Cette théorie qui n&#039;est qu&#039;un ramassis d&#039;hypothèse tournant autour de l&#039;influence et de la création même du monde me permet de mettre en avant le fait qu&#039;on peut créer un jeu de carte des styles artistiques où pour avoir un avantage, il faut arriver après ou être arriver bien avant le courant artistique adverse!
+ 
+Imaginez ça: J&#039;utilise &quot;Symbolisme&quot; pour contrer ton &quot;Réalisme&quot; et tu me défonces avec &quot;Cubisme&quot; que tu combines avec &quot;Futurisme&quot;.
+ 
+On pourrait aussi faire un genre de guerre de territoire avec chaque grand artiste représenté où les abstraits seront contre les &quot;proches du réel&quot;!
+ 
+En gros, nous aurons les courants abstraits:
+-Dadaïsme,
+-Cubisme,
+-Futurisme,
+-Art Abstrait,
+-Fauvisme,
+-Symbolisme.
+ 
+Contre les proches du réels:
+-Surréalisme,
+-Néoclassicisme,
+-Romantisme,
+-Impressionnisme
+-Réalisme.
+ 
+Certes, les genres abstraits sont plus nombreux mais les artistes seront sélectionnés afin de créer une égalité des chances!
+ 
+L&#039;idée du nom &quot;Artwitch&quot; provient d&#039;&quot;art&quot; et de &quot;witch&quot; afin de joué avec un semblant de &quot;artiste&quot; mais en mettant en avant la mécanique de gameplay principale qui est de jeté des sorts qui ont avoir avec le courant choisi. 
+ 
+Bien sur, je suis conscient que plein d&#039;artiste font partit de plusieurs courants mais on ne prendra QUE celle qui est le plus reconnu en évoquant son nom!
+ 
+Chaque artiste pourra obtenir des bonus de terrain en fonction du pays où il se trouve ainsi que des bonus de domaine en fonction du domaine artistique où on l&#039;attaque... parlons donc de ces caractéristiques!
+ 
+Un artiste possède 3 caractéristiques de base: Nationalité(s),Domaine(s) et Courant.
+Ces 3 caractéristiques sont utilisés pour obtenir des bonus lors des affrontements groupés et permet de prendre l&#039;avantage lors de combats semblant être perdu d&#039;avance!
+ 
+Les techniques spéciales par courants:
+Dadaïsme: Hasard (Un pile ou face permet d&#039;enchaîner les coups critiques);
+Surréalisme: Inconscient (Fait perdre 5 tours à un artiste adverse);
+Cubisme: Espace (Change la perception du terrain et fait baisser la précision des artistes adverses);
+Futurisme: Dynamique (Change la perception du temps et augmente la vitesse des artistes alliés);
+Art Abstrait: Abstrait (Change la perception de la nationalité et fait perdre les avantages de nationalité adverse);
+Néoclassicisme: Antique (Améliore la défense et l&#039;attaque à fond de l&#039;artiste);
+Romantisme: Mort (Tue un artiste allié pour tuer deux artistes adverses);
+Réalisme: Vue (Voit toutes les compétences des artistes adverses ainsi que leurs faiblesses);
+Impressionnisme: Rapidité (Esquive pendant 5 tours l&#039;ensemble des attaques);
+Fauvisme: Couleur (Augmente l&#039;attaque de l&#039;ensemble des artistes alliés);
+Symbolisme: Spiritualité (Copie la technique spéciale du courant d&#039;un artiste adverse);
+
+ 
+Parlons maintenant des attributs:
+Vie: Sert à mettre une condition de victoire/défaite
+Attaque: Sert à infliger des dégâts
+Défense: Sert à absorber des dégâts
+Vitesse: Sert à esquiver
+Spécial: Sert une fois chargé à activer la technique spéciale propre au courant.
+ 
+Le maximum pour chaque attribut est 100,
+L&#039;esquive peut être utilisé si sa valeur est supérieur ou égale à la défense,
+Le spécial doit être chargé à 100 pour être utilisé, elle se remplit en fonction des dégâts absorbés et infligés divisé par 10.
+ 
+Parlons des domaines qui détermine le premier pouvoir:
+
+l&#039;architecture: Améliore les défenses
+sculpture: Améliore les vies
+arts visuels (peinture , dessin, etc): Améliore le spécial
+musique: Améliore la vitesse
+littérature (poésie ou dramaturgie): Améliore le spécial
+arts de la scène (théâtre, danse, mime, cirque): Améliore l&#039;attaque
+cinéma : Améliore tout les attributs
+ 
+(inspiré de https://fr.wikipedia.org/wiki/Sept_arts )
+
+Voici donc l&#039;histoire du jeu:
+Les grandes sociétés de production artistiques dominent le monde et font travailler les artistes jusqu&#039;à que le public les détruisent et les poussent au suicide. La résistance étant en sous-nombre à cause des vagues de collaborations avec les articides qui rapportent beaucoup d&#039;argent, ils préparent un plan ultime très capillotracté: Générer les grands artistes dans des poupées de bois afin de les faire combattre les artistes d&#039;aujourd&#039;hui et ainsi affaiblir les forces des assassins de l&#039;art.
+ 
+Malheureusement, certains de ces artistes du passé ne veulent pas lutter contre le système actuel et feront en sorte d&#039;empêcher le bon fonctionnement du plan d&#039;atteindre les États-Unis d&#039;Amérique en partant d&#039;un pays Européen ou l&#039;Angleterre. 
+ 
+ 
+ 
+Comme vous l&#039;aurez saisi, il faudra tracé son parcours en fonction des cartes choisies et du pays où vous désirez commencer SACHANT QUE VOUS ALLEZ DEVOIR PARCOURIR L&#039;ENSEMBLE DE L&#039;EUROPE afin de rallier à votre idéal de système les artistes rencontrés.
+ 
+Bien sur, c&#039;est celui qui aura eût le plus de pays et donc le plus de victoire en fin de partie qui pourra renversé ou prolongé le système actuelle.
+ 
+Comment se déroule une partie:
+Le jeu commence sur une carte de l&#039;Europe plastifiée où vous faîtes un cercle avec une croix dessus si vous êtes de la résistance ou avec un $ sur le cercle si vous êtes les dominants. Ces cercles doivent se trouver sur le pays où commence le périple du joueur.
+ 
+ATTENTION: Les pays choisis ne peuvent être limitrophes.
+ 
+On commence chacun avec un artiste choisi au hasard dans le paquet et on doit conquérir des territoires en se battant avec l&#039;artiste neutre ou adverse du territoire d&#039;à-coté! C&#039;est du 1 VS 1 !
+ 
+Une fois que la résistance rencontre les dominants, c&#039;est un combat de 5 VS 5 et si une des deux fractions est en sous-nombre, ils fuient deux pays en arrière et doivent trouver un chemin alternatif. Cet règle peut être contré en choisissant de quand même se battre mais alors les artistes adverses (jusqu&#039;à 3) pourront rejoindre l&#039;équipe du joueur en sous-nombre s&#039;il gagne.
+ 
+ 
+Comment se finit une partie:
+Soit on fait un système de 20 tours (donc 20 combats) où on doit avoir plus de pays conquis que le joueur adverse (il y a 28 pays dans l&#039;Union Européenne);
+Soit on fait celui qui atteint le plus vite 20 artistes (sachant qu&#039;on commence avec un artiste par partie);
+Soit on fait contre la montre en session d&#039;1H (version numérique du jeu alors);
+Soit on fait celui qui obtient le plus vite l&#039;ensemble d&#039;un courant...comme un jeu des 7 familles ou de pioche...mais c&#039;est idiot!
+ 
+
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

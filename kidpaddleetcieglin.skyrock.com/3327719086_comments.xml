@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Avis2Glin]La fin de Trash ! - Commentaires</title>
+  <description>Comme vous le savez tous, la chaîne Trash est désormais abandonnée au fur et à mesure par ses membres excepté par Néoxys.
+ 
+Cette fin a surtout été donné par Ico,qui est un des fondateurs de Trash avec Bronol et Néoxys, dans sa vidéo &quot;Je quitte Trash&quot; posté le 8 novembre 2019 où il met en avant un nouveau départ pour lui.
+
+ 
+Cette vidéo a eût un effet de bombe car Bronol sortit une vidéo du même titre pour s&#039;exprimer sur ce départ inattendu et de sa perte de motivation et d&#039;assurance d&#039;encore faire partit de Trash, du collectif qui n&#039;est plus vraiment un vu que ça fait 8 mois ( vers avril 2019, le drama VoxMenteurs) que Bronol ne sort plus rien chez Trash et que la communauté n&#039;est plus aussi active depuis le drama VoxMenteurs.
+
+ 
+
+ 
+Bien sur, Bronol étant le deuxième fondateur de Trash avec Ico, le dernier est Néoxys... celui qui a fait des misères à Laupok, Alkor et certainement d&#039;autres.
+ 
+On parle de moquerie, de coup de pression/menaces , de &quot;oui mais nous sommes une famille, c&#039;est normal !&quot;,... Néoxys manipulerait les autres Trasheurs d&#039;après les témoignage de Léo Techmaker et Alkor !
+ 
+
+
+
+
+ 
+Ce qu&#039;apporte les témoignages d&#039;Ascuns , de Quantum et la deuxième vidéo de Léo Techmaker sur l&#039;affaire c&#039;est que tout était chouette avant le drama VoxMenteurs et la réunion qu&#039;ils ont fait pour se prémunir d&#039;un éventuel VoxMenteurs MadeInTrash... ce qui est, dans les fait, pas le cas aujourd&#039;hui vu que Néoxys ne se présente pas comme étant un nouveau Thomas Cyrix... juste quelqu&#039;un qui a fait sa lois et qui se sent trahis que tout le monde se soit barré sur leurs chaînes personnels pour faire pleins de vidéos laissant seul Néoxys à faire le contenu de Trash... c&#039;est mon interprétation !
+ 
+
+
+ 
+Désormais, on/je attend la vidéo de Néoxys pour connaître l&#039;avenir de la chaîne YouTube &quot;Trash&quot; ainsi que ses explications sur son comportement... les yeux dans les yeux !
+ 
+Voila
+ 
+KidpaddleetcieGlin
+
+
+
+Et voila, je ne sais plus qui croire maintenant...
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

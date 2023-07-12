@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation2Glin]L&#039;évolution du support de l&#039;image(partie 3:Le Moyen-Âge)! - Commentaires</title>
+  <description>Le Moyen-Âge : L&#039;ère des forgerons, de la religion et des rois
+Peu après la chute de l&#039;Empire Romain d&#039;occident en 476 après J.-C., l&#039;Europe connaît une nouvelle époque où la domination romaine n&#039;est plus d&#039;actualité, que les peuples se rediversifient et les rois et le clergé avares prennent le pouvoir.
+ 
+C&#039;est à cette époque où on retrouve les premières mosaïques pour les fenêtres des églises.
+« Une Mosaïque est un assemblage de petits cubes réguliers de marbre, de pierre, de matières vitrifiées, qui, réunis à l&#039;aide de mortier, de stuc, ou d&#039;un mastic formé de chaux et de poudre de marbre, ou de résine et de plâtre, forment des dessins, des ornements, des figures même. » (cosmovisions.com, 2017)
+
+ 
+Même si ce sont les Perses qui ont commencé à faire des mosaïques, ils ne se contentaient que à des ensembles de cubes à deux couleurs. C&#039;est donc au moment où l&#039;art chrétien
+(et donc le christianisme) est le plus dirigé que la mosaïque va gagner en couleur, en technique et aussi en précision par conséquent. Ces mosaïques pavent les sols de certaines chapelles, basiliques ou encore de nécropole.
+ 
+Les vitraux aussi vont se faire pour ornés les vitres des églises d&#039;Europe. Ces vitraux se feront à partir de peinture de plomb (parce que ça tient mieux que d&#039;autres formes de peinture) et d&#039;une structure en fer afin de maintenir les plaques en verre dans la position qui leur ont été attribuer.  C&#039;est en Italie que l&#039;emploi de la couleur sur le verre a été signalé pour la première fois vers le 8ème siècle mais la mise en plomb commencera à être pratiqué au 11ème siècle.
+
+Sources:
+ 
+sbetty. (2017, Mars 31). L&#039;évolution de l&#039;image.
+Récupéré sur intellego.fr: https://www.intellego.fr/soutien-scolaire-1ere-annee-cap/aide-scolaire-francais/l-evolution-de-l-image/51496
+
+
+cosmovisions.com. (2017, Mars 31). La Mosaïque.
+Récupéré sur cosmovisions.com: http://www.cosmovisions.com/artMosaique.htm
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

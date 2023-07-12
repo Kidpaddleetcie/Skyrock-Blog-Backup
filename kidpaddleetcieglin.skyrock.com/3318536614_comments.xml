@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [PUB]SoloLearn - Commentaires</title>
+  <description>
+Depuis quelques temps déjà, je me suis inscris à SoloLearn.com!
+ 
+Voici mon profil :https://www.sololearn.com/Profile/11699913
+ 
+Le site est fait pour apprendre de manière autonome des langages de programmation! 
+ 
+Chaque fois que vous avez finis les tutoriels,exercices,... d&#039;un langage de programmation, vous gagnez le badge correspondant à ce langage de programmation!
+ 
+Les langages de programmation proposés sont: HTML,CSS,Javascript,C++,PHP,SQL,Java,Python,Swift,C#,Ruby,JQuery et C !
+ 
+En gros, c&#039;est surtout pour la programmation Web (HTML,CSS,Javascript, PHP, JQuery et SQL)
+et la programmation d&#039;application (Java,Python,Swift,C#,Ruby et C )!
+ 
+Ce site peut servir pour prouver à vos employeurs que vous avez les bases en programmation mais ce site peut aussi servir à vous (re)mettre à niveau dans le coding!
+ 
+Voila!
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3318536614_comment_1.html#c-20247443022" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3318536614_comment_1.html#c-20247442342" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3318536614_comment_1.html#c-20247443022">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3318536614_comment_1.html#c-20247443022</link>
+		<dc:date>2018-11-29T16:48:49+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;est vrai mais SoloLearn le présente en tant que langage de programmation! </description>
+		<content:encoded><![CDATA[
+			C&#039;est vrai mais SoloLearn le présente en tant que langage de programmation! 
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3318536614_comment_1.html#c-20247442342">
+		<title>Commentaire de Visiteur</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3318536614_comment_1.html#c-20247442342</link>
+		<dc:date>2018-11-29T16:46:27+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Visiteur</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Juste un truc à dire sur le HTML, le html n&#039;est pas un langage de programmation mais un langage de balisage x)</description>
+		<content:encoded><![CDATA[
+			Juste un truc à dire sur le HTML, le html n&#039;est pas un langage de programmation mais un langage de balisage x)
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

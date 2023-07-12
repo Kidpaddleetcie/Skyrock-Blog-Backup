@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Présentation]Miicro-Ondes : Exporter votre Mii! - Commentaires</title>
+  <description>Comme vous le savez, je suis un consommateur de console Nintendo et les Nintendo 3DS et WiiU ont décidé de mettre les Miis comme avatar obligatoire aux différents comptes sur les consoles!
+ 
+Après 3 ans de WiiU et 5 ans de 2DS/New3DS pour ma part, je me suis attaché à mon petit Mii mais...Comme c&#039;est triste de se dire que je ne peux pas le manipuler au-delà des console!
+ 
+Grâce à un logiciel en ligne gratuit trouvable à ce lien ( https://desmu.github.io/Miicro-Ondes/ ) vous pouvez exporter votre Mii principal en 360° au format gif!
+ 
+C&#039;est facile à faire, les étapes sont décrites sur la page et les fonctionnalités sont simples! 
+ 
+Un conseil de gars qui aime bien avoir du contenu ré-utilisable, pensez à mettre un fond magenta à votre Mii puisque la transparence ne fonctionne pas du tout et que même si elle fonctionnerait, elle ne ferait que ralentir le processus de production des différents gif!
+ 
+VOILA MON MII EST DÉSORMAIS SUR MON PC DANS UN .ZIP QUE JE PEUX EMPORTER PARTOUT!!! MOUAHAHAHAHAHAHAHAAAAAaaaaahhhh, le pied!
+
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

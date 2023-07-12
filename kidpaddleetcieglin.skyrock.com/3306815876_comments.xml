@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Comment?]Créer une présentation intuitif en CSS rapidement! - Commentaires</title>
+  <description>Pour terminer avec les logiciels en ligne permettant d&#039;abrégé des heures de code&amp;try
+(le fait de tester systématiquement le rendu de ses lignes de code), je vous présente &quot;CSS Accordion Slider&quot; que vous pouvez allez visiter par ce lien : http://accordionslider.com/
+
+En gros, il sert à faire une présentation en forme de classeur assez aisé à comprendre l&#039;intérêt à l&#039;air du touchscreen (écran tactile)!
+ 
+Les paramètres éditables au sein du logiciel:
+
+L&#039;orientation (horizontale ou verticale),
+
+Le nom de la class,
+
+Le nombre d&#039;intercalaire (c&#039;est comme ça que je traduis &quot;deck&quot; parce que &quot;table de lecture&quot; n&#039;est pas vraiment approprié pour ce cas!),
+ 
+La hauteur,
+ 
+La largeur de l&#039;espace alloué au contenu,
+ 
+Le niveau de l&#039;arrondissement de la bordure,
+ 
+La taille des bordures entre les intercalaires,
+ 
+La taille des titres des intercalaires,
+ 
+La longueur de l&#039;espace alloué au contenu,
+ 
+La taille de la bordure de la présentation.
+
+
+Au niveau de la couleur:
+Le fond des intercalaires,
+ 
+Le fond de intercalaire actif,
+ 
+Le titre des intercalaires,
+ 
+Les bordures entre les intercalaires,
+ 
+Le fond du contenu,
+ 
+Le texte du contenu,
+ 
+La bordure de la présentation.
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

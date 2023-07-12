@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> Absence du Glin - Commentaires</title>
+  <description>Je serais absent du 23 au 28 Juillet 2012!
+
+Vacances tout frais payer par la compagnie de Kidpaddleetcie!
+
+Je vais aller à La Panne (Nord-Ouest de la Belgique) </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251404835" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251401731" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251270791" />
+    	<rdf:li rdf:resource="https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251267465" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251404835">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251404835</link>
+		<dc:date>2012-08-31T14:26:05+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>A bientôt sur le Réseau Kidpaddleetcie!</description>
+		<content:encoded><![CDATA[
+			A bientôt sur le Réseau Kidpaddleetcie!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251401731">
+		<title>Commentaire de KidpaddleetcieGlin</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251401731</link>
+		<dc:date>2012-08-31T14:25:08+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>KidpaddleetcieGlin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Merci ô fan de Mario!</description>
+		<content:encoded><![CDATA[
+			Merci ô fan de Mario!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251270791">
+		<title>Commentaire de mario5454</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251270791</link>
+		<dc:date>2012-08-31T13:44:28+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>mario5454</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>a+</description>
+		<content:encoded><![CDATA[
+			a+
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251267465">
+		<title>Commentaire de mario5454</title>
+				<link>https://kidpaddleetcieglin.skyrock.com/3103740265_comment_1.html#c-18251267465</link>
+		<dc:date>2012-08-31T13:43:27+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>mario5454</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>bonne continuation </description>
+		<content:encoded><![CDATA[
+			bonne continuation 
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

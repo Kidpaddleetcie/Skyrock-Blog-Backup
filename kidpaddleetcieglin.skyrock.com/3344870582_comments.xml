@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Présentation ] La liste des règles de courtoisie pour Discord - Commentaires</title>
+  <description>
+ 
+Comme vous le savez, Discord est l&#039;outil le plus utilisé en cette période post-confinement pour gérer une communauté.
+ 
+Le soucis étant que comme c&#039;est bien démocratisé et qu&#039;il n&#039;y a pas vraiment de sensibilisation à la bonne gestion d&#039;une communauté au travers de l&#039;outil, il faut qu&#039;on se mette d&#039;accord sur une liste de règles de courtoisie pour éviter des problèmes sociaux graves ou des frustrations.
+ 
+1. Des règles légères
+Lorsqu&#039;on se connecte pour la première fois sur un serveur communautaire, on est censé accepter une liste de règle écrite par l&#039;administrateur.
+
+
+Le soucis est que cette liste de règle peut avoir des lacunes comme des termes trop généraux ou des sanctions trop fortes.
+
+
+Pour se faire, il vaut mieux rédiger les règles en fonction du niveau de sanction allant du plus fort ( les plus importantes, celles qui peuvent valoir un bannissement )
+au plus faible ( celles qui peuvent valoir une réprimande à la volée mais pas de blocage).
+ 
+Si vous désirez, voici une liste de règle qui correspond à cette règle de courtoisie :
+```fix
+1. Pas d&#039;images/vidéo/textes pornographiques. ( Sinon : Bannissement )
+2. Pas de spam et/ou d&#039;harcèlement. ( Sinon : Bloquer pendant 2h )
+3. Pas de gros mots. ( Sinon : Un avertissement )
+ 
+Au bout de 3 avertissements, c&#039;est un blocage de 2h et si récidive, une journée de blocage.
+```
+ 
+
+2. Bannissement à raison spécifiée
+ 
+Bannir quelqu&#039;un d&#039;un serveur peut-être fait pour plusieurs raisons et en voici 3 :
+- Compte piraté et donc sujet au spam de publicité pour arnaques
+- Comportement déviant/pénalement répréhensible
+- Nous sommes racistes donc tu dégages
+ 
+Bien sur, la dernière est méchante, le bannissement est un rejet et ne doit être utilisé qu&#039;en cas d&#039;extrême nécessité mais en donner sa raison doit être un réflexe, un devoir.
+ 
+Il n&#039;y a rien de plus frustrant que d&#039;être banni d&#039;un serveur sans savoir en quoi vous avez poser problème ( et c&#039;est d&#039;autant plus frustrant que le bannissement fait couper les ponts de communication avec les gens concernés par ce bannissement ).
+ 
+3. La modération ouverte
+ 
+La modération est quelque chose d&#039;important pour une communauté. 
+ 
+Son boulot est de bien faire respecter les règles en les expliquant et en débattant pour permettre à tout le monde de non-seulement les comprendre mais aussi les changer en fonction des lacunes révélées par les discussions.
+ 
+Non, un modérateur n&#039;est pas un robot. Il n&#039;est pas censé dire &quot; C&#039;est la règle, c&#039;est comme ça , nique toi et si tu contestes mon autorité, je te ban ! &quot;.
+ 
+C&#039;est contre-productif et ça va à l&#039;encontre du principe d&#039;une &quot;communauté&quot; qui est la &quot;communication&quot;. 
+ 
+Un modérateur doit être TOUJOURS ouvert au dialogue et , si incapable de se prêter à cette activité , doit passer le relais à un autre modérateur mieux disposé. 
+ 
+
+ 
+
+4. Langage courant
+ 
+Une communauté n&#039;est , en général , pas composé de diplômés des arts des lettres. 
+ 
+- Limiter les adverbes
+ 
+- Faire abstraction des règles orthographiques tant que c&#039;est phonétiquement compréhensible et que la structure est bonne
+ 
+- Employer des expressions d&#039;usage oral ( &quot;faire la part belle&quot;, &quot;franchement&quot;, &quot; Mais d&#039;où&quot; , ... )
+
+
+Le but est de se faire comprendre par tout le monde et de mettre une ambiance conviviale accessible. On parle aussi d&#039; &quot;inclusive&quot; mais n&#039;allons pas jusque-là pour autant, on est ni en entreprise, ni en communauté identitaire.
+
+
+
+
+ 
+Ces 4 règles peuvent être adaptés à d&#039;autres outils communautaires comme Amino ou les blogs Skyrock mais sont, selon moi, importantes pour une bonne gestion d&#039;une communauté, qu&#039;elle soit grande ou non.
+ 
+KidpaddleetcieGlin
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

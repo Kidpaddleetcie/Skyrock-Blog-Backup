@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ PUB ] Ma chaîne de YouTube Poop ! - Commentaires</title>
+  <description>Les YTPs2Glin  ( https://www.youtube.com/channel/UCLCizq_irSximVxMTpx9-zA/videos ) est une chaîne YouTube aillant plusieurs particularités:
+ 
+1. Les différentes époques
+
+Je fais des YTPs depuis 2008 ( vous ne retrouverez JAMAIS de YTP datant d&#039;avant 2013 sur la chaîne ) et j&#039;ai donc pleins de YTPs datant de différentes années et donc étant typique d&#039;une période !
+
+
+J&#039;ai tout classé en playlist: 
+2013 - 2014 - 2015 - 2016 - 2017 - 2018 - 2019
+
+
+Ce qui vient après est suffisamment récent pour être considéré comme &quot;actuel&quot; et correspond à mon passage de Magix Video Deluxe à Adobe Premiere .
+
+
+
+2. La Layton YTP Saga
+ 
+
+ 
+En 2019, j&#039;avais commencé sur la chaîne &quot;Poopulaire&quot; une suite de YouTube Poop racontant les aventures d&#039;un anti-héros sous les traits du Professeur Layton. 
+ 
+Aujourd&#039;hui, nous sommes à la saison 2 de cette série ( saga ) qui en est déjà à 8 YTPs canoniques et une Hors-Série. 
+ 
+La raison pour laquelle j&#039;ai voulu faire une YTP Saga sur Professeur Layton est d&#039;abord motivé par ma sœur qui est fan de l&#039;univers du Professeur mais aussi parce que c&#039;est une source viable sur le long terme tellement il y a de personnages, de lieux et surtout de cinématiques différentes.
+ 
+J&#039;ai d&#039;ailleurs fait un résumé de chaque épisode de la saison 1 ici :  https://kidpaddleetcieglin.skyrock.com/3338027660-Presentation-La-LaytonYTPSaga.html
+ 
+Vous pouvez voir tout les épisodes de la saison 1 ici: https://www.youtube.com/playlist?list=PLKkDenoSPcDe0wgfylIojDFxn3nLxc5Kv
+
+ 
+3. La variété des sources
+ 
+À part la source &quot;Professeur Layton&quot;,  aucune source n&#039;est vraiment régulière sur la chaîne. Je peux passer du &quot; Roi Lion &quot; à &quot; Spider ZED  &quot; et ensuite &quot; Norman &quot; pour finir sur &quot; Oui-Oui &quot;.
+ 
+Quand une source est susceptible de me faire un maximum de vue/abonnés/commentaires , je promets de l&#039;utiliser et je le signale dans une vidéo sur la chaîne &quot; Délires2Glin&quot; :
+ 
+
+ 
+Pendant l&#039;écriture de cet article, la chaîne stagne à 20 abonnés et les promesses sont :
+ 
+Jojo&#039;s Bizarre Adventure + Inazuma Eleven Go + Olive &amp; Tom pour le cap des 30 abonnés
+
+
+Les Lutins Plop pour le cap des 50 abonnés 
+
+
+Joueur Du Grenier pour le cap des 100 abonnés 
+
+
+&#8203;Radis Irradié pour le cap des 150 abonnés 
+
+
+3615 Usul pour le cap des 200 abonnés 
+
+
+ 
+Les paliers sont très important pour m&#039;assurer d&#039;avoir un boost de visibilité de temps en temps et permettre à la chaîne de débloquer toutes les fonctionnalités de YouTube afin de pouvoir proposer des YTPs beaucoup plus facile à présenter à un large publique. 
+ 
+ 
+Au delà de toutes ces particularités à la chaîne YTPs2Glin , je désire aussi mettre en avant de bons poopeurs en faisant des collaborations/ tennis. Les YTPs étant de moins en moins visibles, je ne suis pas contre de créer du trafic par alliance.
+ 
+ 
+Abonnez-vous donc à ma chaîne de YTP et aidez-moi à nous créer un réseau de poopeurs beaucoup plus actif et visible !
+ 
+
+ 
+https://www.youtube.com/channel/UCLCizq_irSximVxMTpx9-zA/?sub_confirmation=1  
+KidpaddleetcieGlin  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

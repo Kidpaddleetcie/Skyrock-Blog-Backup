@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Pourquoi]On peut générer 256 niveaux dans Super Mario Bros sur Famicom ! - Commentaires</title>
+  <description>
+ 
+Dans la vidéo de Ed Layton, on apprend que la première aventure en scrolling de Mario a la capacité, selon les glitchs (défaillance électronique ou électrique) que nous feront, de généré de nouveaux niveaux !
+ 
+Certains de ces niveaux sont semblables à ceux pré-codé par les développeurs de chez Nintendo mais avec des variantes et d&#039;autres sont justes inédits...
+ 
+Comment ça se fait ?
+ 
+Comme vous le savez, les jeux en 8-bit ( les jeux sur Nes,Famicom,Master System,Commodor 64,... ) fonctionnent avec 1 octet ( 1 &quot;Byte&quot; chez nos amis &#039;ricains et autre anglosaxons) et donc sont très pauvres en mémoire !
+ 
+Pour optimiser la mémoire d&#039;un jeu, on créer des patternes (des tuiles) qui seront reproduit dans le jeu selon un code de mémoire se trouvant dans un des 256 cases (slots) possibles !
+ 
+256 provient du nombre de possibilités possible dans 8 bit (un bit pouvant prendre 0 et 1 comme valeur et qu&#039;on compte les bits en commençant par &quot;0,1,2,3,4,...&quot;).
+ 
+Source: https://fr.wikipedia.org/wiki/255_(nombre)
+ 
+La source nous donne déjà un élément intéressant sur Super Mario Bros. , le nombre de vie est limité à 255 (vu qu&#039;on peut atteindre &quot;0&quot; en vie, on peut dire qu&#039;on peut perdre 256 fois avant le &quot;Game Over&quot; avec 255 vies) donc la théorie des 256 découlant du 8-bit est vérifiable dans Super Mario Bros. !
+ 
+ 
+Au-dessus, je parlais du fait que certains niveaux &quot;glitchés&quot; sont d&#039;origine des variantes des niveaux pré-codés... nous pouvons donc en conclure qu&#039;un glitch provoque juste un changement de variable dans le code d&#039;un niveau ou du jeu... Théoriquement, on est dans une manipulation de valeurs comme on peut faire avec un ActionReplay ou une injection de mémoire volatile dans la Ram !
+
+Le sympathique Laupok avait, en 2016, fait une émission où il nous parlait des cheatcodes pouvant modifier SuperMarioBros. !
+
+
+Remarquer que les CheatCodes sont en hexadécimale (des chiffres et des lettres), le logiciel qu&#039;il emploi devrait donc injecter du code relativement long puisqu&#039;il doit convertir tout ça en 8-bit (et pas en 16-bit) !
+Le premier code étant &quot;078718&quot; en base 16, nous pouvons le convertir en binaire pour obtenir &quot;1111000011100011000&quot; ce qui vaut &quot;1703430&quot; en base 8... oui...c&#039;est bien mais ça nous avance à quoi ?
+
+
+Ce qui est certains, c&#039;est que la limite du 8-bit est 256 et que le nombre obtenu est supérieur LARGEMENT à 256 ! 
+
+
+Il est certain que le nombre obtenu va donc affecter plus d&#039;entité qu&#039;un seul dans le jeu... le premier CheatCode fournit par Laupok faisant en sorte que le jeu:
+- N&#039;affiche plus le temps,
+- La musique n&#039;est plus affecté au temps QUAND celui-ci atteint 100 secondes !
+- Mario ne meurt pas à la fin du temps,
+ 
+Cela fait 3 conditions dont une qui a une sous-condition... 17 034 30... peut-être qu&#039;on s&#039;égard mais je pense que les valeurs peuvent être divisé en fonction de ce qui fait dépasser 255 et donc change d&#039;adresse de mémoire dans la RAM... il faut que Laupok nous le confirme par une vidéo sur le fonctionnement des codes qu&#039;il introduit !
+
+
+Tout s&#039;explique, c&#039;est un système de conversion de code et d&#039;injection dans la RAM du jeu... comme nous l&#039;a expliquer Ed Layton mais ici, on utilise un GameGeni (un équivalent au ActionReplay) qui va se charger de faire ce que nous ferons avec une cartouche d&#039;un autre jeu profitant de la mémoire volatile !
+ 
+ 
+Du coup, il serait possible de créer des niveaux différents rien qu&#039;en fonction de ces injections de code et... ET VOUS LE SAVIEZ DÉJÀ RIEN QU&#039;AVEC LA VIDÉO DE ED LAYTON MAIS IL Y A UNE THÉORIE ENCORE PLUS GRANDE DERRIÈRE TOUT CELA,JE VOUS L&#039;AI DONNÉE ! 
+ 
+Maintenant, je vous partage la RomHack pour jouer dans les niveaux glitchés: https://www.gamulator.com/roms/nes/mario-w-256-smb1-hack
+ 
+ 
+Vous remarquerez que les 256 niveaux sont représentés par d&#039;abords des chiffres (jusqu&#039;à 8...comme par hasard) et après par des morceaux d&#039;image (pictures elements...pic&#039;s el&#039;...PIXEL !!) provenant très probablement de l&#039;adresse mémoire de la Ram concernant le graphisme du jeu !
+ 
+Voila, vous en avez appris des choses et je suis fier de vous...et de moi !
+ 
+KidpaddleetcieGlin
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

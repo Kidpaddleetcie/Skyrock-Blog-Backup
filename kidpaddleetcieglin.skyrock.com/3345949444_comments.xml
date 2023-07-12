@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Aide droit ] Les deux activités de la justice - Commentaires</title>
+  <description>
+image provenant de https://lanouvellegazette.sudinfo.be/263215/article/2018-08-07/chaleur-magistrats-avocats-et-greffier-carolos-tombent-la-toge 
+
+
+
+La justice est composée de 2 activités :
+ 
+Avant le procès ( Magistrature debout )
+ 
+Pendant et après le procès ( Magistrature assise )
+ 
+Un magistrat c&#039;est un officier public fonctionnaire faisant partit du ministère de la justice..
+ 
+ 
+Avant le procès ( Magistrat debout )
+ 
+Deux personnes vont agir dans le cadre de leur métier :
+ 
+Le juge d&#039;instruction:
+ 
+Il récolte les preuves pour établir l&#039;éventuel culpabilité d&#039;un présumé.
+C&#039;est le chef de la police judiciaire ( Ministère Intérieur ) 
+C&#039;est lui qui donne les mandats, les autorisations de mise sous écoute,...
+ 
+Il créé le dossier ficelé à d&#039;un prévenu au Procureur du Roi.
+ 
+Le Procureur du Roi : 
+ 
+Il représente les intérêts de la société qui traduit des présumés devant les tribunaux. C&#039;est l&#039;avocat de la société.
+ 
+Pendant et après le procès ( Magistrat assis )
+
+
+Ils sont membres du tribunal qui fait les jugements, des jugements exécutoires. Ils le font sur simple demande d&#039;un justifiable, de n&#039;importe qui.
+ 
+Il existe plusieurs moyens pour demander un jugement exécutoire :
+ 
+- Le greffier
+- Un avocat ( on peut en avoir un à la maison de la Justice si on prouve qu&#039;on n&#039;a pas d&#039;argent ) qui va demander au greffier
+- Le huissier de justice
+ 
+Le greffier se charge de déterminer et d&#039;enregistrer le jour du procès, l&#039;avocat prend en charge le dossier de la défense de son client et le huissier de justice va vers l&#039;accusé pour le prévenir qu&#039;il est accusé et convoqué au tribunal. L&#039;ensemble font des rappels dans les 15 jours.
+ 
+ 
+Un jugement est composé de 3 parties :
+- Faits
+- Impositions/décisions
+- Explications
+ 
+On reçoit le jugement après 30 jours
+ 
+On peut avoir une nouvelle chance en Cours d&#039;Appel en mise à zéro ( on repart sur rien ).
+La Cours de Cassation vérifie si la Cours d&#039;Appel a fait son travail dans les règles, s&#039;il n&#039;y a pas eut de fraude.
+ 
+ 
+Sources et infos supplémentaires :
+https://www.vivreenbelgique.be/10-institutions-belges/la-justice
+ 
+https://justice.belgium.be/fr/ordre_judiciaire/qui_est_qui_au_tribunal/magistrats/taches#:~:text=Les%20magistrats%20de%20parquet%20forment,restent%20assis%20pendant%20le%20proc%C3%A8s.
+ 
+https://www.tribunaux-rechtbanken.be/fr/personnes-dans-le-tribunal/greffe
+ 
+https://www.tribunaux-rechtbanken.be/fr/personnes-dans-le-tribunal/magistrature-debout
+ 
+https://www.tribunaux-rechtbanken.be/fr/personnes-dans-le-tribunal/magistrature-assise
+ 
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [ Pourquoi ?] On peut estimé le terme &quot;raciste&quot; comme étant lui-même raciste ! - Commentaires</title>
+  <description>Il m&#039;est arrivé, au détour d&#039;une conversation, de me rendre compte que le terme &quot;raciste&quot; est lui-même raciste par sa formation !
+ 
+Afin que nous soyons d&#039;accord avec cette affirmation de ma part, je tiens à utilisé une synthèse provenant de plusieurs exemple:
+ 
+Quand vous parlez de &quot;homophobie&quot;, vous insinuez/sous-entendez que les homosexuelles existent !
+ 
+Quand vous parlez de &quot;anti-héros&quot;, vous insinuez/sous-entendez que les héros existent !
+ 
+Quand vous parlez de &quot;-X&quot;, vous insinuez/sous-entendez que X existe !
+ 
+ 
+Maintenant que vous avez une synthèse de ma pensée, nous pouvons trouver une solution pour ne plus sous-entendre que les races entre les êtres humains existent !
+ 
+Quand on parle de &quot;raciste&quot;, on parle de personne ayant un rejet ou une agressivité envers des personnes d&#039;une couleur de peau différentes de la sienne ou une culture, une langue,...
+ 
+On peut donc divisé les personnes visées par deux nouveaux termes:
+- Chromiste: Personne croyant que sa couleur de peau est supérieur aux autres couleurs de peau.
+- Ethniste: Personne croyant que son ethnie est supérieur aux autres ethnies.
+ 
+Remarquer qu&#039;on garde la notion de &quot;supériorité&quot; et qu&#039;on distingue bien la couleur à l&#8217;ethnie !
+ 
+ 
+Le soucis est que &quot;chromiste&quot; est déjà un mot utilisé par la langue française pour le professionnel de la couleur, celui qui permet de raviver et de rendre les couleurs aux films, images, imprimés et pratiquer également les retouches photos.
+ 
+On ne peut pas non plus appeler ça un &quot;coloriste&quot; donc la recherche du terme pour &quot;une personne croyant que sa couleur de peau est supérieur aux autres couleurs de peau&quot; est toujours d&#039;actualité pour moi !
+ 
+Poursuivez la réflexion !
+ 
+KidpaddleetcieGlin </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

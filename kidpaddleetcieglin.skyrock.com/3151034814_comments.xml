@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> La Légende de Ben - Commentaires</title>
+  <description>Connaissez-vous la légende de Ben? Non?
+ 
+Bon,voici un petit résumé de cette légende urbaine chipé d&#039;un site parlant de cette légende :
+ 
+&quot; un jeune homme qui trouve une édition hantée de The Legend of Zelda : Majora&#8217;s Mask. Cela vaut le coup d&#8217;œil !
+
+
+Le jeune homme en question, que l&#8217;on appellera JC, est étudiant et a fait l&#8217;acquisition d&#8217;une 64 et de Super Smash Bros pour y jouer chez lui. Un jour, alors que les habitants proches du campus font des vides-greniers, JC trouve ça et là de vieux jeux vidéo et s&#8217;arrète devant l&#8217;étalage d&#8217;un vieux monsieur, aveugle d&#8217;un œil. Avec peine, JC demanda s&#8217;il disposait de vieux jeux, l&#8217;homme répondit qu&#8217;il ne savait pas et s&#8217;absenta. L&#8217;étudiant a alors jeté un œil sur les tableaux et dessins grossiers paressant étrangement familiers car évoquant l&#8217;univers Zelda. L&#8217;homme revint alors avec une cartouche grise avec marqué &quot;Majora&#8217;s Mask&quot; au feutre et l&#8217;offre au jeune homme avant de murmurer &quot;GoodBye then&quot;.
+
+Content de ses achats, JC rentre chez lui et met en route Majora&#8217;s Mask. Il y a déjà une sauvegarde dessus nommée BEN (proche de la fin), dès lors JC se demande s&#039;il n&#039;a pas entendu &quot;Goodbye Ben&quot;. Il commença une nouvelle sauvegarde et note des phénomènes bizarres comme des flashs ou des textures manquantes, mais rien de bloquant. Seulement, de plus en plus, au lieu d&#8217;être appelé &quot;Link&quot;, de plus en plus de personnages l&#8217;appellent &quot;BEN&quot;. Excédé, JC finira par supprimer la vieille sauvegarde, mais ne retrouvera même plus son propre nom dans les dialogues (et là cela devient glauque).
+
+Désirant tirer parti du bug du &quot;4ème Jour&quot;, JC se trouvera téléporté directement face à Skull Kid (???) avant de se faire brûler vif. De même, notre pauvre joueur se retrouvera bloqué dans Clock Town, les portes ne menant pas ailleurs, avec la même mélodie ne cessant de se répéter. JC tentera finalement de se téléporter avec l&#8217;ocarina. Et c&#8217;est là que commencera véritablement le calvaire du joueur, car non seulement des dialogues étranges apparaissent à l&#8217;écran, mais la sauvegarde de BEN est réapparue et celle de JC s&#8217;appelle désormais &quot;YourTurn&quot;. Et cerise sur le gâteau,  une statue flippante de Link suit la victime en jouant sur les angles de la caméra&#8230;
+
+JC a donc posté des captures vidéo montrant la chose en action. Seulement, depuis qu&#8217;il a fait partager cette découverte, il s&#8217;avérerait que Ben, l&#8217;ancien propriétaire, lui parle sur son ordinateur en passant par un programme d&#8217;AI,  le PC étant relié à la 64 pour les captures. Ben semble également jouer avec ces nerfs en plein jeu, car JC n&#8217;arrivera pas à le finir. D&#8217;autant plus que certains personnages dont Link seront victimes de mouvements désarticulés. Et toujours cette statue qui apparaît, même sur le PC du joueur (???).&quot;
+
+
+En outre,la cartouche parait hantée...LOL!
+
+
+Moi,en tant que blogueur et grand lecteur de truc aussi étrange (ça me passionne),j&#039;ai mené ma petite enquête!
+
+
+Je pense qu&#039;il est tout à fait possible de hacker un jeux-vidéos de cette âge la!
+
+
+La Nintendo 64 n&#039;est pas une console de génération si lointaine!
+
+
+Elle n&#039;a que 2 générations de différence par rapport à la WII!
+
+
+Il est donc probable que la &quot;rom&quot; a été bidouiller par un petit malin qui voulait montrer se qu&#039;il valait! :)
+
+
+
+
+Mais soupçons se sont confirmés en regardant les vidéos qui proviennent de la chaîne du mec à l&#039;origine de cette légende!
+
+
+
+Voici Maintenant les vidéos-captures qui prouvent que le jeux est hanté ^^
+
+ ATTENTION LES GENS QUI SONT ÉPILEPTIQUE OU QUI SONT ÂGÉE!   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Le mec,il joue avec les éléments du jeu! ^^
+
+
+Je trouve que c&#039;est flippant (la statue qui apparaît quand on joue le thème de Zelda à l&#039;envers)!
+
+
+
+C&#039;est peut-être le nouveau Slenderman ^^  </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

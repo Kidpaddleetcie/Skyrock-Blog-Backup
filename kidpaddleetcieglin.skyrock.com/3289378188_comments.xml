@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Aide Droit d&#039;auteur]Les sources du droit de tort! - Commentaires</title>
+  <description>La convention de Bern : But d&#8217;harmoniser les relations entre les auteurs.
+Il y a 3 principes :
+1.On a prévu des règles minimales de protection
+ 
+2.Principe du traitement national, quel que soit la nationalité, tout le monde a les mêmes droits
+ 
+3.Il n&#8217;y a pas de formalité supplémentaire en fonction de la nationalité
+ 
+Les accords ADPIC : But d&#8217;harmoniser les relations entre les auteurs et les commerçants.
+Il y a 4 principes :
+1.On a prévu des règles minimales de protection
+ 
+2.Principe du traitement national, quel que soit la nationalité, tout le monde a les mêmes droits
+ 
+3.Traitement de la nation la plus favorisé si un état donne des droits plus avantageux, on va l&#8217;appliquer à tout le monde
+ 
+4.S&#8217;il y a une contestation entre deux états sur l&#8217;interprétation d&#8217;une règle c&#8217;est l&#8217;OMC (Organisation Mondiale du Commerce) qui va trancher la contestation
+ 
+Les directives européennes (si le pays est européen)
+
+
+La loi de son pays</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

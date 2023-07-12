@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Événement] 1000 vidéos sur YouTube et une re-focalisation sur Dailymotion! - Commentaires</title>
+  <description>Ce samedi 21 novembre 2015 à 15:04 ,j&#039;ai atteint les 1000 vidéos sur la chaîne YouTube de Kidpaddleetcie!Donc ça m&#039;a pris 4 ans, 2 mois et 23 jours pour atteindre un tel nombre :D
+
+
+ 
+À cette occasion,j&#039;ai décidé de me focaliser un peu plus sur Dailymotion car je l&#039;ai délaissé un peu trop longtemps :/ 
+ Le style de vidéo que je prévois pour Dailymotion est plus libre que ce que je fais déjà sur YouTube car les restrictions sont moindres (tant que je n&#039;insulte pas les politiques français et que je ne poste pas de vidéos ultra-violente,tout va bien :D )!
+ 
+Il se peut que certaines vidéos ne soit pas marrantes ou douées d&#039;une morale,je sais que ça ne me ressemble pas de faire des projets qui ont une utilité mais c&#039;est parce que je ne me donnais pas les moyens aussi ^_^
+ 
+Par contre,vu de comment Dailymotion a évolué,je vais devoir faire en sorte que les vidéos soit d&#039;abord visible sur le blog pour ne pas vous déranger avec la publicité de masse qui se trouve autour de la vidéo et change la mise en page tout le temps!
+ 
+En gros,le blog Skyrock sera plus utilisé qu&#039;avant et permettra même de redevenir le centre du réseau Kidpaddleetcie!
+ 
+J&#039;entend déjà Yunko dire &quot;tu abandonnes YouTube,alors?&quot; mais détrompez-vous,je ne quitte pas YouTube,je serais juste un consommateur parmi tant d&#039;autres de vidéos marrantes!
+ 
+Il se peut que je fasse des jeux sur Dailymotion avec le système de mot de passe!Il va juste falloir que j&#039;apprenne à l&#039;utiliser mais ça ne devrait pas être compliqué!
+ 
+Pour l&#039;instant,je suis en mode &quot;étude pour les examens&quot; donc les vidéos sur Dailymotion ne seront pas tout de suite produites et postées!
+ 
+Merci de respecter mon choix de m&#039;éloigner de YouTube pendant un ou deux mois et j&#039;espère que je produirais quelque chose de constructif!
+ 
+ 
+Petite chose à ajouter: Connaissant la politique du copyright de YouTube,il se peut que certaine de mes vidéos soient supprimés et que la vidéo &quot;1000 vidéos!!!!!!&quot; ne soit plus la millième vidéo mais je m&#039;en fous car je sais que j&#039;aurais produit 1000 vidéos et vous aussi...en voila la preuve:
+
+ 
+Au moins,vous savez comment nous voyons notre gestionnaire de vidéo! ^_^
+ 
+ 
+Aller,je vais continuer à faire des synthèses et à les poster sur le blog,comme ça,j&#039;aurais la satisfaction d&#039;avoir travaillé pour moi et pour vous!
+ 
+Merci d&#039;avoir lu!
+
+
+
+</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

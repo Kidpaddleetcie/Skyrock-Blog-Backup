@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Chanson2Glin]Aliené - Commentaires</title>
+  <description>Je pense comme mon ennemi de banquier,
+Je pense toujours à compéter plutôt qu&#039;à coopérer,
+Impossible de me retirer de la tête cette pensée,
+Je suppose que je suis aliéné!
+ 
+On m&#039;appellera l&#039;alien parmis les aliènés,
+Si j&#039;ose dire aux malvoyants qui sont aveuglés,
+L&#039;esclavage n&#039;est jamais terminé,
+C&#039;est juste que des illusionnistes qui nous l&#039;ont fait accepté!
+ 
+Cela fera bien 10 ans qu&#039;on parle de salaire à vie,
+Convertir les cotisations en salaire,je ne vois pas le soucis,
+Comme d&#039;habitude c&#039;est la faute aux corrompus,
+Des hypocrites, des radicalisés, des extrémistes, des vendus,
+Diabolisé le communisme est pour la démocratie un refus!
+ 
+Mais un refus de quoi bordel,
+Bande de gens alimenter par la TV-Poubelle!
+Depuis quand il faut dabber pour être élu président?
+Depuis quand le peuple de France est aussi décevant?
+Un putain de pays à l&#039;origine de pleins de révolution,
+Entame sa funeste et tragique conclusion,
+Merci la malinformation, les illusions,
+Le phénomène de culpabilisation,
+La soumission,... l&#039;aliénation! 
+
+ 
+Demain, tu mettras ta cravate de pute pour servir ton patron,
+Pour une cotisation social auquel le dominant aura dit non,
+Tu auras beau te battre,le chantage au travail est trop fort,
+La violence psychologique de l&#039;esclavage mais en plus hardcore!
+ 
+ 
+Bien sur, une révolution pourrait tout changer,
+Le président n&#039;a aucun pouvoir,
+le problème c&#039;est le chef d&#039;entreprise prenant 20% du PIB,
+Tenant par la peau des couilles le président et l&#039;assemblée,
+Car au JT du soir, le PDG aura toujours le pouvoir de vous faire croire qu&#039;au pouvoir ce sont des connards!
+ 
+Glin Kidpaddleetcie, aliéné mais pas français! 2017!
+ </description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

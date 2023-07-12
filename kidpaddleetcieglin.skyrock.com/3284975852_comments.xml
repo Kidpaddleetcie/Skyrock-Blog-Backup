@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://kidpaddleetcieglin.skyrock.com/">
+  <title> [Pourquoi?]Les blogs peuvent redevenir à la mode! - Commentaires</title>
+  <description>Depuis quelque mois, je me rends compte que ce blog est très visité.
+
+ 
+
+En même pas deux mois, je bats mon record de visite et je pense savoir pourquoi j&#039;arrive à faire autant de pics d&#039;audience!
+ 
+Comme vous le voyez au quotidien, nous utilisons des systèmes tactiles rendant le surf sur les sites internet plus facile quand le site en question utilise un contenu disponible grâce à du scrolling.
+ 
+Donc comme un blog est souvent constitués de article qui se succède dans un scrolling verticale (de maximum 10 articles par page sur Skyrock.com), nous en revenons à une ergonomie favorisant la visite.
+ 
+N&#039;oubliez pas que c&#039;est vers 2009 que les blogs ont été fait passé pour morts aux yeux des internautes et que c&#039;est vers 2012 que les smartphones ont commencé à se démocratiser.
+ 
+Voila, ce n&#039;est bien sur qu&#039;une idée, une théorie mais elle me semble valable pour l&#039;instant, à vous de critiquer dans les commentaires (pas besoin de créer un compte pour commenter)!</description>
+  <link>https://kidpaddleetcieglin.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>KidpaddleetcieGlin</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-15T01:03:13+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-15T01:03:13+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>
